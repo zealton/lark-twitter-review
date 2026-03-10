@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T06:39:53.420503+00:00",
+  "generatedAt": "2026-03-10T06:43:01.111540+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4166,8 +4166,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T06:39:53.363597+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T06:43:01.007768+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T06:39:53.363597+00:00",
     "stages": {
@@ -4212,7 +4212,7 @@
         "details": {
           "error": "reply operation manually stopped for rule update"
         },
-        "nextRunAt": "2026-03-10T06:40:00+00:00",
+        "nextRunAt": "2026-03-10T06:50:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4233,37 +4233,19 @@
             "count": 1
           }
         },
-        "nextRunAt": "2026-03-10T06:40:00+00:00",
+        "nextRunAt": "2026-03-10T06:45:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T06:39:53.363597+00:00",
+        "lastRunAt": "2026-03-10T06:43:01.007768+00:00",
         "lastSuccessAt": "2026-03-10T06:39:53.363597+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T06:39:50.002935+00:00",
-            "replyCandidates": 4,
-            "sourceCandidates": 6
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T06:39:50.029472+00:00",
-            "sourceEntries": 15,
-            "sourceSuggestions": 6,
-            "replyEntries": 22,
-            "replySuggestions": 5
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T06:39:50.084883+00:00",
-              "pending": 6
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T06:40:00+00:00",
+        "nextRunAt": "2026-03-10T06:44:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -4866,6 +4848,7 @@
         "handle": "@ylonaaah",
         "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
         "goalFit": "Helps the system build a better set of recurring personal accounts instead of repeatedly relying on the same obvious names.",
+        "actionMeaning": "Approve to add this handle into the preferred local reply pool for future discovery.",
         "evidence": {
           "replyCount": 1,
           "replyCountLast7Days": 1,
@@ -4882,9 +4865,13 @@
         "handle": "@LunarBaseX",
         "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
         "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
         "evidence": {
           "linkedFrom": [
             "@0xhu7i"
+          ],
+          "linkedThreads": [
+            "https://x.com/0xhu7i/status/2026290154084635097"
           ],
           "reasons": [
             "Mentioned inside a thread that already produced a usable reply opportunity.",
@@ -4895,26 +4882,6 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-lunarbasex&body=reject+suggestion+explore-reply-lunarbasex&labels=twitter-learning%2Creject"
       },
       {
-        "id": "explore-reply-standx_official",
-        "type": "explore_reply_target",
-        "status": "pending",
-        "confidence": 8,
-        "handle": "@StandX_Official",
-        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
-        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
-        "evidence": {
-          "linkedFrom": [
-            "@0xBclub"
-          ],
-          "reasons": [
-            "Mentioned inside a thread that already produced a usable reply opportunity.",
-            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-standx_official&body=approve+suggestion+explore-reply-standx_official&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-standx_official&body=reject+suggestion+explore-reply-standx_official&labels=twitter-learning%2Creject"
-      },
-      {
         "id": "explore-reply-base",
         "type": "explore_reply_target",
         "status": "pending",
@@ -4922,9 +4889,13 @@
         "handle": "@base",
         "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
         "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
         "evidence": {
           "linkedFrom": [
             "@0xhu7i"
+          ],
+          "linkedThreads": [
+            "https://x.com/0xhu7i/status/2026290154084635097"
           ],
           "reasons": [
             "Mentioned inside a thread that already produced a usable reply opportunity.",
@@ -4942,9 +4913,13 @@
         "handle": "@preballin",
         "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
         "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
         "evidence": {
           "linkedFrom": [
             "@Monad_APAC"
+          ],
+          "linkedThreads": [
+            "https://x.com/Monad_APAC/status/2021189797910352342"
           ],
           "reasons": [
             "Mentioned inside a thread that already produced a usable reply opportunity.",

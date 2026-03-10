@@ -812,6 +812,7 @@
               </div>
             </header>
             ${(item.evidence?.linkedFrom || []).length ? `<div class="meta">Discovered from: ${(item.evidence.linkedFrom || []).map((v) => escapeHtml(v)).join(" · ")}</div>` : ""}
+            ${(item.evidence?.linkedThreads || []).length ? `<div class="meta">Thread evidence: ${(item.evidence.linkedThreads || []).slice(0,2).map((v) => `<a class="link" href="${v}" target="_blank" rel="noreferrer">${escapeHtml(v)}</a>`).join(" · ")}</div>` : ""}
             <div class="rationale-box">
               <div class="rationale-label">Why Suggested</div>
               <div class="rationale-text">${escapeHtml(item.whySuggested || "")}</div>
@@ -820,6 +821,11 @@
               <div class="rationale-label">Goal Fit</div>
               <div class="rationale-text">${escapeHtml(item.goalFit || "")}</div>
             </div>
+            ${item.actionMeaning ? `
+              <div class="rationale-box">
+                <div class="rationale-label">What Yes Means</div>
+                <div class="rationale-text">${escapeHtml(item.actionMeaning)}</div>
+              </div>` : ""}
             ${(item.evidence?.reasons || []).length ? `
               <div class="rationale-box">
                 <div class="rationale-label">Evidence</div>
