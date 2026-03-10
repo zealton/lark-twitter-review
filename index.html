@@ -45,6 +45,15 @@
         0%, 100% { box-shadow: 0 0 0 0 rgba(36,107,255,.0); }
         50% { box-shadow: 0 0 0 8px rgba(36,107,255,.08); }
       }
+      @keyframes streamMove {
+        0% { transform: translateX(-18%); }
+        100% { transform: translateX(28%); }
+      }
+      @keyframes nodeDrift {
+        0% { transform: translateX(0) translateY(0); opacity: .55; }
+        50% { transform: translateX(26px) translateY(-6px); opacity: 1; }
+        100% { transform: translateX(52px) translateY(0); opacity: .55; }
+      }
       body {
         margin: 0;
         font-family: "Instrument Sans", "Helvetica Neue", sans-serif;
@@ -145,6 +154,62 @@
       }
       .hero-card p, .meta, .muted {
         color: var(--muted);
+      }
+      .hero-stream {
+        position: relative;
+        height: 72px;
+        margin: 18px 0 6px;
+        overflow: hidden;
+        border-radius: 18px;
+        border: 1px solid var(--line);
+        background:
+          linear-gradient(180deg, rgba(255,255,255,.85), rgba(248,250,255,.8)),
+          radial-gradient(circle at 12% 50%, rgba(36,107,255,.10), transparent 28%),
+          radial-gradient(circle at 84% 50%, rgba(16,185,129,.08), transparent 24%);
+      }
+      .hero-stream::before,
+      .hero-stream::after {
+        content: "";
+        position: absolute;
+        left: -15%;
+        right: -15%;
+        height: 2px;
+        border-radius: 999px;
+        background: linear-gradient(90deg, transparent, rgba(36,107,255,.9), rgba(16,185,129,.85), transparent);
+        opacity: .9;
+        animation: streamMove 7s linear infinite;
+      }
+      .hero-stream::before { top: 24px; }
+      .hero-stream::after {
+        top: 46px;
+        animation-duration: 9s;
+        animation-delay: -3s;
+      }
+      .stream-node {
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        border-radius: 999px;
+        background: var(--accent);
+        box-shadow: 0 0 0 6px rgba(36,107,255,.08);
+        animation: nodeDrift 5.5s ease-in-out infinite;
+      }
+      .stream-node.alt {
+        top: 40px;
+        background: var(--accent-2);
+        box-shadow: 0 0 0 6px rgba(16,185,129,.08);
+        animation-duration: 6.4s;
+        animation-delay: -1.8s;
+      }
+      .stream-caption {
+        position: absolute;
+        right: 14px;
+        top: 12px;
+        font-size: 11px;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        color: var(--muted);
+        font-weight: 700;
       }
       .metrics {
         display: grid;
@@ -477,6 +542,13 @@
             posts and replies. Approval actions open prefilled GitHub issues so
             the Mac executor can sync and execute later.
           </p>
+          <div class="hero-stream" aria-hidden="true">
+            <div class="stream-caption">Signals in motion</div>
+            <div class="stream-node" style="left: 14%; top: 19px;"></div>
+            <div class="stream-node alt" style="left: 28%;"></div>
+            <div class="stream-node" style="left: 54%; top: 19px; animation-delay: -2.2s;"></div>
+            <div class="stream-node alt" style="left: 68%; animation-delay: -3.7s;"></div>
+          </div>
           <p class="meta" id="generated-at"></p>
           <div class="heartbeat-grid">
             <div class="heartbeat-box">
