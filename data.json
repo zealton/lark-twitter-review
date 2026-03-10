@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T03:59:47.167568+00:00",
+  "generatedAt": "2026-03-10T04:12:54.792131+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -751,8 +751,8 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T03:59:47.112207+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T04:12:54.735686+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T03:59:47.112207+00:00",
     "stages": {
@@ -776,7 +776,10 @@
             "count": 2,
             "rejected": 1
           }
-        }
+        },
+        "nextRunAt": "2026-03-10T04:00:34.012000+00:00",
+        "jobId": "lark-twitter-research",
+        "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
         "lastRunAt": "2026-03-10T03:57:12.366809+00:00",
@@ -913,7 +916,10 @@
             "count": 3,
             "dryRun": false
           }
-        }
+        },
+        "nextRunAt": "2026-03-10T04:00:00+00:00",
+        "jobId": "lark-twitter-dispatch",
+        "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
         "lastRunAt": "2026-03-10T03:52:09.817119+00:00",
@@ -925,22 +931,22 @@
             "applied": [],
             "count": 0
           }
-        }
+        },
+        "nextRunAt": "2026-03-10T03:55:00+00:00",
+        "jobId": "lark-twitter-review-sync",
+        "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T03:59:47.112207+00:00",
+        "lastRunAt": "2026-03-10T04:12:54.735686+00:00",
         "lastSuccessAt": "2026-03-10T03:59:47.112207+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T03:59:43.702534+00:00",
-              "pending": 2
-            }
-          }
-        }
+          "repo": "zealton/lark-twitter-review"
+        },
+        "nextRunAt": "2026-03-10T03:55:00+00:00",
+        "jobId": "lark-twitter-dashboard-publish",
+        "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },

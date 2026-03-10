@@ -520,9 +520,11 @@
         const blocks = Object.entries(stages).map(([stage, state]) => `
           <div class="heartbeat-stage">
             <strong>${escapeHtml(stage)}</strong>
+            ${state.jobName ? `<div class="meta">Job: ${escapeHtml(state.jobName)}</div>` : ""}
             <div class="meta">Status: <span class="status-${escapeHtml(state.status || "unknown")}">${escapeHtml(state.status || "unknown")}</span></div>
             <div class="meta">Last run: ${escapeHtml(formatTimestamp(state.lastRunAt || "")) || "n/a"}</div>
             <div class="meta">Last success: ${escapeHtml(formatTimestamp(state.lastSuccessAt || "")) || "n/a"}</div>
+            <div class="meta">Next run: ${escapeHtml(formatTimestamp(state.nextRunAt || "")) || "n/a"}</div>
             ${state.lastError ? `<div class="meta">Last error: ${escapeHtml(state.lastError)}</div>` : ""}
           </div>
         `).join("");
