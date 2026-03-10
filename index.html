@@ -335,10 +335,6 @@
           <div class="grid tab-panel active" id="tab-posts">
             <div class="stack">
               <div class="panel">
-                <h2>Post Source Editor</h2>
-                <div id="post-source-editor"></div>
-              </div>
-              <div class="panel">
                 <h2>Pending Post Approval</h2>
                 <div id="pending-list"></div>
               </div>
@@ -347,6 +343,12 @@
                 <details class="fold" id="posts-fold">
                   <summary>Show approved and sent posts</summary>
                   <div id="post-history"></div>
+                </details>
+              </div>
+              <div class="panel">
+                <details class="fold">
+                  <summary>Manage Post Sources</summary>
+                  <div class="spacer" id="post-source-editor"></div>
                 </details>
               </div>
             </div>
@@ -364,16 +366,18 @@
           <div class="grid tab-panel" id="tab-replies">
             <div class="stack">
               <div class="panel">
-                <h2>Reply Source Editor</h2>
-                <div id="reply-source-editor"></div>
-              </div>
-              <div class="panel">
                 <h2>Pending Replies</h2>
                 <div id="pending-reply-list"></div>
               </div>
               <div class="panel">
                 <h2>Reply Activity</h2>
                 <div id="reply-list"></div>
+              </div>
+              <div class="panel">
+                <details class="fold">
+                  <summary>Manage Reply Sources</summary>
+                  <div class="spacer" id="reply-source-editor"></div>
+                </details>
               </div>
             </div>
             <div class="stack">
