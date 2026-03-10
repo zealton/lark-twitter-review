@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T03:59:43.702534+00:00",
+  "generatedAt": "2026-03-10T03:59:47.167568+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -751,10 +751,10 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T03:59:43.648874+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-10T03:59:47.112207+00:00",
+    "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T03:57:12.366809+00:00",
+    "lastSuccessAt": "2026-03-10T03:59:47.112207+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T03:57:08.142533+00:00",
@@ -928,12 +928,18 @@
         }
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T03:59:43.648874+00:00",
-        "lastSuccessAt": "2026-03-10T03:54:27.130377+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T03:59:47.112207+00:00",
+        "lastSuccessAt": "2026-03-10T03:59:47.112207+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T03:59:43.702534+00:00",
+              "pending": 2
+            }
+          }
         }
       }
     }
