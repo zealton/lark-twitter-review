@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T03:50:01.770686+00:00",
+  "generatedAt": "2026-03-10T03:52:46.262762+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -660,38 +660,18 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T03:48:38.938467+00:00",
-    "overallStatus": "ok",
-    "lastStage": "dispatch",
-    "lastSuccessAt": "2026-03-10T03:48:38.938467+00:00",
+    "updatedAt": "2026-03-10T03:52:46.208909+00:00",
+    "overallStatus": "running",
+    "lastStage": "dashboard_publish",
+    "lastSuccessAt": "2026-03-10T03:52:09.817119+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T03:47:58.680448+00:00",
+        "lastRunAt": "2026-03-10T03:52:08.929454+00:00",
         "lastSuccessAt": "2026-03-10T03:47:58.680448+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "refresh": {
-            "updatedAt": "2026-03-10T03:46:43.469710+00:00",
-            "sources": 23,
-            "items": 88
-          },
-          "queue": {
-            "updatedAt": "2026-03-10T03:47:21.035757+00:00",
-            "researchCandidates": 12
-          },
-          "generate": {
-            "updatedAt": "2026-03-10T03:47:55.598897+00:00",
-            "count": 0,
-            "rejected": 3
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T03:47:55.691806+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         }
       },
       "dispatch": {
@@ -854,22 +834,24 @@
         }
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T03:46:47.456407+00:00",
-        "lastSuccessAt": "2026-03-10T03:46:47.456407+00:00",
+        "lastRunAt": "2026-03-10T03:52:09.817119+00:00",
+        "lastSuccessAt": "2026-03-10T03:52:09.817119+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "sync": {
             "applied": [],
             "count": 0
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T03:46:44.482108+00:00",
-              "pending": 0
-            }
           }
+        }
+      },
+      "dashboard_publish": {
+        "lastRunAt": "2026-03-10T03:52:46.208909+00:00",
+        "lastSuccessAt": "",
+        "status": "running",
+        "lastError": "",
+        "details": {
+          "repo": "zealton/lark-twitter-review"
         }
       }
     }
