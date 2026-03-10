@@ -94,13 +94,13 @@
       }
       .hero-stream {
         position: relative;
-        height: 88px;
+        min-height: 132px;
         margin: 18px 0 6px;
-        overflow: hidden;
         border-radius: 18px;
         border: 1px solid var(--line);
         background: linear-gradient(180deg, rgba(255,255,255,.98), rgba(248,250,255,.94));
         box-shadow: inset 0 0 0 1px rgba(255,255,255,.6);
+        padding: 14px 16px 16px;
       }
       .hero-stream::after {
         content: "";
@@ -113,20 +113,17 @@
         opacity: .35;
       }
       .stream-caption {
-        position: absolute;
-        left: 16px;
-        top: 14px;
+        position: relative;
         font-size: 11px;
         letter-spacing: .08em;
         text-transform: uppercase;
         color: var(--muted);
         font-weight: 700;
+        margin-bottom: 12px;
+        z-index: 1;
       }
       .stream-stats {
-        position: absolute;
-        left: 16px;
-        right: 16px;
-        bottom: 14px;
+        position: relative;
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
         gap: 10px;
@@ -153,6 +150,7 @@
         font-size: 13px;
         font-weight: 600;
         color: var(--ink);
+        line-height: 1.35;
       }
       .metrics {
         display: grid;
@@ -466,6 +464,7 @@
       @media (max-width: 1100px) {
         .hero, .grid { grid-template-columns: 1fr; }
         .subgrid { grid-template-columns: 1fr; }
+        .stream-stats { grid-template-columns: 1fr; }
       }
     </style>
   </head>
