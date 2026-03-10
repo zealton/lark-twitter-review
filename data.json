@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T09:09:31.285746+00:00",
+  "generatedAt": "2026-03-10T09:13:09.829118+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -402,52 +402,7 @@
       "replyRationale": "Replying to @ChogNFT because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
   ],
-  "pendingReplies": [
-    {
-      "id": "R37",
-      "status": "processing",
-      "statusDisplay": "sending",
-      "text": "honestly they probably just realize AI agents will eventually drive way more on-chain volume than humans do 🦞",
-      "timestamp": "2026-03-10T09:02:04.742356+00:00",
-      "targetContent": "There’s been a lot of talk about AI lately from people like CZ and Brian Armstrong.\n\nMakes you wonder\n\nDo they know something the rest of us don’t?\n\nNow look at the recent AI launches. Some of them are actually holding up well.\n\n• OpenMind - around $500M FDV\n• Kite AI - holding",
-      "originalLink": "https://x.com/wyckoffweb/status/2031287081519964302",
-      "targetAccount": "@wyckoffweb",
-      "replyRationale": "Replying to @wyckoffweb because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R34",
-      "status": "processing",
-      "statusDisplay": "sending",
-      "text": "Hard to argue with the execution speed, but the real test is whether that culture can scale past current bottlenecks 🦞",
-      "timestamp": "2026-03-10T08:02:49.860246+00:00",
-      "targetContent": ".\n@nick_pennie\n on why solana's engineering culture makes it the place to build",
-      "originalLink": "https://x.com/solana/status/2031273169479491625",
-      "targetAccount": "@solana",
-      "replyRationale": "Replying to @solana because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R29",
-      "status": "processing",
-      "statusDisplay": "sending",
-      "text": "Using RL for real-time tactical sailing is a solid proof of concept for the kind of low-latency execution we’ll soon expect from Monad 🦞",
-      "timestamp": "2026-03-10T07:58:42.613778+00:00",
-      "targetContent": "Sailing with AI?\n\nOur final film in this series explores how Emirates Team New Zealand didn’t just train their sailors to defend their America’s Cup title — they built a reinforcement-learning agent capable of sailing a yacht inside a simulator.",
-      "originalLink": "https://x.com/McKinsey/status/2030994684315627614",
-      "targetAccount": "@McKinsey",
-      "replyRationale": "Replying to @McKinsey because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R32",
-      "status": "processing",
-      "statusDisplay": "sending",
-      "text": "If they can bridge that level of engagement over to Monad, the throughput is actually going to be necessary for once 🦞",
-      "timestamp": "2026-03-10T07:58:42.613778+00:00",
-      "targetContent": "Orangie's thoughts on Pudgy World so far\n\n\"I've been on it for 2 hours and the 2 hours have flown by\"",
-      "originalLink": "https://x.com/Breezeonhodl/status/2031113716037501254",
-      "targetAccount": "@Breezeonhodl",
-      "replyRationale": "Replying to @Breezeonhodl because it came from the member-list rotation and the tweet showed good discussion surface (compact, personal_view, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    }
-  ],
+  "pendingReplies": [],
   "archive": [
     {
       "id": "P18",
@@ -4666,8 +4621,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T09:08:44.631128+00:00",
-    "overallStatus": "degraded",
+    "updatedAt": "2026-03-10T09:13:09.720736+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T09:07:27.147244+00:00",
     "stages": {
@@ -4921,7 +4876,7 @@
           },
           "outcome": "replys_enqueued"
         },
-        "nextRunAt": "2026-03-10T09:10:00+00:00",
+        "nextRunAt": "2026-03-10T09:20:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4936,19 +4891,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T09:10:00+00:00",
+        "nextRunAt": "2026-03-10T09:15:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T09:08:44.631128+00:00",
+        "lastRunAt": "2026-03-10T09:13:09.720736+00:00",
         "lastSuccessAt": "2026-03-10T09:07:27.147244+00:00",
-        "status": "failed",
+        "status": "running",
         "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1.",
         "details": {
-          "error": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1."
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T09:10:00+00:00",
+        "nextRunAt": "2026-03-10T09:14:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
