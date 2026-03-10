@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T22:27:55.063051+00:00",
+  "generatedAt": "2026-03-10T22:30:15.040866+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4621,10 +4621,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T22:27:54.974009+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T22:30:14.934544+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T22:27:54.974009+00:00",
+    "lastSuccessAt": "2026-03-10T22:30:14.905489+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T20:50:36.581066+00:00",
@@ -4663,8 +4663,8 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T22:19:16.809292+00:00",
-        "lastSuccessAt": "2026-03-10T22:19:16.809292+00:00",
+        "lastRunAt": "2026-03-10T22:30:14.905489+00:00",
+        "lastSuccessAt": "2026-03-10T22:30:14.905489+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -4677,35 +4677,35 @@
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@thisisfin_",
+                "account": "@beulrunyang",
                 "path": "member_list",
                 "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/thisisfin_\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
+                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/beulrunyang\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
               },
               {
                 "scope": "discover",
-                "account": "@pipeline_xyz",
+                "account": "@bhdigitalassets",
                 "path": "member_list",
                 "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/pipeline_xyz\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
+                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/bhdigitalassets\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
               },
               {
                 "scope": "discover",
-                "account": "@4UAIcrypto",
+                "account": "@breathofestova",
                 "path": "member_list",
                 "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/4UAIcrypto\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
+                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/breathofestova\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
               },
               {
                 "scope": "discover",
-                "account": "@atomicform",
+                "account": "@chase",
                 "path": "member_list",
                 "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/atomicform\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
+                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/chase\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
               },
               {
                 "scope": "discover",
-                "account": "@attio",
+                "account": "@clawnad9",
                 "path": "member_list",
                 "status": "failed",
                 "reason": "reply discovery exceeded 45s wall clock budget"
@@ -4714,7 +4714,7 @@
                 "scope": "discover",
                 "status": "stopped",
                 "reason": "discovery_time_budget_reached",
-                "elapsedSeconds": 45.1
+                "elapsedSeconds": 45.2
               }
             ]
           },
@@ -4895,7 +4895,7 @@
           },
           "outcome": "idle"
         },
-        "nextRunAt": "2026-03-10T22:29:16.809292+00:00",
+        "nextRunAt": "2026-03-10T22:40:14.905489+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4915,40 +4915,22 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T22:27:54.974009+00:00",
+        "lastRunAt": "2026-03-10T22:30:14.934544+00:00",
         "lastSuccessAt": "2026-03-10T22:27:54.974009+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T22:27:51.331605+00:00",
-            "replyCandidates": 7,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T22:27:51.358194+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 30,
-            "replySuggestions": 9
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T22:27:51.412803+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T22:29:54.974009+00:00",
+        "nextRunAt": "2026-03-10T22:32:14.934544+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },
   "dispatchSummary": {
-    "lastRunAt": "2026-03-10T22:19:16.809292+00:00",
-    "lastSuccessAt": "2026-03-10T22:19:16.809292+00:00",
+    "lastRunAt": "2026-03-10T22:30:14.905489+00:00",
+    "lastSuccessAt": "2026-03-10T22:30:14.905489+00:00",
     "status": "ok",
     "outcome": "idle",
     "lastError": "",
