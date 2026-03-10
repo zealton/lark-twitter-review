@@ -4,58 +4,83 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Lark Twitter Review</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
     <style>
       :root {
-        --bg: #f3efe6;
-        --panel: rgba(255, 252, 248, 0.94);
-        --ink: #1f1c1a;
-        --muted: #6f665d;
-        --line: rgba(31, 28, 26, 0.12);
-        --accent: #bf4f2f;
-        --accent-2: #1d5d73;
-        --good: #236f44;
-        --bad: #a43f2b;
-        --warn: #9b6b11;
+        --bg: #f6f7fb;
+        --bg-soft: #ffffff;
+        --panel: rgba(255, 255, 255, 0.92);
+        --panel-2: #f9fafc;
+        --ink: #111827;
+        --muted: #667085;
+        --line: rgba(17, 24, 39, 0.08);
+        --line-strong: rgba(17, 24, 39, 0.14);
+        --accent: #246bff;
+        --accent-2: #10b981;
+        --good: #11875d;
+        --bad: #d14343;
+        --warn: #b66a10;
+        --shadow: 0 18px 48px rgba(17, 24, 39, 0.06);
+        --shadow-soft: 0 8px 24px rgba(17, 24, 39, 0.04);
       }
 
       * { box-sizing: border-box; }
       body {
         margin: 0;
-        font-family: Georgia, "Times New Roman", serif;
+        font-family: "Instrument Sans", "Helvetica Neue", sans-serif;
         color: var(--ink);
         background:
-          radial-gradient(circle at top left, rgba(191,79,47,.14), transparent 24%),
-          radial-gradient(circle at top right, rgba(29,93,115,.12), transparent 22%),
-          linear-gradient(180deg, #f8f3eb 0%, #efe7d8 100%);
+          radial-gradient(circle at top left, rgba(36,107,255,.12), transparent 26%),
+          radial-gradient(circle at 85% 0%, rgba(16,185,129,.10), transparent 24%),
+          linear-gradient(180deg, #fbfcfe 0%, #f3f5fb 100%);
       }
       .shell {
-        max-width: 1380px;
+        max-width: 1440px;
         margin: 0 auto;
-        padding: 32px 20px 48px;
+        padding: 24px 18px 40px;
       }
       .hero, .grid {
         display: grid;
-        gap: 18px;
+        gap: 14px;
       }
       .hero {
-        grid-template-columns: 1.2fr 0.8fr;
-        margin-bottom: 18px;
+        grid-template-columns: 1.4fr 0.9fr;
+        margin-bottom: 14px;
       }
       .grid {
-        grid-template-columns: 1.08fr 0.92fr;
+        grid-template-columns: 1.12fr 0.88fr;
       }
       .panel, .hero-card {
         background: var(--panel);
         border: 1px solid var(--line);
-        border-radius: 24px;
-        padding: 22px;
-        box-shadow: 0 18px 38px rgba(32, 24, 18, 0.08);
+        border-radius: 22px;
+        padding: 18px;
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(10px);
       }
       .hero-card h1 {
-        margin: 0 0 10px;
-        font-size: clamp(34px, 4vw, 58px);
-        line-height: .95;
+        margin: 0 0 12px;
+        font-family: "Space Grotesk", "Instrument Sans", sans-serif;
+        font-size: clamp(34px, 4vw, 64px);
+        line-height: .92;
         letter-spacing: -.04em;
+      }
+      .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 7px 11px;
+        border-radius: 999px;
+        background: rgba(36,107,255,.08);
+        border: 1px solid rgba(36,107,255,.14);
+        color: var(--accent);
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        margin-bottom: 14px;
       }
       .hero-card p, .meta, .muted {
         color: var(--muted);
@@ -63,129 +88,146 @@
       .metrics {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 14px;
+        gap: 12px;
       }
       .metric {
-        background: rgba(255,255,255,.58);
+        background: linear-gradient(180deg, rgba(255,255,255,.96), rgba(249,250,252,.92));
         border: 1px solid var(--line);
-        border-radius: 20px;
-        padding: 18px;
+        border-radius: 18px;
+        padding: 16px;
+        box-shadow: var(--shadow-soft);
       }
       .metric .label {
-        font-size: 12px;
+        font-size: 11px;
         letter-spacing: .08em;
         text-transform: uppercase;
         color: var(--muted);
+        font-weight: 700;
       }
       .metric .value {
-        margin-top: 8px;
-        font-size: 34px;
+        margin-top: 10px;
+        font-size: 38px;
         font-weight: 700;
+        font-family: "Space Grotesk", "Instrument Sans", sans-serif;
       }
       .heartbeat-grid {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 14px;
+        gap: 12px;
         margin-top: 14px;
       }
       .heartbeat-box {
-        background: rgba(255,255,255,.58);
+        background: linear-gradient(180deg, rgba(255,255,255,.96), rgba(249,250,252,.92));
         border: 1px solid var(--line);
         border-radius: 18px;
-        padding: 16px;
+        padding: 15px 16px;
+        box-shadow: var(--shadow-soft);
       }
       .heartbeat-stage {
         border-top: 1px solid var(--line);
-        padding: 12px 0;
+        padding: 10px 0;
       }
       .heartbeat-stage:first-child { border-top: 0; padding-top: 0; }
       .status-ok { color: var(--good); }
       .status-running { color: var(--accent-2); }
       .status-degraded, .status-failed { color: var(--bad); }
       .panel h2 {
-        margin: 0 0 12px;
-        font-size: 20px;
+        margin: 0 0 10px;
+        font-family: "Space Grotesk", "Instrument Sans", sans-serif;
+        font-size: 19px;
+        letter-spacing: -.02em;
       }
       .heartbeat-panel {
-        margin-bottom: 18px;
+        margin-bottom: 14px;
       }
       .heartbeat-panel .muted {
-        margin-bottom: 10px;
+        margin-bottom: 8px;
+        max-width: 780px;
       }
       .heartbeat-summary {
         display: flex;
         flex-wrap: wrap;
-        gap: 10px;
-        margin-bottom: 10px;
+        gap: 8px;
+        margin-bottom: 8px;
       }
       .heartbeat-chip {
         display: inline-flex;
         align-items: center;
         gap: 8px;
-        padding: 8px 12px;
+        padding: 7px 11px;
         border-radius: 999px;
-        background: rgba(255,255,255,.72);
+        background: #fff;
         border: 1px solid var(--line);
-        font-size: 13px;
+        font-size: 12px;
+        box-shadow: var(--shadow-soft);
       }
       .heartbeat-chip strong {
-        font-size: 12px;
+        font-size: 11px;
         letter-spacing: .06em;
         text-transform: uppercase;
       }
       .tabs {
         display: flex;
-        gap: 10px;
-        margin-bottom: 18px;
+        gap: 8px;
+        margin-bottom: 14px;
         flex-wrap: wrap;
+        padding: 6px;
+        background: rgba(17,24,39,.03);
+        border: 1px solid var(--line);
+        border-radius: 18px;
       }
       .tab {
         appearance: none;
-        border: 1px solid var(--line);
-        background: rgba(255,255,255,.7);
+        border: 1px solid transparent;
+        background: transparent;
         color: var(--ink);
         border-radius: 999px;
-        padding: 10px 16px;
+        padding: 10px 14px;
         font: inherit;
+        font-size: 13px;
+        font-weight: 600;
         cursor: pointer;
       }
       .tab.active {
-        background: var(--ink);
+        background: #fff;
         color: #fff;
-        border-color: var(--ink);
+        color: var(--ink);
+        border-color: var(--line-strong);
+        box-shadow: var(--shadow-soft);
       }
       .tab-panel { display: none; }
       .tab-panel.active { display: grid; }
       .stack {
         display: grid;
-        gap: 18px;
+        gap: 14px;
       }
       .card {
-        background: rgba(255,255,255,.7);
+        background: linear-gradient(180deg, #ffffff, #fafbfe);
         border: 1px solid var(--line);
-        border-radius: 20px;
-        padding: 18px;
-        margin-bottom: 14px;
+        border-radius: 18px;
+        padding: 16px;
+        margin-bottom: 12px;
+        box-shadow: var(--shadow-soft);
       }
       .rationale-box {
-        margin-top: 12px;
-        padding: 14px 16px;
-        border-radius: 16px;
-        border: 1px solid rgba(29, 93, 115, 0.18);
-        background: linear-gradient(180deg, rgba(29,93,115,.08), rgba(255,255,255,.78));
+        margin-top: 10px;
+        padding: 12px 14px;
+        border-radius: 14px;
+        border: 1px solid rgba(36,107,255,.12);
+        background: linear-gradient(180deg, rgba(36,107,255,.05), rgba(255,255,255,.96));
       }
       .score-pill {
         display: inline-flex;
         align-items: center;
         gap: 6px;
-        padding: 7px 12px;
+        padding: 6px 10px;
         border-radius: 999px;
-        font-size: 12px;
+        font-size: 11px;
         font-weight: 700;
         letter-spacing: .04em;
-        background: rgba(191,79,47,.12);
+        background: rgba(36,107,255,.08);
         color: var(--accent);
-        border: 1px solid rgba(191,79,47,.18);
+        border: 1px solid rgba(36,107,255,.14);
       }
       .rationale-box + .rationale-box {
         margin-top: 10px;
@@ -194,40 +236,46 @@
         font-size: 11px;
         letter-spacing: .1em;
         text-transform: uppercase;
-        color: var(--accent-2);
+        color: var(--accent);
         margin-bottom: 6px;
         font-weight: 700;
       }
       .rationale-text {
-        line-height: 1.55;
-        font-size: 14px;
+        line-height: 1.45;
+        font-size: 13px;
       }
       .card:last-child { margin-bottom: 0; }
       .card header {
         display: flex;
         justify-content: space-between;
         gap: 12px;
-        margin-bottom: 12px;
+        margin-bottom: 10px;
       }
-      .card h3 { margin: 0; font-size: 18px; }
+      .card h3 {
+        margin: 0;
+        font-size: 16px;
+        font-family: "Space Grotesk", "Instrument Sans", sans-serif;
+        letter-spacing: -.02em;
+      }
       .tweet {
         white-space: pre-wrap;
-        line-height: 1.55;
-        margin-bottom: 12px;
+        line-height: 1.5;
+        margin-bottom: 10px;
+        font-size: 14px;
       }
       .actions {
         display: flex;
-        gap: 8px;
+        gap: 6px;
         flex-wrap: wrap;
-        margin-top: 14px;
+        margin-top: 12px;
       }
       textarea.editor {
         width: 100%;
-        min-height: 320px;
-        margin-top: 14px;
-        border-radius: 16px;
+        min-height: 280px;
+        margin-top: 12px;
+        border-radius: 14px;
         border: 1px solid var(--line);
-        background: rgba(255,255,255,.78);
+        background: #fff;
         padding: 14px;
         font: 13px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace;
         color: var(--ink);
@@ -236,49 +284,85 @@
         display: inline-flex;
         align-items: center;
         border-radius: 999px;
-        padding: 9px 14px;
+        padding: 8px 12px;
         text-decoration: none;
-        font-size: 13px;
+        font-size: 12px;
         border: 1px solid transparent;
+        font-weight: 600;
       }
       .btn.good { background: var(--good); color: #fff; }
       .btn.bad { background: var(--bad); color: #fff; }
       .btn.warn { background: var(--warn); color: #fff; }
-      .btn.ghost { background: rgba(31,28,26,.08); color: var(--ink); }
+      .btn.ghost { background: rgba(17,24,39,.04); color: var(--ink); border-color: var(--line); }
       .pill {
         border-color: var(--line);
         color: var(--muted);
-        background: rgba(255,255,255,.72);
+        background: #fff;
       }
       .feed-item {
-        padding: 12px 0;
+        padding: 10px 0;
         border-top: 1px solid var(--line);
       }
       .feed-item:first-child { border-top: 0; padding-top: 0; }
       a.link {
-        color: var(--accent-2);
+        color: var(--accent);
         text-decoration: none;
+        font-weight: 500;
       }
       a.link:hover { text-decoration: underline; }
-      .empty { color: var(--muted); padding: 18px 0; }
+      .empty {
+        color: var(--muted);
+        padding: 18px 0;
+        font-size: 13px;
+      }
       details.fold {
         border: 1px solid var(--line);
-        border-radius: 18px;
-        background: rgba(255,255,255,.54);
-        padding: 0 16px;
+        border-radius: 16px;
+        background: #fff;
+        padding: 0 14px;
       }
       details.fold summary {
         cursor: pointer;
         list-style: none;
-        padding: 16px 0;
-        font-size: 16px;
+        padding: 14px 0;
+        font-size: 14px;
         font-weight: 600;
       }
       details.fold summary::-webkit-details-marker { display: none; }
       details.fold[open] summary { border-bottom: 1px solid var(--line); }
-      .spacer { margin-top: 14px; }
+      .spacer { margin-top: 10px; }
+      .subgrid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+      }
+      .hero-copy {
+        max-width: 760px;
+        font-size: 15px;
+        line-height: 1.5;
+      }
+      .section-kicker {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 8px;
+      }
+      .section-kicker .muted {
+        font-size: 12px;
+      }
+      .error-banner {
+        margin-top: 10px;
+        padding: 10px 12px;
+        border-radius: 12px;
+        border: 1px solid rgba(209,67,67,.18);
+        background: rgba(209,67,67,.06);
+        color: var(--bad);
+        font-size: 12px;
+      }
       @media (max-width: 1100px) {
         .hero, .grid { grid-template-columns: 1fr; }
+        .subgrid { grid-template-columns: 1fr; }
       }
     </style>
   </head>
@@ -286,8 +370,9 @@
     <div class="shell">
       <section class="hero">
         <div class="hero-card">
+          <div class="eyebrow">Operator Dashboard</div>
           <h1>Lark Twitter Review Desk</h1>
-          <p>
+          <p class="hero-copy">
             Review exact tweet drafts, inspect agent research, and audit sent
             posts and replies. Approval actions open prefilled GitHub issues so
             the Mac executor can sync and execute later.
@@ -336,7 +421,10 @@
           <div class="grid tab-panel active" id="tab-posts">
             <div class="stack">
               <div class="panel">
-                <h2>Pending Post Approval</h2>
+                <div class="section-kicker">
+                  <h2>Pending Post Approval</h2>
+                  <div class="muted">Newest first</div>
+                </div>
                 <div id="pending-list"></div>
               </div>
               <div class="panel">
@@ -355,7 +443,10 @@
             </div>
             <div class="stack">
               <div class="panel">
-                <h2>Research Feed</h2>
+                <div class="section-kicker">
+                  <h2>Research Feed</h2>
+                  <div class="muted">Diversified working set</div>
+                </div>
                 <div id="research-list"></div>
               </div>
               <div class="panel">
