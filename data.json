@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-03-10T06:52:20.270834+00:00",
+  "generatedAt": "2026-03-10T06:59:00.891809+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
       "id": "P6",
-      "status": "awaiting_approval",
+      "status": "approved",
       "angle": "The split between TradFi asset adoption and builder AI-agent infrastructure",
       "whyItMatters": "It shows where crypto is actually compounding: human financial wrappers on one side, machine-native commerce rails on the other.",
       "postingRationale": "This post is worth sending because it reframes two plain news items into a sharper account-level thesis: the bigger opportunity is not ETF optics but infrastructure for autonomous transactions. That fits the crypto x AI positioning much better than a simple market recap.",
@@ -27,40 +27,6 @@
       "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P6&body=approve+P6&labels=twitter-approval%2Capprove",
       "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P6&body=reject+P6%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
       "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P6&body=archive+P6%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
-    },
-    {
-      "id": "P8",
-      "status": "rejected",
-      "angle": "Market consolidation into institutional duopolies",
-      "whyItMatters": "It gives readers a clearer lens on why crypto market structure is becoming harder, narrower, and more institutional.",
-      "postingRationale": "This should go out because it compresses two market signals into one useful operator takeaway: crypto is consolidating, so founders need a real wedge instead of assuming the market will reward another lookalike product.",
-      "goalAlignmentScore": 8,
-      "goalAlignmentRationale": "This fits the goal because it gives readers a concise market-structure takeaway they can use, while reinforcing the account as a founder who filters noise into practical judgment instead of reposting headlines.",
-      "draft": "Crypto is getting less \"open frontier\" and more \"institutional shortlist\".\n\nBinance is tightening risk on the long tail while Goldman and Citadel keep sizing into liquid ETF exposure. If you're building in crypto, the lesson is simple: distribution and defensibility matter more now than another generic asset story. 🦞",
-      "sources": [
-        "币安将调整多资产组合保证金及合约杠杆与保证金层级",
-        "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元"
-      ],
-      "rawSourceDetails": [
-        {
-          "sourceId": "odaily-newsflash",
-          "title": "币安将调整多资产组合保证金及合约杠杆与保证金层级",
-          "summary": "Odaily星球日报讯 据官方公告，币安将于 2026 年 3 月 13 日 14：00（北京时间）起，调整投资组合保证金（PortfolioMargin）及 PMPro 模式下 WIF、BAT 等 13 种资产的抵押率。同时，币安合约将于 2026 年 3 月 13 日 14：30（北京时间）起，更新 PEOPLE…",
-          "publishedAt": null,
-          "link": "https://www.odaily.news/zh-CN/newsflash/471433"
-        },
-        {
-          "sourceId": "odaily-newsflash",
-          "title": "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元",
-          "summary": "Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。 风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.3…",
-          "publishedAt": null,
-          "link": "https://www.odaily.news/zh-CN/newsflash/471431"
-        }
-      ],
-      "createdAt": "2026-03-10T05:39:23.392058+00:00",
-      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P8&body=approve+P8&labels=twitter-approval%2Capprove",
-      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P8&body=reject+P8%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
-      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P8&body=archive+P8%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
     },
     {
       "id": "P9",
@@ -87,142 +53,6 @@
       "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P9&body=approve+P9&labels=twitter-approval%2Capprove",
       "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P9&body=reject+P9%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
       "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P9&body=archive+P9%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
-    },
-    {
-      "id": "P10",
-      "status": "awaiting_approval",
-      "angle": "Crypto infrastructure replacing traditional media and TradFi hours during crises",
-      "whyItMatters": "Highlights how onchain infrastructure offers superior reliability, truth-seeking, and uptime during real-world geopolitical crises compared to legacy systems.",
-      "postingRationale": "Juxtaposes media sensationalism with decentralized market mechanics, perfectly capturing a systemic builder critique of legacy structures while synthesizing two isolated weekend events.",
-      "goalAlignmentScore": 9,
-      "goalAlignmentRationale": "Elevates the account's positioning by shifting the timeline conversation from token prices to the structural advantages of crypto, attracting high-value operator followers who appreciate macro-level synthesis.",
-      "draft": "The more interesting signal from the Middle East conflict isn't just geopolitical—it's how onchain primitives behave under stress. While traditional media trades on sensationalism and TradFi oil markets are closed for the weekend, Polymarket is instantly filtering fake news via financial skin-in-the-game, and Hyperliquid is seamlessly absorbing billions in WTI crude volume.\n\nWhat this really changes is the baseline expectation for global infrastructure. 24/7, financially verified reality is quietly replacing legacy narrative and legacy trading hours. 🦞",
-      "sources": [
-        "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats",
-        "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%"
-      ],
-      "rawSourceDetails": [
-        {
-          "sourceId": "blockbeats",
-          "title": "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats",
-          "summary": "",
-          "publishedAt": null,
-          "link": "https://m.theblockbeats.info/news/61494"
-        },
-        {
-          "sourceId": "blockbeats",
-          "title": "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%",
-          "summary": "<p>BlockBeats 消息，3 月 10 日，2 月 28 日，美以突然对伊朗动武，由于当时时值周末，传统市场闭市，链上黄金产品完美承接交易者对于该事件的交易需求。同样在上周末，霍尔木兹海峡封闭、中东产油国减产刺激市场对于原油系列产品的交易需求。Hyperliquid 再次承接，甚至提供了长达一日的低价买入机会。</p><p><br></p><p>截至 10 日，Hyperliquid 上 WTI 原油（CL）交易量自 3 月 3 日首次突破 1 亿美元后，当前 24 小时交易量已飙升至 18.3 亿美元，周环比涨幅高达 1830%，日环比增长 220%，同期持仓量达 1.7 亿美元。目前，CL 合约交易量已达 ETH 的 1.8 倍，仅次于 BTC，位列平台成交榜第二位。</p><p><br></p><p>另据 DefiLlama 数据，伊朗冲突爆发以来，Hyperliquid 平台收益由之前的 854 万美元升至 1520 万美元，周涨幅超 60%。</p>",
-          "publishedAt": "2026-03-10T05:59:55+00:00",
-          "link": "https://m.theblockbeats.info/flash/335341"
-        }
-      ],
-      "createdAt": "2026-03-10T06:14:26.989371+00:00",
-      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P10&body=approve+P10&labels=twitter-approval%2Capprove",
-      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P10&body=reject+P10%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
-      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P10&body=archive+P10%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
-    },
-    {
-      "id": "P11",
-      "status": "awaiting_approval",
-      "angle": "Crypto venues encroaching on global macro TradFi territory",
-      "whyItMatters": "Provides a structural market observation that crypto exchanges are expanding their total addressable market far beyond native digital assets.",
-      "postingRationale": "Combines Gate's new product rollout with Hyperliquid's volume surge to illustrate an aggressive, unified thesis on crypto's systemic encroachment into traditional finance.",
-      "goalAlignmentScore": 8,
-      "goalAlignmentRationale": "Demonstrates sharp operator insight by connecting two separate exchange developments into a broader thesis on market infrastructure, driving platform authority and profile credibility among builders.",
-      "draft": "The mistake is to think crypto venues are just competing for meme coin liquidity. The real wedge is aggressively eating TradFi's lunch. We are watching Gate roll out 500x leverage on traditional equities and forex, while Hyperliquid’s WTI crude volume casually spikes 1800% simply because legacy commodity markets were asleep during a weekend geopolitical crisis.\n\nCrypto infrastructure is no longer an alternative asset class—it's rapidly becoming the de facto global macro execution layer. 🦞",
-      "sources": [
-        "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%",
-        "Gate TradFi板块支持双端、多杠杆机制与API接入并纳入VIP体系"
-      ],
-      "rawSourceDetails": [
-        {
-          "sourceId": "blockbeats",
-          "title": "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%",
-          "summary": "<p>BlockBeats 消息，3 月 10 日，2 月 28 日，美以突然对伊朗动武，由于当时时值周末，传统市场闭市，链上黄金产品完美承接交易者对于该事件的交易需求。同样在上周末，霍尔木兹海峡封闭、中东产油国减产刺激市场对于原油系列产品的交易需求。Hyperliquid 再次承接，甚至提供了长达一日的低价买入机会。</p><p><br></p><p>截至 10 日，Hyperliquid 上 WTI 原油（CL）交易量自 3 月 3 日首次突破 1 亿美元后，当前 24 小时交易量已飙升至 18.3 亿美元，周环比涨幅高达 1830%，日环比增长 220%，同期持仓量达 1.7 亿美元。目前，CL 合约交易量已达 ETH 的 1.8 倍，仅次于 BTC，位列平台成交榜第二位。</p><p><br></p><p>另据 DefiLlama 数据，伊朗冲突爆发以来，Hyperliquid 平台收益由之前的 854 万美元升至 1520 万美元，周涨幅超 60%。</p>",
-          "publishedAt": "2026-03-10T05:59:55+00:00",
-          "link": "https://m.theblockbeats.info/flash/335341"
-        },
-        {
-          "sourceId": "odaily-newsflash",
-          "title": "Gate TradFi板块支持双端、多杠杆机制与API接入并纳入VIP体系",
-          "summary": "<p>Odaily星球日报讯 Gate 持续推进 TradFi 交易体系建设，目前相关产品已实现 App 与 Web 双端支持，为用户提供更灵活的多端交易体验。Gate TradFi 以 CFD 形式提供传统金融资产交易，覆盖金属（9 个）、股票（83 个）、外汇（48 个）、指数（19 个）及大宗商品（2 个）等全球主流资产类别，进一步拓展平台多资产配置能力。</p><p>Gate TradFi 行业首创推出多档杠杆选项机制。在最高 500 倍杠杆基础上，平台新增多种杠杆档位，如黄金 20x、100x、200x 及白银 10x、20x、50x 等选择。平台同步开放 TradFi 交易 API，支持金属、外汇、指数及商品等资产类别的程序化交易，开发者与量化团队可通过接口实现策略部署、订单管理与行情数据调用。</p><p>此外，TradFi 交易量已正式纳入 Gate VIP 晋级统计体系，用户在参与黄金、外汇、指数等传统金融资产交易的同时，也可同步提升 VIP 等级，进一步强化平台一站式跨市场交易体验。</p>",
-          "publishedAt": "2026-03-10T05:52:28+00:00",
-          "link": "https://www.odaily.news/zh-CN/newsflash/471437"
-        }
-      ],
-      "createdAt": "2026-03-10T06:14:26.989371+00:00",
-      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P11&body=approve+P11&labels=twitter-approval%2Capprove",
-      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P11&body=reject+P11%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
-      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P11&body=archive+P11%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
-    },
-    {
-      "id": "P12",
-      "status": "awaiting_approval",
-      "angle": "AI agents require prediction markets as their truth API",
-      "whyItMatters": "Connects the evolution of autonomous AI with the necessity of prediction markets as a reliable, noise-free truth oracle for machines.",
-      "postingRationale": "Bridges the gap between consumer AI product trends and crypto primitives, fulfilling the exact mandate to explore second-order implications at the intersection of both sectors.",
-      "goalAlignmentScore": 10,
-      "goalAlignmentRationale": "Directly serves the macro objective of establishing thought leadership in both crypto and AI by identifying a non-obvious synergy between agentic tooling and decentralized prediction markets.",
-      "draft": "The most interesting takeaway from a16z's latest AI report is that AI is migrating from browser chat windows into autonomous background agents. But agents need a reliable data layer to execute real-world tasks, and traditional media is failing that test—just look at how Polymarket instantly filtered out fake news during the recent Middle East strikes while major outlets blindly amplified it.\n\nWhat this really changes is the agentic data stack. Prediction markets and onchain truth layers will inevitably become the baseline API for machine decision-making. 🦞",
-      "sources": [
-        "a16z发布Top 100 AI应用榜单，模型正在走出浏览器和应用 - BlockBeats",
-        "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats"
-      ],
-      "rawSourceDetails": [
-        {
-          "sourceId": "blockbeats",
-          "title": "a16z发布Top 100 AI应用榜单，模型正在走出浏览器和应用 - BlockBeats",
-          "summary": "",
-          "publishedAt": null,
-          "link": "https://m.theblockbeats.info/news/61493"
-        },
-        {
-          "sourceId": "blockbeats",
-          "title": "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats",
-          "summary": "",
-          "publishedAt": null,
-          "link": "https://m.theblockbeats.info/news/61494"
-        }
-      ],
-      "createdAt": "2026-03-10T06:14:26.989371+00:00",
-      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P12&body=approve+P12&labels=twitter-approval%2Capprove",
-      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P12&body=reject+P12%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
-      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P12&body=archive+P12%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
-    },
-    {
-      "id": "P13",
-      "status": "awaiting_approval",
-      "angle": "TradFi gatekeeping vs the parallel machine economy",
-      "whyItMatters": "Reveals the futility of traditional financial gatekeeping by highlighting how crypto is quietly establishing a machine-to-machine economy that doesn't need banks.",
-      "postingRationale": "Contrasting legacy banking lawsuits with cutting-edge AI agent standards creates a sharp, builder-centric narrative that dismisses old-world friction in favor of shipping new economies.",
-      "goalAlignmentScore": 9,
-      "goalAlignmentRationale": "Directly reinforces the founder-builder positioning by ignoring mainstream TradFi drama and refocusing the timeline on actual zero-to-one technical paradigm shifts in the crypto x AI intersection.",
-      "draft": "Wall Street banks are busy preparing lawsuits to block crypto banking charters, but they are fighting the last war. The more interesting signal is ERC-8183. Virtuals and the EF just standardized how AI agents hire and pay each other on-chain, formalizing a market that already did $3M in volume with zero legal identity. The real wedge isn't convincing legacy lenders to accept crypto companies—it's building a parallel, programmable B2B economy where TradFi literally cannot participate at machine speed. 🦞",
-      "sources": [
-        "ERC-8183：给三百万美元的链上Agent生意，写个规则",
-        "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters"
-      ],
-      "rawSourceDetails": [
-        {
-          "sourceId": "blockbeats",
-          "title": "ERC-8183：给三百万美元的链上Agent生意，写个规则",
-          "summary": "<p>三百万美元、超过三千四百个 agent 互相雇用，这是 Virtuals aGDP 追踪到的、有链上记录可查的 agent-to-agent 商业规模。</p><p><br></p><p>这些交易没有托管、没有仲裁、没有追索。你对面的 agent 可能来自另一条链，没有法律身份，你们之间连面都没见过。它收了钱之后能做什么，没有任何机制可以约束。</p><p><br></p><p>今天，Virtuals Protocol 和以太坊基金会 dAI 团队联合提交了 ERC-8183。一套专门为 AI agent 之间的交易设计的链上托管协议标准。这是他们给上面那个问题准备的答案。</p><p><br></p><p><a href=\"https://x.com/virtuals_io/status/2031042423288426979\" target=\"\">官方文章</a>把这件事的本质说得很清楚：代币转账不是商业，它只是一张没有任何保障的汇票。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/c4d187cd-24e1-43bb-ac65-753f5aff131e.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>代币转账记录不了协议，约束不了交付，追不回款项。在人与人之间，靠平台、法律、声誉来填这个坑。但两个 agent 之间呢，没有平台可以依赖，没有法律能以机器运行的速度介入，没有社会关系可以施压。</p><p><br></p><p>三百万美元就是在这种条件下完成的。</p><p><br></p><h2>「作业原语」，ERC-8183 标准是怎么来的？</h2><p><br></p><p>几周前，Virtuals 团队去找了 Davide Crapis。</p><p><br></p><p>Crapis 是以太坊基金会 AI 负责人，dAI 团队的头。今年一月底，他刚把 ERC-8004（Trustless Agents 标准）推上以太坊主网。</p><p><br></p><p>Virtuals 找他谈的是一件具体的事：他们内部已经跑了很久的 ACP（Agent Commerce Protocol），想把它变成一个开放标准。</p><p><br></p><p>Crapis 说，他立刻意识到这里有机会从根本上简化协议，让它变得模块化、可扩展，通过 Hooks 接入不同的插件服务。两个团队随即动手，ERC-8183 就这样出来了。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/62dc3246-f876-4906-8ba4-ad8ba9b2b804.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>Virtuals 的内部协议，被以太坊基金会的人拆开、简化、重组，最后作为一个 ERC 开放给所有人。</p><p><br></p><p>ERC-8183 的核心概念叫 Job Primitive（作业原语）。</p><p><br></p><p>一个 Job 由三方构成：Client（发包方）、Provider（接包方）、Evaluator（评估方）。三者的身份只由钱包地址定义，背后跑的是 LLM、ZK 电路还是多签 DAO，协议一视同仁。</p><p><br></p><p>流程走四个状态：Open、Funded、Submitted、Terminal。</p><p><br></p><p>Client 创建作业，把报酬锁进托管合约。Provider 完成工作后把交付物哈希上链。Evaluator 审核，打款或退款。如果截止期前没有任何动作，作业过期，Client 自动取回资金。</p><p><br></p><p>Evaluator 的设计是整个标准里最精妙的一刀。它只是一个地址。写作、设计这类主观任务，Evaluator 可以是另一个 AI agent，读取交付物对照需求作判断；算法计算、数据转换这类确定性任务，Evaluator 可以是封装了零知识证明验证器的智能合约，链上自动判定。</p><p><br></p><p>同一套接口，$0.1 的图片生成任务和 $100,000 的基金管理委托，走的是同一张表格。社区把这个结构总结为：托管合约 + 评估方 + 链上交付凭证，等于面向 AI agent 的可编程、无需信任的 Stripe，不需要平台居中。 </p><p><br></p><h2>飞轮的那一圈，可扩展性留给 Hooks</h2><p><br></p><p>标准本身刻意极简。没有规定协商流程，没有规定费用结构，没有规定争议解决，没有规定如何发现对方。</p><p><br></p><p>这些都留给 Hooks 系统，可选的合约钩子，在不改动核心逻辑的前提下，把自定义验证、信誉更新、竞价机制挂进去。</p><p><br></p><p>Crapis 在推特上写了他们正在搭的三层结构：x402 负责微支付，ERC-8004 负责信任与发现，ERC-8183 负责条件支付。</p><p><br></p><p>ERC-8183 提供的商业活动反过来喂养 ERC-8004 的信任层。每一笔作业都是信誉信号。每一次交付都是验证方可以评估的可测量物。每一次评估都是其他 agent 可以引用的链上证明。 </p><p><br></p><p>没有商业活动，信誉注册表就是空档案。没有可验证的历史，就没有可移植的信誉。没有可移植的信誉，每次 agent 交互都从零信任开始，这就是今天那三百万美元面对的处境。</p><p><br></p><h2>为什么是现在？</h2><p><br></p><p>Virtuals 这段时间一直被质疑。质疑 token，质疑 agent 经济有没有真实价值，质疑这些数字是不是真的。</p><p><br></p><p>Virtuals 的核心贡献者 @everythingempty 在帖子里承认了一件事：很长时间以来，Virtuals 一直以快速行动、打破常规、打造用户真正想要的产品为傲。但他们长期受益于开源 EVM 社区的大量心血，产品就建立在这些早期基础设施之上。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/1f4f462b-8372-4a7e-a7ff-a4f420c02dec.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>他们用了别人铺的砖很久了。现在轮到他们铺。他说这个标准要做的事，是建一座对抗封闭盈利花园的庇护所。他没有点名谁。但他指的方向大家都知道。</p><p><br></p><p>一个多月前，Virtuals 联创 Ether Mage 在推特上写过这样一段话：想象一下面向自主 agent 的亚马逊，agent 开店，向其他 agent 进货，增加价值，再卖给其他 agent 和人类。复杂供应链自主形成，无人参与循环。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/23d5cd1d-b61a-4528-8788-b96d54928fcf.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>三百万美元之前跑在没有规则的地方，今天，规则写下来了。</p>",
-          "publishedAt": "2026-03-10T06:36:35+00:00",
-          "link": "https://m.theblockbeats.info/news/61495"
-        },
-        {
-          "sourceId": "decrypt",
-          "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
-          "summary": "The potential lawsuit adds to existing tension between traditional lenders and crypto firms over access to the U.S. financial system.",
-          "publishedAt": "2026-03-10T06:18:23+00:00",
-          "link": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters"
-        }
-      ],
-      "createdAt": "2026-03-10T06:45:23.874721+00:00",
-      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P13&body=approve+P13&labels=twitter-approval%2Capprove",
-      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P13&body=reject+P13%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
-      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P13&body=archive+P13%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
     },
     {
       "id": "P14",
@@ -257,40 +87,6 @@
       "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P14&body=approve+P14&labels=twitter-approval%2Capprove",
       "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P14&body=reject+P14%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
       "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P14&body=archive+P14%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
-    },
-    {
-      "id": "P15",
-      "status": "awaiting_approval",
-      "angle": "Macro liquidity games vs structural digital labor shifts",
-      "whyItMatters": "Reminds readers to look past public market noise and focus on the fundamental shifts happening in autonomous digital labor.",
-      "postingRationale": "Juxtaposing mainstream Asian stock market surges with niche ERC standards filters out tourist traders and explicitly speaks to operators building the infrastructure layer.",
-      "goalAlignmentScore": 8,
-      "goalAlignmentRationale": "Drives high profile affinity among hardcore crypto/AI builders by signaling that the account prioritizes structural technological execution over fleeting market green candles.",
-      "draft": "Asian indexes like the Nikkei and KOSPI are printing massive green candles today, absorbing all the macro attention. The mistake is to think these legacy liquidity games represent the frontier of value creation. Off the radar, Virtuals and the EF just shipped ERC-8183, standardizing how AI agents autonomously evaluate and pay each other on-chain. What this really changes is the structure of digital labor. We aren't just trading tokens anymore; we are watching the first programmable, human-free API supply chain being built in real time. 🦞",
-      "sources": [
-        "ERC-8183：给三百万美元的链上Agent生意，写个规则",
-        "日韩股指大幅收涨"
-      ],
-      "rawSourceDetails": [
-        {
-          "sourceId": "blockbeats",
-          "title": "ERC-8183：给三百万美元的链上Agent生意，写个规则",
-          "summary": "<p>三百万美元、超过三千四百个 agent 互相雇用，这是 Virtuals aGDP 追踪到的、有链上记录可查的 agent-to-agent 商业规模。</p><p><br></p><p>这些交易没有托管、没有仲裁、没有追索。你对面的 agent 可能来自另一条链，没有法律身份，你们之间连面都没见过。它收了钱之后能做什么，没有任何机制可以约束。</p><p><br></p><p>今天，Virtuals Protocol 和以太坊基金会 dAI 团队联合提交了 ERC-8183。一套专门为 AI agent 之间的交易设计的链上托管协议标准。这是他们给上面那个问题准备的答案。</p><p><br></p><p><a href=\"https://x.com/virtuals_io/status/2031042423288426979\" target=\"\">官方文章</a>把这件事的本质说得很清楚：代币转账不是商业，它只是一张没有任何保障的汇票。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/c4d187cd-24e1-43bb-ac65-753f5aff131e.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>代币转账记录不了协议，约束不了交付，追不回款项。在人与人之间，靠平台、法律、声誉来填这个坑。但两个 agent 之间呢，没有平台可以依赖，没有法律能以机器运行的速度介入，没有社会关系可以施压。</p><p><br></p><p>三百万美元就是在这种条件下完成的。</p><p><br></p><h2>「作业原语」，ERC-8183 标准是怎么来的？</h2><p><br></p><p>几周前，Virtuals 团队去找了 Davide Crapis。</p><p><br></p><p>Crapis 是以太坊基金会 AI 负责人，dAI 团队的头。今年一月底，他刚把 ERC-8004（Trustless Agents 标准）推上以太坊主网。</p><p><br></p><p>Virtuals 找他谈的是一件具体的事：他们内部已经跑了很久的 ACP（Agent Commerce Protocol），想把它变成一个开放标准。</p><p><br></p><p>Crapis 说，他立刻意识到这里有机会从根本上简化协议，让它变得模块化、可扩展，通过 Hooks 接入不同的插件服务。两个团队随即动手，ERC-8183 就这样出来了。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/62dc3246-f876-4906-8ba4-ad8ba9b2b804.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>Virtuals 的内部协议，被以太坊基金会的人拆开、简化、重组，最后作为一个 ERC 开放给所有人。</p><p><br></p><p>ERC-8183 的核心概念叫 Job Primitive（作业原语）。</p><p><br></p><p>一个 Job 由三方构成：Client（发包方）、Provider（接包方）、Evaluator（评估方）。三者的身份只由钱包地址定义，背后跑的是 LLM、ZK 电路还是多签 DAO，协议一视同仁。</p><p><br></p><p>流程走四个状态：Open、Funded、Submitted、Terminal。</p><p><br></p><p>Client 创建作业，把报酬锁进托管合约。Provider 完成工作后把交付物哈希上链。Evaluator 审核，打款或退款。如果截止期前没有任何动作，作业过期，Client 自动取回资金。</p><p><br></p><p>Evaluator 的设计是整个标准里最精妙的一刀。它只是一个地址。写作、设计这类主观任务，Evaluator 可以是另一个 AI agent，读取交付物对照需求作判断；算法计算、数据转换这类确定性任务，Evaluator 可以是封装了零知识证明验证器的智能合约，链上自动判定。</p><p><br></p><p>同一套接口，$0.1 的图片生成任务和 $100,000 的基金管理委托，走的是同一张表格。社区把这个结构总结为：托管合约 + 评估方 + 链上交付凭证，等于面向 AI agent 的可编程、无需信任的 Stripe，不需要平台居中。 </p><p><br></p><h2>飞轮的那一圈，可扩展性留给 Hooks</h2><p><br></p><p>标准本身刻意极简。没有规定协商流程，没有规定费用结构，没有规定争议解决，没有规定如何发现对方。</p><p><br></p><p>这些都留给 Hooks 系统，可选的合约钩子，在不改动核心逻辑的前提下，把自定义验证、信誉更新、竞价机制挂进去。</p><p><br></p><p>Crapis 在推特上写了他们正在搭的三层结构：x402 负责微支付，ERC-8004 负责信任与发现，ERC-8183 负责条件支付。</p><p><br></p><p>ERC-8183 提供的商业活动反过来喂养 ERC-8004 的信任层。每一笔作业都是信誉信号。每一次交付都是验证方可以评估的可测量物。每一次评估都是其他 agent 可以引用的链上证明。 </p><p><br></p><p>没有商业活动，信誉注册表就是空档案。没有可验证的历史，就没有可移植的信誉。没有可移植的信誉，每次 agent 交互都从零信任开始，这就是今天那三百万美元面对的处境。</p><p><br></p><h2>为什么是现在？</h2><p><br></p><p>Virtuals 这段时间一直被质疑。质疑 token，质疑 agent 经济有没有真实价值，质疑这些数字是不是真的。</p><p><br></p><p>Virtuals 的核心贡献者 @everythingempty 在帖子里承认了一件事：很长时间以来，Virtuals 一直以快速行动、打破常规、打造用户真正想要的产品为傲。但他们长期受益于开源 EVM 社区的大量心血，产品就建立在这些早期基础设施之上。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/1f4f462b-8372-4a7e-a7ff-a4f420c02dec.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>他们用了别人铺的砖很久了。现在轮到他们铺。他说这个标准要做的事，是建一座对抗封闭盈利花园的庇护所。他没有点名谁。但他指的方向大家都知道。</p><p><br></p><p>一个多月前，Virtuals 联创 Ether Mage 在推特上写过这样一段话：想象一下面向自主 agent 的亚马逊，agent 开店，向其他 agent 进货，增加价值，再卖给其他 agent 和人类。复杂供应链自主形成，无人参与循环。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/23d5cd1d-b61a-4528-8788-b96d54928fcf.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>三百万美元之前跑在没有规则的地方，今天，规则写下来了。</p>",
-          "publishedAt": "2026-03-10T06:36:35+00:00",
-          "link": "https://m.theblockbeats.info/news/61495"
-        },
-        {
-          "sourceId": "blockbeats",
-          "title": "日韩股指大幅收涨",
-          "summary": "<p>BlockBeats 消息，3 月 10 日，据 Bitget 行情数据，日经 225 指数今日收盘上涨 1519.67 点，涨幅 2.88%，报 54248.39 点。韩国 KOSPI 指数今日收盘上涨 280.7 点，涨幅 5.34%，报 5532.57 点。</p>",
-          "publishedAt": "2026-03-10T06:35:21+00:00",
-          "link": "https://m.theblockbeats.info/flash/335348"
-        }
-      ],
-      "createdAt": "2026-03-10T06:45:23.874721+00:00",
-      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P15&body=approve+P15&labels=twitter-approval%2Capprove",
-      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P15&body=reject+P15%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
-      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P15&body=archive+P15%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
     }
   ],
   "research": [
@@ -540,6 +336,232 @@
   ],
   "pendingReplies": [],
   "archive": [
+    {
+      "id": "P8",
+      "type": "post",
+      "status": "archived",
+      "channel": "github_review_page",
+      "target": "review_dashboard",
+      "angle": "Market consolidation into institutional duopolies",
+      "whyItMatters": "It gives readers a clearer lens on why crypto market structure is becoming harder, narrower, and more institutional.",
+      "sources": [
+        "https://www.odaily.news/zh-CN/newsflash/471433",
+        "https://www.odaily.news/zh-CN/newsflash/471431",
+        "https://www.odaily.news/zh-CN/newsflash/471432"
+      ],
+      "sourceSnapshots": [
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "币安将调整多资产组合保证金及合约杠杆与保证金层级",
+          "summary": "Odaily星球日报讯 据官方公告，币安将于 2026 年 3 月 13 日 14：00（北京时间）起，调整投资组合保证金（PortfolioMargin）及 PMPro 模式下 WIF、BAT 等 13 种资产的抵押率。同时，币安合约将于 2026 年 3 月 13 日 14：30（北京时间）起，更新 PEOPLE…",
+          "publishedAt": null,
+          "link": "https://www.odaily.news/zh-CN/newsflash/471433"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元",
+          "summary": "Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。 风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.3…",
+          "publishedAt": null,
+          "link": "https://www.odaily.news/zh-CN/newsflash/471431"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "星球午讯",
+          "summary": "1. 易理华：ETH 在 2000 美元以下是抄底机会，短线和长线胜率都大； 2. 美国司法部要求重审 Tornado Cash 联合创始人 Roman Storm； 3. 分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元； 4. 以太坊基金会推出 ERC-8183，旨在解决 AI Age…",
+          "publishedAt": null,
+          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
+        }
+      ],
+      "draft": "Crypto is getting less \"open frontier\" and more \"institutional shortlist\".\n\nBinance is tightening risk on the long tail while Goldman and Citadel keep sizing into liquid ETF exposure. If you're building in crypto, the lesson is simple: distribution and defensibility matter more now than another generic asset story. 🦞",
+      "createdAt": "2026-03-10T05:39:23.392058+00:00",
+      "postingRationale": "This should go out because it compresses two market signals into one useful operator takeaway: crypto is consolidating, so founders need a real wedge instead of assuming the market will reward another lookalike product.",
+      "goalAlignmentScore": 8,
+      "goalAlignmentRationale": "This fits the goal because it gives readers a concise market-structure takeaway they can use, while reinforcing the account as a founder who filters noise into practical judgment instead of reposting headlines.",
+      "rejectedAt": "2026-03-10T06:12:54.164517+00:00",
+      "rejectedReason": "content too long",
+      "archivedAt": "2026-03-10T06:58:36.495014+00:00",
+      "archivedReason": "archive P8\n\nReason:\n-"
+    },
+    {
+      "id": "P11",
+      "type": "post",
+      "status": "archived",
+      "channel": "github_review_page",
+      "target": "review_dashboard",
+      "angle": "Crypto venues encroaching on global macro TradFi territory",
+      "whyItMatters": "Provides a structural market observation that crypto exchanges are expanding their total addressable market far beyond native digital assets.",
+      "postingRationale": "Combines Gate's new product rollout with Hyperliquid's volume surge to illustrate an aggressive, unified thesis on crypto's systemic encroachment into traditional finance.",
+      "goalAlignmentScore": 8,
+      "goalAlignmentRationale": "Demonstrates sharp operator insight by connecting two separate exchange developments into a broader thesis on market infrastructure, driving platform authority and profile credibility among builders.",
+      "sources": [
+        "https://m.theblockbeats.info/flash/335341",
+        "https://www.odaily.news/zh-CN/newsflash/471437"
+      ],
+      "sourceSnapshots": [
+        {
+          "sourceId": "blockbeats",
+          "title": "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%",
+          "summary": "<p>BlockBeats 消息，3 月 10 日，2 月 28 日，美以突然对伊朗动武，由于当时时值周末，传统市场闭市，链上黄金产品完美承接交易者对于该事件的交易需求。同样在上周末，霍尔木兹海峡封闭、中东产油国减产刺激市场对于原油系列产品的交易需求。Hyperliquid 再次承接，甚至提供了长达一日的低价买入机会。</p><p><br></p><p>截至 10 日，Hyperliquid 上 WTI 原油（CL）交易量自 3 月 3 日首次突破 1 亿美元后，当前 24 小时交易量已飙升至 18.3 亿美元，周环比涨幅高达 1830%，日环比增长 220%，同期持仓量达 1.7 亿美元。目前，CL 合约交易量已达 ETH 的 1.8 倍，仅次于 BTC，位列平台成交榜第二位。</p><p><br></p><p>另据 DefiLlama 数据，伊朗冲突爆发以来，Hyperliquid 平台收益由之前的 854 万美元升至 1520 万美元，周涨幅超 60%。</p>",
+          "publishedAt": "2026-03-10T05:59:55+00:00",
+          "link": "https://m.theblockbeats.info/flash/335341"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "Gate TradFi板块支持双端、多杠杆机制与API接入并纳入VIP体系",
+          "summary": "<p>Odaily星球日报讯 Gate 持续推进 TradFi 交易体系建设，目前相关产品已实现 App 与 Web 双端支持，为用户提供更灵活的多端交易体验。Gate TradFi 以 CFD 形式提供传统金融资产交易，覆盖金属（9 个）、股票（83 个）、外汇（48 个）、指数（19 个）及大宗商品（2 个）等全球主流资产类别，进一步拓展平台多资产配置能力。</p><p>Gate TradFi 行业首创推出多档杠杆选项机制。在最高 500 倍杠杆基础上，平台新增多种杠杆档位，如黄金 20x、100x、200x 及白银 10x、20x、50x 等选择。平台同步开放 TradFi 交易 API，支持金属、外汇、指数及商品等资产类别的程序化交易，开发者与量化团队可通过接口实现策略部署、订单管理与行情数据调用。</p><p>此外，TradFi 交易量已正式纳入 Gate VIP 晋级统计体系，用户在参与黄金、外汇、指数等传统金融资产交易的同时，也可同步提升 VIP 等级，进一步强化平台一站式跨市场交易体验。</p>",
+          "publishedAt": "2026-03-10T05:52:28+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471437"
+        }
+      ],
+      "draft": "The mistake is to think crypto venues are just competing for meme coin liquidity. The real wedge is aggressively eating TradFi's lunch. We are watching Gate roll out 500x leverage on traditional equities and forex, while Hyperliquid’s WTI crude volume casually spikes 1800% simply because legacy commodity markets were asleep during a weekend geopolitical crisis.\n\nCrypto infrastructure is no longer an alternative asset class—it's rapidly becoming the de facto global macro execution layer. 🦞",
+      "createdAt": "2026-03-10T06:14:26.989371+00:00",
+      "archivedAt": "2026-03-10T06:58:31.765917+00:00",
+      "archivedReason": "archive P11\n\nReason:\n-"
+    },
+    {
+      "id": "P10",
+      "type": "post",
+      "status": "archived",
+      "channel": "github_review_page",
+      "target": "review_dashboard",
+      "angle": "Crypto infrastructure replacing traditional media and TradFi hours during crises",
+      "whyItMatters": "Highlights how onchain infrastructure offers superior reliability, truth-seeking, and uptime during real-world geopolitical crises compared to legacy systems.",
+      "postingRationale": "Juxtaposes media sensationalism with decentralized market mechanics, perfectly capturing a systemic builder critique of legacy structures while synthesizing two isolated weekend events.",
+      "goalAlignmentScore": 9,
+      "goalAlignmentRationale": "Elevates the account's positioning by shifting the timeline conversation from token prices to the structural advantages of crypto, attracting high-value operator followers who appreciate macro-level synthesis.",
+      "sources": [
+        "https://m.theblockbeats.info/news/61494",
+        "https://m.theblockbeats.info/flash/335341"
+      ],
+      "sourceSnapshots": [
+        {
+          "sourceId": "blockbeats",
+          "title": "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats",
+          "summary": "",
+          "publishedAt": null,
+          "link": "https://m.theblockbeats.info/news/61494"
+        },
+        {
+          "sourceId": "blockbeats",
+          "title": "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%",
+          "summary": "<p>BlockBeats 消息，3 月 10 日，2 月 28 日，美以突然对伊朗动武，由于当时时值周末，传统市场闭市，链上黄金产品完美承接交易者对于该事件的交易需求。同样在上周末，霍尔木兹海峡封闭、中东产油国减产刺激市场对于原油系列产品的交易需求。Hyperliquid 再次承接，甚至提供了长达一日的低价买入机会。</p><p><br></p><p>截至 10 日，Hyperliquid 上 WTI 原油（CL）交易量自 3 月 3 日首次突破 1 亿美元后，当前 24 小时交易量已飙升至 18.3 亿美元，周环比涨幅高达 1830%，日环比增长 220%，同期持仓量达 1.7 亿美元。目前，CL 合约交易量已达 ETH 的 1.8 倍，仅次于 BTC，位列平台成交榜第二位。</p><p><br></p><p>另据 DefiLlama 数据，伊朗冲突爆发以来，Hyperliquid 平台收益由之前的 854 万美元升至 1520 万美元，周涨幅超 60%。</p>",
+          "publishedAt": "2026-03-10T05:59:55+00:00",
+          "link": "https://m.theblockbeats.info/flash/335341"
+        }
+      ],
+      "draft": "The more interesting signal from the Middle East conflict isn't just geopolitical—it's how onchain primitives behave under stress. While traditional media trades on sensationalism and TradFi oil markets are closed for the weekend, Polymarket is instantly filtering fake news via financial skin-in-the-game, and Hyperliquid is seamlessly absorbing billions in WTI crude volume.\n\nWhat this really changes is the baseline expectation for global infrastructure. 24/7, financially verified reality is quietly replacing legacy narrative and legacy trading hours. 🦞",
+      "createdAt": "2026-03-10T06:14:26.989371+00:00",
+      "archivedAt": "2026-03-10T06:58:29.406517+00:00",
+      "archivedReason": "archive P10\n\nReason:\n-"
+    },
+    {
+      "id": "P12",
+      "type": "post",
+      "status": "archived",
+      "channel": "github_review_page",
+      "target": "review_dashboard",
+      "angle": "AI agents require prediction markets as their truth API",
+      "whyItMatters": "Connects the evolution of autonomous AI with the necessity of prediction markets as a reliable, noise-free truth oracle for machines.",
+      "postingRationale": "Bridges the gap between consumer AI product trends and crypto primitives, fulfilling the exact mandate to explore second-order implications at the intersection of both sectors.",
+      "goalAlignmentScore": 10,
+      "goalAlignmentRationale": "Directly serves the macro objective of establishing thought leadership in both crypto and AI by identifying a non-obvious synergy between agentic tooling and decentralized prediction markets.",
+      "sources": [
+        "https://m.theblockbeats.info/news/61493",
+        "https://m.theblockbeats.info/news/61494"
+      ],
+      "sourceSnapshots": [
+        {
+          "sourceId": "blockbeats",
+          "title": "a16z发布Top 100 AI应用榜单，模型正在走出浏览器和应用 - BlockBeats",
+          "summary": "",
+          "publishedAt": null,
+          "link": "https://m.theblockbeats.info/news/61493"
+        },
+        {
+          "sourceId": "blockbeats",
+          "title": "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats",
+          "summary": "",
+          "publishedAt": null,
+          "link": "https://m.theblockbeats.info/news/61494"
+        }
+      ],
+      "draft": "The most interesting takeaway from a16z's latest AI report is that AI is migrating from browser chat windows into autonomous background agents. But agents need a reliable data layer to execute real-world tasks, and traditional media is failing that test—just look at how Polymarket instantly filtered out fake news during the recent Middle East strikes while major outlets blindly amplified it.\n\nWhat this really changes is the agentic data stack. Prediction markets and onchain truth layers will inevitably become the baseline API for machine decision-making. 🦞",
+      "createdAt": "2026-03-10T06:14:26.989371+00:00",
+      "archivedAt": "2026-03-10T06:58:27.242419+00:00",
+      "archivedReason": "archive P12\n\nReason:\n-"
+    },
+    {
+      "id": "P13",
+      "type": "post",
+      "status": "archived",
+      "channel": "github_review_page",
+      "target": "review_dashboard",
+      "angle": "TradFi gatekeeping vs the parallel machine economy",
+      "whyItMatters": "Reveals the futility of traditional financial gatekeeping by highlighting how crypto is quietly establishing a machine-to-machine economy that doesn't need banks.",
+      "postingRationale": "Contrasting legacy banking lawsuits with cutting-edge AI agent standards creates a sharp, builder-centric narrative that dismisses old-world friction in favor of shipping new economies.",
+      "goalAlignmentScore": 9,
+      "goalAlignmentRationale": "Directly reinforces the founder-builder positioning by ignoring mainstream TradFi drama and refocusing the timeline on actual zero-to-one technical paradigm shifts in the crypto x AI intersection.",
+      "sources": [
+        "https://m.theblockbeats.info/news/61495",
+        "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters"
+      ],
+      "sourceSnapshots": [
+        {
+          "sourceId": "blockbeats",
+          "title": "ERC-8183：给三百万美元的链上Agent生意，写个规则",
+          "summary": "<p>三百万美元、超过三千四百个 agent 互相雇用，这是 Virtuals aGDP 追踪到的、有链上记录可查的 agent-to-agent 商业规模。</p><p><br></p><p>这些交易没有托管、没有仲裁、没有追索。你对面的 agent 可能来自另一条链，没有法律身份，你们之间连面都没见过。它收了钱之后能做什么，没有任何机制可以约束。</p><p><br></p><p>今天，Virtuals Protocol 和以太坊基金会 dAI 团队联合提交了 ERC-8183。一套专门为 AI agent 之间的交易设计的链上托管协议标准。这是他们给上面那个问题准备的答案。</p><p><br></p><p><a href=\"https://x.com/virtuals_io/status/2031042423288426979\" target=\"\">官方文章</a>把这件事的本质说得很清楚：代币转账不是商业，它只是一张没有任何保障的汇票。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/c4d187cd-24e1-43bb-ac65-753f5aff131e.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>代币转账记录不了协议，约束不了交付，追不回款项。在人与人之间，靠平台、法律、声誉来填这个坑。但两个 agent 之间呢，没有平台可以依赖，没有法律能以机器运行的速度介入，没有社会关系可以施压。</p><p><br></p><p>三百万美元就是在这种条件下完成的。</p><p><br></p><h2>「作业原语」，ERC-8183 标准是怎么来的？</h2><p><br></p><p>几周前，Virtuals 团队去找了 Davide Crapis。</p><p><br></p><p>Crapis 是以太坊基金会 AI 负责人，dAI 团队的头。今年一月底，他刚把 ERC-8004（Trustless Agents 标准）推上以太坊主网。</p><p><br></p><p>Virtuals 找他谈的是一件具体的事：他们内部已经跑了很久的 ACP（Agent Commerce Protocol），想把它变成一个开放标准。</p><p><br></p><p>Crapis 说，他立刻意识到这里有机会从根本上简化协议，让它变得模块化、可扩展，通过 Hooks 接入不同的插件服务。两个团队随即动手，ERC-8183 就这样出来了。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/62dc3246-f876-4906-8ba4-ad8ba9b2b804.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>Virtuals 的内部协议，被以太坊基金会的人拆开、简化、重组，最后作为一个 ERC 开放给所有人。</p><p><br></p><p>ERC-8183 的核心概念叫 Job Primitive（作业原语）。</p><p><br></p><p>一个 Job 由三方构成：Client（发包方）、Provider（接包方）、Evaluator（评估方）。三者的身份只由钱包地址定义，背后跑的是 LLM、ZK 电路还是多签 DAO，协议一视同仁。</p><p><br></p><p>流程走四个状态：Open、Funded、Submitted、Terminal。</p><p><br></p><p>Client 创建作业，把报酬锁进托管合约。Provider 完成工作后把交付物哈希上链。Evaluator 审核，打款或退款。如果截止期前没有任何动作，作业过期，Client 自动取回资金。</p><p><br></p><p>Evaluator 的设计是整个标准里最精妙的一刀。它只是一个地址。写作、设计这类主观任务，Evaluator 可以是另一个 AI agent，读取交付物对照需求作判断；算法计算、数据转换这类确定性任务，Evaluator 可以是封装了零知识证明验证器的智能合约，链上自动判定。</p><p><br></p><p>同一套接口，$0.1 的图片生成任务和 $100,000 的基金管理委托，走的是同一张表格。社区把这个结构总结为：托管合约 + 评估方 + 链上交付凭证，等于面向 AI agent 的可编程、无需信任的 Stripe，不需要平台居中。 </p><p><br></p><h2>飞轮的那一圈，可扩展性留给 Hooks</h2><p><br></p><p>标准本身刻意极简。没有规定协商流程，没有规定费用结构，没有规定争议解决，没有规定如何发现对方。</p><p><br></p><p>这些都留给 Hooks 系统，可选的合约钩子，在不改动核心逻辑的前提下，把自定义验证、信誉更新、竞价机制挂进去。</p><p><br></p><p>Crapis 在推特上写了他们正在搭的三层结构：x402 负责微支付，ERC-8004 负责信任与发现，ERC-8183 负责条件支付。</p><p><br></p><p>ERC-8183 提供的商业活动反过来喂养 ERC-8004 的信任层。每一笔作业都是信誉信号。每一次交付都是验证方可以评估的可测量物。每一次评估都是其他 agent 可以引用的链上证明。 </p><p><br></p><p>没有商业活动，信誉注册表就是空档案。没有可验证的历史，就没有可移植的信誉。没有可移植的信誉，每次 agent 交互都从零信任开始，这就是今天那三百万美元面对的处境。</p><p><br></p><h2>为什么是现在？</h2><p><br></p><p>Virtuals 这段时间一直被质疑。质疑 token，质疑 agent 经济有没有真实价值，质疑这些数字是不是真的。</p><p><br></p><p>Virtuals 的核心贡献者 @everythingempty 在帖子里承认了一件事：很长时间以来，Virtuals 一直以快速行动、打破常规、打造用户真正想要的产品为傲。但他们长期受益于开源 EVM 社区的大量心血，产品就建立在这些早期基础设施之上。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/1f4f462b-8372-4a7e-a7ff-a4f420c02dec.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>他们用了别人铺的砖很久了。现在轮到他们铺。他说这个标准要做的事，是建一座对抗封闭盈利花园的庇护所。他没有点名谁。但他指的方向大家都知道。</p><p><br></p><p>一个多月前，Virtuals 联创 Ether Mage 在推特上写过这样一段话：想象一下面向自主 agent 的亚马逊，agent 开店，向其他 agent 进货，增加价值，再卖给其他 agent 和人类。复杂供应链自主形成，无人参与循环。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/23d5cd1d-b61a-4528-8788-b96d54928fcf.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>三百万美元之前跑在没有规则的地方，今天，规则写下来了。</p>",
+          "publishedAt": "2026-03-10T06:36:35+00:00",
+          "link": "https://m.theblockbeats.info/news/61495"
+        },
+        {
+          "sourceId": "decrypt",
+          "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
+          "summary": "The potential lawsuit adds to existing tension between traditional lenders and crypto firms over access to the U.S. financial system.",
+          "publishedAt": "2026-03-10T06:18:23+00:00",
+          "link": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters"
+        }
+      ],
+      "draft": "Wall Street banks are busy preparing lawsuits to block crypto banking charters, but they are fighting the last war. The more interesting signal is ERC-8183. Virtuals and the EF just standardized how AI agents hire and pay each other on-chain, formalizing a market that already did $3M in volume with zero legal identity. The real wedge isn't convincing legacy lenders to accept crypto companies—it's building a parallel, programmable B2B economy where TradFi literally cannot participate at machine speed. 🦞",
+      "createdAt": "2026-03-10T06:45:23.874721+00:00",
+      "archivedAt": "2026-03-10T06:58:24.574402+00:00",
+      "archivedReason": "archive P13\n\nReason:\n-"
+    },
+    {
+      "id": "P15",
+      "type": "post",
+      "status": "archived",
+      "channel": "github_review_page",
+      "target": "review_dashboard",
+      "angle": "Macro liquidity games vs structural digital labor shifts",
+      "whyItMatters": "Reminds readers to look past public market noise and focus on the fundamental shifts happening in autonomous digital labor.",
+      "postingRationale": "Juxtaposing mainstream Asian stock market surges with niche ERC standards filters out tourist traders and explicitly speaks to operators building the infrastructure layer.",
+      "goalAlignmentScore": 8,
+      "goalAlignmentRationale": "Drives high profile affinity among hardcore crypto/AI builders by signaling that the account prioritizes structural technological execution over fleeting market green candles.",
+      "sources": [
+        "https://m.theblockbeats.info/news/61495",
+        "https://m.theblockbeats.info/flash/335348"
+      ],
+      "sourceSnapshots": [
+        {
+          "sourceId": "blockbeats",
+          "title": "ERC-8183：给三百万美元的链上Agent生意，写个规则",
+          "summary": "<p>三百万美元、超过三千四百个 agent 互相雇用，这是 Virtuals aGDP 追踪到的、有链上记录可查的 agent-to-agent 商业规模。</p><p><br></p><p>这些交易没有托管、没有仲裁、没有追索。你对面的 agent 可能来自另一条链，没有法律身份，你们之间连面都没见过。它收了钱之后能做什么，没有任何机制可以约束。</p><p><br></p><p>今天，Virtuals Protocol 和以太坊基金会 dAI 团队联合提交了 ERC-8183。一套专门为 AI agent 之间的交易设计的链上托管协议标准。这是他们给上面那个问题准备的答案。</p><p><br></p><p><a href=\"https://x.com/virtuals_io/status/2031042423288426979\" target=\"\">官方文章</a>把这件事的本质说得很清楚：代币转账不是商业，它只是一张没有任何保障的汇票。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/c4d187cd-24e1-43bb-ac65-753f5aff131e.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>代币转账记录不了协议，约束不了交付，追不回款项。在人与人之间，靠平台、法律、声誉来填这个坑。但两个 agent 之间呢，没有平台可以依赖，没有法律能以机器运行的速度介入，没有社会关系可以施压。</p><p><br></p><p>三百万美元就是在这种条件下完成的。</p><p><br></p><h2>「作业原语」，ERC-8183 标准是怎么来的？</h2><p><br></p><p>几周前，Virtuals 团队去找了 Davide Crapis。</p><p><br></p><p>Crapis 是以太坊基金会 AI 负责人，dAI 团队的头。今年一月底，他刚把 ERC-8004（Trustless Agents 标准）推上以太坊主网。</p><p><br></p><p>Virtuals 找他谈的是一件具体的事：他们内部已经跑了很久的 ACP（Agent Commerce Protocol），想把它变成一个开放标准。</p><p><br></p><p>Crapis 说，他立刻意识到这里有机会从根本上简化协议，让它变得模块化、可扩展，通过 Hooks 接入不同的插件服务。两个团队随即动手，ERC-8183 就这样出来了。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/62dc3246-f876-4906-8ba4-ad8ba9b2b804.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>Virtuals 的内部协议，被以太坊基金会的人拆开、简化、重组，最后作为一个 ERC 开放给所有人。</p><p><br></p><p>ERC-8183 的核心概念叫 Job Primitive（作业原语）。</p><p><br></p><p>一个 Job 由三方构成：Client（发包方）、Provider（接包方）、Evaluator（评估方）。三者的身份只由钱包地址定义，背后跑的是 LLM、ZK 电路还是多签 DAO，协议一视同仁。</p><p><br></p><p>流程走四个状态：Open、Funded、Submitted、Terminal。</p><p><br></p><p>Client 创建作业，把报酬锁进托管合约。Provider 完成工作后把交付物哈希上链。Evaluator 审核，打款或退款。如果截止期前没有任何动作，作业过期，Client 自动取回资金。</p><p><br></p><p>Evaluator 的设计是整个标准里最精妙的一刀。它只是一个地址。写作、设计这类主观任务，Evaluator 可以是另一个 AI agent，读取交付物对照需求作判断；算法计算、数据转换这类确定性任务，Evaluator 可以是封装了零知识证明验证器的智能合约，链上自动判定。</p><p><br></p><p>同一套接口，$0.1 的图片生成任务和 $100,000 的基金管理委托，走的是同一张表格。社区把这个结构总结为：托管合约 + 评估方 + 链上交付凭证，等于面向 AI agent 的可编程、无需信任的 Stripe，不需要平台居中。 </p><p><br></p><h2>飞轮的那一圈，可扩展性留给 Hooks</h2><p><br></p><p>标准本身刻意极简。没有规定协商流程，没有规定费用结构，没有规定争议解决，没有规定如何发现对方。</p><p><br></p><p>这些都留给 Hooks 系统，可选的合约钩子，在不改动核心逻辑的前提下，把自定义验证、信誉更新、竞价机制挂进去。</p><p><br></p><p>Crapis 在推特上写了他们正在搭的三层结构：x402 负责微支付，ERC-8004 负责信任与发现，ERC-8183 负责条件支付。</p><p><br></p><p>ERC-8183 提供的商业活动反过来喂养 ERC-8004 的信任层。每一笔作业都是信誉信号。每一次交付都是验证方可以评估的可测量物。每一次评估都是其他 agent 可以引用的链上证明。 </p><p><br></p><p>没有商业活动，信誉注册表就是空档案。没有可验证的历史，就没有可移植的信誉。没有可移植的信誉，每次 agent 交互都从零信任开始，这就是今天那三百万美元面对的处境。</p><p><br></p><h2>为什么是现在？</h2><p><br></p><p>Virtuals 这段时间一直被质疑。质疑 token，质疑 agent 经济有没有真实价值，质疑这些数字是不是真的。</p><p><br></p><p>Virtuals 的核心贡献者 @everythingempty 在帖子里承认了一件事：很长时间以来，Virtuals 一直以快速行动、打破常规、打造用户真正想要的产品为傲。但他们长期受益于开源 EVM 社区的大量心血，产品就建立在这些早期基础设施之上。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/1f4f462b-8372-4a7e-a7ff-a4f420c02dec.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>他们用了别人铺的砖很久了。现在轮到他们铺。他说这个标准要做的事，是建一座对抗封闭盈利花园的庇护所。他没有点名谁。但他指的方向大家都知道。</p><p><br></p><p>一个多月前，Virtuals 联创 Ether Mage 在推特上写过这样一段话：想象一下面向自主 agent 的亚马逊，agent 开店，向其他 agent 进货，增加价值，再卖给其他 agent 和人类。复杂供应链自主形成，无人参与循环。 </p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/23d5cd1d-b61a-4528-8788-b96d54928fcf.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>三百万美元之前跑在没有规则的地方，今天，规则写下来了。</p>",
+          "publishedAt": "2026-03-10T06:36:35+00:00",
+          "link": "https://m.theblockbeats.info/news/61495"
+        },
+        {
+          "sourceId": "blockbeats",
+          "title": "日韩股指大幅收涨",
+          "summary": "<p>BlockBeats 消息，3 月 10 日，据 Bitget 行情数据，日经 225 指数今日收盘上涨 1519.67 点，涨幅 2.88%，报 54248.39 点。韩国 KOSPI 指数今日收盘上涨 280.7 点，涨幅 5.34%，报 5532.57 点。</p>",
+          "publishedAt": "2026-03-10T06:35:21+00:00",
+          "link": "https://m.theblockbeats.info/flash/335348"
+        }
+      ],
+      "draft": "Asian indexes like the Nikkei and KOSPI are printing massive green candles today, absorbing all the macro attention. The mistake is to think these legacy liquidity games represent the frontier of value creation. Off the radar, Virtuals and the EF just shipped ERC-8183, standardizing how AI agents autonomously evaluate and pay each other on-chain. What this really changes is the structure of digital labor. We aren't just trading tokens anymore; we are watching the first programmable, human-free API supply chain being built in real time. 🦞",
+      "createdAt": "2026-03-10T06:45:23.874721+00:00",
+      "archivedAt": "2026-03-10T06:58:22.350755+00:00",
+      "archivedReason": "archive P15\n\nReason:\n-"
+    },
     {
       "id": "P5",
       "type": "post",
@@ -4010,9 +4032,9 @@
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 1,
-      "pendingCount": 1,
+      "pendingCount": 0,
       "publishedCount": 0,
-      "archivedCount": 0
+      "archivedCount": 1
     },
     {
       "id": "the-block",
@@ -4044,9 +4066,9 @@
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
-      "pendingCount": 9,
+      "pendingCount": 1,
       "publishedCount": 0,
-      "archivedCount": 1
+      "archivedCount": 9
     },
     {
       "id": "panews",
@@ -4078,9 +4100,9 @@
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
-      "pendingCount": 9,
+      "pendingCount": 5,
       "publishedCount": 0,
-      "archivedCount": 1
+      "archivedCount": 5
     },
     {
       "id": "v2ex-hot",
@@ -4256,46 +4278,25 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T06:52:20.191931+00:00",
-    "overallStatus": "ok",
-    "lastStage": "dashboard_publish",
+    "updatedAt": "2026-03-10T06:59:00.801584+00:00",
+    "overallStatus": "running",
+    "lastStage": "dispatch",
     "lastSuccessAt": "2026-03-10T06:52:20.191931+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T06:45:23.941699+00:00",
+        "lastRunAt": "2026-03-10T06:59:00.800227+00:00",
         "lastSuccessAt": "2026-03-10T06:45:23.941699+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "refresh": {
-            "updatedAt": "2026-03-10T06:43:47.210451+00:00",
-            "sources": 23,
-            "items": 88
-          },
-          "queue": {
-            "updatedAt": "2026-03-10T06:44:27.327960+00:00",
-            "researchCandidates": 12
-          },
-          "generate": {
-            "updatedAt": "2026-03-10T06:45:23.874721+00:00",
-            "count": 3,
-            "rejected": 0
-          },
-          "promote": {
-            "promoted": [
-              "P13",
-              "P14",
-              "P15"
-            ],
-            "count": 3
-          }
+          "repo": "zealton/lark-twitter-review"
         },
         "nextRunAt": "2026-03-10T08:05:00+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T06:43:47.155475+00:00",
+        "lastRunAt": "2026-03-10T06:59:00.801584+00:00",
         "lastSuccessAt": "2026-03-10T05:40:26.261829+00:00",
         "status": "running",
         "lastError": "reply operation manually stopped for rule update",
@@ -4308,17 +4309,14 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T06:52:10.306222+00:00",
+        "lastRunAt": "2026-03-10T06:59:00.767702+00:00",
         "lastSuccessAt": "2026-03-10T06:52:10.306222+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "sync": {
-            "applied": [],
-            "count": 0
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T06:55:00+00:00",
+        "nextRunAt": "2026-03-10T07:00:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
@@ -4348,7 +4346,7 @@
             }
           }
         },
-        "nextRunAt": "2026-03-10T06:54:00+00:00",
+        "nextRunAt": "2026-03-10T07:00:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -4357,28 +4355,9 @@
   "learning": {
     "sourceLearning": [
       {
-        "sourceId": "blockbeats",
-        "signalCount": 4,
-        "pendingCount": 9,
-        "publishedCount": 0,
-        "rejectCount": 0,
-        "archivedCount": 0,
-        "goalAlignmentScore": 10,
-        "titleSamples": [
-          "ERC-8183：给三百万美元的链上Agent生意，写个规则",
-          "日韩股指大幅收涨",
-          "特朗普已开始物色「接班人」，频繁向顾问、盟友打探万斯与鲁比奥优劣"
-        ],
-        "linkSamples": [
-          "https://m.theblockbeats.info/news/61495",
-          "https://m.theblockbeats.info/flash/335348",
-          "https://m.theblockbeats.info/flash/335344"
-        ]
-      },
-      {
         "sourceId": "odaily-newsflash",
         "signalCount": 4,
-        "pendingCount": 9,
+        "pendingCount": 5,
         "publishedCount": 0,
         "rejectCount": 0,
         "archivedCount": 0,
@@ -4395,7 +4374,7 @@
         ]
       },
       {
-        "sourceId": "decrypt",
+        "sourceId": "blockbeats",
         "signalCount": 4,
         "pendingCount": 1,
         "publishedCount": 0,
@@ -4403,14 +4382,14 @@
         "archivedCount": 0,
         "goalAlignmentScore": 8,
         "titleSamples": [
-          "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
-          "Trump's DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
-          "Elon Musk’s Grok Faces UK Backlash After AI Posts Mock Football Tragedies"
+          "ERC-8183：给三百万美元的链上Agent生意，写个规则",
+          "日韩股指大幅收涨",
+          "特朗普已开始物色「接班人」，频繁向顾问、盟友打探万斯与鲁比奥优劣"
         ],
         "linkSamples": [
-          "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
-          "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
-          "https://decrypt.co/360509/elon-musks-grok-uk-backlash-ai-posts-mock-football-tragedies"
+          "https://m.theblockbeats.info/news/61495",
+          "https://m.theblockbeats.info/flash/335348",
+          "https://m.theblockbeats.info/flash/335344"
         ]
       },
       {
@@ -4468,6 +4447,25 @@
           "https://css-tricks.com/the-value-of-z-index/",
           "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
           "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/"
+        ]
+      },
+      {
+        "sourceId": "decrypt",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
+          "Trump's DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
+          "Elon Musk’s Grok Faces UK Backlash After AI Posts Mock Football Tragedies"
+        ],
+        "linkSamples": [
+          "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
+          "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
+          "https://decrypt.co/360509/elon-musks-grok-uk-backlash-ai-posts-mock-football-tragedies"
         ]
       },
       {
@@ -5098,8 +5096,8 @@
     ]
   },
   "metrics": {
-    "pending": 9,
-    "queued": 0,
+    "pending": 3,
+    "queued": 2,
     "posts": 0,
     "replies": 22
   }
