@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:17:24.208618+00:00",
+  "generatedAt": "2026-03-10T05:30:29.268152+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -726,10 +726,10 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:17:24.131092+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T05:30:29.209815+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T05:17:24.131092+00:00",
+    "lastSuccessAt": "2026-03-10T05:30:15.900559+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T03:57:08.142533+00:00",
@@ -757,198 +757,42 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T04:34:51.224381+00:00",
+        "lastRunAt": "2026-03-10T05:30:16.901549+00:00",
         "lastSuccessAt": "2026-03-10T04:34:51.224381+00:00",
+        "status": "running",
+        "lastError": "",
+        "details": {
+          "repo": "zealton/lark-twitter-review",
+          "dryRun": false
+        },
+        "nextRunAt": "2026-03-10T05:40:00+00:00",
+        "jobId": "lark-twitter-dispatch",
+        "jobName": "Dispatch approved posts and due replies"
+      },
+      "review_sync": {
+        "lastRunAt": "2026-03-10T05:30:15.900559+00:00",
+        "lastSuccessAt": "2026-03-10T05:30:15.900559+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "sync": {
             "applied": [],
             "count": 0
-          },
-          "discoverReplies": {
-            "discovered": 3,
-            "count": 18,
-            "targetsChecked": 3,
-            "diagnostics": [
-              {
-                "scope": "discover",
-                "account": "@0xhu7i",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/0xhu7i/status/2026290154084635097",
-                "score": 4,
-                "targetReasons": [
-                  "compact",
-                  "multi_mentions",
-                  "discussion_surface",
-                  "topic_fit"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@0xNarb",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/N1Chain/status/2026670178621370540",
-                "score": 0,
-                "targetReasons": [
-                  "compact",
-                  "has_link"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@0xyeezi",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/LumiterraGame/status/2006545916090577037",
-                "score": 3,
-                "targetReasons": [
-                  "compact",
-                  "topic_fit"
-                ]
-              }
-            ]
-          },
-          "enqueueReplies": {
-            "enqueued": [
-              "R17",
-              "R18",
-              "R19"
-            ],
-            "skipped": [
-              {
-                "id": "R1",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R2",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R3",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R5",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R6",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R7",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R8",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R9",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R10",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R11",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R12",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R13",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R14",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R15",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R16",
-                "reason": "status=queued"
-              }
-            ],
-            "count": 3
-          },
-          "publish": {
-            "processed": 0,
-            "dryRun": false
-          },
-          "replies": {
-            "processed": [
-              {
-                "id": "R17",
-                "status": "sent"
-              },
-              {
-                "id": "R18",
-                "status": "sent"
-              },
-              {
-                "id": "R19",
-                "status": "sent"
-              }
-            ],
-            "count": 3,
-            "dryRun": false
           }
         },
-        "nextRunAt": "2026-03-10T05:20:00+00:00",
-        "jobId": "lark-twitter-dispatch",
-        "jobName": "Dispatch approved posts and due replies"
-      },
-      "review_sync": {
-        "lastRunAt": "2026-03-10T05:12:42.283912+00:00",
-        "lastSuccessAt": "2026-03-10T05:12:42.283912+00:00",
-        "status": "ok",
-        "lastError": "",
-        "details": {
-          "sync": {
-            "applied": [
-              {
-                "id": "P4",
-                "action": "archive",
-                "issue": 4
-              },
-              {
-                "id": "P5",
-                "action": "archive",
-                "issue": 3
-              }
-            ],
-            "count": 2
-          }
-        },
-        "nextRunAt": "2026-03-10T05:20:00+00:00",
+        "nextRunAt": "2026-03-10T05:35:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:17:24.131092+00:00",
+        "lastRunAt": "2026-03-10T05:30:29.209815+00:00",
         "lastSuccessAt": "2026-03-10T05:17:24.131092+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:17:21.025472+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T05:18:00+00:00",
+        "nextRunAt": "2026-03-10T05:32:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
