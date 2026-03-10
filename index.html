@@ -560,13 +560,16 @@
               </div>
               <span class="pill">${escapeHtml(item.status || "")}</span>
             </header>
-            <div class="tweet">${escapeHtml(item.text || "")}</div>
+            <div class="rationale-box">
+              <div class="rationale-label">Reply Text</div>
+              <div class="tweet">${escapeHtml(item.text || "")}</div>
+            </div>
             ${item.replyRationale ? `
               <div class="rationale-box">
                 <div class="rationale-label">Why This Reply</div>
                 <div class="rationale-text">${escapeHtml(item.replyRationale)}</div>
               </div>` : ""}
-            ${item.targetContent ? `<div class="meta">Target content: ${escapeHtml(item.targetContent)}</div>` : ""}
+            ${item.targetContent ? `<div class="rationale-box"><div class="rationale-label">Target Tweet</div><div class="rationale-text">${escapeHtml(item.targetContent)}</div></div>` : ""}
             ${item.originalLink ? `<div class="meta spacer"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
             ${item.replyLink ? `<div class="meta"><a class="link" href="${item.replyLink}" target="_blank" rel="noreferrer">Reply link</a></div>` : ""}
           </article>
@@ -588,13 +591,16 @@
               </div>
               <span class="pill">${escapeHtml(item.status || "")}</span>
             </header>
-            <div class="tweet">${escapeHtml(item.text || "")}</div>
+            <div class="rationale-box">
+              <div class="rationale-label">Reply Text</div>
+              <div class="tweet">${escapeHtml(item.text || "")}</div>
+            </div>
             ${item.replyRationale ? `
               <div class="rationale-box">
                 <div class="rationale-label">Why This Reply</div>
                 <div class="rationale-text">${escapeHtml(item.replyRationale)}</div>
               </div>` : ""}
-            ${item.targetContent ? `<div class="meta">Target content: ${escapeHtml(item.targetContent)}</div>` : ""}
+            ${item.targetContent ? `<div class="rationale-box"><div class="rationale-label">Target Tweet</div><div class="rationale-text">${escapeHtml(item.targetContent)}</div></div>` : ""}
             ${item.originalLink ? `<div class="meta spacer"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
           </article>
         `).join("");

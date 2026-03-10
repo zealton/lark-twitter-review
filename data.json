@@ -1,122 +1,122 @@
 {
-  "generatedAt": "2026-03-10T08:04:00.115333+00:00",
+  "generatedAt": "2026-03-10T08:08:03.638480+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
     {
       "id": "R001",
-      "sourceId": "odaily-newsflash",
-      "title": "Founders Fund第四支成长基金接近完成，募资规模达60亿美元",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471444",
-      "publishedAt": "2026-03-10T06:53:13+00:00",
-      "capturedAt": "2026-03-10T06:59:16.719800+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 知情人士透露，Peter Thiel 旗下 Founders Fund 即将完成其第四支成长基金的募集，预计获得 60 亿美元资本承诺。外部投资者需求超出基金容量，其中约 15 亿美元来自 Founders Fund 合伙人自身。此次募资距其第三支 46 亿美元成长基金关闭不到一年，该基金主要用于对成功的晚期公司进行追加投资。（TechCrunch）</p>"
+      "sourceId": "blockbeats",
+      "title": "海湾国家合计减产原油至多670万桶/日",
+      "link": "https://m.theblockbeats.info/flash/335359",
+      "publishedAt": "2026-03-10T07:37:40+00:00",
+      "capturedAt": "2026-03-10T07:46:29.959096+00:00",
+      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据市场消息，沙特、阿联酋、伊拉克、科威特合计减产原油至多 670 万桶/日。</p>"
     },
     {
       "id": "R002",
       "sourceId": "odaily-newsflash",
-      "title": "Bitmine钱包今日向Coinbase Prime转移9257枚ETH，价值1879万美元",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471443",
-      "publishedAt": "2026-03-10T06:46:41+00:00",
-      "capturedAt": "2026-03-10T06:59:16.719800+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 据链上分析师余烬监测，标记为 Bitmine 的钱包（0xD99...555e）在 2 小时前继续向 Coinbase Prime 转移了 4308 枚 ETH，价值 874 万美元。该钱包今日已累计向 Coinbase Prime 转移 9257 枚 ETH，价值 1879 万美元，目前该钱包已被清空。</p>"
+      "title": "GateAI服务体系扩展：双端支持、功能覆盖全平台，用户免费使用",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471448",
+      "publishedAt": "2026-03-10T07:36:16+00:00",
+      "capturedAt": "2026-03-10T07:46:33.548275+00:00",
+      "summaryShort": "<p>Odaily星球日报讯 加密资产交易平台 Gate 大门宣布，GateAI 已实现 App 与 Web 双端全面支持，用户可通过 Web 端任意页面底部入口及 App 端首页、行情等页面悬浮球和常用功能栏进入。</p><p>与此同时，GateAI 进一步完成服务范围扩展，覆盖用户中心、营销活动、统一账户、资产管理、量化与返佣体系等多个核心模块，支持现货行情解读、理财与打新参与指引、闪兑操作说明及平台使用咨询等多类服务，用户可通过自然语言直接获取信息或完成操作指引，减少多"
     },
     {
       "id": "R003",
-      "sourceId": "blockbeats",
-      "title": "港股腾讯控股午后涨幅扩大至7.66%，推出WorkBuddy获国际投行高度评价",
-      "link": "https://m.theblockbeats.info/flash/335349",
-      "publishedAt": "2026-03-10T06:45:22+00:00",
-      "capturedAt": "2026-03-10T06:59:13.705769+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据 Bitget 行情数据，港股腾讯控股（HK.0700）午后涨幅扩大至 7.66%，报 555.5 港元，较近期低点 498.8 港元大幅反弹，当前市值 5.05 万亿港元。</p><p><br></p><p>腾讯控股股价自去年秋季 683 港元阶段高点大幅下跌，市场观点普遍认为腾讯在 AI 竞争中落后于阿里、字节等一众对手。在近日加速布局 AI Agent 后，市场对其预期大幅改观。腾讯宣布推出 WorkBuddy（已正"
-    },
-    {
-      "id": "R004",
-      "sourceId": "odaily-newsflash",
-      "title": "Santiment：受战争恐慌及《Clarity Act》不确定性影响，比特币空单数量远超多单",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471442",
-      "publishedAt": "2026-03-10T06:44:57+00:00",
-      "capturedAt": "2026-03-10T06:59:16.719800+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 Santiment 表示，受战争恐慌及《Clarity Act》不确定性影响，交易员倾向于大量做空，比特币空单数量显著超过多单。</p>"
-    },
-    {
-      "id": "R005",
-      "sourceId": "blockbeats",
-      "title": "ERC-8183：给三百万美元的链上Agent生意，写个规则",
-      "link": "https://m.theblockbeats.info/news/61495",
-      "publishedAt": "2026-03-10T06:36:35+00:00",
-      "capturedAt": "2026-03-10T06:59:13.705769+00:00",
-      "summaryShort": "<p>三百万美元、超过三千四百个 agent 互相雇用，这是 Virtuals aGDP 追踪到的、有链上记录可查的 agent-to-agent 商业规模。</p><p><br></p><p>这些交易没有托管、没有仲裁、没有追索。你对面的 agent 可能来自另一条链，没有法律身份，你们之间连面都没见过。它收了钱之后能做什么，没有任何机制可以约束。</p><p><br></p><p>今天，Virtuals Protocol 和以太坊基金会 dAI 团队联合提交了 ERC-8"
-    },
-    {
-      "id": "R006",
-      "sourceId": "blockbeats",
-      "title": "日韩股指大幅收涨",
-      "link": "https://m.theblockbeats.info/flash/335348",
-      "publishedAt": "2026-03-10T06:35:21+00:00",
-      "capturedAt": "2026-03-10T06:59:13.705769+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据 Bitget 行情数据，日经 225 指数今日收盘上涨 1519.67 点，涨幅 2.88%，报 54248.39 点。韩国 KOSPI 指数今日收盘上涨 280.7 点，涨幅 5.34%，报 5532.57 点。</p>"
-    },
-    {
-      "id": "R007",
-      "sourceId": "odaily-newsflash",
-      "title": "日韩股市集体收涨",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471440",
-      "publishedAt": "2026-03-10T06:32:59+00:00",
-      "capturedAt": "2026-03-10T06:59:16.719800+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 日经 225 指数 3 月 10 日（周二）收盘上涨 1519.67 点，涨幅 2.88%，报 54248.39 点。韩国 KOSPI 指数 3 月 10 日（周二）收盘上涨 280.7 点，涨幅 5.34%，报 5532.57 点。</p>"
-    },
-    {
-      "id": "R008",
       "sourceId": "decrypt",
       "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
       "link": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
       "publishedAt": "2026-03-10T06:18:23+00:00",
-      "capturedAt": "2026-03-10T06:59:10.655867+00:00",
+      "capturedAt": "2026-03-10T07:46:27.259656+00:00",
       "summaryShort": "The potential lawsuit adds to existing tension between traditional lenders and crypto firms over access to the U.S. financial system."
     },
     {
+      "id": "R004",
+      "sourceId": "the-block",
+      "title": "Nasdaq partners with Boerse Stuttgart’s Seturion to advance tokenized settlement in Europe",
+      "link": "https://www.theblock.co/post/392931/nasdaq-boerse-stuttgarts-tokenized-settlement-europe?utm_source=rss&utm_medium=rss",
+      "publishedAt": "2026-03-10T04:51:49+00:00",
+      "capturedAt": "2026-03-10T07:46:28.085602+00:00",
+      "summaryShort": "<p>The partnership is set to connect Nasdaq's European trading venues to Seturion's blockchain-based platform.</p>"
+    },
+    {
+      "id": "R005",
+      "sourceId": "simon-willison",
+      "title": "Production query plans without production data",
+      "link": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything",
+      "publishedAt": null,
+      "capturedAt": "2026-03-10T07:46:22.232796+00:00",
+      "summaryShort": "<p><strong><a href=\"https://boringsql.com/posts/portable-stats/\">Production query plans without production data</a></strong></p> Radim Marek describes the new <a href=\"https://www.postgresql.org/docs/current/functions-admin.html#FUNCTIONS-A"
+    },
+    {
+      "id": "R006",
+      "sourceId": "caixin-article",
+      "title": "【我闻】交行梁斌案内情 供应链金融反腐补漏洞",
+      "link": "https://wenews.caixin.com/2026-03-10/102421504.html",
+      "publishedAt": "2026-03-10T07:40:01+00:00",
+      "capturedAt": "2026-03-10T07:46:41.089132+00:00",
+      "summaryShort": "<audio src=\"https://audio.caixin.com/caixin/504/rngHAu718TnHgipUeNNz.mp3\" controls=\"\"></audio><br><blockquote><p>在离职五年后，这位加盟了小贷平台的银行前信贷业务人员，因何被追查？</p></blockquote><br> <p> <b>【金融我闻/张宇哲】</b>近日，上海市纪检监察网通告，交通银行上海市分行营业部原副总经理梁斌涉嫌严重违纪违法，目前正在接受交通银"
+    },
+    {
+      "id": "R007",
+      "sourceId": "wired",
+      "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+      "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "publishedAt": "2026-03-10T05:00:00+00:00",
+      "capturedAt": "2026-03-10T07:46:19.906113+00:00",
+      "summaryShort": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it."
+    },
+    {
+      "id": "R008",
+      "sourceId": "devto-top-week",
+      "title": "Congrats to the GitHub Copilot CLI Challenge Winners!",
+      "link": "https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240",
+      "publishedAt": "2026-03-09T18:28:59+00:00",
+      "capturedAt": "2026-03-10T07:46:51.235470+00:00",
+      "summaryShort": "<p>The results are in! Thank you all so much for your patience as we reviewed over 400 submissions for this challenge. </p> <p>We're going to jump right in because our full list of winners and runner-ups is quite long. Regardless of whether"
+    },
+    {
       "id": "R009",
-      "sourceId": "blockbeats",
-      "title": "特朗普已开始物色「接班人」，频繁向顾问、盟友打探万斯与鲁比奥优劣",
-      "link": "https://m.theblockbeats.info/flash/335344",
-      "publishedAt": "2026-03-10T06:17:08+00:00",
-      "capturedAt": "2026-03-10T06:59:13.705769+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，在美国开始轰炸伊朗不到一天后，美国总统特朗普在其海湖庄园与二十多位捐款人举行了会面。当与会者就餐时，特朗普向众人抛出了一个问题：<strong>你们怎么看万斯和鲁比奥？据在场人士透露，宾客们给鲁比奥的掌声更为热烈。</strong></p><p><br></p><p><strong>距离 2028 年大选还有两年多的时间，但特朗普已对此格外上心，正四处为他的 MAGA 帝国寻找合适的接班人</strong>。几个月来，这位总"
+      "sourceId": "pragmatic-engineer",
+      "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
+      "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
+      "publishedAt": "2026-03-05T18:03:16+00:00",
+      "capturedAt": "2026-03-10T07:46:23.484939+00:00",
+      "summaryShort": "An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis"
     },
     {
       "id": "R010",
-      "sourceId": "hn-frontpage",
-      "title": "Claude Code, Claude Cowork and Codex #5",
-      "link": "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
-      "publishedAt": "2026-03-10T05:12:54+00:00",
-      "capturedAt": "2026-03-10T06:59:01.959568+00:00",
-      "summaryShort": "<p>Article URL: <a href=\"https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/\">https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/</a></p> <p>Comments URL: <a href=\"https://news.ycombinat"
+      "sourceId": "hellogithub",
+      "title": "nexent: 只需一句话即可创造你的专属智能体",
+      "link": "https://hellogithub.com/repository/99932c00b692483a8439b04f8858b39f",
+      "publishedAt": "2026-03-03T01:32:14+00:00",
+      "capturedAt": "2026-03-10T07:46:56.205748+00:00",
+      "summaryShort": "这是一款开源的零代码智能体自动生成平台，无需编程基础或复杂的流程图编排，通过自然语言描述需求即可快速创建 AI 智能体。它内置了数据处理引擎，能够自动处理 20"
     },
     {
       "id": "R011",
-      "sourceId": "hn-frontpage",
-      "title": "Amazon holds engineering meeting following AI-related outages",
-      "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
-      "publishedAt": "2026-03-10T05:07:59+00:00",
-      "capturedAt": "2026-03-10T06:59:01.959568+00:00",
-      "summaryShort": "<p>Article URL: <a href=\"https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de\">https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47319273\">https"
+      "sourceId": "sheet-master-list",
+      "title": "宝玉",
+      "link": "https://x.com/dotey",
+      "publishedAt": null,
+      "capturedAt": "2026-03-10T07:46:14.337246+00:00",
+      "summaryShort": "中文 AI 圈高频信息源，长期分享 Prompt 工程、AI 实战、前沿工具与模型解读。"
     },
     {
       "id": "R012",
-      "sourceId": "hn-frontpage",
-      "title": "Show HN: I Was Here – Draw on street view, others can find your drawings",
-      "link": "https://washere.live",
-      "publishedAt": "2026-03-10T05:04:23+00:00",
-      "capturedAt": "2026-03-10T06:59:01.959568+00:00",
-      "summaryShort": "<p>Hey HN, I made a site where you can draw on street-level panoramas. Your drawings persist and other people can see them in real time.<p>Strokes get projected onto the 3D panorama so they wrap around buildings and follow the geometry, not"
+      "sourceId": "the-verge",
+      "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+      "publishedAt": null,
+      "capturedAt": "2026-03-10T07:46:19.003603+00:00",
+      "summaryShort": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much on X"
     }
   ],
   "deliveredPosts": [
     {
       "id": "P6",
       "status": "posted",
-      "text": "Wall Street is buying crypto beta for humans. Frontier builders are quietly building crypto rails for agents.\n\nETF flows will keep dominating headlines, but the less crowded bet is still machine-to-machine commerce. The chain that wins trust, execution, and settlement for agents may matter more than the next TradFi wrapper. 🦞",
+      "text": "Wall Street is buying crypto beta for humans Frontier builders are quietly building crypto rails for agents\n\nETF flows will keep dominating headlines, but the less crowded bet is still machine-to-machine commerce The chain that wins trust, execution, and settlement for agents may matter more than the next TradFi wrapper 🦞",
       "timestamp": "2026-03-10T07:02:19.296938+00:00",
       "angle": "The split between TradFi asset adoption and builder AI-agent infrastructure",
       "whyItMatters": "It shows where crypto is actually compounding: human financial wrappers on one side, machine-native commerce rails on the other.",
@@ -127,7 +127,7 @@
     {
       "id": "P9",
       "status": "posted",
-      "text": "The next big crypto divide may just be user definition: TradFi keeps packaging blockspace for humans, while frontier builders are starting to design for software.\n\nIf your product still assumes every user is a person tapping a wallet, you may miss where new demand comes from. Crypto gets much more interesting once agents can coordinate, pay, and transact natively. 🦞",
+      "text": "The next big crypto divide may just be user definition: TradFi keeps packaging blockspace for humans, while frontier builders are starting to design for software\n\nIf your product still assumes every user is a person tapping a wallet, you may miss where new demand comes from Crypto gets much more interesting once agents can coordinate, pay, and transact natively 🦞",
       "timestamp": "2026-03-10T07:02:00.453097+00:00",
       "angle": "TradFi human focus vs Crypto-native AI focus",
       "whyItMatters": "It helps readers see that TradFi and crypto-native builders are optimizing for different end users, which leads to very different products and value capture.",
@@ -138,9 +138,20 @@
   ],
   "replyActivity": [
     {
+      "id": "R36",
+      "status": "sent",
+      "text": "This is the right lens Headlines move fast, but durable upside usually comes from turning the idea into repeatable product and distribution 🦞",
+      "timestamp": "2026-03-10T08:04:19.450558+00:00",
+      "targetContent": "Saying not knowing how to code gives you an advantage in building software (thanks to AI) is like saying not knowing anything about filmmaking gives you an advantage in making films (thanks to having a smartphone + apps to edit stuff)\n\nIgnore this stuff and keep learning+building",
+      "originalLink": "https://x.com/GergelyOrosz/status/2030731259953983509",
+      "replyLink": null,
+      "targetAccount": "@GergelyOrosz",
+      "replyRationale": "Replying to @GergelyOrosz because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R35",
       "status": "sent",
-      "text": "Local browsers are the missing link, but Monad-level execution speed is what will actually make those agents feel autonomous. 🦞",
+      "text": "Local browsers are the missing link, but Monad-level execution speed is what will actually make those agents feel autonomous 🦞",
       "timestamp": "2026-03-10T08:03:45.135033+00:00",
       "targetContent": "does Claude have their own browser yet so my agent can work without Google Chrome login issues?",
       "originalLink": "https://x.com/sophiekornchip/status/2031085145747345806",
@@ -151,7 +162,7 @@
     {
       "id": "R34",
       "status": "sent",
-      "text": "Hard to argue with the execution speed, but the real test is whether that culture can scale past current bottlenecks. 🦞",
+      "text": "Hard to argue with the execution speed, but the real test is whether that culture can scale past current bottlenecks 🦞",
       "timestamp": "2026-03-10T08:03:16.332704+00:00",
       "targetContent": ".\n@nick_pennie\n on why solana's engineering culture makes it the place to build",
       "originalLink": "https://x.com/solana/status/2031273169479491625",
@@ -162,7 +173,7 @@
     {
       "id": "R33",
       "status": "sent",
-      "text": "The real black swan is usually the efficiency bottleneck, which is why seeing Monad tackle execution scaling feels like the only logical hedge right now. 🦞",
+      "text": "The real black swan is usually the efficiency bottleneck, which is why seeing Monad tackle execution scaling feels like the only logical hedge right now 🦞",
       "timestamp": "2026-03-10T08:01:42.292873+00:00",
       "targetContent": "Next Black Swan?  MSTR Risk, Tesla AI & War-Era Money Printing",
       "originalLink": "https://x.com/rektmando/status/2031017411143737733",
@@ -173,7 +184,7 @@
     {
       "id": "R31",
       "status": "sent",
-      "text": "The Chiefs always find a way to turn pure speed into leverage, kind of like how Monad is built to actually handle high-throughput without breaking. 🦞",
+      "text": "The Chiefs always find a way to turn pure speed into leverage, kind of like how Monad is built to actually handle high-throughput without breaking 🦞",
       "timestamp": "2026-03-10T08:01:03.318438+00:00",
       "targetContent": "Chiefs, WR Tyquan Thornton agree to two-year, $11M deal with a max value of $14M. (via \n@MikeGarafolo\n)",
       "originalLink": "https://x.com/NFL/status/2031205536222556408",
@@ -184,7 +195,7 @@
     {
       "id": "R30",
       "status": "sent",
-      "text": "Hard to bet against the momentum, but the real wealth shift happens when we finally solve the throughput bottleneck. 🦞",
+      "text": "Hard to bet against the momentum, but the real wealth shift happens when we finally solve the throughput bottleneck 🦞",
       "timestamp": "2026-03-10T08:00:27.160354+00:00",
       "targetContent": "Will \n@elonmusk\n become a trillionaire before Q4?",
       "originalLink": "https://x.com/MyriadMarkets/status/2031134685061927025",
@@ -195,7 +206,7 @@
     {
       "id": "R28",
       "status": "sent",
-      "text": "Finally found the brightest one in the feed. 🦞",
+      "text": "Finally found the brightest one in the feed 🦞",
       "timestamp": "2026-03-10T05:40:17.375182+00:00",
       "targetContent": "Twinkle Twinkle Lil Star\n\n\n@Lilstarrrs\n \n@monad",
       "originalLink": "https://x.com/ylonaaah/status/2030693835815485875",
@@ -217,7 +228,7 @@
     {
       "id": "R24",
       "status": "sent",
-      "text": "The only anthem that actually gives me goosebumps every single time. 🦞",
+      "text": "The only anthem that actually gives me goosebumps every single time 🦞",
       "timestamp": "2026-03-10T05:37:25.021220+00:00",
       "targetContent": "Classical music for the Champions League",
       "originalLink": "https://x.com/FCBarcelona/status/2031203633065304521",
@@ -228,7 +239,7 @@
     {
       "id": "R23",
       "status": "sent",
-      "text": "That soundtrack really sets the vibe, hard to believe it’s already been a year since launch. 🦞",
+      "text": "That soundtrack really sets the vibe, hard to believe it’s already been a year since launch 🦞",
       "timestamp": "2026-03-10T05:37:07.718350+00:00",
       "targetContent": "yoooo, Who made this banger song for \n@SeismicSys\n \nI just entered the website and all I can say is Wow\nGmic how you feeling this week, 1 year Anniversary is hereeee!!!",
       "originalLink": "https://x.com/Davethompson100/status/2030402420245729736",
@@ -250,31 +261,20 @@
     {
       "id": "R21",
       "status": "sent",
-      "text": "Chog is the only therapist I trust at this point. 🦞",
+      "text": "Chog is the only therapist I trust at this point 🦞",
       "timestamp": "2026-03-10T05:32:00.003877+00:00",
       "targetContent": "whenever you're feeling down, remember, chog will be here for you",
       "originalLink": "https://x.com/ChogNFT/status/2030296023097086152",
       "replyLink": null,
       "targetAccount": "@ChogNFT",
       "replyRationale": "Replying to @ChogNFT because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R20",
-      "status": "sent",
-      "text": "It’s wild that they have a \"comfort zone\" just like us, we really are just babysitting spicy rocks. 🦞",
-      "timestamp": "2026-03-10T05:31:40.767557+00:00",
-      "targetContent": "Kind of odd phones and laptops need the same conditions human brains do. Too hot or too cold for us is too hot or too cold for them.\nYou’d think a machine could run at freezing temps, but your phone just dies. Feel strangely organic, almost human in spirit.",
-      "originalLink": "https://x.com/billmondays/status/2030364138229113045",
-      "replyLink": null,
-      "targetAccount": "@billmondays",
-      "replyRationale": "Replying to @billmondays because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
   ],
   "pendingReplies": [
     {
       "id": "R34",
       "status": "processing",
-      "text": "Hard to argue with the execution speed, but the real test is whether that culture can scale past current bottlenecks. 🦞",
+      "text": "Hard to argue with the execution speed, but the real test is whether that culture can scale past current bottlenecks 🦞",
       "timestamp": "2026-03-10T08:02:49.860246+00:00",
       "targetContent": ".\n@nick_pennie\n on why solana's engineering culture makes it the place to build",
       "originalLink": "https://x.com/solana/status/2031273169479491625",
@@ -282,19 +282,9 @@
       "replyRationale": "Replying to @solana because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     },
     {
-      "id": "R36",
-      "status": "processing",
-      "text": "This is the right lens. Headlines move fast, but durable upside usually comes from turning the idea into repeatable product and distribution. 🦞",
-      "timestamp": "2026-03-10T08:02:49.860246+00:00",
-      "targetContent": "Saying not knowing how to code gives you an advantage in building software (thanks to AI) is like saying not knowing anything about filmmaking gives you an advantage in making films (thanks to having a smartphone + apps to edit stuff)\n\nIgnore this stuff and keep learning+building",
-      "originalLink": "https://x.com/GergelyOrosz/status/2030731259953983509",
-      "targetAccount": "@GergelyOrosz",
-      "replyRationale": "Replying to @GergelyOrosz because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
       "id": "R29",
       "status": "processing",
-      "text": "Using RL for real-time tactical sailing is a solid proof of concept for the kind of low-latency execution we’ll soon expect from Monad. 🦞",
+      "text": "Using RL for real-time tactical sailing is a solid proof of concept for the kind of low-latency execution we’ll soon expect from Monad 🦞",
       "timestamp": "2026-03-10T07:58:42.613778+00:00",
       "targetContent": "Sailing with AI?\n\nOur final film in this series explores how Emirates Team New Zealand didn’t just train their sailors to defend their America’s Cup title — they built a reinforcement-learning agent capable of sailing a yacht inside a simulator.",
       "originalLink": "https://x.com/McKinsey/status/2030994684315627614",
@@ -304,7 +294,7 @@
     {
       "id": "R32",
       "status": "processing",
-      "text": "If they can bridge that level of engagement over to Monad, the throughput is actually going to be necessary for once. 🦞",
+      "text": "If they can bridge that level of engagement over to Monad, the throughput is actually going to be necessary for once 🦞",
       "timestamp": "2026-03-10T07:58:42.613778+00:00",
       "targetContent": "Orangie's thoughts on Pudgy World so far\n\n\"I've been on it for 2 hours and the 2 hours have flown by\"",
       "originalLink": "https://x.com/Breezeonhodl/status/2031113716037501254",
@@ -4027,7 +4017,7 @@
       "fetchedAt": "2026-03-10T07:46:14.336927+00:00",
       "itemCount": 0,
       "previewRows": [],
-      "researchCount": 3,
+      "researchCount": 0,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4044,7 +4034,7 @@
       "fetchedAt": "2026-03-10T07:46:19.003603+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4061,7 +4051,7 @@
       "fetchedAt": "2026-03-10T07:46:19.906113+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4095,7 +4085,7 @@
       "fetchedAt": "2026-03-10T07:46:22.232796+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4112,7 +4102,7 @@
       "fetchedAt": "2026-03-10T07:46:23.484939+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4180,7 +4170,7 @@
       "fetchedAt": "2026-03-10T07:46:28.085602+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4197,7 +4187,7 @@
       "fetchedAt": "2026-03-10T07:46:29.959096+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 4,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 14
@@ -4231,7 +4221,7 @@
       "fetchedAt": "2026-03-10T07:46:33.548275+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 4,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 10
@@ -4282,7 +4272,7 @@
       "fetchedAt": "2026-03-10T07:46:41.089132+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4350,7 +4340,7 @@
       "fetchedAt": "2026-03-10T07:46:51.235470+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4384,7 +4374,7 @@
       "fetchedAt": "2026-03-10T07:46:56.205748+00:00",
       "itemCount": 8,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4410,10 +4400,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T08:04:00.050308+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T08:08:03.525668+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T08:04:00.050308+00:00",
+    "lastSuccessAt": "2026-03-10T08:04:33.362956+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T07:00:34.252480+00:00",
@@ -4443,18 +4433,230 @@
             "count": 2
           }
         },
-        "nextRunAt": "2026-03-10T08:05:00+00:00",
+        "nextRunAt": "2026-03-10T10:05:00+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T08:02:03.572810+00:00",
-        "lastSuccessAt": "2026-03-10T08:01:50.753028+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T08:04:33.362956+00:00",
+        "lastSuccessAt": "2026-03-10T08:04:33.362956+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review",
-          "dryRun": false
+          "sync": {
+            "applied": [],
+            "count": 0
+          },
+          "discoverReplies": {
+            "discovered": 3,
+            "count": 35,
+            "accountsScanned": 3,
+            "elapsedSeconds": 45.1,
+            "targetsChecked": 3,
+            "diagnostics": [
+              {
+                "scope": "discover",
+                "account": "@solana",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/solana/status/2031273169479491625",
+                "score": 4,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@sophiekornchip",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/sophiekornchip/status/2031085145747345806",
+                "score": 5,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@steipete",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/GergelyOrosz/status/2030731259953983509",
+                "score": 5,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "generate",
+                "account": "@GergelyOrosz",
+                "status": "fallback",
+                "reason": "reply discovery exceeded 45s wall clock budget"
+              }
+            ]
+          },
+          "enqueueReplies": {
+            "enqueued": [
+              "R34",
+              "R35",
+              "R36"
+            ],
+            "skipped": [
+              {
+                "id": "R1",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R2",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R3",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R5",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R6",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R7",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R8",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R9",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R10",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R11",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R12",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R13",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R14",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R15",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R16",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R17",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R18",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R19",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R20",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R21",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R22",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R23",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R24",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R25",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R26",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R27",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R28",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R29",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R30",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R31",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R32",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R33",
+                "reason": "sync_terminal_status:sent"
+              }
+            ],
+            "count": 3
+          },
+          "publish": {
+            "processed": 0,
+            "dryRun": false
+          },
+          "replies": {
+            "processed": [
+              {
+                "id": "R35",
+                "status": "sent"
+              },
+              {
+                "id": "R36",
+                "status": "sent"
+              }
+            ],
+            "count": 2,
+            "dryRun": false
+          },
+          "outcome": "replies_sent"
         },
         "nextRunAt": "2026-03-10T08:10:00+00:00",
         "jobId": "lark-twitter-dispatch",
@@ -4471,52 +4673,34 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T08:05:00+00:00",
+        "nextRunAt": "2026-03-10T08:10:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T08:04:00.050308+00:00",
+        "lastRunAt": "2026-03-10T08:08:03.525668+00:00",
         "lastSuccessAt": "2026-03-10T08:04:00.050308+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T08:03:56.679183+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T08:03:56.708339+00:00",
-            "sourceEntries": 21,
-            "sourceSuggestions": 8,
-            "replyEntries": 27,
-            "replySuggestions": 7
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T08:03:56.766520+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T08:06:00+00:00",
+        "nextRunAt": "2026-03-10T08:10:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },
   "dispatchSummary": {
-    "lastRunAt": "2026-03-10T08:02:03.572810+00:00",
-    "lastSuccessAt": "2026-03-10T08:01:50.753028+00:00",
-    "status": "running",
-    "outcome": "unknown",
+    "lastRunAt": "2026-03-10T08:04:33.362956+00:00",
+    "lastSuccessAt": "2026-03-10T08:04:33.362956+00:00",
+    "status": "ok",
+    "outcome": "replies_sent",
     "lastError": "",
-    "discoveredReplies": 0,
-    "targetsChecked": 0,
-    "enqueuedReplies": 0,
-    "sentReplies": 0,
+    "discoveredReplies": 3,
+    "targetsChecked": 3,
+    "enqueuedReplies": 3,
+    "sentReplies": 2,
     "publishedPosts": 0
   },
   "learning": {
@@ -5175,6 +5359,23 @@
     ],
     "replySuggestions": [
       {
+        "id": "suggest-reply-target-gergelyorosz",
+        "type": "suggest_reply_target",
+        "status": "pending",
+        "confidence": 7,
+        "handle": "@gergelyorosz",
+        "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
+        "goalFit": "Helps the system build a better set of recurring personal accounts instead of repeatedly relying on the same obvious names.",
+        "actionMeaning": "Approve to add this handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "replyCount": 1,
+          "replyCountLast7Days": 1,
+          "inSheetPool": false
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+suggest-reply-target-gergelyorosz&body=approve+suggestion+suggest-reply-target-gergelyorosz&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-gergelyorosz&body=reject+suggestion+suggest-reply-target-gergelyorosz&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "suggest-reply-target-ylonaaah",
         "type": "suggest_reply_target",
         "status": "pending",
@@ -5341,6 +5542,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 27
+    "replies": 28
   }
 }
