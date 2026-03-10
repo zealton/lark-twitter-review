@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T03:48:35.438221+00:00",
+  "generatedAt": "2026-03-10T03:50:01.770686+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -660,10 +660,10 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T03:47:58.680448+00:00",
+    "updatedAt": "2026-03-10T03:48:38.938467+00:00",
     "overallStatus": "ok",
-    "lastStage": "research",
-    "lastSuccessAt": "2026-03-10T03:47:58.680448+00:00",
+    "lastStage": "dispatch",
+    "lastSuccessAt": "2026-03-10T03:48:38.938467+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T03:47:58.680448+00:00",
@@ -695,13 +695,162 @@
         }
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T03:46:43.432258+00:00",
-        "lastSuccessAt": "",
-        "status": "running",
+        "lastRunAt": "2026-03-10T03:48:38.938467+00:00",
+        "lastSuccessAt": "2026-03-10T03:48:38.938467+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review",
-          "dryRun": true
+          "sync": {
+            "applied": [],
+            "count": 0
+          },
+          "discoverReplies": {
+            "discovered": 3,
+            "count": 12,
+            "targetsChecked": 3,
+            "diagnostics": [
+              {
+                "scope": "discover",
+                "account": "@9yearfish",
+                "path": "sheet_people",
+                "status": "skipped",
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/9yearfish/status/1741129453009596436",
+                "score": 2,
+                "targetReasons": [
+                  "compact"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@abskoop",
+                "path": "sheet_people",
+                "status": "skipped",
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/abskoop/status/2031210731266519232",
+                "score": 2,
+                "targetReasons": [
+                  "compact"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@AlchainHust",
+                "path": "sheet_people",
+                "status": "ok",
+                "statusLink": "https://x.com/AlchainHust/status/2029832852528058502",
+                "score": 3,
+                "targetReasons": [
+                  "compact",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@austinit",
+                "path": "sheet_people",
+                "status": "ok",
+                "statusLink": "https://x.com/austinit/status/2030322285203370310",
+                "score": 3,
+                "targetReasons": [
+                  "compact",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@AxtonLiu",
+                "path": "sheet_people",
+                "status": "ok",
+                "statusLink": "https://x.com/AxtonLiu/status/2030071941760270451",
+                "score": 7,
+                "targetReasons": [
+                  "compact",
+                  "personal_view",
+                  "topic_fit"
+                ]
+              }
+            ]
+          },
+          "enqueueReplies": {
+            "enqueued": [
+              "R7",
+              "R8",
+              "R9",
+              "R10",
+              "R11",
+              "R12",
+              "R13"
+            ],
+            "skipped": [
+              {
+                "id": "R1",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R2",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R3",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R5",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R6",
+                "reason": "status=queued"
+              }
+            ],
+            "count": 7
+          },
+          "publish": {
+            "processed": 0,
+            "dryRun": true
+          },
+          "replies": {
+            "processed": [
+              {
+                "id": "R7",
+                "status": "dry_run"
+              },
+              {
+                "id": "R8",
+                "status": "dry_run"
+              },
+              {
+                "id": "R9",
+                "status": "dry_run"
+              },
+              {
+                "id": "R10",
+                "status": "dry_run"
+              },
+              {
+                "id": "R11",
+                "status": "dry_run"
+              },
+              {
+                "id": "R12",
+                "status": "dry_run"
+              },
+              {
+                "id": "R13",
+                "status": "dry_run"
+              }
+            ],
+            "count": 7,
+            "dryRun": true
+          },
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T03:48:35.438221+00:00",
+              "pending": 0
+            }
+          }
         }
       },
       "review_sync": {
