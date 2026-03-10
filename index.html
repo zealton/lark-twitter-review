@@ -320,6 +320,7 @@
           <div class="muted">
             This is the fastest place to verify whether research, approval sync, dispatch, and dashboard publishing are still advancing on schedule.
           </div>
+          <div class="spacer" id="dispatch-summary"></div>
           <div id="heartbeat-stage-list"></div>
         </div>
       </section>
@@ -882,6 +883,27 @@
         `;
       }
 
+      function renderDispatchSummary(summary) {
+        const root = document.getElementById("dispatch-summary");
+        if (!summary) {
+          root.innerHTML = "";
+          return;
+        }
+        root.innerHTML = `
+          <div class="heartbeat-summary">
+            <div class="heartbeat-chip"><strong>Dispatch</strong><span class="status-${escapeHtml(summary.status || "unknown")}">${escapeHtml(summary.status || "unknown")}</span></div>
+            <div class="heartbeat-chip"><strong>Checked</strong><span>${escapeHtml(String(summary.targetsChecked || 0))}</span></div>
+            <div class="heartbeat-chip"><strong>Discovered</strong><span>${escapeHtml(String(summary.discoveredReplies || 0))}</span></div>
+            <div class="heartbeat-chip"><strong>Enqueued</strong><span>${escapeHtml(String(summary.enqueuedReplies || 0))}</span></div>
+            <div class="heartbeat-chip"><strong>Replies Sent</strong><span>${escapeHtml(String(summary.sentReplies || 0))}</span></div>
+            <div class="heartbeat-chip"><strong>Posts Sent</strong><span>${escapeHtml(String(summary.publishedPosts || 0))}</span></div>
+          </div>
+          <div class="muted spacer">
+            Last dispatch run: ${escapeHtml(formatTimestamp(summary.lastRunAt || "")) || "n/a"} · Last successful dispatch: ${escapeHtml(formatTimestamp(summary.lastSuccessAt || "")) || "n/a"}
+          </div>
+        `;
+      }
+
       function activateTab(name) {
         document.querySelectorAll(".tab").forEach((button) => {
           button.classList.toggle("active", button.dataset.tab === name);
@@ -900,6 +922,7 @@
           document.getElementById("metric-posts").textContent = data.metrics.posts;
           document.getElementById("metric-replies").textContent = data.metrics.replies;
           renderHeartbeat(data.heartbeat || {});
+          renderDispatchSummary(data.dispatchSummary || {});
           renderPending(data.pending || []);
           renderPendingReplies(data.pendingReplies || []);
           renderReplies(data.replyActivity || []);

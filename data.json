@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T07:33:08.041390+00:00",
+  "generatedAt": "2026-03-10T07:40:29.452512+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4344,10 +4344,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T07:33:07.960020+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T07:40:29.344605+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T07:33:07.960020+00:00",
+    "lastSuccessAt": "2026-03-10T07:35:14.378872+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T07:00:34.252480+00:00",
@@ -4382,15 +4382,258 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T07:32:09.786479+00:00",
-        "lastSuccessAt": "2026-03-10T07:02:37.938752+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T07:35:14.378872+00:00",
+        "lastSuccessAt": "2026-03-10T07:35:14.378872+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review",
-          "dryRun": false
+          "sync": {
+            "applied": [
+              {
+                "id": "P17",
+                "action": "archive",
+                "issue": 17
+              },
+              {
+                "id": "P16",
+                "action": "archive",
+                "issue": 16
+              }
+            ],
+            "count": 2
+          },
+          "discoverReplies": {
+            "discovered": 0,
+            "count": 27,
+            "targetsChecked": 0,
+            "diagnostics": [
+              {
+                "scope": "discover",
+                "account": "@4UAIcrypto",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "no target found"
+              },
+              {
+                "scope": "discover",
+                "account": "@atomicform",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-07-03T16:05:00.000Z",
+                "statusLink": "https://x.com/bryanbrinkman/status/1940803975449592150"
+              },
+              {
+                "scope": "discover",
+                "account": "@attio",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-02-04T16:14:12.000Z",
+                "statusLink": "https://x.com/attio/status/2019082068538384468"
+              },
+              {
+                "scope": "discover",
+                "account": "@beulrunyang",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-12-08T01:24:40.000Z",
+                "statusLink": "https://x.com/beulrunyang/status/1997839714985132324"
+              },
+              {
+                "scope": "discover",
+                "account": "@bhdigitalassets",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "no target found"
+              },
+              {
+                "scope": "discover",
+                "account": "@breathofestova",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-01-01T00:17:53.000Z",
+                "statusLink": "https://x.com/BreathOfEstova/status/2006520215497224620"
+              },
+              {
+                "scope": "discover",
+                "account": "@chase",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-12-10T20:22:22.000Z",
+                "statusLink": "https://x.com/Chase/status/1998850801750679693"
+              },
+              {
+                "scope": "discover",
+                "account": "@clawnad9",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-02-01T05:40:53.000Z",
+                "statusLink": "https://x.com/clawnad9/status/2017835525777068339"
+              },
+              {
+                "scope": "discover",
+                "account": "@communahub",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-04-17T23:17:55.000Z",
+                "statusLink": "https://x.com/CommunaHub/status/1913009054516981944"
+              },
+              {
+                "scope": "discover",
+                "account": "@CryptoHayes",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "no target found"
+              },
+              {
+                "scope": "discover",
+                "account": "@delvallecrypto",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "no target found"
+              },
+              {
+                "scope": "discover",
+                "account": "@dreykoooooooo",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-11-23T23:16:54.000Z",
+                "statusLink": "https://x.com/dreykoooooooo/status/1992734128878547271"
+              }
+            ]
+          },
+          "enqueueReplies": {
+            "enqueued": [],
+            "skipped": [
+              {
+                "id": "R1",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R2",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R3",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R5",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R6",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R7",
+                "reason": "sync_terminal_status:dry_run"
+              },
+              {
+                "id": "R8",
+                "reason": "sync_terminal_status:dry_run"
+              },
+              {
+                "id": "R9",
+                "reason": "sync_terminal_status:dry_run"
+              },
+              {
+                "id": "R10",
+                "reason": "sync_terminal_status:dry_run"
+              },
+              {
+                "id": "R11",
+                "reason": "sync_terminal_status:dry_run"
+              },
+              {
+                "id": "R12",
+                "reason": "sync_terminal_status:dry_run"
+              },
+              {
+                "id": "R13",
+                "reason": "sync_terminal_status:dry_run"
+              },
+              {
+                "id": "R14",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R15",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R16",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R17",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R18",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R19",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R20",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R21",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R22",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R23",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R24",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R25",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R26",
+                "reason": "sync_terminal_status:failed"
+              },
+              {
+                "id": "R27",
+                "reason": "sync_terminal_status:failed"
+              },
+              {
+                "id": "R28",
+                "reason": "sync_terminal_status:sent"
+              }
+            ],
+            "count": 0
+          },
+          "publish": {
+            "processed": 0,
+            "dryRun": false
+          },
+          "replies": {
+            "processed": [],
+            "count": 0,
+            "dryRun": false
+          }
         },
-        "nextRunAt": "2026-03-10T07:40:00+00:00",
+        "nextRunAt": "2026-03-10T07:50:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4421,41 +4664,33 @@
             "count": 3
           }
         },
-        "nextRunAt": "2026-03-10T07:35:00+00:00",
+        "nextRunAt": "2026-03-10T07:45:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T07:33:07.960020+00:00",
+        "lastRunAt": "2026-03-10T07:40:29.344605+00:00",
         "lastSuccessAt": "2026-03-10T07:33:07.960020+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T07:33:04.709834+00:00",
-            "replyCandidates": 3,
-            "sourceCandidates": 12
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T07:33:04.737162+00:00",
-            "sourceEntries": 17,
-            "sourceSuggestions": 8,
-            "replyEntries": 22,
-            "replySuggestions": 4
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T07:33:04.792524+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T07:34:00+00:00",
+        "nextRunAt": "2026-03-10T07:42:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
+  },
+  "dispatchSummary": {
+    "lastRunAt": "2026-03-10T07:35:14.378872+00:00",
+    "lastSuccessAt": "2026-03-10T07:35:14.378872+00:00",
+    "status": "ok",
+    "discoveredReplies": 0,
+    "targetsChecked": 0,
+    "enqueuedReplies": 0,
+    "sentReplies": 0,
+    "publishedPosts": 0
   },
   "learning": {
     "sourceLearning": [
