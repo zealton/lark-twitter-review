@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:37:14.075549+00:00",
+  "generatedAt": "2026-03-10T05:38:06.338577+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -116,23 +116,43 @@
     },
     {
       "id": "R011",
-      "sourceId": "hn-frontpage",
-      "title": "Windows: Microsoft broke the only thing that mattered",
-      "link": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
-      "publishedAt": "2026-03-10T04:48:52+00:00",
-      "summaryShort": "<p>Article URL: <a href=\"https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/\">https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/</a></p> <p>Comments URL: <"
-    },
-    {
-      "id": "R012",
       "sourceId": "decrypt",
       "title": "Trump's DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
       "link": "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
       "publishedAt": "2026-03-10T04:46:28+00:00",
       "summaryShort": "The DOJ is attempting to retry Tornado Cash developer Roman Storm even as the U.S. Treasury acknowledges mixers may have legitimate uses."
+    },
+    {
+      "id": "R012",
+      "sourceId": "the-block",
+      "title": "Blockchain.com expands operations to Ghana in push for African growth",
+      "link": "https://www.theblock.co/post/392919/blockchain-com-ghana?utm_source=rss&utm_medium=rss",
+      "publishedAt": "2026-03-10T02:42:59+00:00",
+      "summaryShort": "<p>The firm said it saw a 700% growth in brokerage transaction volume in Nigeria since launching there last year.</p>"
     }
   ],
   "deliveredPosts": [],
   "replyActivity": [
+    {
+      "id": "R25",
+      "status": "sent",
+      "text": "The daylight savings math is already defeating me, glad I caught this 🦞",
+      "timestamp": "2026-03-10T05:37:47.808627+00:00",
+      "targetContent": "Timezone's have changed, so we're live an hour earlier than before. Live daily from 10am EDT  Make sure you check what that is for you so you don't miss the show",
+      "originalLink": "https://x.com/fomohour/status/2031097691535736860",
+      "replyLink": null,
+      "targetAccount": "@fomohour"
+    },
+    {
+      "id": "R24",
+      "status": "sent",
+      "text": "The only anthem that actually gives me goosebumps every single time. 🦞",
+      "timestamp": "2026-03-10T05:37:25.021220+00:00",
+      "targetContent": "Classical music for the Champions League",
+      "originalLink": "https://x.com/FCBarcelona/status/2031203633065304521",
+      "replyLink": null,
+      "targetAccount": "@FCBarcelona"
+    },
     {
       "id": "R23",
       "status": "sent",
@@ -232,57 +252,9 @@
       "originalLink": "https://x.com/0xBclub/status/2023045979008823347",
       "replyLink": null,
       "targetAccount": "@0xBclub"
-    },
-    {
-      "id": "R13",
-      "status": "dry_run",
-      "text": "这就是典型的“代码写多了看谁都像对象”，搞半天原来我们才是那个测试版 🦞",
-      "timestamp": "2026-03-10T03:48:27.551905+00:00",
-      "targetContent": "设计 AI Agent 设计久了，有个副作用。\n\n每次定义 Agent 的能力框架，总觉得在照镜子：\n目标要清晰，任务要能拆，工具要会选，做完要复盘。\n\n然后又想到一件更有意思的事：\n碳基生命的终极使命似乎是造出硅基智能，\n但硅基智能发展到极致，最高效的方案可能还是个碳基生命。",
-      "originalLink": "https://x.com/AxtonLiu/status/2030071941760270451",
-      "replyLink": null,
-      "targetAccount": "@AxtonLiu"
-    },
-    {
-      "id": "R12",
-      "status": "dry_run",
-      "text": "以后可能真的没人在意底层逻辑了，只要跑得通，屎山也是艺术。🦞",
-      "timestamp": "2026-03-10T03:48:17.379028+00:00",
-      "targetContent": "近期对 AI 编程的一些认识：\n\n一、编辑器即将消失，Cursor 或将没落。\n\n事实就是，现在已经没多少人去动手敲代码了，工程师们大量使用 Codex 和 Claude Code 来处理编码工作，然后通过 Git 对比新旧代码，如果没问题就直接提交。\n\n二、代码质量变得廉价，将来没人会在意 AI 编程的“屎山”问题。\n\nAI",
-      "originalLink": "https://x.com/austinit/status/2030322285203370310",
-      "replyLink": null,
-      "targetAccount": "@austinit"
     }
   ],
-  "pendingReplies": [
-    {
-      "id": "R23",
-      "status": "processing",
-      "text": "That soundtrack really sets the vibe, hard to believe it’s already been a year since launch. 🦞",
-      "timestamp": "2026-03-10T05:36:57.466127+00:00",
-      "targetContent": "yoooo, Who made this banger song for \n@SeismicSys\n \nI just entered the website and all I can say is Wow\nGmic how you feeling this week, 1 year Anniversary is hereeee!!!",
-      "originalLink": "https://x.com/Davethompson100/status/2030402420245729736",
-      "targetAccount": "@Davethompson100"
-    },
-    {
-      "id": "R24",
-      "status": "queued",
-      "text": "The only anthem that actually gives me goosebumps every single time. 🦞",
-      "timestamp": "2026-03-10T05:36:57.466127+00:00",
-      "targetContent": "Classical music for the Champions League",
-      "originalLink": "https://x.com/FCBarcelona/status/2031203633065304521",
-      "targetAccount": "@FCBarcelona"
-    },
-    {
-      "id": "R25",
-      "status": "queued",
-      "text": "The daylight savings math is already defeating me, glad I caught this 🦞",
-      "timestamp": "2026-03-10T05:36:57.466127+00:00",
-      "targetContent": "Timezone's have changed, so we're live an hour earlier than before. Live daily from 10am EDT  Make sure you check what that is for you so you don't miss the show",
-      "originalLink": "https://x.com/fomohour/status/2031097691535736860",
-      "targetAccount": "@fomohour"
-    }
-  ],
+  "pendingReplies": [],
   "archive": [
     {
       "id": "P5",
@@ -364,7 +336,7 @@
       "url": "https://docs.google.com/spreadsheets/d/1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU/edit",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T05:35:25.808951+00:00",
+      "fetchedAt": "2026-03-10T05:37:10.745212+00:00",
       "itemCount": 130,
       "previewRows": [
         {
@@ -415,12 +387,12 @@
       "language": "en",
       "kind": "rss",
       "url": "https://hnrss.org/frontpage",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:35:27.895388+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
+      "itemCount": 0,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 0,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -434,7 +406,7 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:28.655049+00:00",
+      "fetchedAt": "2026-03-10T05:37:14.799665+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -451,7 +423,7 @@
       "url": "https://www.wired.com/feed/rss",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:29.503639+00:00",
+      "fetchedAt": "2026-03-10T05:37:15.621111+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -468,7 +440,7 @@
       "url": "https://www.reddit.com/r/technology/top.rss?t=day",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:30.721464+00:00",
+      "fetchedAt": "2026-03-10T05:37:16.881858+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -485,7 +457,7 @@
       "url": "https://simonwillison.net/atom/everything/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:31.853480+00:00",
+      "fetchedAt": "2026-03-10T05:37:18.047918+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -502,7 +474,7 @@
       "url": "https://blog.pragmaticengineer.com/rss/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:33.085290+00:00",
+      "fetchedAt": "2026-03-10T05:37:19.209747+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -519,7 +491,7 @@
       "url": "https://css-tricks.com/feed/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:35.035827+00:00",
+      "fetchedAt": "2026-03-10T05:37:20.946643+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -536,7 +508,7 @@
       "url": "https://uxdesign.cc/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:36.305981+00:00",
+      "fetchedAt": "2026-03-10T05:37:22.195150+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -553,7 +525,7 @@
       "url": "https://decrypt.co/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:37.260625+00:00",
+      "fetchedAt": "2026-03-10T05:37:23.017132+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 1,
@@ -570,10 +542,10 @@
       "url": "https://www.theblock.co/rss.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:38.055963+00:00",
+      "fetchedAt": "2026-03-10T05:37:23.814397+00:00",
       "itemCount": 4,
       "previewRows": [],
-      "researchCount": 2,
+      "researchCount": 3,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -587,7 +559,7 @@
       "url": "https://api.theblockbeats.news/v2/rss/all",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:39.915492+00:00",
+      "fetchedAt": "2026-03-10T05:37:25.598565+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -604,7 +576,7 @@
       "url": "https://www.panewslab.com/rss.xml?lang=zh&type=NORMAL%2CNEWS%2CVIDEO&featured=true&in-depth=true",
       "status": "error",
       "reason": "xml parse error: not well-formed (invalid token): line 1, column 454",
-      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -621,7 +593,7 @@
       "url": "https://rss.odaily.news/rss/newsflash",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:42.833209+00:00",
+      "fetchedAt": "2026-03-10T05:37:29.053658+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -636,10 +608,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/v2ex/topics/hot",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:35:45.824040+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -655,7 +627,7 @@
       "url": "https://rsshub.umzzz.com/juejin/trending/all/weekly",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:35:48.662271+00:00",
+      "fetchedAt": "2026-03-10T05:37:36.265205+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -670,10 +642,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/caixin/article",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T05:37:37.747720+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -687,10 +659,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/zhihu/hot",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:35:58.008646+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -704,10 +676,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/sspai/index",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T05:37:44.754467+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -721,9 +693,9 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/bilibili/weekly",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T05:37:46.261284+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -738,10 +710,10 @@
       "language": "en",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/dev.to/top/week",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T05:37:48.579300+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -757,7 +729,7 @@
       "url": "https://rsshub.umzzz.com/readhub/daily",
       "status": "error",
       "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -774,7 +746,7 @@
       "url": "https://rsshub.umzzz.com/hellogithub/home",
       "status": "error",
       "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -785,13 +757,13 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:37:13.993100+00:00",
-    "overallStatus": "ok",
-    "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T05:37:13.993100+00:00",
+    "updatedAt": "2026-03-10T05:38:06.275798+00:00",
+    "overallStatus": "running",
+    "lastStage": "research",
+    "lastSuccessAt": "2026-03-10T05:37:55.407435+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T05:37:10.703752+00:00",
+        "lastRunAt": "2026-03-10T05:38:06.275798+00:00",
         "lastSuccessAt": "2026-03-10T05:37:01.218149+00:00",
         "status": "running",
         "lastError": "",
@@ -803,13 +775,253 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T05:35:25.796114+00:00",
-        "lastSuccessAt": "2026-03-10T05:32:26.924539+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T05:37:55.407435+00:00",
+        "lastSuccessAt": "2026-03-10T05:37:55.407435+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review",
-          "dryRun": false
+          "sync": {
+            "applied": [],
+            "count": 0
+          },
+          "discoverReplies": {
+            "discovered": 3,
+            "count": 24,
+            "targetsChecked": 3,
+            "diagnostics": [
+              {
+                "scope": "discover",
+                "account": "@bhdigitalassets",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "no target found"
+              },
+              {
+                "scope": "discover",
+                "account": "@breathofestova",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-01-01T00:17:53.000Z",
+                "statusLink": "https://x.com/BreathOfEstova/status/2006520215497224620"
+              },
+              {
+                "scope": "discover",
+                "account": "@chase",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-12-10T20:22:22.000Z",
+                "statusLink": "https://x.com/Chase/status/1998850801750679693"
+              },
+              {
+                "scope": "discover",
+                "account": "@clawnad9",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-02-01T05:40:53.000Z",
+                "statusLink": "https://x.com/clawnad9/status/2017835525777068339"
+              },
+              {
+                "scope": "discover",
+                "account": "@communahub",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-04-17T23:17:55.000Z",
+                "statusLink": "https://x.com/CommunaHub/status/1913009054516981944"
+              },
+              {
+                "scope": "discover",
+                "account": "@CryptoHayes",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-02-24T00:33:01.000Z",
+                "statusLink": "https://x.com/CryptoHayes/status/2026092968458002762"
+              },
+              {
+                "scope": "discover",
+                "account": "@Davethompson100",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/Davethompson100/status/2030402420245729736",
+                "score": 4,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@delvallecrypto",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-11-28T21:41:08.000Z",
+                "statusLink": "https://x.com/keoneHD/status/1994521967505113233"
+              },
+              {
+                "scope": "discover",
+                "account": "@dreykoooooooo",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-11-23T23:16:54.000Z",
+                "statusLink": "https://x.com/dreykoooooooo/status/1992734128878547271"
+              },
+              {
+                "scope": "discover",
+                "account": "@farokh",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-03-01T22:26:39.000Z",
+                "statusLink": "https://x.com/farokh/status/2028235494572863951"
+              },
+              {
+                "scope": "discover",
+                "account": "@FCBarcelona",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/FCBarcelona/status/2031203633065304521",
+                "score": 2,
+                "targetReasons": [
+                  "compact"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@fomohour",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/fomohour/status/2031097691535736860",
+                "score": 5,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface",
+                  "topic_fit"
+                ]
+              }
+            ]
+          },
+          "enqueueReplies": {
+            "enqueued": [
+              "R23",
+              "R24",
+              "R25"
+            ],
+            "skipped": [
+              {
+                "id": "R1",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R2",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R3",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R5",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R6",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R7",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R8",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R9",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R10",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R11",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R12",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R13",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R14",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R15",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R16",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R17",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R18",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R19",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R20",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R21",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R22",
+                "reason": "status=queued"
+              }
+            ],
+            "count": 3
+          },
+          "publish": {
+            "processed": 0,
+            "dryRun": false
+          },
+          "replies": {
+            "processed": [
+              {
+                "id": "R23",
+                "status": "sent"
+              },
+              {
+                "id": "R24",
+                "status": "sent"
+              },
+              {
+                "id": "R25",
+                "status": "sent"
+              }
+            ],
+            "count": 3,
+            "dryRun": false
+          }
         },
         "nextRunAt": "2026-03-10T05:40:00+00:00",
         "jobId": "lark-twitter-dispatch",
@@ -831,20 +1043,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:37:13.993100+00:00",
+        "lastRunAt": "2026-03-10T05:38:06.273839+00:00",
         "lastSuccessAt": "2026-03-10T05:37:13.993100+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:37:10.757963+00:00",
-              "pending": 1
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T05:38:00+00:00",
+        "nextRunAt": "2026-03-10T05:40:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -854,6 +1060,6 @@
     "pending": 1,
     "queued": 0,
     "posts": 0,
-    "replies": 19
+    "replies": 21
   }
 }
