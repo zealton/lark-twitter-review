@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T17:10:00.736718+00:00",
+  "generatedAt": "2026-03-10T17:12:07.791572+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4621,10 +4621,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T17:10:00.648305+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T17:12:07.687328+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T17:10:00.648305+00:00",
+    "lastSuccessAt": "2026-03-10T17:12:07.629632+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T16:46:14.552500+00:00",
@@ -4932,8 +4932,8 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T17:07:02.479807+00:00",
-        "lastSuccessAt": "2026-03-10T17:07:02.479807+00:00",
+        "lastRunAt": "2026-03-10T17:12:07.629632+00:00",
+        "lastSuccessAt": "2026-03-10T17:12:07.629632+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -4942,37 +4942,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T17:12:02.479807+00:00",
+        "nextRunAt": "2026-03-10T17:17:07.629632+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T17:10:00.648305+00:00",
+        "lastRunAt": "2026-03-10T17:12:07.687328+00:00",
         "lastSuccessAt": "2026-03-10T17:10:00.648305+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T17:09:56.769494+00:00",
-            "replyCandidates": 7,
-            "sourceCandidates": 10
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T17:09:56.795034+00:00",
-            "sourceEntries": 21,
-            "sourceSuggestions": 8,
-            "replyEntries": 30,
-            "replySuggestions": 9
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T17:09:56.848533+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T17:12:00.648305+00:00",
+        "nextRunAt": "2026-03-10T17:14:07.687328+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
