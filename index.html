@@ -82,6 +82,26 @@
         font-size: 34px;
         font-weight: 700;
       }
+      .heartbeat-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 14px;
+        margin-top: 14px;
+      }
+      .heartbeat-box {
+        background: rgba(255,255,255,.58);
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        padding: 16px;
+      }
+      .heartbeat-stage {
+        border-top: 1px solid var(--line);
+        padding: 12px 0;
+      }
+      .heartbeat-stage:first-child { border-top: 0; padding-top: 0; }
+      .status-ok { color: var(--good); }
+      .status-running { color: var(--accent-2); }
+      .status-degraded, .status-failed { color: var(--bad); }
       .panel h2 {
         margin: 0 0 12px;
         font-size: 20px;
@@ -200,6 +220,18 @@
             the Mac executor can sync and execute later.
           </p>
           <p class="meta" id="generated-at"></p>
+          <div class="heartbeat-grid">
+            <div class="heartbeat-box">
+              <div class="label">System Heartbeat</div>
+              <div class="value" id="heartbeat-status">unknown</div>
+              <div class="meta" id="heartbeat-updated"></div>
+            </div>
+            <div class="heartbeat-box">
+              <div class="label">Last Success</div>
+              <div class="value" id="heartbeat-stage">n/a</div>
+              <div class="meta" id="heartbeat-success"></div>
+            </div>
+          </div>
         </div>
         <div class="metrics">
           <div class="metric"><div class="label">Pending</div><div class="value" id="metric-pending">0</div></div>
@@ -255,9 +287,10 @@
             <div class="stack">
               <div class="panel">
                 <h2>Reply Notes</h2>
-                <div class="muted">
+                <div class="muted" id="reply-notes-copy">
                   This tab separates queued replies from sent replies so you can audit what the agent plans to send versus what actually got delivered.
                 </div>
+                <div class="spacer" id="heartbeat-stage-list"></div>
               </div>
             </div>
           </div>
@@ -473,6 +506,34 @@
         `).join("");
       }
 
+      function renderHeartbeat(heartbeat) {
+        const overall = heartbeat?.overallStatus || "unknown";
+        const statusEl = document.getElementById("heartbeat-status");
+        statusEl.textContent = overall;
+        statusEl.className = `value status-${overall}`;
+        document.getElementById("heartbeat-updated").textContent = heartbeat?.updatedAt ? `Last heartbeat: ${formatTimestamp(heartbeat.updatedAt)}` : "No heartbeat yet.";
+        document.getElementById("heartbeat-stage").textContent = heartbeat?.lastStage || "n/a";
+        document.getElementById("heartbeat-success").textContent = heartbeat?.lastSuccessAt ? `Last success: ${formatTimestamp(heartbeat.lastSuccessAt)}` : "No successful run yet.";
+
+        const stageRoot = document.getElementById("heartbeat-stage-list");
+        const stages = heartbeat?.stages || {};
+        const blocks = Object.entries(stages).map(([stage, state]) => `
+          <div class="heartbeat-stage">
+            <strong>${escapeHtml(stage)}</strong>
+            <div class="meta">Status: <span class="status-${escapeHtml(state.status || "unknown")}">${escapeHtml(state.status || "unknown")}</span></div>
+            <div class="meta">Last run: ${escapeHtml(formatTimestamp(state.lastRunAt || "")) || "n/a"}</div>
+            <div class="meta">Last success: ${escapeHtml(formatTimestamp(state.lastSuccessAt || "")) || "n/a"}</div>
+            ${state.lastError ? `<div class="meta">Last error: ${escapeHtml(state.lastError)}</div>` : ""}
+          </div>
+        `).join("");
+        stageRoot.innerHTML = `
+          <details class="fold" open>
+            <summary>Execution Heartbeat</summary>
+            <div>${blocks || '<div class="empty">No heartbeat stages yet.</div>'}</div>
+          </details>
+        `;
+      }
+
       function activateTab(name) {
         document.querySelectorAll(".tab").forEach((button) => {
           button.classList.toggle("active", button.dataset.tab === name);
@@ -490,6 +551,7 @@
           document.getElementById("metric-queued").textContent = data.metrics.queued;
           document.getElementById("metric-posts").textContent = data.metrics.posts;
           document.getElementById("metric-replies").textContent = data.metrics.replies;
+          renderHeartbeat(data.heartbeat || {});
           renderPending(data.pending || []);
           renderPendingReplies(data.pendingReplies || []);
           renderReplies(data.replyActivity || []);
