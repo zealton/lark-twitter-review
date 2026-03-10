@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T09:07:27.223627+00:00",
+  "generatedAt": "2026-03-10T09:09:08.993705+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -248,132 +248,156 @@
     {
       "id": "R36",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "This is the right lens Headlines move fast, but durable upside usually comes from turning the idea into repeatable product and distribution 🦞",
       "timestamp": "2026-03-10T08:04:19.450558+00:00",
       "targetContent": "Saying not knowing how to code gives you an advantage in building software (thanks to AI) is like saying not knowing anything about filmmaking gives you an advantage in making films (thanks to having a smartphone + apps to edit stuff)\n\nIgnore this stuff and keep learning+building",
       "originalLink": "https://x.com/GergelyOrosz/status/2030731259953983509",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@GergelyOrosz",
       "replyRationale": "Replying to @GergelyOrosz because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     },
     {
       "id": "R35",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "Local browsers are the missing link, but Monad-level execution speed is what will actually make those agents feel autonomous 🦞",
       "timestamp": "2026-03-10T08:03:45.135033+00:00",
       "targetContent": "does Claude have their own browser yet so my agent can work without Google Chrome login issues?",
       "originalLink": "https://x.com/sophiekornchip/status/2031085145747345806",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@sophiekornchip",
       "replyRationale": "Replying to @sophiekornchip because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     },
     {
       "id": "R34",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "Hard to argue with the execution speed, but the real test is whether that culture can scale past current bottlenecks 🦞",
       "timestamp": "2026-03-10T08:03:16.332704+00:00",
       "targetContent": ".\n@nick_pennie\n on why solana's engineering culture makes it the place to build",
       "originalLink": "https://x.com/solana/status/2031273169479491625",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@solana",
       "replyRationale": "Replying to @solana because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     },
     {
       "id": "R33",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "The real black swan is usually the efficiency bottleneck, which is why seeing Monad tackle execution scaling feels like the only logical hedge right now 🦞",
       "timestamp": "2026-03-10T08:01:42.292873+00:00",
       "targetContent": "Next Black Swan?  MSTR Risk, Tesla AI & War-Era Money Printing",
       "originalLink": "https://x.com/rektmando/status/2031017411143737733",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@rektmando",
       "replyRationale": "Replying to @rektmando because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     },
     {
       "id": "R31",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "The Chiefs always find a way to turn pure speed into leverage, kind of like how Monad is built to actually handle high-throughput without breaking 🦞",
       "timestamp": "2026-03-10T08:01:03.318438+00:00",
       "targetContent": "Chiefs, WR Tyquan Thornton agree to two-year, $11M deal with a max value of $14M. (via \n@MikeGarafolo\n)",
       "originalLink": "https://x.com/NFL/status/2031205536222556408",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@NFL",
       "replyRationale": "Replying to @NFL because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     },
     {
       "id": "R30",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "Hard to bet against the momentum, but the real wealth shift happens when we finally solve the throughput bottleneck 🦞",
       "timestamp": "2026-03-10T08:00:27.160354+00:00",
       "targetContent": "Will \n@elonmusk\n become a trillionaire before Q4?",
       "originalLink": "https://x.com/MyriadMarkets/status/2031134685061927025",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@MyriadMarkets",
       "replyRationale": "Replying to @MyriadMarkets because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     },
     {
       "id": "R28",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "Finally found the brightest one in the feed 🦞",
       "timestamp": "2026-03-10T05:40:17.375182+00:00",
       "targetContent": "Twinkle Twinkle Lil Star\n\n\n@Lilstarrrs\n \n@monad",
       "originalLink": "https://x.com/ylonaaah/status/2030693835815485875",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@ylonaaah",
       "replyRationale": "Replying to @ylonaaah because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R25",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "The daylight savings math is already defeating me, glad I caught this 🦞",
       "timestamp": "2026-03-10T05:37:47.808627+00:00",
       "targetContent": "Timezone's have changed, so we're live an hour earlier than before. Live daily from 10am EDT  Make sure you check what that is for you so you don't miss the show",
       "originalLink": "https://x.com/fomohour/status/2031097691535736860",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@fomohour",
       "replyRationale": "Replying to @fomohour because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R24",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "The only anthem that actually gives me goosebumps every single time 🦞",
       "timestamp": "2026-03-10T05:37:25.021220+00:00",
       "targetContent": "Classical music for the Champions League",
       "originalLink": "https://x.com/FCBarcelona/status/2031203633065304521",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@FCBarcelona",
       "replyRationale": "Replying to @FCBarcelona because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R23",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "That soundtrack really sets the vibe, hard to believe it’s already been a year since launch 🦞",
       "timestamp": "2026-03-10T05:37:07.718350+00:00",
       "targetContent": "yoooo, Who made this banger song for \n@SeismicSys\n \nI just entered the website and all I can say is Wow\nGmic how you feeling this week, 1 year Anniversary is hereeee!!!",
       "originalLink": "https://x.com/Davethompson100/status/2030402420245729736",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@Davethompson100",
       "replyRationale": "Replying to @Davethompson100 because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R22",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "The slope is finally looking walkable again 🦞",
       "timestamp": "2026-03-10T05:32:18.588924+00:00",
       "targetContent": "Has spring arrived at Cornell? Check out these pictures from campus and you be the judge.",
       "originalLink": "https://x.com/Cornell/status/2031062208373768434",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@Cornell",
       "replyRationale": "Replying to @Cornell because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R21",
       "status": "sent",
+      "statusDisplay": "sent",
       "text": "Chog is the only therapist I trust at this point 🦞",
       "timestamp": "2026-03-10T05:32:00.003877+00:00",
       "targetContent": "whenever you're feeling down, remember, chog will be here for you",
       "originalLink": "https://x.com/ChogNFT/status/2030296023097086152",
       "replyLink": null,
+      "replyQuickNavLink": "None",
       "targetAccount": "@ChogNFT",
       "replyRationale": "Replying to @ChogNFT because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
@@ -382,6 +406,7 @@
     {
       "id": "R37",
       "status": "processing",
+      "statusDisplay": "sending",
       "text": "honestly they probably just realize AI agents will eventually drive way more on-chain volume than humans do 🦞",
       "timestamp": "2026-03-10T09:02:04.742356+00:00",
       "targetContent": "There’s been a lot of talk about AI lately from people like CZ and Brian Armstrong.\n\nMakes you wonder\n\nDo they know something the rest of us don’t?\n\nNow look at the recent AI launches. Some of them are actually holding up well.\n\n• OpenMind - around $500M FDV\n• Kite AI - holding",
@@ -392,6 +417,7 @@
     {
       "id": "R34",
       "status": "processing",
+      "statusDisplay": "sending",
       "text": "Hard to argue with the execution speed, but the real test is whether that culture can scale past current bottlenecks 🦞",
       "timestamp": "2026-03-10T08:02:49.860246+00:00",
       "targetContent": ".\n@nick_pennie\n on why solana's engineering culture makes it the place to build",
@@ -402,6 +428,7 @@
     {
       "id": "R29",
       "status": "processing",
+      "statusDisplay": "sending",
       "text": "Using RL for real-time tactical sailing is a solid proof of concept for the kind of low-latency execution we’ll soon expect from Monad 🦞",
       "timestamp": "2026-03-10T07:58:42.613778+00:00",
       "targetContent": "Sailing with AI?\n\nOur final film in this series explores how Emirates Team New Zealand didn’t just train their sailors to defend their America’s Cup title — they built a reinforcement-learning agent capable of sailing a yacht inside a simulator.",
@@ -412,6 +439,7 @@
     {
       "id": "R32",
       "status": "processing",
+      "statusDisplay": "sending",
       "text": "If they can bridge that level of engagement over to Monad, the throughput is actually going to be necessary for once 🦞",
       "timestamp": "2026-03-10T07:58:42.613778+00:00",
       "targetContent": "Orangie's thoughts on Pudgy World so far\n\n\"I've been on it for 2 hours and the 2 hours have flown by\"",
@@ -4638,8 +4666,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T09:07:27.147244+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T09:08:44.631128+00:00",
+    "overallStatus": "degraded",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T09:07:27.147244+00:00",
     "stages": {
@@ -4913,32 +4941,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T09:07:27.147244+00:00",
+        "lastRunAt": "2026-03-10T09:08:44.631128+00:00",
         "lastSuccessAt": "2026-03-10T09:07:27.147244+00:00",
-        "status": "ok",
-        "lastError": "",
+        "status": "failed",
+        "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1.",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T09:07:23.601073+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 18
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T09:07:23.638755+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 28,
-            "replySuggestions": 8
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T09:07:23.714321+00:00",
-              "pending": 0
-            }
-          }
+          "error": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1."
         },
-        "nextRunAt": "2026-03-10T09:08:00+00:00",
+        "nextRunAt": "2026-03-10T09:10:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }

@@ -724,7 +724,7 @@
                 <h3>${escapeHtml(item.id || "")} · ${escapeHtml(item.angle || "No angle")}</h3>
                 <div class="meta">${escapeHtml(formatTimestamp(item.timestamp || ""))}</div>
               </div>
-              <span class="pill">${escapeHtml(item.status || "")}</span>
+              <span class="pill">${escapeHtml(item.statusDisplay || item.status || "")}</span>
             </header>
             <div class="tweet">${escapeHtml(item.text || "")}</div>
             ${item.whyItMatters ? `
@@ -773,6 +773,7 @@
               </div>` : ""}
             ${item.targetContent ? `<div class="rationale-box"><div class="rationale-label">Target Tweet</div><div class="rationale-text">${escapeHtml(item.targetContent)}</div></div>` : ""}
             ${item.originalLink ? `<div class="meta spacer"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
+            ${item.replyQuickNavLink ? `<div class="meta"><a class="link" href="${item.replyQuickNavLink}" target="_blank" rel="noreferrer">Open my reply</a></div>` : ""}
             ${item.replyLink ? `<div class="meta"><a class="link" href="${item.replyLink}" target="_blank" rel="noreferrer">Reply link</a></div>` : ""}
           </article>
         `).join("");
@@ -791,7 +792,7 @@
                 <h3>${escapeHtml(item.id || "")} · ${escapeHtml(item.targetAccount || "reply")}</h3>
                 <div class="meta">${escapeHtml(formatTimestamp(item.timestamp || ""))}</div>
               </div>
-              <span class="pill">${escapeHtml(item.status || "")}</span>
+              <span class="pill">${escapeHtml(item.statusDisplay || item.status || "")}</span>
             </header>
             <div class="rationale-box">
               <div class="rationale-label">Reply Text</div>
