@@ -251,6 +251,10 @@
           <div class="grid tab-panel active" id="tab-posts">
             <div class="stack">
               <div class="panel">
+                <h2>Post Source Editor</h2>
+                <div id="post-source-editor"></div>
+              </div>
+              <div class="panel">
                 <h2>Pending Post Approval</h2>
                 <div id="pending-list"></div>
               </div>
@@ -275,6 +279,10 @@
           </div>
           <div class="grid tab-panel" id="tab-replies">
             <div class="stack">
+              <div class="panel">
+                <h2>Reply Source Editor</h2>
+                <div id="reply-source-editor"></div>
+              </div>
               <div class="panel">
                 <h2>Pending Replies</h2>
                 <div id="pending-reply-list"></div>
@@ -491,6 +499,45 @@
         `).join("");
       }
 
+      function downloadText(filename, text) {
+        const blob = new Blob([text], { type: "application/json;charset=utf-8" });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement("a");
+        link.href = url;
+        link.download = filename;
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+        URL.revokeObjectURL(url);
+      }
+
+      function renderSourceEditor(rootId, config, copy) {
+        const root = document.getElementById(rootId);
+        if (!config) {
+          root.innerHTML = '<div class="empty">No source editor config yet.</div>';
+          return;
+        }
+        root.innerHTML = `
+          <div class="muted">${escapeHtml(copy)}</div>
+          <div class="actions spacer">
+            <button class="btn ghost" type="button" data-export="${rootId}">Export JSON</button>
+            <a class="btn good" href="${config.editUrl}" target="_blank" rel="noreferrer">Edit Sources</a>
+          </div>
+          <details class="fold spacer">
+            <summary>Show current source config</summary>
+            <div class="tweet">${escapeHtml(config.json || "")}</div>
+          </details>
+          ${config.memberCount !== undefined ? `
+            <div class="meta spacer">Cached reply members: ${escapeHtml(String(config.memberCount || 0))}</div>
+            <div class="meta">Reply lists: ${(config.listUrls || []).map((value) => escapeHtml(value)).join(" | ") || "n/a"}</div>
+            <div class="meta">Seed accounts: ${(config.seedAccounts || []).map((value) => escapeHtml(value)).join(" | ") || "none"}</div>
+          ` : ""}
+        `;
+        root.querySelector(`[data-export="${rootId}"]`)?.addEventListener("click", () => {
+          downloadText(config.exportFilename || `${rootId}.json`, config.json || "{}\n");
+        });
+      }
+
       function renderArchive(items) {
         const root = document.getElementById("archive-list");
         if (!items.length) {
@@ -561,6 +608,16 @@
           renderResearch(data.research || []);
           renderSources(data.sources || []);
           renderArchive(data.archive || []);
+          renderSourceEditor(
+            "post-source-editor",
+            data.sourceEditors?.post,
+            "Export the full post source registry or open an editable GitHub issue with the current JSON prefilled. After sync, the next research fetch uses the updated source set."
+          );
+          renderSourceEditor(
+            "reply-source-editor",
+            data.sourceEditors?.reply,
+            "Export the reply source config or open an editable GitHub issue to replace the reply lists and seed accounts. After sync, the next member refresh uses the updated config."
+          );
         })
         .catch((error) => {
           document.getElementById("pending-list").innerHTML = `<div class="empty">${escapeHtml(error.message)}</div>`;

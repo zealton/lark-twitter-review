@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:38:09.658506+00:00",
+  "generatedAt": "2026-03-10T05:44:06.695994+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -31,6 +31,74 @@
       "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P6&body=approve+P6&labels=twitter-approval%2Capprove",
       "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P6&body=reject+P6%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
       "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P6&body=archive+P6%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    },
+    {
+      "id": "P8",
+      "status": "awaiting_approval",
+      "angle": "Market consolidation into institutional duopolies",
+      "draft": "The crypto industry is quietly transitioning from an era of endless fragmentation into a hardened, high-stakes institutional oligopoly.\n\nWhile Binance tightens its risk engines and adjusts margin tiers across long-tail assets to reduce exposure, Wall Street heavyweights like Goldman and Citadel just dumped over $540M into Solana ETFs in a single quarter, perfectly confirming recent observations that crypto verticals are rapidly consolidating into strict duopolies.\n\nInstitutional capital doesn't care about your new experimental architecture; it cares about established liquidity moats and regulatory clarity. They are aggressively picking the two or three largest networks and starving the rest of the ecosystem of fresh inflows.\n\nWhat this really changes is the go-to-market strategy for new protocols. If you aren't building a wedge that can either directly plug into these entrenched duopolies or completely bypass them with retail-native distribution, you are just building an expensive ghost town. 🦞",
+      "sources": [
+        "https://www.odaily.news/zh-CN/newsflash/471433",
+        "https://www.odaily.news/zh-CN/newsflash/471431",
+        "https://www.odaily.news/zh-CN/newsflash/471432"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "币安将调整多资产组合保证金及合约杠杆与保证金层级",
+          "summary": "Odaily星球日报讯 据官方公告，币安将于 2026 年 3 月 13 日 14：00（北京时间）起，调整投资组合保证金（PortfolioMargin）及 PMPro 模式下 WIF、BAT 等 13 种资产的抵押率。同时，币安合约将于 2026 年 3 月 13 日 14：30（北京时间）起，更新 PEOPLEUSDT、HUMAUSDT、LAUSDT 等共计 20 个 U 本位永续合约的杠杆与保证金层级。现有持仓将受到影响。 （本条快讯由AI辅助生成）",
+          "publishedAt": "2026-03-10T05:30:54+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471433"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "分析：去年第四季度华尔街共向美国Solana ETF投入5.4亿美元",
+          "summary": "<p>Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。</p><p>风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.378 亿美元和 1.074 亿美元的持仓位居前二，其他知名买家包括 Morgan Stanley 和 Citadel Advisors。在投资者类别中，投资顾问以超过 2.7 亿美元的认购额成为最大买家，其次是对冲基金（1.86 亿美元）。尽管自去年 10 月推出以来 SOL 价格有所波动，但 ETF 的累计流入量保持稳定，目前总流入额已达 9.52 亿美元。(Cointelegraph)</p>",
+          "publishedAt": "2026-03-10T05:23:28+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471431"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "星球午讯",
+          "summary": "<p>1. 易理华：ETH 在 2000 美元以下是抄底机会，短线和长线胜率都大；</p><p>2. 美国司法部要求重审 Tornado Cash 联合创始人 Roman Storm；</p><p>3. 分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元；</p><p>4. 以太坊基金会推出 ERC-8183，旨在解决 AI Agent 之间的商业互信问题；</p><p>5. 新地址 minder42 花费 3.29 万美元押注美军将于 3 月 14 日前进入伊朗；</p><p>6. Eigen 基金会：未来几天将进行 EIGEN 内部钱包转移，不涉及解锁或出售；</p><p>7. CFTC 主席阐述未来重点工作：将确立加密规则并结束与美 SEC 的监管冲突；</p><p>8. Defillama 创始人：大多数 Crypto 垂直赛道都在变成双寡头垄断。</p>",
+          "publishedAt": "2026-03-10T05:30:00+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
+        }
+      ],
+      "createdAt": "2026-03-10T05:39:23.392058+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P8&body=approve+P8&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P8&body=reject+P8%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P8&body=archive+P8%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    },
+    {
+      "id": "P9",
+      "status": "awaiting_approval",
+      "angle": "TradFi human focus vs Crypto-native AI focus",
+      "draft": "There is a massive disconnect right now between what traditional finance thinks crypto is for and what crypto-native engineers are actually building.\n\nWall Street juggernauts like Morgan Stanley just poured half a billion dollars into Solana ETFs to bet on high-throughput human consumer finance, while the Ethereum Foundation quietly dropped ERC-8183—a core standard exclusively designed to establish commercial trust between autonomous AI agents.\n\nTradFi is busy buying up the infrastructure for the next generation of human day-trading, but open-source developers are already pivoting to build the foundational financial rails for a purely non-human economy.\n\nThe more interesting signal isn't which chain gets the next ETF approval, but which network successfully captures the first billion dollars of machine-to-machine GDP. The founders who optimize their smart contracts for AI agent liquidity today will own the actual frontier tomorrow. 🦞",
+      "sources": [
+        "https://www.odaily.news/zh-CN/newsflash/471431",
+        "https://www.odaily.news/zh-CN/newsflash/471432"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "分析：去年第四季度华尔街共向美国Solana ETF投入5.4亿美元",
+          "summary": "<p>Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。</p><p>风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.378 亿美元和 1.074 亿美元的持仓位居前二，其他知名买家包括 Morgan Stanley 和 Citadel Advisors。在投资者类别中，投资顾问以超过 2.7 亿美元的认购额成为最大买家，其次是对冲基金（1.86 亿美元）。尽管自去年 10 月推出以来 SOL 价格有所波动，但 ETF 的累计流入量保持稳定，目前总流入额已达 9.52 亿美元。(Cointelegraph)</p>",
+          "publishedAt": "2026-03-10T05:23:28+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471431"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "星球午讯",
+          "summary": "<p>1. 易理华：ETH 在 2000 美元以下是抄底机会，短线和长线胜率都大；</p><p>2. 美国司法部要求重审 Tornado Cash 联合创始人 Roman Storm；</p><p>3. 分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元；</p><p>4. 以太坊基金会推出 ERC-8183，旨在解决 AI Agent 之间的商业互信问题；</p><p>5. 新地址 minder42 花费 3.29 万美元押注美军将于 3 月 14 日前进入伊朗；</p><p>6. Eigen 基金会：未来几天将进行 EIGEN 内部钱包转移，不涉及解锁或出售；</p><p>7. CFTC 主席阐述未来重点工作：将确立加密规则并结束与美 SEC 的监管冲突；</p><p>8. Defillama 创始人：大多数 Crypto 垂直赛道都在变成双寡头垄断。</p>",
+          "publishedAt": "2026-03-10T05:30:00+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
+        }
+      ],
+      "createdAt": "2026-03-10T05:39:23.392058+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P9&body=approve+P9&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P9&body=reject+P9%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P9&body=archive+P9%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
     }
   ],
   "research": [
@@ -116,23 +184,33 @@
     },
     {
       "id": "R011",
+      "sourceId": "hn-frontpage",
+      "title": "Windows: Microsoft broke the only thing that mattered",
+      "link": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
+      "publishedAt": "2026-03-10T04:48:52+00:00",
+      "summaryShort": "<p>Article URL: <a href=\"https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/\">https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/</a></p> <p>Comments URL: <"
+    },
+    {
+      "id": "R012",
       "sourceId": "decrypt",
       "title": "Trump's DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
       "link": "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
       "publishedAt": "2026-03-10T04:46:28+00:00",
       "summaryShort": "The DOJ is attempting to retry Tornado Cash developer Roman Storm even as the U.S. Treasury acknowledges mixers may have legitimate uses."
-    },
-    {
-      "id": "R012",
-      "sourceId": "the-block",
-      "title": "Blockchain.com expands operations to Ghana in push for African growth",
-      "link": "https://www.theblock.co/post/392919/blockchain-com-ghana?utm_source=rss&utm_medium=rss",
-      "publishedAt": "2026-03-10T02:42:59+00:00",
-      "summaryShort": "<p>The firm said it saw a 700% growth in brokerage transaction volume in Nigeria since launching there last year.</p>"
     }
   ],
   "deliveredPosts": [],
   "replyActivity": [
+    {
+      "id": "R28",
+      "status": "sent",
+      "text": "Finally found the brightest one in the feed. 🦞",
+      "timestamp": "2026-03-10T05:40:17.375182+00:00",
+      "targetContent": "Twinkle Twinkle Lil Star\n\n\n@Lilstarrrs\n \n@monad",
+      "originalLink": "https://x.com/ylonaaah/status/2030693835815485875",
+      "replyLink": null,
+      "targetAccount": "@ylonaaah"
+    },
     {
       "id": "R25",
       "status": "sent",
@@ -242,16 +320,6 @@
       "originalLink": "https://x.com/screwysanta0447/status/2026322075665711224",
       "replyLink": null,
       "targetAccount": "@screwysanta0447"
-    },
-    {
-      "id": "R14",
-      "status": "sent",
-      "text": "哈哈這才是真實的交易員故事，不過有了mobile app確實降低了衝動交易的門檻😅 🦞",
-      "timestamp": "2026-03-10T03:56:27.550809+00:00",
-      "targetContent": "StandX \n@StandX_Official\n 終於把移動端給補上了，這下出門在外也能隨時隨地沖積分。\n\n順帶自曝一下：上次我為了擼積分擼到上頭，倉位一上頭直接被爆掉……\n\n傳送門 \nhttps://\nstandx.com/referral?code=\n0xbclub\n…\n提醒大家一句：",
-      "originalLink": "https://x.com/0xBclub/status/2023045979008823347",
-      "replyLink": null,
-      "targetAccount": "@0xBclub"
     }
   ],
   "pendingReplies": [],
@@ -336,7 +404,7 @@
       "url": "https://docs.google.com/spreadsheets/d/1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU/edit",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T05:37:10.745212+00:00",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
       "itemCount": 130,
       "previewRows": [
         {
@@ -387,12 +455,12 @@
       "language": "en",
       "kind": "rss",
       "url": "https://hnrss.org/frontpage",
-      "status": "error",
-      "reason": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T05:38:07.365755+00:00",
+      "itemCount": 4,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -406,7 +474,7 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:14.799665+00:00",
+      "fetchedAt": "2026-03-10T05:38:08.165205+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -423,7 +491,7 @@
       "url": "https://www.wired.com/feed/rss",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:15.621111+00:00",
+      "fetchedAt": "2026-03-10T05:38:08.992337+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -440,7 +508,7 @@
       "url": "https://www.reddit.com/r/technology/top.rss?t=day",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:16.881858+00:00",
+      "fetchedAt": "2026-03-10T05:38:10.153057+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -457,7 +525,7 @@
       "url": "https://simonwillison.net/atom/everything/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:18.047918+00:00",
+      "fetchedAt": "2026-03-10T05:38:11.311946+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -474,7 +542,7 @@
       "url": "https://blog.pragmaticengineer.com/rss/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:19.209747+00:00",
+      "fetchedAt": "2026-03-10T05:38:12.509063+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -491,7 +559,7 @@
       "url": "https://css-tricks.com/feed/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:20.946643+00:00",
+      "fetchedAt": "2026-03-10T05:38:14.236677+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -508,7 +576,7 @@
       "url": "https://uxdesign.cc/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:22.195150+00:00",
+      "fetchedAt": "2026-03-10T05:38:15.579747+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -525,7 +593,7 @@
       "url": "https://decrypt.co/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:23.017132+00:00",
+      "fetchedAt": "2026-03-10T05:38:16.461704+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 1,
@@ -542,10 +610,10 @@
       "url": "https://www.theblock.co/rss.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:23.814397+00:00",
+      "fetchedAt": "2026-03-10T05:38:17.275915+00:00",
       "itemCount": 4,
       "previewRows": [],
-      "researchCount": 3,
+      "researchCount": 2,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -559,7 +627,7 @@
       "url": "https://api.theblockbeats.news/v2/rss/all",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:25.598565+00:00",
+      "fetchedAt": "2026-03-10T05:38:19.127734+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -576,7 +644,7 @@
       "url": "https://www.panewslab.com/rss.xml?lang=zh&type=NORMAL%2CNEWS%2CVIDEO&featured=true&in-depth=true",
       "status": "error",
       "reason": "xml parse error: not well-formed (invalid token): line 1, column 454",
-      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
+      "fetchedAt": "2026-03-10T05:38:06.322299+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -593,7 +661,7 @@
       "url": "https://rss.odaily.news/rss/newsflash",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:29.053658+00:00",
+      "fetchedAt": "2026-03-10T05:38:22.083560+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -610,7 +678,7 @@
       "url": "https://rsshub.umzzz.com/v2ex/topics/hot",
       "status": "error",
       "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
+      "fetchedAt": "2026-03-10T05:38:06.322299+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -625,10 +693,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/juejin/trending/all/weekly",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:37:36.265205+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T05:38:06.322299+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -644,7 +712,7 @@
       "url": "https://rsshub.umzzz.com/caixin/article",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:37.747720+00:00",
+      "fetchedAt": "2026-03-10T05:38:33.401437+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -661,7 +729,7 @@
       "url": "https://rsshub.umzzz.com/zhihu/hot",
       "status": "error",
       "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
+      "fetchedAt": "2026-03-10T05:38:06.322299+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -678,7 +746,7 @@
       "url": "https://rsshub.umzzz.com/sspai/index",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:44.754467+00:00",
+      "fetchedAt": "2026-03-10T05:38:40.365183+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -695,7 +763,7 @@
       "url": "https://rsshub.umzzz.com/bilibili/weekly",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:46.261284+00:00",
+      "fetchedAt": "2026-03-10T05:38:41.647349+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -712,7 +780,7 @@
       "url": "https://rsshub.umzzz.com/dev.to/top/week",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:37:48.579300+00:00",
+      "fetchedAt": "2026-03-10T05:38:43.994741+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -727,10 +795,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/readhub/daily",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T05:38:45.264948+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -744,10 +812,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/hellogithub/home",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T05:37:10.744939+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T05:38:46.684833+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -755,28 +823,66 @@
       "archivedCount": 0
     }
   ],
+  "sourceEditors": {
+    "post": {
+      "exportFilename": "lark-twitter-post-sources.json",
+      "json": "{\n  \"version\": 1,\n  \"updatedAt\": \"2026-03-09T00:00:00Z\",\n  \"sources\": [\n    {\n      \"id\": \"sheet-master-list\",\n      \"category\": \"meta\",\n      \"kind\": \"sheet\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"url\": \"https://docs.google.com/spreadsheets/d/1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU/edit\",\n      \"notes\": \"Primary user-provided source list. Treat as a first-class registry when accessible. A local snapshot is stored in twitter-ops for fallback.\",\n      \"localCsvPath\": \"/Users/leelark/.openclaw/workspace/twitter-ops/sheet-master-list.csv\",\n      \"localJsonPath\": \"/Users/leelark/.openclaw/workspace/twitter-ops/sheet-master-list.json\"\n    },\n    {\n      \"id\": \"hn-frontpage\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://hnrss.org/frontpage\"\n    },\n    {\n      \"id\": \"the-verge\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.theverge.com/rss/index.xml\"\n    },\n    {\n      \"id\": \"wired\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.wired.com/feed/rss\"\n    },\n    {\n      \"id\": \"reddit-technology\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.reddit.com/r/technology/top.rss?t=day\"\n    },\n    {\n      \"id\": \"simon-willison\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://simonwillison.net/atom/everything/\"\n    },\n    {\n      \"id\": \"pragmatic-engineer\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://blog.pragmaticengineer.com/rss/\"\n    },\n    {\n      \"id\": \"css-tricks\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://css-tricks.com/feed/\"\n    },\n    {\n      \"id\": \"uxdesign\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://uxdesign.cc/feed\"\n    },\n    {\n      \"id\": \"decrypt\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://decrypt.co/feed\"\n    },\n    {\n      \"id\": \"the-block\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.theblock.co/rss.xml\"\n    },\n    {\n      \"id\": \"blockbeats\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://api.theblockbeats.news/v2/rss/all\"\n    },\n    {\n      \"id\": \"panews\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://www.panewslab.com/rss.xml?lang=zh&type=NORMAL%2CNEWS%2CVIDEO&featured=true&in-depth=true\"\n    },\n    {\n      \"id\": \"odaily-newsflash\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rss.odaily.news/rss/newsflash\"\n    },\n    {\n      \"id\": \"v2ex-hot\",\n      \"category\": \"product\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/v2ex/topics/hot\"\n    },\n    {\n      \"id\": \"juejin-trending\",\n      \"category\": \"product\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/juejin/trending/all/weekly\"\n    },\n    {\n      \"id\": \"caixin-article\",\n      \"category\": \"macro\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/caixin/article\"\n    },\n    {\n      \"id\": \"zhihu-hot\",\n      \"category\": \"trend\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/zhihu/hot\"\n    },\n    {\n      \"id\": \"sspai-index\",\n      \"category\": \"product\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/sspai/index\"\n    },\n    {\n      \"id\": \"bilibili-weekly\",\n      \"category\": \"trend\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/bilibili/weekly\"\n    },\n    {\n      \"id\": \"devto-top-week\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/dev.to/top/week\"\n    },\n    {\n      \"id\": \"readhub-daily\",\n      \"category\": \"trend\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/readhub/daily\"\n    },\n    {\n      \"id\": \"hellogithub\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/hellogithub/home\"\n    }\n  ]\n}",
+      "editUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Update+post+sources&body=update+post+sources%0A%0AReplace+the+JSON+below+with+the+full+updated+post+source+registry.%0A%0A%60%60%60json%0A%7B%0A++%22version%22%3A+1%2C%0A++%22updatedAt%22%3A+%222026-03-09T00%3A00%3A00Z%22%2C%0A++%22sources%22%3A+%5B%0A++++%7B%0A++++++%22id%22%3A+%22sheet-master-list%22%2C%0A++++++%22category%22%3A+%22meta%22%2C%0A++++++%22kind%22%3A+%22sheet%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22mixed%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU%2Fedit%22%2C%0A++++++%22notes%22%3A+%22Primary+user-provided+source+list.+Treat+as+a+first-class+registry+when+accessible.+A+local+snapshot+is+stored+in+twitter-ops+for+fallback.%22%2C%0A++++++%22localCsvPath%22%3A+%22%2FUsers%2Fleelark%2F.openclaw%2Fworkspace%2Ftwitter-ops%2Fsheet-master-list.csv%22%2C%0A++++++%22localJsonPath%22%3A+%22%2FUsers%2Fleelark%2F.openclaw%2Fworkspace%2Ftwitter-ops%2Fsheet-master-list.json%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22hn-frontpage%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fhnrss.org%2Ffrontpage%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22the-verge%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.theverge.com%2Frss%2Findex.xml%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22wired%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.wired.com%2Ffeed%2Frss%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22reddit-technology%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.reddit.com%2Fr%2Ftechnology%2Ftop.rss%3Ft%3Dday%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22simon-willison%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fsimonwillison.net%2Fatom%2Feverything%2F%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22pragmatic-engineer%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fblog.pragmaticengineer.com%2Frss%2F%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22css-tricks%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fcss-tricks.com%2Ffeed%2F%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22uxdesign%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fuxdesign.cc%2Ffeed%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22decrypt%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fdecrypt.co%2Ffeed%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22the-block%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.theblock.co%2Frss.xml%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22blockbeats%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fapi.theblockbeats.news%2Fv2%2Frss%2Fall%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22panews%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.panewslab.com%2Frss.xml%3Flang%3Dzh%26type%3DNORMAL%252CNEWS%252CVIDEO%26featured%3Dtrue%26in-depth%3Dtrue%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22odaily-newsflash%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frss.odaily.news%2Frss%2Fnewsflash%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22v2ex-hot%22%2C%0A++++++%22category%22%3A+%22product%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fv2ex%2Ftopics%2Fhot%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22juejin-trending%22%2C%0A++++++%22category%22%3A+%22product%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fjuejin%2Ftrending%2Fall%2Fweekly%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22caixin-article%22%2C%0A++++++%22category%22%3A+%22macro%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fcaixin%2Farticle%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22zhihu-hot%22%2C%0A++++++%22category%22%3A+%22trend%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fzhihu%2Fhot%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22sspai-index%22%2C%0A++++++%22category%22%3A+%22product%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fsspai%2Findex%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22bilibili-weekly%22%2C%0A++++++%22category%22%3A+%22trend%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fbilibili%2Fweekly%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22devto-top-week%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fdev.to%2Ftop%2Fweek%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22readhub-daily%22%2C%0A++++++%22category%22%3A+%22trend%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Freadhub%2Fdaily%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22hellogithub%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fhellogithub%2Fhome%22%0A++++%7D%0A++%5D%0A%7D%0A%60%60%60&labels=twitter-source-edit%2Cpost-sources"
+    },
+    "reply": {
+      "exportFilename": "lark-twitter-reply-sources.json",
+      "json": "{\n  \"version\": 1,\n  \"updatedAt\": \"2026-03-10T00:00:00Z\",\n  \"listUrls\": [\n    \"https://x.com/i/lists/1906619509454331909/members\",\n    \"https://x.com/i/lists/1950082842056413419/members\"\n  ],\n  \"seedAccounts\": []\n}",
+      "editUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Update+reply+sources&body=update+reply+sources%0A%0AReplace+the+JSON+below+with+the+full+updated+reply+source+config.%0A%0A%60%60%60json%0A%7B%0A++%22version%22%3A+1%2C%0A++%22updatedAt%22%3A+%222026-03-10T00%3A00%3A00Z%22%2C%0A++%22listUrls%22%3A+%5B%0A++++%22https%3A%2F%2Fx.com%2Fi%2Flists%2F1906619509454331909%2Fmembers%22%2C%0A++++%22https%3A%2F%2Fx.com%2Fi%2Flists%2F1950082842056413419%2Fmembers%22%0A++%5D%2C%0A++%22seedAccounts%22%3A+%5B%5D%0A%7D%0A%60%60%60&labels=twitter-source-edit%2Creply-sources",
+      "memberCount": 108,
+      "listUrls": [
+        "https://x.com/i/lists/1906619509454331909/members",
+        "https://x.com/i/lists/1950082842056413419/members"
+      ],
+      "seedAccounts": []
+    }
+  },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:38:09.582219+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T05:44:06.640678+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T05:38:09.582219+00:00",
+    "lastSuccessAt": "2026-03-10T05:40:26.261829+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T05:38:06.275798+00:00",
-        "lastSuccessAt": "2026-03-10T05:37:01.218149+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T05:39:23.457618+00:00",
+        "lastSuccessAt": "2026-03-10T05:39:23.457618+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "refresh": {
+            "updatedAt": "2026-03-10T05:38:06.322299+00:00",
+            "sources": 23,
+            "items": 72
+          },
+          "queue": {
+            "updatedAt": "2026-03-10T05:38:46.744574+00:00",
+            "researchCandidates": 12
+          },
+          "generate": {
+            "updatedAt": "2026-03-10T05:39:23.392058+00:00",
+            "count": 2,
+            "rejected": 1
+          },
+          "promote": {
+            "promoted": [
+              "P8",
+              "P9"
+            ],
+            "count": 2
+          }
         },
         "nextRunAt": "2026-03-10T06:05:00+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T05:37:55.407435+00:00",
-        "lastSuccessAt": "2026-03-10T05:37:55.407435+00:00",
+        "lastRunAt": "2026-03-10T05:40:26.261829+00:00",
+        "lastSuccessAt": "2026-03-10T05:40:26.261829+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -786,34 +892,9 @@
           },
           "discoverReplies": {
             "discovered": 3,
-            "count": 24,
+            "count": 27,
             "targetsChecked": 3,
             "diagnostics": [
-              {
-                "scope": "discover",
-                "account": "@bhdigitalassets",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "no target found"
-              },
-              {
-                "scope": "discover",
-                "account": "@breathofestova",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-01-01T00:17:53.000Z",
-                "statusLink": "https://x.com/BreathOfEstova/status/2006520215497224620"
-              },
-              {
-                "scope": "discover",
-                "account": "@chase",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2025-12-10T20:22:22.000Z",
-                "statusLink": "https://x.com/Chase/status/1998850801750679693"
-              },
               {
                 "scope": "discover",
                 "account": "@clawnad9",
@@ -840,18 +921,6 @@
                 "reason": "stale_target_older_than_3_days",
                 "publishedAt": "2026-02-24T00:33:01.000Z",
                 "statusLink": "https://x.com/CryptoHayes/status/2026092968458002762"
-              },
-              {
-                "scope": "discover",
-                "account": "@Davethompson100",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/Davethompson100/status/2030402420245729736",
-                "score": 4,
-                "targetReasons": [
-                  "compact",
-                  "discussion_surface"
-                ]
               },
               {
                 "scope": "discover",
@@ -882,10 +951,28 @@
               },
               {
                 "scope": "discover",
-                "account": "@FCBarcelona",
+                "account": "@Gkoiart",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-11-11T01:47:17.000Z",
+                "statusLink": "https://x.com/Blessed_echezi/status/1988060931541397809"
+              },
+              {
+                "scope": "discover",
+                "account": "@HavoMartinez",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-03-06T17:55:13.000Z",
+                "statusLink": "https://x.com/HavoMartinez/status/2029979125188796856"
+              },
+              {
+                "scope": "discover",
+                "account": "@hebi555",
                 "path": "member_list",
                 "status": "ok",
-                "statusLink": "https://x.com/FCBarcelona/status/2031203633065304521",
+                "statusLink": "https://x.com/hebi555/status/2031198624122810781",
                 "score": 2,
                 "targetReasons": [
                   "compact"
@@ -893,14 +980,35 @@
               },
               {
                 "scope": "discover",
-                "account": "@fomohour",
+                "account": "@KuruExchange",
                 "path": "member_list",
                 "status": "ok",
-                "statusLink": "https://x.com/fomohour/status/2031097691535736860",
-                "score": 5,
+                "statusLink": "https://x.com/KuruExchange/status/2031004940684960117",
+                "score": 3,
                 "targetReasons": [
                   "compact",
-                  "discussion_surface",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@leonardoevm",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-01-27T21:37:33.000Z",
+                "statusLink": "https://x.com/leonardoevm/status/2016264340718960700"
+              },
+              {
+                "scope": "discover",
+                "account": "@Lilstarrrs",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/ylonaaah/status/2030693835815485875",
+                "score": 2,
+                "targetReasons": [
+                  "compact",
+                  "multi_mentions",
                   "topic_fit"
                 ]
               }
@@ -908,9 +1016,9 @@
           },
           "enqueueReplies": {
             "enqueued": [
-              "R23",
-              "R24",
-              "R25"
+              "R26",
+              "R27",
+              "R28"
             ],
             "skipped": [
               {
@@ -996,6 +1104,18 @@
               {
                 "id": "R22",
                 "reason": "status=queued"
+              },
+              {
+                "id": "R23",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R24",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R25",
+                "reason": "status=queued"
               }
             ],
             "count": 3
@@ -1007,15 +1127,17 @@
           "replies": {
             "processed": [
               {
-                "id": "R23",
-                "status": "sent"
+                "id": "R26",
+                "status": "failed",
+                "error": "Reply composer not ready: NO_COMPOSER"
               },
               {
-                "id": "R24",
-                "status": "sent"
+                "id": "R27",
+                "status": "failed",
+                "error": "Reply composer not ready: NO_COMPOSER"
               },
               {
-                "id": "R25",
+                "id": "R28",
                 "status": "sent"
               }
             ],
@@ -1023,7 +1145,7 @@
             "dryRun": false
           }
         },
-        "nextRunAt": "2026-03-10T05:40:00+00:00",
+        "nextRunAt": "2026-03-10T05:50:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -1038,34 +1160,28 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T05:40:00+00:00",
+        "nextRunAt": "2026-03-10T05:45:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:38:09.582219+00:00",
+        "lastRunAt": "2026-03-10T05:44:06.640678+00:00",
         "lastSuccessAt": "2026-03-10T05:38:09.582219+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:38:06.338577+00:00",
-              "pending": 1
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T05:40:00+00:00",
+        "nextRunAt": "2026-03-10T05:46:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },
   "metrics": {
-    "pending": 1,
+    "pending": 3,
     "queued": 0,
     "posts": 0,
-    "replies": 21
+    "replies": 22
   }
 }
