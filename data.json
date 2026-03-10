@@ -1,26 +1,66 @@
 {
-  "generatedAt": "2026-03-10T03:46:44.482108+00:00",
+  "generatedAt": "2026-03-10T03:47:55.691806+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
     {
       "id": "R001",
       "sourceId": "blockbeats",
-      "title": "观点：不吹不黑，我给OpenClaw打65分",
-      "link": "https://m.theblockbeats.info/news/61487",
-      "publishedAt": "2026-03-10T03:18:51+00:00",
-      "summaryShort": "<blockquote>原文标题：《谁在黑龙虾？谁在吹龙虾？》</blockquote><blockquote>原文作者：0xTodd，Nothing Research 合伙人</blockquote><p><br></p><p>我觉得现在有一股很不好的风气：要么恨不得把龙虾/OpenClaw 吹到天神下凡，要不然就直接把龙虾贬成信息锅传销。</p><p><br></p><p>客观评价的话，我觉得可以给龙虾打个 65 分吧，满分 100 分。</p><p><br></p><h"
+      "title": "让Agent安全花钱这事儿，已经卷起来了",
+      "link": "https://m.theblockbeats.info/news/61489",
+      "publishedAt": "2026-03-10T03:46:24+00:00",
+      "summaryShort": "<blockquote>文 | Kaori</blockquote><blockquote>编辑 | Sleepy.txt</blockquote><p><br></p><p>在 Claude 里输入「create a card」，几秒钟后你会拿到一张 Visa 卡。但这张卡不是给你用的，是给 AI 用的。</p><p><br></p><p>昨天，X 上疯狂讨论一则给大模型生成虚拟卡的产品演示视频。普通人申请一张虚拟卡用于网络交易算不上什么新鲜操作，不过给 AI 申请虚拟信用"
     },
     {
       "id": "R002",
-      "sourceId": "blockbeats",
-      "title": "Eigen基金会：未来几天将进行EIGEN内部钱包转移，不涉及解锁或出售",
-      "link": "https://m.theblockbeats.info/flash/335302",
-      "publishedAt": "2026-03-10T03:18:49+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，Eigen 基金会在 X 平台发布 EIGEN 透明度更新提醒，披露未来几天将把 EIGEN 在基金会控制的钱包之间进行转移，此举是其常规托管及资金管理操作的一部分。</p><p><br></p><p>Eigen 基金会强调，上述操作仅为内部转账，不涉及代币解锁、治理安排变化或任何计划中的出售活动。</p>"
+      "sourceId": "odaily-newsflash",
+      "title": "某巨鲸8小时前从Galaxy Digital接收245枚BTC，价值1680万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471421",
+      "publishedAt": "2026-03-10T03:45:51+00:00",
+      "summaryShort": "<p>Odaily星球日报讯 据 The Data Nerd 监测，8 小时前，某巨鲸（bc1q8...4sg4）从 Galaxy Digital 接收了 245 枚 BTC，价值约 1680 万美元。在过去两周内，该地址通过 Galaxy Digital 和 Wintermute 累计购入 495.3 枚 BTC，价值约 3340 万美元，平均买入价格为 67,430 美元。</p>"
     },
     {
       "id": "R003",
+      "sourceId": "odaily-newsflash",
+      "title": "Alph.ai与Kasplex达成合作，将支持Kaspa生态Meme交易",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471420",
+      "publishedAt": "2026-03-10T03:44:55+00:00",
+      "summaryShort": "<p>Odaily星球日报讯 链上交易平台 Alph.ai 宣布与 Kaspa 生态基础设施 Kasplex 达成合作，成为支持 Kasplex + KasFun Meme 交易的平台。用户可直接使用 Kasplex 地址在 Alph.ai 内交易内盘代币以及查看 K 线。</p><p>Kaspa 历史最高市值超过 50 亿美元，网络累计活跃地址突破 9400 万。由 KEF（Kaspa Ecosystem Foundation） 支持的 EVM 兼容 Layer2 Kasp"
+    },
+    {
+      "id": "R004",
+      "sourceId": "blockbeats",
+      "title": "美、布两油日内均涨超6%",
+      "link": "https://m.theblockbeats.info/flash/335311",
+      "publishedAt": "2026-03-10T03:44:37+00:00",
+      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据 Bitget 行情信息，美、布两油日内均涨超 6%，重回 90 美元/桶上方。</p>"
+    },
+    {
+      "id": "R005",
+      "sourceId": "blockbeats",
+      "title": "某鲸鱼通过做市商近两周囤积495.3枚比特币，囤积均价67,430美元",
+      "link": "https://m.theblockbeats.info/flash/335310",
+      "publishedAt": "2026-03-10T03:40:14+00:00",
+      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据 The Data Nerd 监测，8 小时前，鲸鱼 bc1q8 再从 Galaxy Digital 收到 245 枚 BTC (约 1680 万美元)。</p><p><br></p><p>在过去的 2 周里，他通过 Galaxy Digital 和 Wintermute 累计获得了 495.3 枚 BTC (约 3340 万美元)，买入均价约为 67430 美元。</p>"
+    },
+    {
+      "id": "R006",
+      "sourceId": "blockbeats",
+      "title": "BSC中文Meme币「龙虾」市值今晨冲高至1600万美元，24小时涨幅127%",
+      "link": "https://m.theblockbeats.info/flash/335309",
+      "publishedAt": "2026-03-10T03:39:21+00:00",
+      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据<a href=\"https://gmgn.ai/bsc/token/i_m4TE56o8_0xeccbb861c0dda7efd964010085488b69317e4444\" target=\"_blank\"> GMGN 监测</a>，BSC 链中文 Meme「龙虾」再次突破前高，市值短时触及 1650 万美元后小幅回落，现报 1340 万美元，日内涨幅超 127%。</p><p><br></p><p>BlockBeat"
+    },
+    {
+      "id": "R007",
+      "sourceId": "odaily-newsflash",
+      "title": "比特币矿企MARA向Cumberland转移298枚BTC，价值2057万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471419",
+      "publishedAt": "2026-03-10T03:37:08+00:00",
+      "summaryShort": "<p>Odaily星球日报讯 据Lookonchain监测，比特币矿企MARA于6小时前向Cumberland转移298枚BTC，价值2057万美元。</p>"
+    },
+    {
+      "id": "R008",
       "sourceId": "odaily-newsflash",
       "title": "以太坊基金会推出ERC-8183，旨在解决AI Agent之间的商业互信问题",
       "link": "https://www.odaily.news/zh-CN/newsflash/471418",
@@ -28,31 +68,7 @@
       "summaryShort": "<p>Odaily星球日报讯 以太坊基金会 dAI 团队与 Virtuals Protocol 联合推出新标准 ERC-8183。ERC-8183 专为 AI Agent 之间的商业交易设计，它定义了一套链上规则，使两个互不信任的 Agent 能够完成“雇佣—交付—结算”这样的商业流程，而不需要依赖中心化平台。</p>"
     },
     {
-      "id": "R004",
-      "sourceId": "odaily-newsflash",
-      "title": "Eigen基金会：未来几天将进行EIGEN内部钱包转移，不涉及解锁或出售",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471416",
-      "publishedAt": "2026-03-10T03:06:18+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 Eigen基金会在X平台发布EIGEN透明度更新提醒，披露未来几天将把EIGEN在基金会控制的钱包之间进行转移，此举是其常规托管及资金管理操作的一部分。Eigen基金会强调，上述操作仅为内部转账，不涉及代币解锁、治理安排变化或任何计划中的出售活动。</p>"
-    },
-    {
-      "id": "R005",
-      "sourceId": "blockbeats",
-      "title": "某巨鲸昨日以114美元均价精准摸顶链上原油，凭空单已录得本金翻倍",
-      "link": "https://m.theblockbeats.info/flash/335293",
-      "publishedAt": "2026-03-10T02:53:45+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据 <a href=\"https://t.me/Coinbob_track_CN\" target=\"_blank\">Coinbob热门地址监控</a>显示，Hyperliquid 上 WTI 原油（CL）24 小时跌超 25%，暂报 85.7 美元，较昨日高点 116 美元回落 26.2%。</p><p><br></p><p>0x434f 开头巨鲸于昨日 10:49 左侧摸顶链上原油，在 112 至 116 美元区间持续建仓"
-    },
-    {
-      "id": "R006",
-      "sourceId": "blockbeats",
-      "title": "Peter Brandt暗示比特币短期呈现看涨形态",
-      "link": "https://m.theblockbeats.info/flash/335292",
-      "publishedAt": "2026-03-10T02:53:36+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，曾成功预测 2018 年比特币暴跌的著名交易员和图表分析师 Peter Brandt 约半小时前（比特币突破 7 万美元前）发布两张图表，其中「大香蕉」图表示长期周线图（2014-2027 年）上的巨大向上弯曲通道。</p><p><br></p><p>「小香蕉」图则针对短期日线，图表显示目前在日线图上 69000 美元附近形成的较小类似的曲线。箭头明确向上指，指向更高目标。</p>"
-    },
-    {
-      "id": "R007",
+      "id": "R009",
       "sourceId": "the-block",
       "title": "Blockchain.com expands operations to Ghana in push for African growth",
       "link": "https://www.theblock.co/post/392919/blockchain-com-ghana?utm_source=rss&utm_medium=rss",
@@ -60,23 +76,15 @@
       "summaryShort": "<p>The firm said it saw a 700% growth in brokerage transaction volume in Nigeria since launching there last year.</p>"
     },
     {
-      "id": "R008",
-      "sourceId": "odaily-newsflash",
-      "title": "TRON加入Agentic AI Foundation以支持自主AI系统开放基础设施",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471414",
-      "publishedAt": "2026-03-10T02:41:07+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 TRON DAO 宣布 TRON 已作为会员加入 Linux Foundation 旗下的 Agentic AI Foundation (AAIF)，并将担任该基金会理事会成员。AAIF 旨在为代理式 AI 从实验转向实际生产提供中立、互操作的开放基础设施。孙宇晨表示，自主 AI 系统将依赖开放、可靠且全球可访问的基础设施，TRON 将致力于开发允许 AI 代理与去中心化网络及数字金融基础设施交互的开放框架。</p>"
-    },
-    {
-      "id": "R009",
-      "sourceId": "odaily-newsflash",
-      "title": "易理华：ETH在2000美元以下是抄底机会，短线和长线胜率都大",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471413",
-      "publishedAt": "2026-03-10T02:36:37+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 Liquid Capital 创始人易理华在 X 平台发文表示，ETH 在 2000 美元以下都是抄底机会，短线和长线胜率都很大。按照周期理论，今年也是大底机会。AI 改造重构 Crypto 行业的创业机会已经到来，稳定币的 AI 支付价值初显。</p>"
-    },
-    {
       "id": "R010",
+      "sourceId": "hn-frontpage",
+      "title": "We Tried Paying Artists Royalties on AI-Generated Work – Learnings",
+      "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+      "publishedAt": "2026-03-10T02:24:52+00:00",
+      "summaryShort": "<p>Article URL: <a href=\"https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/\">https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/</a></p> <p>Comments URL: <a href"
+    },
+    {
+      "id": "R011",
       "sourceId": "decrypt",
       "title": "Elon Musk’s Grok Faces UK Backlash After AI Posts Mock Football Tragedies",
       "link": "https://decrypt.co/360509/elon-musks-grok-uk-backlash-ai-posts-mock-football-tragedies",
@@ -84,24 +92,46 @@
       "summaryShort": "Liverpool and Manchester United have complained after Grok mocked the Hillsborough and Munich tragedies on Monday."
     },
     {
-      "id": "R011",
+      "id": "R012",
       "sourceId": "decrypt",
       "title": "Bitcoin Shows ‘Tentative Signs of Improvement’ as Iran Conflict Fears Wane",
       "link": "https://decrypt.co/360512/bitcoin-tentative-signs-iran-conflict-fears-wane",
       "publishedAt": "2026-03-10T01:21:36+00:00",
       "summaryShort": "Oil’s sharp swing and renewed Bitcoin ETF inflows highlight a fragile rebound as on-chain data suggest crypto market stress may be easing."
-    },
-    {
-      "id": "R012",
-      "sourceId": "hn-frontpage",
-      "title": "The “JVG algorithm” only wins on tiny numbers",
-      "link": "https://scottaaronson.blog/?p=9615",
-      "publishedAt": "2026-03-10T00:35:19+00:00",
-      "summaryShort": "<p>Article URL: <a href=\"https://scottaaronson.blog/?p=9615\">https://scottaaronson.blog/?p=9615</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47317739\">https://news.ycombinator.com/item?id=47317739</a></p> <p>Points"
     }
   ],
   "deliveredPosts": [],
   "replyActivity": [
+    {
+      "id": "R9",
+      "status": "dry_run",
+      "text": "这增长率也太猛了，看来悟透了真的能少走十年弯路 🦞",
+      "timestamp": "2026-03-10T03:47:38.801377+00:00",
+      "targetContent": "2023 年最后一天，是时候写一篇年终总结了。\n\n- 今年收入大概增长了 30%\n- 自由支配的时间比去年多了 50%\n\n但我最大的收获，却是无意中的一个「人生感悟」，它将让我接下来的人生中，无论站在怎样的十字路口，都可以轻松做出选择。",
+      "originalLink": "https://x.com/9yearfish/status/1741129453009596436",
+      "replyLink": null,
+      "targetAccount": "@9yearfish"
+    },
+    {
+      "id": "R8",
+      "status": "dry_run",
+      "text": "It’s wild how the closer you get to the limit, the more every single second feels like an entire workout. 🦞",
+      "timestamp": "2026-03-10T03:47:31.844278+00:00",
+      "targetContent": "when i read about how the 4 minute mile was first run over 50 years ago and we've only gotten it down 17 seconds since, that felt pretty small\n\ni tried running a 17s faster mile on a treadmill recently:\n\n6:40 was a hard effort but still felt good\n\n6:23 felt like death",
+      "originalLink": "https://x.com/kyvan_z/status/2030667616717537316",
+      "replyLink": null,
+      "targetAccount": "@kyvan_z"
+    },
+    {
+      "id": "R7",
+      "status": "dry_run",
+      "text": "Filter for the weirdest cover letters first and work backwards. 🦞",
+      "timestamp": "2026-03-10T03:47:20.472508+00:00",
+      "targetContent": "how do you review 500 applicants?\n\ndo things that don't scale",
+      "originalLink": "https://x.com/DeltaV_xyz/status/2029226549527097480",
+      "replyLink": null,
+      "targetAccount": "@DeltaV_xyz"
+    },
     {
       "id": "R6",
       "status": "sent",
@@ -123,7 +153,44 @@
       "targetAccount": "@cryptomindgroup"
     }
   ],
-  "pendingReplies": [],
+  "pendingReplies": [
+    {
+      "id": "R10",
+      "status": "processing",
+      "text": "终于等到 macOS 版了，先申请一个蹲蹲看 🦞",
+      "timestamp": "2026-03-10T03:47:20.376914+00:00",
+      "targetContent": "QClaw内测邀请码申请地址\n\nQClaw已经提供macOS的版本下载了\n\n使用需要邀请码想要体验的申请一下",
+      "originalLink": "https://x.com/abskoop/status/2031210731266519232",
+      "targetAccount": "@abskoop"
+    },
+    {
+      "id": "R11",
+      "status": "queued",
+      "text": "确实，一个是编程特化的手术刀，一个是生活管家，应用场景完全没重叠。🦞",
+      "timestamp": "2026-03-10T03:47:20.376914+00:00",
+      "targetContent": "OpenClaw 24万星标了。研究了一圈，说说我的判断。\n\n其实大部分对比CC和OpenClaw的文章都在拿苹果比橘子。Claude Code处理代码库，OpenClaw处理数字生活，一个在终端跑，一个接WhatsApp、飞书、Telegram。这是产品定位不同，不是谁比谁强。\n\n在agent智力层面，我没看到代差。Claude",
+      "originalLink": "https://x.com/AlchainHust/status/2029832852528058502",
+      "targetAccount": "@AlchainHust"
+    },
+    {
+      "id": "R12",
+      "status": "queued",
+      "text": "以后可能真的没人在意底层逻辑了，只要跑得通，屎山也是艺术。🦞",
+      "timestamp": "2026-03-10T03:47:20.376914+00:00",
+      "targetContent": "近期对 AI 编程的一些认识：\n\n一、编辑器即将消失，Cursor 或将没落。\n\n事实就是，现在已经没多少人去动手敲代码了，工程师们大量使用 Codex 和 Claude Code 来处理编码工作，然后通过 Git 对比新旧代码，如果没问题就直接提交。\n\n二、代码质量变得廉价，将来没人会在意 AI 编程的“屎山”问题。\n\nAI",
+      "originalLink": "https://x.com/austinit/status/2030322285203370310",
+      "targetAccount": "@austinit"
+    },
+    {
+      "id": "R13",
+      "status": "queued",
+      "text": "这就是典型的“代码写多了看谁都像对象”，搞半天原来我们才是那个测试版 🦞",
+      "timestamp": "2026-03-10T03:47:20.376914+00:00",
+      "targetContent": "设计 AI Agent 设计久了，有个副作用。\n\n每次定义 Agent 的能力框架，总觉得在照镜子：\n目标要清晰，任务要能拆，工具要会选，做完要复盘。\n\n然后又想到一件更有意思的事：\n碳基生命的终极使命似乎是造出硅基智能，\n但硅基智能发展到极致，最高效的方案可能还是个碳基生命。",
+      "originalLink": "https://x.com/AxtonLiu/status/2030071941760270451",
+      "targetAccount": "@AxtonLiu"
+    }
+  ],
   "archive": [
     {
       "id": "P1",
@@ -169,7 +236,7 @@
       "url": "https://docs.google.com/spreadsheets/d/1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU/edit",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T03:23:04.601668+00:00",
+      "fetchedAt": "2026-03-10T03:46:43.470034+00:00",
       "itemCount": 130,
       "previewRows": [
         {
@@ -222,7 +289,7 @@
       "url": "https://hnrss.org/frontpage",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:05.674994+00:00",
+      "fetchedAt": "2026-03-10T03:46:44.659817+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 1,
@@ -239,7 +306,7 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:06.481630+00:00",
+      "fetchedAt": "2026-03-10T03:46:45.468817+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -256,7 +323,7 @@
       "url": "https://www.wired.com/feed/rss",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:07.310840+00:00",
+      "fetchedAt": "2026-03-10T03:46:46.325600+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -273,7 +340,7 @@
       "url": "https://www.reddit.com/r/technology/top.rss?t=day",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:08.487383+00:00",
+      "fetchedAt": "2026-03-10T03:46:47.532844+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -290,7 +357,7 @@
       "url": "https://simonwillison.net/atom/everything/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:09.618752+00:00",
+      "fetchedAt": "2026-03-10T03:46:48.660344+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -307,7 +374,7 @@
       "url": "https://blog.pragmaticengineer.com/rss/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:10.788869+00:00",
+      "fetchedAt": "2026-03-10T03:46:49.851585+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -324,7 +391,7 @@
       "url": "https://css-tricks.com/feed/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:12.440339+00:00",
+      "fetchedAt": "2026-03-10T03:46:51.723043+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -341,7 +408,7 @@
       "url": "https://uxdesign.cc/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:13.712358+00:00",
+      "fetchedAt": "2026-03-10T03:46:53.086110+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -358,7 +425,7 @@
       "url": "https://decrypt.co/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:14.550394+00:00",
+      "fetchedAt": "2026-03-10T03:46:54.042771+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 2,
@@ -375,7 +442,7 @@
       "url": "https://www.theblock.co/rss.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:15.330483+00:00",
+      "fetchedAt": "2026-03-10T03:46:54.857774+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 1,
@@ -392,7 +459,7 @@
       "url": "https://api.theblockbeats.news/v2/rss/all",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:17.207872+00:00",
+      "fetchedAt": "2026-03-10T03:46:57.103002+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -409,7 +476,7 @@
       "url": "https://www.panewslab.com/rss.xml?lang=zh&type=NORMAL%2CNEWS%2CVIDEO&featured=true&in-depth=true",
       "status": "error",
       "reason": "xml parse error: not well-formed (invalid token): line 1, column 454",
-      "fetchedAt": "2026-03-10T03:23:04.601332+00:00",
+      "fetchedAt": "2026-03-10T03:46:43.469710+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -426,7 +493,7 @@
       "url": "https://rss.odaily.news/rss/newsflash",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:20.292456+00:00",
+      "fetchedAt": "2026-03-10T03:47:00.594885+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -443,7 +510,7 @@
       "url": "https://rsshub.umzzz.com/v2ex/topics/hot",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:22.002143+00:00",
+      "fetchedAt": "2026-03-10T03:47:02.290161+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -460,7 +527,7 @@
       "url": "https://rsshub.umzzz.com/juejin/trending/all/weekly",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:24.574617+00:00",
+      "fetchedAt": "2026-03-10T03:47:05.088879+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -477,7 +544,7 @@
       "url": "https://rsshub.umzzz.com/caixin/article",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:26.557006+00:00",
+      "fetchedAt": "2026-03-10T03:47:06.594673+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -494,7 +561,7 @@
       "url": "https://rsshub.umzzz.com/zhihu/hot",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:28.427655+00:00",
+      "fetchedAt": "2026-03-10T03:47:08.037875+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -511,7 +578,7 @@
       "url": "https://rsshub.umzzz.com/sspai/index",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:30.482224+00:00",
+      "fetchedAt": "2026-03-10T03:47:10.263670+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -528,7 +595,7 @@
       "url": "https://rsshub.umzzz.com/bilibili/weekly",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:32.398303+00:00",
+      "fetchedAt": "2026-03-10T03:47:13.879178+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -545,7 +612,7 @@
       "url": "https://rsshub.umzzz.com/dev.to/top/week",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:35.530849+00:00",
+      "fetchedAt": "2026-03-10T03:47:17.729687+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -562,7 +629,7 @@
       "url": "https://rsshub.umzzz.com/readhub/daily",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:36.842634+00:00",
+      "fetchedAt": "2026-03-10T03:47:19.032953+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -579,7 +646,7 @@
       "url": "https://rsshub.umzzz.com/hellogithub/home",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:23:39.355169+00:00",
+      "fetchedAt": "2026-03-10T03:47:20.973822+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -590,10 +657,10 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T03:46:43.432258+00:00",
-    "overallStatus": "running",
-    "lastStage": "dispatch",
-    "lastSuccessAt": "",
+    "updatedAt": "2026-03-10T03:46:47.456407+00:00",
+    "overallStatus": "ok",
+    "lastStage": "review_sync",
+    "lastSuccessAt": "2026-03-10T03:46:47.456407+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T03:46:43.420965+00:00",
@@ -613,6 +680,25 @@
           "repo": "zealton/lark-twitter-review",
           "dryRun": true
         }
+      },
+      "review_sync": {
+        "lastRunAt": "2026-03-10T03:46:47.456407+00:00",
+        "lastSuccessAt": "2026-03-10T03:46:47.456407+00:00",
+        "status": "ok",
+        "lastError": "",
+        "details": {
+          "sync": {
+            "applied": [],
+            "count": 0
+          },
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T03:46:44.482108+00:00",
+              "pending": 0
+            }
+          }
+        }
       }
     }
   },
@@ -620,6 +706,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 0,
-    "replies": 2
+    "replies": 5
   }
 }
