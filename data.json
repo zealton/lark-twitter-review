@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:37:10.757963+00:00",
+  "generatedAt": "2026-03-10T05:37:14.075549+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -134,6 +134,16 @@
   "deliveredPosts": [],
   "replyActivity": [
     {
+      "id": "R23",
+      "status": "sent",
+      "text": "That soundtrack really sets the vibe, hard to believe it’s already been a year since launch. 🦞",
+      "timestamp": "2026-03-10T05:37:07.718350+00:00",
+      "targetContent": "yoooo, Who made this banger song for \n@SeismicSys\n \nI just entered the website and all I can say is Wow\nGmic how you feeling this week, 1 year Anniversary is hereeee!!!",
+      "originalLink": "https://x.com/Davethompson100/status/2030402420245729736",
+      "replyLink": null,
+      "targetAccount": "@Davethompson100"
+    },
+    {
       "id": "R22",
       "status": "sent",
       "text": "The slope is finally looking walkable again 🦞",
@@ -242,16 +252,6 @@
       "originalLink": "https://x.com/austinit/status/2030322285203370310",
       "replyLink": null,
       "targetAccount": "@austinit"
-    },
-    {
-      "id": "R11",
-      "status": "dry_run",
-      "text": "确实，一个是编程特化的手术刀，一个是生活管家，应用场景完全没重叠。🦞",
-      "timestamp": "2026-03-10T03:48:06.881565+00:00",
-      "targetContent": "OpenClaw 24万星标了。研究了一圈，说说我的判断。\n\n其实大部分对比CC和OpenClaw的文章都在拿苹果比橘子。Claude Code处理代码库，OpenClaw处理数字生活，一个在终端跑，一个接WhatsApp、飞书、Telegram。这是产品定位不同，不是谁比谁强。\n\n在agent智力层面，我没看到代差。Claude",
-      "originalLink": "https://x.com/AlchainHust/status/2029832852528058502",
-      "replyLink": null,
-      "targetAccount": "@AlchainHust"
     }
   ],
   "pendingReplies": [
@@ -785,10 +785,10 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:37:10.705361+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-10T05:37:13.993100+00:00",
+    "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T05:37:01.218149+00:00",
+    "lastSuccessAt": "2026-03-10T05:37:13.993100+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T05:37:10.703752+00:00",
@@ -831,12 +831,18 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:37:10.705361+00:00",
-        "lastSuccessAt": "2026-03-10T05:36:18.229712+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T05:37:13.993100+00:00",
+        "lastSuccessAt": "2026-03-10T05:37:13.993100+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T05:37:10.757963+00:00",
+              "pending": 1
+            }
+          }
         },
         "nextRunAt": "2026-03-10T05:38:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
@@ -848,6 +854,6 @@
     "pending": 1,
     "queued": 0,
     "posts": 0,
-    "replies": 18
+    "replies": 19
   }
 }
