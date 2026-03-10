@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T02:56:50.744212+00:00",
+  "generatedAt": "2026-03-10T03:03:30.721924+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -20,9 +20,9 @@
           "link": "https://www.odaily.news/zh-CN/newsflash/471414"
         },
         {
-          "sourceId": null,
-          "title": "https://m.theblockbeats.info/flash/335285",
-          "summary": "",
+          "sourceId": "blockbeats",
+          "title": "链上WTI原油以18亿美元日交易量反超ETH，跃居Hyperliquid平台第二 - BlockBeats",
+          "summary": "BlockBeats 原始页面已命中，但当前滚动 cache 中没有保留该条摘要；后续新候选会在创建时固化原始来源快照，避免再次丢失。",
           "publishedAt": null,
           "link": "https://m.theblockbeats.info/flash/335285"
         }
