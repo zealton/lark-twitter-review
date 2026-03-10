@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T04:34:16.732568+00:00",
+  "generatedAt": "2026-03-10T04:34:20.020472+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -770,10 +770,10 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T04:34:16.670019+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-10T04:34:19.940535+00:00",
+    "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T04:12:59.488736+00:00",
+    "lastSuccessAt": "2026-03-10T04:34:19.940535+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T03:57:08.142533+00:00",
@@ -829,12 +829,18 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T04:34:16.670019+00:00",
-        "lastSuccessAt": "2026-03-10T04:12:59.488736+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T04:34:19.940535+00:00",
+        "lastSuccessAt": "2026-03-10T04:34:19.940535+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T04:34:16.732568+00:00",
+              "pending": 2
+            }
+          }
         },
         "nextRunAt": "2026-03-10T04:35:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
