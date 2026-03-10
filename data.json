@@ -1,10 +1,49 @@
 {
-  "generatedAt": "2026-03-10T05:36:18.310571+00:00",
+  "generatedAt": "2026-03-10T05:37:10.757963+00:00",
   "repo": "zealton/lark-twitter-review",
-  "pending": [],
+  "pending": [
+    {
+      "id": "P6",
+      "status": "awaiting_approval",
+      "angle": "The split between TradFi asset adoption and builder AI-agent infrastructure",
+      "draft": "The crypto industry has fundamentally split into two parallel realities that barely acknowledge each other's existence.\n\nOn one side of the spectrum, investment banks like Goldman Sachs are deploying nine-figure blocks into Solana ETFs to capture retail beta, while on the other, the Ethereum Foundation is quietly shipping ERC-8183 to establish native commercial trust entirely for autonomous AI agents.\n\nThe more interesting signal here is the diverging definition of a \"user.\" TradFi is aggressively financializing our blockspace for human mutual funds, while the actual frontier builders are pivoting to design infrastructure where the primary economic actors are entirely non-human.\n\nThe highest alpha isn't found in trying to front-run Wall Street's ETF flows anymore. The real wedge is building the settlement and execution layers for the incoming explosion of machine-to-machine commerce, because traditional allocators haven't even begun to price that in. 🦞",
+      "sources": [
+        "https://www.odaily.news/zh-CN/newsflash/471431",
+        "https://www.odaily.news/zh-CN/newsflash/471432"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "分析：去年第四季度华尔街共向美国Solana ETF投入5.4亿美元",
+          "summary": "<p>Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。</p><p>风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.378 亿美元和 1.074 亿美元的持仓位居前二，其他知名买家包括 Morgan Stanley 和 Citadel Advisors。在投资者类别中，投资顾问以超过 2.7 亿美元的认购额成为最大买家，其次是对冲基金（1.86 亿美元）。尽管自去年 10 月推出以来 SOL 价格有所波动，但 ETF 的累计流入量保持稳定，目前总流入额已达 9.52 亿美元。(Cointelegraph)</p>",
+          "publishedAt": "2026-03-10T05:23:28+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471431"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "星球午讯",
+          "summary": "<p>1. 易理华：ETH 在 2000 美元以下是抄底机会，短线和长线胜率都大；</p><p>2. 美国司法部要求重审 Tornado Cash 联合创始人 Roman Storm；</p><p>3. 分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元；</p><p>4. 以太坊基金会推出 ERC-8183，旨在解决 AI Agent 之间的商业互信问题；</p><p>5. 新地址 minder42 花费 3.29 万美元押注美军将于 3 月 14 日前进入伊朗；</p><p>6. Eigen 基金会：未来几天将进行 EIGEN 内部钱包转移，不涉及解锁或出售；</p><p>7. CFTC 主席阐述未来重点工作：将确立加密规则并结束与美 SEC 的监管冲突；</p><p>8. Defillama 创始人：大多数 Crypto 垂直赛道都在变成双寡头垄断。</p>",
+          "publishedAt": "2026-03-10T05:30:00+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
+        }
+      ],
+      "createdAt": "2026-03-10T05:37:01.151038+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P6&body=approve+P6&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P6&body=reject+P6%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P6&body=archive+P6%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    }
+  ],
   "research": [
     {
       "id": "R001",
+      "sourceId": "odaily-newsflash",
+      "title": "伊朗外长说新任最高领袖不会与美谈判",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471434",
+      "publishedAt": "2026-03-10T05:34:21+00:00",
+      "summaryShort": "<p>Odaily星球日报讯 当地时间 3 月 9 日，伊朗外长阿拉格齐在接受美国公共广播公司（PBS）采访时表示，他不认为伊朗新任最高领袖会考虑与美国方面对话，或重新进行谈判。伊朗外长说冲突责任全在美以阿拉格齐强调，中东地区石油生产和运输放缓、甚至停滞，整个地区变得不安全，这些责任都在于美国和以色列，伊朗对此“不负有责任”——这是一场“强加于伊朗的战争”，伊朗所做的只不过是“合法且正当的自卫”。(金十)</p>"
+    },
+    {
+      "id": "R002",
       "sourceId": "odaily-newsflash",
       "title": "币安将调整多资产组合保证金及合约杠杆与保证金层级",
       "link": "https://www.odaily.news/zh-CN/newsflash/471433",
@@ -12,7 +51,7 @@
       "summaryShort": "Odaily星球日报讯 据官方公告，币安将于 2026 年 3 月 13 日 14：00（北京时间）起，调整投资组合保证金（PortfolioMargin）及 PMPro 模式下 WIF、BAT 等 13 种资产的抵押率。同时，币安合约将于 2026 年 3 月 13 日 14：30（北京时间）起，更新 PEOPLEUSDT、HUMAUSDT、LAUSDT 等共计 20 个 U 本位永续合约的杠杆与保证金层级。现有持仓将受到影响。 （本条快讯由AI辅助生成）"
     },
     {
-      "id": "R002",
+      "id": "R003",
       "sourceId": "odaily-newsflash",
       "title": "星球午讯",
       "link": "https://www.odaily.news/zh-CN/newsflash/471432",
@@ -20,20 +59,12 @@
       "summaryShort": "<p>1. 易理华：ETH 在 2000 美元以下是抄底机会，短线和长线胜率都大；</p><p>2. 美国司法部要求重审 Tornado Cash 联合创始人 Roman Storm；</p><p>3. 分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元；</p><p>4. 以太坊基金会推出 ERC-8183，旨在解决 AI Agent 之间的商业互信问题；</p><p>5. 新地址 minder42 花费 3.29 万美元押注美军将于 3 月 14"
     },
     {
-      "id": "R003",
+      "id": "R004",
       "sourceId": "odaily-newsflash",
       "title": "分析：去年第四季度华尔街共向美国Solana ETF投入5.4亿美元",
       "link": "https://www.odaily.news/zh-CN/newsflash/471431",
       "publishedAt": "2026-03-10T05:23:28+00:00",
       "summaryShort": "<p>Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。</p><p>风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.378 亿美元和 1.074 亿美元的持仓位居前二，其他知名买家包括 Morgan Stanley 和 Citadel Advisors。在投资者"
-    },
-    {
-      "id": "R004",
-      "sourceId": "odaily-newsflash",
-      "title": "某交易员高卖低买ETH，6个月内获利505枚ETH",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471430",
-      "publishedAt": "2026-03-10T05:14:32+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 据 Lookonchain 监测，交易员 (0x8A21...12F0) 在 6 个月前以 4434 美元的价格卖出 499 枚 ETH，价值 221 万美元。两小时前，该交易员以 2070 美元的均价买入 1004 枚 ETH，价值 208 万美元。</p>"
     },
     {
       "id": "R005",
@@ -223,7 +254,35 @@
       "targetAccount": "@AlchainHust"
     }
   ],
-  "pendingReplies": [],
+  "pendingReplies": [
+    {
+      "id": "R23",
+      "status": "processing",
+      "text": "That soundtrack really sets the vibe, hard to believe it’s already been a year since launch. 🦞",
+      "timestamp": "2026-03-10T05:36:57.466127+00:00",
+      "targetContent": "yoooo, Who made this banger song for \n@SeismicSys\n \nI just entered the website and all I can say is Wow\nGmic how you feeling this week, 1 year Anniversary is hereeee!!!",
+      "originalLink": "https://x.com/Davethompson100/status/2030402420245729736",
+      "targetAccount": "@Davethompson100"
+    },
+    {
+      "id": "R24",
+      "status": "queued",
+      "text": "The only anthem that actually gives me goosebumps every single time. 🦞",
+      "timestamp": "2026-03-10T05:36:57.466127+00:00",
+      "targetContent": "Classical music for the Champions League",
+      "originalLink": "https://x.com/FCBarcelona/status/2031203633065304521",
+      "targetAccount": "@FCBarcelona"
+    },
+    {
+      "id": "R25",
+      "status": "queued",
+      "text": "The daylight savings math is already defeating me, glad I caught this 🦞",
+      "timestamp": "2026-03-10T05:36:57.466127+00:00",
+      "targetContent": "Timezone's have changed, so we're live an hour earlier than before. Live daily from 10am EDT  Make sure you check what that is for you so you don't miss the show",
+      "originalLink": "https://x.com/fomohour/status/2031097691535736860",
+      "targetAccount": "@fomohour"
+    }
+  ],
   "archive": [
     {
       "id": "P5",
@@ -305,7 +364,7 @@
       "url": "https://docs.google.com/spreadsheets/d/1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU/edit",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T05:33:15.111175+00:00",
+      "fetchedAt": "2026-03-10T05:35:25.808951+00:00",
       "itemCount": 130,
       "previewRows": [
         {
@@ -358,7 +417,7 @@
       "url": "https://hnrss.org/frontpage",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:16.221280+00:00",
+      "fetchedAt": "2026-03-10T05:35:27.895388+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 1,
@@ -375,7 +434,7 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:17.039690+00:00",
+      "fetchedAt": "2026-03-10T05:35:28.655049+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -392,7 +451,7 @@
       "url": "https://www.wired.com/feed/rss",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:17.882130+00:00",
+      "fetchedAt": "2026-03-10T05:35:29.503639+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -409,7 +468,7 @@
       "url": "https://www.reddit.com/r/technology/top.rss?t=day",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:18.999216+00:00",
+      "fetchedAt": "2026-03-10T05:35:30.721464+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -426,7 +485,7 @@
       "url": "https://simonwillison.net/atom/everything/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:20.124012+00:00",
+      "fetchedAt": "2026-03-10T05:35:31.853480+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -443,7 +502,7 @@
       "url": "https://blog.pragmaticengineer.com/rss/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:21.294756+00:00",
+      "fetchedAt": "2026-03-10T05:35:33.085290+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -460,7 +519,7 @@
       "url": "https://css-tricks.com/feed/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:23.028583+00:00",
+      "fetchedAt": "2026-03-10T05:35:35.035827+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -477,7 +536,7 @@
       "url": "https://uxdesign.cc/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:24.302752+00:00",
+      "fetchedAt": "2026-03-10T05:35:36.305981+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -494,7 +553,7 @@
       "url": "https://decrypt.co/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:25.324635+00:00",
+      "fetchedAt": "2026-03-10T05:35:37.260625+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 1,
@@ -511,7 +570,7 @@
       "url": "https://www.theblock.co/rss.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:26.140195+00:00",
+      "fetchedAt": "2026-03-10T05:35:38.055963+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 2,
@@ -528,7 +587,7 @@
       "url": "https://api.theblockbeats.news/v2/rss/all",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:28.199991+00:00",
+      "fetchedAt": "2026-03-10T05:35:39.915492+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -545,7 +604,7 @@
       "url": "https://www.panewslab.com/rss.xml?lang=zh&type=NORMAL%2CNEWS%2CVIDEO&featured=true&in-depth=true",
       "status": "error",
       "reason": "xml parse error: not well-formed (invalid token): line 1, column 454",
-      "fetchedAt": "2026-03-10T05:33:15.110878+00:00",
+      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -562,7 +621,7 @@
       "url": "https://rss.odaily.news/rss/newsflash",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:31.543703+00:00",
+      "fetchedAt": "2026-03-10T05:35:42.833209+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -579,7 +638,7 @@
       "url": "https://rsshub.umzzz.com/v2ex/topics/hot",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:33.128323+00:00",
+      "fetchedAt": "2026-03-10T05:35:45.824040+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -596,7 +655,7 @@
       "url": "https://rsshub.umzzz.com/juejin/trending/all/weekly",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:35.430563+00:00",
+      "fetchedAt": "2026-03-10T05:35:48.662271+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -611,10 +670,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/caixin/article",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:33:36.882861+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -630,7 +689,7 @@
       "url": "https://rsshub.umzzz.com/zhihu/hot",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T05:33:38.826913+00:00",
+      "fetchedAt": "2026-03-10T05:35:58.008646+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -645,10 +704,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/sspai/index",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:33:40.892039+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -662,10 +721,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/bilibili/weekly",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:33:43.025553+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -679,10 +738,10 @@
       "language": "en",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/dev.to/top/week",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:33:46.393155+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -696,10 +755,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/readhub/daily",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:33:47.746454+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -713,10 +772,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/hellogithub/home",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T05:33:49.080485+00:00",
-      "itemCount": 4,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T05:35:25.808623+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -726,16 +785,16 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:36:18.229712+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T05:37:10.705361+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T05:36:18.229712+00:00",
+    "lastSuccessAt": "2026-03-10T05:37:01.218149+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T05:35:25.764719+00:00",
-        "lastSuccessAt": "2026-03-10T03:57:08.142533+00:00",
+        "lastRunAt": "2026-03-10T05:37:10.703752+00:00",
+        "lastSuccessAt": "2026-03-10T05:37:01.218149+00:00",
         "status": "running",
-        "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_generate_drafts.py', '--count', '3', '--source-count', '6']' returned non-zero exit status 1.",
+        "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review"
         },
@@ -772,18 +831,12 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:36:18.229712+00:00",
+        "lastRunAt": "2026-03-10T05:37:10.705361+00:00",
         "lastSuccessAt": "2026-03-10T05:36:18.229712+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:36:15.071005+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
         "nextRunAt": "2026-03-10T05:38:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
@@ -792,7 +845,7 @@
     }
   },
   "metrics": {
-    "pending": 0,
+    "pending": 1,
     "queued": 0,
     "posts": 0,
     "replies": 18
