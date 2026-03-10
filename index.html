@@ -45,14 +45,15 @@
         0%, 100% { box-shadow: 0 0 0 0 rgba(36,107,255,.0); }
         50% { box-shadow: 0 0 0 8px rgba(36,107,255,.08); }
       }
-      @keyframes streamMove {
-        0% { transform: translateX(-18%); }
-        100% { transform: translateX(28%); }
+      @keyframes sheenSweep {
+        0% { transform: translateX(-120%); opacity: 0; }
+        20% { opacity: .32; }
+        55% { opacity: .18; }
+        100% { transform: translateX(140%); opacity: 0; }
       }
-      @keyframes nodeDrift {
-        0% { transform: translateX(0) translateY(0); opacity: .55; }
-        50% { transform: translateX(26px) translateY(-6px); opacity: 1; }
-        100% { transform: translateX(52px) translateY(0); opacity: .55; }
+      @keyframes borderGlow {
+        0%, 100% { box-shadow: inset 0 0 0 1px rgba(36,107,255,.04), 0 0 0 0 rgba(36,107,255,0); }
+        50% { box-shadow: inset 0 0 0 1px rgba(36,107,255,.12), 0 0 0 10px rgba(36,107,255,.03); }
       }
       body {
         margin: 0;
@@ -157,59 +158,80 @@
       }
       .hero-stream {
         position: relative;
-        height: 72px;
+        height: 88px;
         margin: 18px 0 6px;
         overflow: hidden;
         border-radius: 18px;
         border: 1px solid var(--line);
         background:
-          linear-gradient(180deg, rgba(255,255,255,.85), rgba(248,250,255,.8)),
-          radial-gradient(circle at 12% 50%, rgba(36,107,255,.10), transparent 28%),
-          radial-gradient(circle at 84% 50%, rgba(16,185,129,.08), transparent 24%);
+          linear-gradient(180deg, rgba(255,255,255,.92), rgba(248,250,255,.88)),
+          linear-gradient(135deg, rgba(36,107,255,.06), transparent 34%, rgba(16,185,129,.05) 68%, transparent 100%);
+        box-shadow: inset 0 0 0 1px rgba(255,255,255,.6);
+        animation: borderGlow 6s ease-in-out infinite;
       }
-      .hero-stream::before,
+      .hero-stream::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background:
+          linear-gradient(90deg, transparent 0%, rgba(255,255,255,.0) 30%, rgba(255,255,255,.88) 48%, rgba(255,255,255,.0) 66%, transparent 100%);
+        width: 42%;
+        transform: skewX(-22deg);
+        filter: blur(2px);
+        animation: sheenSweep 8s ease-in-out infinite;
+      }
       .hero-stream::after {
         content: "";
         position: absolute;
-        left: -15%;
-        right: -15%;
-        height: 2px;
-        border-radius: 999px;
-        background: linear-gradient(90deg, transparent, rgba(36,107,255,.9), rgba(16,185,129,.85), transparent);
-        opacity: .9;
-        animation: streamMove 7s linear infinite;
-      }
-      .hero-stream::before { top: 24px; }
-      .hero-stream::after {
-        top: 46px;
-        animation-duration: 9s;
-        animation-delay: -3s;
-      }
-      .stream-node {
-        position: absolute;
-        width: 10px;
-        height: 10px;
-        border-radius: 999px;
-        background: var(--accent);
-        box-shadow: 0 0 0 6px rgba(36,107,255,.08);
-        animation: nodeDrift 5.5s ease-in-out infinite;
-      }
-      .stream-node.alt {
-        top: 40px;
-        background: var(--accent-2);
-        box-shadow: 0 0 0 6px rgba(16,185,129,.08);
-        animation-duration: 6.4s;
-        animation-delay: -1.8s;
+        inset: 14px;
+        border-radius: 14px;
+        background:
+          linear-gradient(90deg, rgba(36,107,255,.08), transparent 28%, transparent 72%, rgba(16,185,129,.08)),
+          repeating-linear-gradient(90deg, rgba(17,24,39,.06) 0 1px, transparent 1px 48px),
+          repeating-linear-gradient(180deg, rgba(17,24,39,.04) 0 1px, transparent 1px 20px);
+        opacity: .7;
       }
       .stream-caption {
         position: absolute;
-        right: 14px;
-        top: 12px;
+        left: 16px;
+        top: 14px;
         font-size: 11px;
         letter-spacing: .08em;
         text-transform: uppercase;
         color: var(--muted);
         font-weight: 700;
+      }
+      .stream-stats {
+        position: absolute;
+        left: 16px;
+        right: 16px;
+        bottom: 14px;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 10px;
+        z-index: 1;
+      }
+      .stream-stat {
+        border-radius: 12px;
+        padding: 8px 10px;
+        border: 1px solid rgba(17,24,39,.08);
+        background: rgba(255,255,255,.74);
+        backdrop-filter: blur(8px);
+      }
+      .stream-stat .k {
+        display: block;
+        font-size: 10px;
+        text-transform: uppercase;
+        letter-spacing: .08em;
+        color: var(--muted);
+        margin-bottom: 4px;
+        font-weight: 700;
+      }
+      .stream-stat .v {
+        display: block;
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--ink);
       }
       .metrics {
         display: grid;
@@ -544,10 +566,11 @@
           </p>
           <div class="hero-stream" aria-hidden="true">
             <div class="stream-caption">Signals in motion</div>
-            <div class="stream-node" style="left: 14%; top: 19px;"></div>
-            <div class="stream-node alt" style="left: 28%;"></div>
-            <div class="stream-node" style="left: 54%; top: 19px; animation-delay: -2.2s;"></div>
-            <div class="stream-node alt" style="left: 68%; animation-delay: -3.7s;"></div>
+            <div class="stream-stats">
+              <div class="stream-stat"><span class="k">Research</span><span class="v">Scan, cluster, rewrite</span></div>
+              <div class="stream-stat"><span class="k">Approval</span><span class="v">Human gate before publish</span></div>
+              <div class="stream-stat"><span class="k">Reply</span><span class="v">Coverage-first interaction</span></div>
+            </div>
           </div>
           <p class="meta" id="generated-at"></p>
           <div class="heartbeat-grid">
