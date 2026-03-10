@@ -348,6 +348,10 @@
                   <div id="post-history"></div>
                 </details>
               </div>
+              <div class="panel">
+                <h2>Source Learning</h2>
+                <div id="source-learning-list"></div>
+              </div>
             </div>
             <div class="stack">
               <div class="panel">
@@ -357,6 +361,10 @@
               <div class="panel">
                 <h2>Recent Archive</h2>
                 <div id="archive-list"></div>
+              </div>
+              <div class="panel">
+                <h2>Source Suggestions</h2>
+                <div id="source-suggestions-list"></div>
               </div>
             </div>
           </div>
@@ -374,6 +382,10 @@
                 <h2>Reply Activity</h2>
                 <div id="reply-list"></div>
               </div>
+              <div class="panel">
+                <h2>Reply Learning</h2>
+                <div id="reply-learning-list"></div>
+              </div>
             </div>
             <div class="stack">
               <div class="panel">
@@ -381,6 +393,10 @@
                 <div class="muted" id="reply-notes-copy">
                   This tab separates queued replies from sent replies so you can audit what the agent plans to send versus what actually got delivered.
                 </div>
+              </div>
+              <div class="panel">
+                <h2>Reply Suggestions</h2>
+                <div id="reply-suggestions-list"></div>
               </div>
             </div>
           </div>
@@ -700,6 +716,90 @@
         `).join("");
       }
 
+      function renderSourceLearning(items) {
+        const root = document.getElementById("source-learning-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No source learning data yet.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <div class="feed-item">
+            <div><strong>${escapeHtml(item.sourceId || "")}</strong> <span class="pill">${escapeHtml(String(item.goalAlignmentScore || 0))}/10</span></div>
+            <div class="meta">signals ${escapeHtml(String(item.signalCount || 0))} · pending ${escapeHtml(String(item.pendingCount || 0))} · published ${escapeHtml(String(item.publishedCount || 0))} · rejected ${escapeHtml(String(item.rejectCount || 0))}</div>
+            <div class="muted">${escapeHtml((item.titleSamples || []).join(" | "))}</div>
+          </div>
+        `).join("");
+      }
+
+      function renderSourceSuggestions(items) {
+        const root = document.getElementById("source-suggestions-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No source suggestions yet.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <article class="card">
+            <header>
+              <div>
+                <h3>${escapeHtml(item.type || "suggestion")}</h3>
+                <div class="meta">${escapeHtml(item.sourceId || "")}</div>
+              </div>
+              <span class="score-pill">${escapeHtml(String(item.confidence || 0))}/10</span>
+            </header>
+            <div class="rationale-box">
+              <div class="rationale-label">Why Suggested</div>
+              <div class="rationale-text">${escapeHtml(item.whySuggested || "")}</div>
+            </div>
+            <div class="rationale-box">
+              <div class="rationale-label">Goal Fit</div>
+              <div class="rationale-text">${escapeHtml(item.goalFit || "")}</div>
+            </div>
+          </article>
+        `).join("");
+      }
+
+      function renderReplyLearning(items) {
+        const root = document.getElementById("reply-learning-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No reply learning data yet.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <div class="feed-item">
+            <div><strong>${escapeHtml(item.handle || "")}</strong> <span class="pill">coverage ${escapeHtml(String(item.coveragePriority || 0))}</span></div>
+            <div class="meta">all time ${escapeHtml(String(item.replyCount || 0))} · last 7d ${escapeHtml(String(item.replyCountLast7Days || 0))}</div>
+            <div class="meta">member list ${escapeHtml(String(!!item.inMemberList))} · sheet pool ${escapeHtml(String(!!item.inSheetPool))}</div>
+          </div>
+        `).join("");
+      }
+
+      function renderReplySuggestions(items) {
+        const root = document.getElementById("reply-suggestions-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No reply suggestions yet.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <article class="card">
+            <header>
+              <div>
+                <h3>${escapeHtml(item.handle || item.type || "suggestion")}</h3>
+                <div class="meta">${escapeHtml(item.type || "")}</div>
+              </div>
+              <span class="score-pill">${escapeHtml(String(item.confidence || 0))}/10</span>
+            </header>
+            <div class="rationale-box">
+              <div class="rationale-label">Why Suggested</div>
+              <div class="rationale-text">${escapeHtml(item.whySuggested || "")}</div>
+            </div>
+            <div class="rationale-box">
+              <div class="rationale-label">Goal Fit</div>
+              <div class="rationale-text">${escapeHtml(item.goalFit || "")}</div>
+            </div>
+          </article>
+        `).join("");
+      }
+
       function renderHeartbeat(heartbeat) {
         const overall = heartbeat?.overallStatus || "unknown";
         const statusEl = document.getElementById("heartbeat-status");
@@ -763,6 +863,10 @@
           renderResearch(data.research || []);
           renderSources(data.sources || []);
           renderArchive(data.archive || []);
+          renderSourceLearning(data.learning?.sourceLearning || []);
+          renderSourceSuggestions(data.learning?.sourceSuggestions || []);
+          renderReplyLearning(data.learning?.replyLearning || []);
+          renderReplySuggestions(data.learning?.replySuggestions || []);
           renderSourceEditor(
             "post-source-editor",
             data.sourceEditors?.post,

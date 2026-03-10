@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T06:24:25.577570+00:00",
+  "generatedAt": "2026-03-10T06:29:23.118614+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4166,8 +4166,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T06:24:25.501170+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T06:29:23.035347+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T06:24:25.501170+00:00",
     "stages": {
@@ -4233,29 +4233,490 @@
             "count": 1
           }
         },
-        "nextRunAt": "2026-03-10T06:25:00+00:00",
+        "nextRunAt": "2026-03-10T06:30:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T06:24:25.501170+00:00",
+        "lastRunAt": "2026-03-10T06:29:23.035347+00:00",
         "lastSuccessAt": "2026-03-10T06:24:25.501170+00:00",
-        "status": "ok",
-        "lastError": "",
+        "status": "running",
+        "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_learning_cycle.py']' returned non-zero exit status 1.",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T06:24:22.358319+00:00",
-              "pending": 6
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T06:26:00+00:00",
+        "nextRunAt": "2026-03-10T06:30:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
+  },
+  "learning": {
+    "sourceLearning": [
+      {
+        "sourceId": "blockbeats",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%",
+          "如果只看新闻，你可能已经误判了这场伊朗冲突",
+          "Binance Wallet：将于今日18时发放Alpha空投"
+        ],
+        "linkSamples": [
+          "https://m.theblockbeats.info/flash/335341",
+          "https://m.theblockbeats.info/news/61494",
+          "https://m.theblockbeats.info/flash/335340"
+        ]
+      },
+      {
+        "sourceId": "caixin-article",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "政协委员阎峰：建议下调港股通投资者门槛 将QDII和RQDII机制拓展至个人",
+          "减轻呼吸道疾病负担 专家吁为“一老人一小”免费打疫苗",
+          "2026年前两月出口增势强劲 同比超预期增长21.8%"
+        ],
+        "linkSamples": [
+          "https://topics.caixin.com/2026-03-10/102421484.html",
+          "https://www.caixin.com/2026-03-10/102421479.html",
+          "https://economy.caixin.com/2026-03-10/102421476.html"
+        ]
+      },
+      {
+        "sourceId": "css-tricks",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "The Value of z-index",
+          "The Different Ways to Select <html> in CSS",
+          "Popover API or Dialog API: Which to Choose?"
+        ],
+        "linkSamples": [
+          "https://css-tricks.com/the-value-of-z-index/",
+          "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
+          "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/"
+        ]
+      },
+      {
+        "sourceId": "decrypt",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "Trump's DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
+          "Elon Musk’s Grok Faces UK Backlash After AI Posts Mock Football Tragedies",
+          "Bitcoin Shows ‘Tentative Signs of Improvement’ as Iran Conflict Fears Wane"
+        ],
+        "linkSamples": [
+          "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
+          "https://decrypt.co/360509/elon-musks-grok-uk-backlash-ai-posts-mock-football-tragedies",
+          "https://decrypt.co/360512/bitcoin-tentative-signs-iran-conflict-fears-wane"
+        ]
+      },
+      {
+        "sourceId": "hn-frontpage",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "Amazon holds engineering meeting following AI-related outages",
+          "Show HN: I Was Here – Draw on street view, others can find your drawings",
+          "Windows: Microsoft broke the only thing that mattered"
+        ],
+        "linkSamples": [
+          "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+          "https://washere.live",
+          "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/"
+        ]
+      },
+      {
+        "sourceId": "odaily-newsflash",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "币安：今日18:00可领取币安Alpha空投，空投门槛241个Alpha积分",
+          "Gate TradFi板块支持双端、多杠杆机制与API接入并纳入VIP体系",
+          "Bitget推出VIP专属BTC双重理财，可享理财收益及代币奖励"
+        ],
+        "linkSamples": [
+          "https://www.odaily.news/zh-CN/newsflash/471438",
+          "https://www.odaily.news/zh-CN/newsflash/471437",
+          "https://www.odaily.news/zh-CN/newsflash/471435"
+        ]
+      },
+      {
+        "sourceId": "pragmatic-engineer",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
+          "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
+          "The grief when AI writes most of the code"
+        ],
+        "linkSamples": [
+          "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
+          "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
+          "https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/"
+        ]
+      },
+      {
+        "sourceId": "readhub-daily",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "宇树科技与香港大学上海智能计算研究院成立具身智能联合实验室",
+          "腾讯 QClaw 开始内测：可实现微信、QQ 双端接入「小龙虾」",
+          "阿里云 CTO 周靖人代管千问模型一号位，刘大一恒管理更多团队"
+        ],
+        "linkSamples": [
+          "https://readhub.cn/topic/8rMMRFmTtrf",
+          "https://readhub.cn/topic/8rLjsExVXG3",
+          "https://readhub.cn/topic/8rMAG12yNRO"
+        ]
+      },
+      {
+        "sourceId": "reddit-technology",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "Uber is letting women avoid male drivers and riders in the US",
+          "People really hate artificial intelligence, according to the latest NBC poll: 46% of respondents said they hold negative feelings towards the concept of AI, and only 26% reported positive connotations, while 27% were neutral.",
+          "AI Error Likely Led to Girl’s School Bombing in Iran"
+        ],
+        "linkSamples": [
+          "https://www.reddit.com/r/technology/comments/1rp5vjc/uber_is_letting_women_avoid_male_drivers_and/",
+          "https://www.reddit.com/r/technology/comments/1rp8zxg/people_really_hate_artificial_intelligence/",
+          "https://www.reddit.com/r/technology/comments/1rpbmby/ai_error_likely_led_to_girls_school_bombing_in/"
+        ]
+      },
+      {
+        "sourceId": "sheet-master-list",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "宝玉",
+          "歸藏",
+          "Gorden_Sun"
+        ],
+        "linkSamples": [
+          "https://x.com/dotey",
+          "https://x.com/op7418",
+          "https://x.com/Gorden_Sun"
+        ]
+      },
+      {
+        "sourceId": "simon-willison",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "Production query plans without production data",
+          "Perhaps not Boring Technology after all",
+          "Quoting Joseph Weizenbaum"
+        ],
+        "linkSamples": [
+          "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything",
+          "https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything",
+          "https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything"
+        ]
+      },
+      {
+        "sourceId": "the-block",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "Nasdaq partners with Boerse Stuttgart’s Seturion to advance tokenized settlement in Europe",
+          "US prosecutors seek October 2026 retrial for Tornado Cash co-founder Roman Storm",
+          "Blockchain.com expands operations to Ghana in push for African growth"
+        ],
+        "linkSamples": [
+          "https://www.theblock.co/post/392931/nasdaq-boerse-stuttgarts-tokenized-settlement-europe?utm_source=rss&utm_medium=rss",
+          "https://www.theblock.co/post/392937/roman-storm-tornado-cash-retrial?utm_source=rss&utm_medium=rss",
+          "https://www.theblock.co/post/392919/blockchain-com-ghana?utm_source=rss&utm_medium=rss"
+        ]
+      },
+      {
+        "sourceId": "the-verge",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "Apple smart home display rumors now point to a fall launch with iOS 27",
+          "The government shutdown is hitting airports — but not ICE",
+          "Everything from the last week of everything is gambling now"
+        ],
+        "linkSamples": [
+          "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+          "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+          "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets"
+        ]
+      },
+      {
+        "sourceId": "uxdesign",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "The calm and charm of cosy games in a chaotic world",
+          "Sycophancy: the emperor’s new clothes",
+          "We thought AI feedback was making our designers faster. It was making them shallower"
+        ],
+        "linkSamples": [
+          "https://uxdesign.cc/the-calm-and-charm-of-cosy-games-in-a-chaotic-world-7f29dbd8f4d9?source=rss----138adf9c44c---4",
+          "https://uxdesign.cc/sycophancy-the-emperors-new-clothes-92c6043c06c6?source=rss----138adf9c44c---4",
+          "https://uxdesign.cc/we-thought-ai-feedback-was-making-our-designers-faster-it-was-making-them-shallower-853e41b257fb?source=rss----138adf9c44c---4"
+        ]
+      },
+      {
+        "sourceId": "wired",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+          "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+          "‘Flying Cars’ Will Take Off in American Skies This Summer"
+        ],
+        "linkSamples": [
+          "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+          "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+          "https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/"
+        ]
+      }
+    ],
+    "replyLearning": [
+      {
+        "handle": "@9yearfish",
+        "replyCount": 0,
+        "replyCountLast7Days": 0,
+        "lastSentAt": "",
+        "inMemberList": false,
+        "inSheetPool": true,
+        "relationshipScore": 3,
+        "coveragePriority": 10
+      },
+      {
+        "handle": "@abskoop",
+        "replyCount": 0,
+        "replyCountLast7Days": 0,
+        "lastSentAt": "",
+        "inMemberList": false,
+        "inSheetPool": true,
+        "relationshipScore": 3,
+        "coveragePriority": 10
+      },
+      {
+        "handle": "@alchainhust",
+        "replyCount": 0,
+        "replyCountLast7Days": 0,
+        "lastSentAt": "",
+        "inMemberList": false,
+        "inSheetPool": true,
+        "relationshipScore": 3,
+        "coveragePriority": 10
+      },
+      {
+        "handle": "@austinit",
+        "replyCount": 0,
+        "replyCountLast7Days": 0,
+        "lastSentAt": "",
+        "inMemberList": false,
+        "inSheetPool": true,
+        "relationshipScore": 3,
+        "coveragePriority": 10
+      },
+      {
+        "handle": "@axtonliu",
+        "replyCount": 0,
+        "replyCountLast7Days": 0,
+        "lastSentAt": "",
+        "inMemberList": false,
+        "inSheetPool": true,
+        "relationshipScore": 3,
+        "coveragePriority": 10
+      },
+      {
+        "handle": "@deltav_xyz",
+        "replyCount": 0,
+        "replyCountLast7Days": 0,
+        "lastSentAt": "",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 3,
+        "coveragePriority": 10
+      },
+      {
+        "handle": "@kyvan_z",
+        "replyCount": 0,
+        "replyCountLast7Days": 0,
+        "lastSentAt": "",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 3,
+        "coveragePriority": 10
+      },
+      {
+        "handle": "@0xbclub",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-10T03:56:27.550809+00:00",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@0xfastlane",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-10T03:56:45.188567+00:00",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@0xhillarybae",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-10T03:57:04.811218+00:00",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@0xhu7i",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-10T04:34:05.814700+00:00",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@0xnarb",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-10T04:34:25.232765+00:00",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@0xyeezi",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-10T04:34:44.236269+00:00",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@billmondays",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-10T05:31:40.767557+00:00",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@chognft",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-10T05:32:00.003877+00:00",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@cornell",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-10T05:32:18.588924+00:00",
+        "inMemberList": true,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      }
+    ],
+    "sourceSuggestions": [],
+    "replySuggestions": [
+      {
+        "id": "suggest-reply-target-ylonaaah",
+        "type": "suggest_reply_target",
+        "confidence": 7,
+        "handle": "@ylonaaah",
+        "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
+        "goalFit": "Helps the system build a better set of recurring personal accounts instead of repeatedly relying on the same obvious names.",
+        "evidence": {
+          "replyCount": 1,
+          "replyCountLast7Days": 1,
+          "inSheetPool": false
+        }
+      }
+    ]
   },
   "metrics": {
     "pending": 6,
