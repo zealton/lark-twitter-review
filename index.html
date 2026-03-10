@@ -892,6 +892,7 @@
         root.innerHTML = `
           <div class="heartbeat-summary">
             <div class="heartbeat-chip"><strong>Dispatch</strong><span class="status-${escapeHtml(summary.status || "unknown")}">${escapeHtml(summary.status || "unknown")}</span></div>
+            <div class="heartbeat-chip"><strong>Outcome</strong><span>${escapeHtml(String(summary.outcome || "unknown"))}</span></div>
             <div class="heartbeat-chip"><strong>Checked</strong><span>${escapeHtml(String(summary.targetsChecked || 0))}</span></div>
             <div class="heartbeat-chip"><strong>Discovered</strong><span>${escapeHtml(String(summary.discoveredReplies || 0))}</span></div>
             <div class="heartbeat-chip"><strong>Enqueued</strong><span>${escapeHtml(String(summary.enqueuedReplies || 0))}</span></div>
@@ -901,6 +902,7 @@
           <div class="muted spacer">
             Last dispatch run: ${escapeHtml(formatTimestamp(summary.lastRunAt || "")) || "n/a"} · Last successful dispatch: ${escapeHtml(formatTimestamp(summary.lastSuccessAt || "")) || "n/a"}
           </div>
+          ${summary.lastError ? `<div class="error-banner">Last dispatch error: ${escapeHtml(summary.lastError)}</div>` : ""}
         `;
       }
 
