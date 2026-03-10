@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-03-10T08:15:28.137502+00:00",
+  "generatedAt": "2026-03-10T08:23:37.550422+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
     {
       "id": "R001",
       "sourceId": "blockbeats",
-      "title": "海湾国家合计减产原油至多670万桶/日",
-      "link": "https://m.theblockbeats.info/flash/335359",
-      "publishedAt": "2026-03-10T07:37:40+00:00",
-      "capturedAt": "2026-03-10T07:46:29.959096+00:00",
-      "summaryShort": "BlockBeats 消息，3 月 10 日，据市场消息，沙特、阿联酋、伊拉克、科威特合计减产原油至多 670 万桶/日。"
+      "title": "港股收盘AI概念股普涨，MiniMax大涨22.37%",
+      "link": "https://m.theblockbeats.info/flash/335369",
+      "publishedAt": "2026-03-10T08:14:33+00:00",
+      "capturedAt": "2026-03-10T08:15:39.558942+00:00",
+      "summaryShort": "BlockBeats 消息，3 月 10 日，据 Bitget 行情数据，港股收盘恒生指数收涨 2.17%，恒生科技指数收涨 2.4%，腾讯控股（0700.HK）大涨 7.27%。 AI 概念股 MiniMax(00100.HK) 大涨 22.37%，智谱 (02513.HK) 大涨 12.87%，海致科技集团 (02706.HK) 大涨 7.28%，速腾聚创 (02498.HK) 涨 4.08%。"
     },
     {
       "id": "R002",
       "sourceId": "odaily-newsflash",
-      "title": "GateAI服务体系扩展：双端支持、功能覆盖全平台，用户免费使用",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471448",
-      "publishedAt": "2026-03-10T07:36:16+00:00",
-      "capturedAt": "2026-03-10T07:46:33.548275+00:00",
-      "summaryShort": "Odaily星球日报讯 加密资产交易平台 Gate 大门宣布，GateAI 已实现 App 与 Web 双端全面支持，用户可通过 Web 端任意页面底部入口及 App 端首页、行情等页面悬浮球和常用功能栏进入。 与此同时，GateAI 进一步完成服务范围扩展，覆盖用户中心、营销活动、统一账户、资产管理、量化与返佣体系等多个核心模块，支持现货行情解读、理财与打新参与指引、闪兑操作说明及平台使用咨询等多类服务，用户可通过自然语言直接获取信息或完成操作指引，减少多页面查找步骤，提升"
+      "title": "币安将于2026年3月13日移除DODO/BTC和GMT/EUR现货交易对",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471450",
+      "publishedAt": "2026-03-10T08:00:56+00:00",
+      "capturedAt": "2026-03-10T08:15:42.499742+00:00",
+      "summaryShort": "Odaily星球日报讯 据官方公告，为保护用户并维持高质量交易市场，币安将于 2026 年 3 月 13 日 03：00（UTC）移除并停止 DODO/BTC 和 GMT/EUR 现货交易对的交易。同时，针对这些交易对的现货交易机器人服务也将在同一时间终止。用户仍可在币安其他可用交易对上交易相关资产。 （本条快讯由AI辅助生成）"
     },
     {
       "id": "R003",
@@ -27,7 +27,7 @@
       "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
       "link": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
       "publishedAt": "2026-03-10T06:18:23+00:00",
-      "capturedAt": "2026-03-10T07:46:27.259656+00:00",
+      "capturedAt": "2026-03-10T08:15:36.820237+00:00",
       "summaryShort": "The potential lawsuit adds to existing tension between traditional lenders and crypto firms over access to the U.S. financial system."
     },
     {
@@ -36,7 +36,7 @@
       "title": "Nasdaq partners with Boerse Stuttgart’s Seturion to advance tokenized settlement in Europe",
       "link": "https://www.theblock.co/post/392931/nasdaq-boerse-stuttgarts-tokenized-settlement-europe?utm_source=rss&utm_medium=rss",
       "publishedAt": "2026-03-10T04:51:49+00:00",
-      "capturedAt": "2026-03-10T07:46:28.085602+00:00",
+      "capturedAt": "2026-03-10T08:15:37.602036+00:00",
       "summaryShort": "The partnership is set to connect Nasdaq's European trading venues to Seturion's blockchain-based platform."
     },
     {
@@ -45,71 +45,179 @@
       "title": "Production query plans without production data",
       "link": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything",
       "publishedAt": null,
-      "capturedAt": "2026-03-10T07:46:22.232796+00:00",
+      "capturedAt": "2026-03-10T08:15:31.925929+00:00",
       "summaryShort": "Production query plans without production data Radim Marek describes the new pg_restore_relation_stats() and pg_restore_attribute_stats() functions that were introduced in PostgreSQL 18 in September 2025. The PostgreSQL query planner makes "
     },
     {
       "id": "R006",
-      "sourceId": "caixin-article",
-      "title": "【我闻】交行梁斌案内情 供应链金融反腐补漏洞",
-      "link": "https://wenews.caixin.com/2026-03-10/102421504.html",
-      "publishedAt": "2026-03-10T07:40:01+00:00",
-      "capturedAt": "2026-03-10T07:46:41.089132+00:00",
-      "summaryShort": "在离职五年后，这位加盟了小贷平台的银行前信贷业务人员，因何被追查？ 【金融我闻/张宇哲】 近日，上海市纪检监察网通告，交通银行上海市分行营业部原副总经理梁斌涉嫌严重违纪违法，目前正在接受交通银行上海市分行纪律检查委员会纪律审查和黄浦区监察委员会监察调查。 此时距离梁斌离任交行已近五年。梁斌主要的职业履历在交行，时任交行上海市分行营业部副总经理时，梁斌主管信贷业务。上海分行营业部是上海分行的下属机构，是交行辐射长三角的核心服务窗口和重要业务运营机构。 据财新从业内多方了解，梁斌"
-    },
-    {
-      "id": "R007",
       "sourceId": "wired",
       "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "publishedAt": "2026-03-10T05:00:00+00:00",
-      "capturedAt": "2026-03-10T07:46:19.906113+00:00",
+      "capturedAt": "2026-03-10T08:15:29.567316+00:00",
       "summaryShort": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it."
     },
     {
-      "id": "R008",
-      "sourceId": "devto-top-week",
-      "title": "Congrats to the GitHub Copilot CLI Challenge Winners!",
-      "link": "https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240",
-      "publishedAt": "2026-03-09T18:28:59+00:00",
-      "capturedAt": "2026-03-10T07:46:51.235470+00:00",
-      "summaryShort": "The results are in! Thank you all so much for your patience as we reviewed over 400 submissions for this challenge. We're going to jump right in because our full list of winners and runner-ups is quite long. Regardless of whether or not you"
-    },
-    {
-      "id": "R009",
+      "id": "R007",
       "sourceId": "pragmatic-engineer",
       "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
       "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
       "publishedAt": "2026-03-05T18:03:16+00:00",
-      "capturedAt": "2026-03-10T07:46:23.484939+00:00",
+      "capturedAt": "2026-03-10T08:15:33.104324+00:00",
       "summaryShort": "An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis"
     },
     {
-      "id": "R010",
+      "id": "R008",
       "sourceId": "hellogithub",
       "title": "nexent: 只需一句话即可创造你的专属智能体",
       "link": "https://hellogithub.com/repository/99932c00b692483a8439b04f8858b39f",
       "publishedAt": "2026-03-03T01:32:14+00:00",
-      "capturedAt": "2026-03-10T07:46:56.205748+00:00",
+      "capturedAt": "2026-03-10T08:16:42.938164+00:00",
       "summaryShort": "这是一款开源的零代码智能体自动生成平台，无需编程基础或复杂的流程图编排，通过自然语言描述需求即可快速创建 AI 智能体。它内置了数据处理引擎，能够自动处理 20"
     },
     {
-      "id": "R011",
+      "id": "R009",
       "sourceId": "sheet-master-list",
       "title": "宝玉",
       "link": "https://x.com/dotey",
       "publishedAt": null,
-      "capturedAt": "2026-03-10T07:46:14.337246+00:00",
+      "capturedAt": "2026-03-10T08:15:24.690950+00:00",
       "summaryShort": "中文 AI 圈高频信息源，长期分享 Prompt 工程、AI 实战、前沿工具与模型解读。"
     },
     {
-      "id": "R012",
+      "id": "R010",
       "sourceId": "the-verge",
       "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
       "link": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
       "publishedAt": null,
-      "capturedAt": "2026-03-10T07:46:19.003603+00:00",
+      "capturedAt": "2026-03-10T08:15:28.734301+00:00",
       "summaryShort": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much on X"
+    },
+    {
+      "id": "R011",
+      "sourceId": "reddit-technology",
+      "title": "Uber is letting women avoid male drivers and riders in the US",
+      "link": "https://www.reddit.com/r/technology/comments/1rp5vjc/uber_is_letting_women_avoid_male_drivers_and/",
+      "publishedAt": null,
+      "capturedAt": "2026-03-10T08:15:30.761441+00:00",
+      "summaryShort": "&#32; submitted by &#32; /u/tylerthe-theatre [link] &#32; [comments]"
+    },
+    {
+      "id": "R012",
+      "sourceId": "uxdesign",
+      "title": "The calm and charm of cosy games in a chaotic world",
+      "link": "https://uxdesign.cc/the-calm-and-charm-of-cosy-games-in-a-chaotic-world-7f29dbd8f4d9?source=rss----138adf9c44c---4",
+      "publishedAt": "2026-03-09T22:09:54+00:00",
+      "capturedAt": "2026-03-10T08:15:35.974050+00:00",
+      "summaryShort": ""
+    },
+    {
+      "id": "R013",
+      "sourceId": "css-tricks",
+      "title": "The Value of z-index",
+      "link": "https://css-tricks.com/the-value-of-z-index/",
+      "publishedAt": "2026-03-09T14:20:01+00:00",
+      "capturedAt": "2026-03-10T08:15:34.734957+00:00",
+      "summaryShort": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices. The Value of z-index originally published on CSS-Tricks , which is part of the DigitalOcean family. Yo"
+    },
+    {
+      "id": "R014",
+      "sourceId": "zhihu-hot",
+      "title": "如何评价《崩坏：星穹铁道》新角色「银狼LV.999」？",
+      "link": "https://www.zhihu.com/question/2014677241481692081",
+      "publishedAt": "2026-03-10T04:21:25+00:00",
+      "capturedAt": "2026-03-10T08:16:06.536488+00:00",
+      "summaryShort": "「LV.999的形态，完全的我，第一次见吧？高难副本走起，我带你，一键通关。」 新一轮欢愉赛季，无敌玩家「银狼LV.999」限时回归中！ 成为宇宙大赢家，银河通关全成就，接下来还要怎么玩？ 「走上『欢愉』巅峰？无聊到爆好嘛…既然卡带到手，就我说了算咯~」 === 阿哈！特别庆祝银狼LV.999获得： ✧「银河战力党传奇玩家」第1名 ✧ ✧「剧本破坏神」第1名 ✧ === 中文CV：Hanser 日文CV：阿澄佳奈 韩文CV：장미"
+    },
+    {
+      "id": "R015",
+      "sourceId": "v2ex-hot",
+      "title": "怎么突然全国都在 OpenClaw",
+      "link": "https://www.v2ex.com/t/1197062",
+      "publishedAt": "2026-03-10T02:38:09+00:00",
+      "capturedAt": "2026-03-10T08:15:44.051776+00:00",
+      "summaryShort": "sikuu2al: op 大概知道是什么东西和怎么用的，但是我看来不就是程序员圈子里的一个工具吗。为何现在的社媒如此的破圈，甚至连我不是互联网行业的朋友都来问我觉得 OpenClaw 怎么样了"
+    },
+    {
+      "id": "R016",
+      "sourceId": "blockbeats",
+      "title": "Arthur Hayes：为何HYPE是5倍潜力标的？",
+      "link": "https://m.theblockbeats.info/news/61496",
+      "publishedAt": "2026-03-10T08:00:00+00:00",
+      "capturedAt": "2026-03-10T08:15:39.558942+00:00",
+      "summaryShort": "原文标题：$HYPE Man 原文作者：Arthur Hayes，BitMEX 联创 原文编译：Saoirse，Foresight News 我们走进冰封的森林，爬上陡峭的火山。这不过是又一个滑雪徒步冥想的日子。置身寂静的雪林，我的思绪自由驰骋。当你全神贯注、一步一步缓慢攀登火山，成千上万次把一只滑雪板放在另一只前面时，你能迸发的创造力令人惊叹。我钟爱这三个月的宁静。 身心都渴望休息与恢复，滑雪季里，这意味着要去真正的雪场。在雪场那天，我卸下防滑贴，坐上机械缆车，短短几分钟就"
+    },
+    {
+      "id": "R017",
+      "sourceId": "odaily-newsflash",
+      "title": "Matrixport：比特币重回70,000–80,000美元区间预期升温",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471449",
+      "publishedAt": "2026-03-10T07:54:26+00:00",
+      "capturedAt": "2026-03-10T08:15:42.499742+00:00",
+      "summaryShort": "Odaily星球日报讯 Matrixport 发布今日图表称，自 2 月初以来，比特币整体维持横盘整理。尽管地缘政治紧张局势升级，美国就业数据走弱，加上全球股市普遍回调(韩国股市一度大幅下挫)，比特币依然展现出较强的韧性。即便周末油价大幅飙升，比特币也仅回踩至 66,000 美元附近的支撑位，且该位置持续构成支撑。 我们在之前的日报中也提过，比特币重新走强并重回 70,000 至 80,000 美元区间的可能性正在上升。随着市场对伊朗冲突影响的逐步消化，比特币有望摆脱地缘政治"
+    },
+    {
+      "id": "R018",
+      "sourceId": "decrypt",
+      "title": "Trump's DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
+      "link": "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
+      "publishedAt": "2026-03-10T04:46:28+00:00",
+      "capturedAt": "2026-03-10T08:15:36.820237+00:00",
+      "summaryShort": "The DOJ is attempting to retry Tornado Cash developer Roman Storm even as the U.S. Treasury acknowledges mixers may have legitimate uses."
+    },
+    {
+      "id": "R019",
+      "sourceId": "the-block",
+      "title": "US prosecutors seek October 2026 retrial for Tornado Cash co-founder Roman Storm",
+      "link": "https://www.theblock.co/post/392937/roman-storm-tornado-cash-retrial?utm_source=rss&utm_medium=rss",
+      "publishedAt": "2026-03-10T04:50:32+00:00",
+      "capturedAt": "2026-03-10T08:15:37.602036+00:00",
+      "summaryShort": "The DOJ seeks to retry Storm on money laundering and sanctions charges after a jury failed to reach a verdict during his initial trial."
+    },
+    {
+      "id": "R020",
+      "sourceId": "simon-willison",
+      "title": "Perhaps not Boring Technology after all",
+      "link": "https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything",
+      "publishedAt": null,
+      "capturedAt": "2026-03-10T08:15:31.925929+00:00",
+      "summaryShort": "A recurring concern I've seen regarding LLMs for programming is that they will push our technology choices towards the tools that are best represented in their training data, making it harder for new, better tools to break through the noise"
+    },
+    {
+      "id": "R021",
+      "sourceId": "wired",
+      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+      "link": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+      "publishedAt": "2026-03-09T23:11:34+00:00",
+      "capturedAt": "2026-03-10T08:15:29.567316+00:00",
+      "summaryShort": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw."
+    },
+    {
+      "id": "R022",
+      "sourceId": "pragmatic-engineer",
+      "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
+      "link": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
+      "publishedAt": "2026-01-29T18:41:45+00:00",
+      "capturedAt": "2026-03-10T08:15:33.104324+00:00",
+      "summaryShort": "I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I used to pay for in 20 minutes. Is this bad"
+    },
+    {
+      "id": "R023",
+      "sourceId": "hellogithub",
+      "title": "learn-claude-code: 从零开始动手实现 AI Agent",
+      "link": "https://hellogithub.com/repository/cd100d360d8e4e62a16108c9b77a6b80",
+      "publishedAt": "2026-02-28T00:10:09+00:00",
+      "capturedAt": "2026-03-10T08:16:42.938164+00:00",
+      "summaryShort": "该项目是讲解如何从零构建类似 Claude Code 的 AI Agent 工具，共计 12 节课，每节课都有一个可运行的 Python 文件。内容从最基础的"
+    },
+    {
+      "id": "R024",
+      "sourceId": "sheet-master-list",
+      "title": "歸藏",
+      "link": "https://x.com/op7418",
+      "publishedAt": null,
+      "capturedAt": "2026-03-10T08:15:24.690950+00:00",
+      "summaryShort": "AIGC 周刊主理人，专注 AI 绘画、视频生成、设计工作流和工具趋势。"
     }
   ],
   "deliveredPosts": [
@@ -739,7 +847,7 @@
       "url": "https://x.com/dotey",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -764,7 +872,7 @@
       "url": "https://x.com/op7418",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -789,7 +897,7 @@
       "url": "https://x.com/Gorden_Sun",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -814,7 +922,7 @@
       "url": "https://x.com/xiaohu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -839,7 +947,7 @@
       "url": "https://x.com/shao__meng",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -864,7 +972,7 @@
       "url": "https://x.com/thinkingjimmy",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -889,7 +997,7 @@
       "url": "https://x.com/goocarlos",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -914,7 +1022,7 @@
       "url": "https://x.com/Tumeng05",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -939,7 +1047,7 @@
       "url": "https://x.com/AxtonLiu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -964,7 +1072,7 @@
       "url": "https://x.com/haibun",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -989,7 +1097,7 @@
       "url": "https://x.com/nishuang",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1014,7 +1122,7 @@
       "url": "https://x.com/vista8",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1039,7 +1147,7 @@
       "url": "https://x.com/lijigang",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1064,7 +1172,7 @@
       "url": "https://x.com/kaifulee",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1089,7 +1197,7 @@
       "url": "https://x.com/WaytoAGI",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1114,7 +1222,7 @@
       "url": "https://x.com/xicilion",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1139,7 +1247,7 @@
       "url": "https://x.com/oran_ge",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1164,7 +1272,7 @@
       "url": "https://x.com/AlchainHust",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1189,7 +1297,7 @@
       "url": "https://x.com/SamuelQZQ",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1214,7 +1322,7 @@
       "url": "https://x.com/elliotchen100",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1239,7 +1347,7 @@
       "url": "https://x.com/Hayami_kiraa",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1264,7 +1372,7 @@
       "url": "https://x.com/berryxia",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1289,7 +1397,7 @@
       "url": "https://x.com/lidangzzz",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1314,7 +1422,7 @@
       "url": "https://x.com/lxfater",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1339,7 +1447,7 @@
       "url": "https://x.com/nateleex",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1364,7 +1472,7 @@
       "url": "https://x.com/yan5xu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1389,7 +1497,7 @@
       "url": "https://x.com/santiagoyoungus",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1414,7 +1522,7 @@
       "url": "https://x.com/Cydiar404",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1439,7 +1547,7 @@
       "url": "https://x.com/JefferyTatsuya",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1464,7 +1572,7 @@
       "url": "https://x.com/seclink",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1489,7 +1597,7 @@
       "url": "https://x.com/Fenng",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1514,7 +1622,7 @@
       "url": "https://x.com/turingou",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1539,7 +1647,7 @@
       "url": "https://x.com/tinyfool",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1564,7 +1672,7 @@
       "url": "https://x.com/virushuo",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1589,7 +1697,7 @@
       "url": "https://x.com/fankaishuoai",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1614,7 +1722,7 @@
       "url": "https://x.com/XDash",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1639,7 +1747,7 @@
       "url": "https://x.com/idoubicc",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1664,7 +1772,7 @@
       "url": "https://x.com/nishuang",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1689,7 +1797,7 @@
       "url": "https://x.com/CoderJeffLee",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1714,7 +1822,7 @@
       "url": "https://x.com/tuturetom",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1739,7 +1847,7 @@
       "url": "https://x.com/iamtonyzhu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1764,7 +1872,7 @@
       "url": "https://x.com/hongjun60",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1789,7 +1897,7 @@
       "url": "https://x.com/Valley101_Qian",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1814,7 +1922,7 @@
       "url": "https://x.com/indie_maker_fox",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1839,7 +1947,7 @@
       "url": "https://x.com/HongyuanCao",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1864,7 +1972,7 @@
       "url": "https://x.com/nextify2024",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1889,7 +1997,7 @@
       "url": "https://x.com/readyfor2025",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1914,7 +2022,7 @@
       "url": "https://x.com/weijunext",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1939,7 +2047,7 @@
       "url": "https://x.com/yihui_indie",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1964,7 +2072,7 @@
       "url": "https://x.com/JinsFavorites",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -1989,7 +2097,7 @@
       "url": "https://x.com/xiongchun007",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2014,7 +2122,7 @@
       "url": "https://x.com/Junyu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2039,7 +2147,7 @@
       "url": "https://x.com/luoleiorg",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2064,7 +2172,7 @@
       "url": "https://x.com/Plidezus",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2089,7 +2197,7 @@
       "url": "https://x.com/jesselaunz",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2114,7 +2222,7 @@
       "url": "https://x.com/lewangx",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2139,7 +2247,7 @@
       "url": "https://x.com/axtonliu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2164,7 +2272,7 @@
       "url": "https://x.com/tualatrix",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2189,7 +2297,7 @@
       "url": "https://x.com/luinlee",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2214,7 +2322,7 @@
       "url": "https://x.com/yupi996",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2239,7 +2347,7 @@
       "url": "https://x.com/seclink",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2264,7 +2372,7 @@
       "url": "https://x.com/servasyy_ai",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2289,7 +2397,7 @@
       "url": "https://x.com/XiaohuiAI666",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2314,7 +2422,7 @@
       "url": "https://x.com/gefei55",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2339,7 +2447,7 @@
       "url": "https://x.com/lyc_zh",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2364,7 +2472,7 @@
       "url": "https://x.com/AI_Jasonyu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2389,7 +2497,7 @@
       "url": "https://x.com/JourneymanChina",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2414,7 +2522,7 @@
       "url": "https://x.com/dev_afei",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2439,7 +2547,7 @@
       "url": "https://x.com/luobogooooo",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2464,7 +2572,7 @@
       "url": "https://x.com/GoSailGlobal",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2489,7 +2597,7 @@
       "url": "https://x.com/chuhaiqu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2514,7 +2622,7 @@
       "url": "https://x.com/daluoseo",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2539,7 +2647,7 @@
       "url": "https://x.com/realNyarime",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2564,7 +2672,7 @@
       "url": "https://x.com/DigitalNomadLC",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2589,7 +2697,7 @@
       "url": "https://x.com/RocM301",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2614,7 +2722,7 @@
       "url": "https://x.com/EvaCmore",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2639,7 +2747,7 @@
       "url": "https://x.com/shuziyimin",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2664,7 +2772,7 @@
       "url": "https://x.com/AI_Jasonyu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2689,7 +2797,7 @@
       "url": "https://x.com/itangtalk",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2714,7 +2822,7 @@
       "url": "https://x.com/austinit",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2739,7 +2847,7 @@
       "url": "https://x.com/guishou_56",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2764,7 +2872,7 @@
       "url": "https://x.com/9yearfish",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2789,7 +2897,7 @@
       "url": "https://x.com/benshandebiao",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2814,7 +2922,7 @@
       "url": "https://x.com/hwwaanng",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2839,7 +2947,7 @@
       "url": "https://x.com/OwenYoungZh",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2864,7 +2972,7 @@
       "url": "https://x.com/tualatrix",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2889,7 +2997,7 @@
       "url": "https://x.com/waylybaye",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2914,7 +3022,7 @@
       "url": "https://x.com/randyloop",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2939,7 +3047,7 @@
       "url": "https://x.com/livid",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2964,7 +3072,7 @@
       "url": "https://x.com/shengxj1",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -2989,7 +3097,7 @@
       "url": "https://x.com/FinanceYF5",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3014,7 +3122,7 @@
       "url": "https://x.com/liuyi0922",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3039,7 +3147,7 @@
       "url": "https://x.com/fkysly",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3064,7 +3172,7 @@
       "url": "https://x.com/zhixianio",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3089,7 +3197,7 @@
       "url": "https://x.com/Pluvio9yte",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3114,7 +3222,7 @@
       "url": "https://x.com/abskoop",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3139,7 +3247,7 @@
       "url": "https://x.com/stark_nico99",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3164,7 +3272,7 @@
       "url": "https://x.com/hongming731",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3189,7 +3297,7 @@
       "url": "https://x.com/penny777",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3214,7 +3322,7 @@
       "url": "https://x.com/quarktalksss",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3239,7 +3347,7 @@
       "url": "https://x.com/Khazix0918",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3264,7 +3372,7 @@
       "url": "https://x.com/servasyy_ai",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3289,7 +3397,7 @@
       "url": "https://x.com/jiqizhixin",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3314,7 +3422,7 @@
       "url": "https://x.com/evilcos",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3339,7 +3447,7 @@
       "url": "https://x.com/steipete",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3364,7 +3472,7 @@
       "url": "https://x.com/lxfater",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3389,7 +3497,7 @@
       "url": "https://x.com/Pluvio9yte",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3414,7 +3522,7 @@
       "url": "https://x.com/fkysly",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3439,7 +3547,7 @@
       "url": "https://x.com/kasong2048",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3464,7 +3572,7 @@
       "url": "https://x.com/cellinlab",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3489,7 +3597,7 @@
       "url": "https://x.com/wshuyi",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3514,7 +3622,7 @@
       "url": "https://x.com/FinanceYF5",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3539,7 +3647,7 @@
       "url": "https://x.com/WaytoAGI",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3564,7 +3672,7 @@
       "url": "https://x.com/ruanyf",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3589,7 +3697,7 @@
       "url": "https://x.com/Svwang1",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3614,7 +3722,7 @@
       "url": "https://x.com/sspai_com",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3639,7 +3747,7 @@
       "url": "https://x.com/OwenYoungZh",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3664,7 +3772,7 @@
       "url": "https://x.com/foxshuo",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3689,7 +3797,7 @@
       "url": "https://x.com/pongba",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3714,7 +3822,7 @@
       "url": "https://x.com/Francis_YAO_",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3739,7 +3847,7 @@
       "url": "https://x.com/hongjun60",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3764,7 +3872,7 @@
       "url": "https://x.com/Valley101_Qian",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3789,7 +3897,7 @@
       "url": "https://x.com/Astronaut_1216",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3814,7 +3922,7 @@
       "url": "https://x.com/ityouknows",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3839,7 +3947,7 @@
       "url": "https://x.com/kasong2048",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3864,7 +3972,7 @@
       "url": "https://x.com/JourneymanChina",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3889,7 +3997,7 @@
       "url": "https://x.com/austinit",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3914,7 +4022,7 @@
       "url": "https://x.com/yan5xu",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3939,7 +4047,7 @@
       "url": "https://x.com/expatlevi",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3964,7 +4072,7 @@
       "url": "https://x.com/CuiMao",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -3989,7 +4097,7 @@
       "url": "https://x.com/everythingempty",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T07:46:14.337246+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690950+00:00",
       "itemCount": 1,
       "previewRows": [
         {
@@ -4014,7 +4122,7 @@
       "url": "https://hnrss.org/frontpage",
       "status": "error",
       "reason": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-      "fetchedAt": "2026-03-10T07:46:14.336927+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -4031,8 +4139,8 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:19.003603+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:28.734301+00:00",
+      "itemCount": 6,
       "previewRows": [],
       "researchCount": 1,
       "pendingCount": 0,
@@ -4048,10 +4156,10 @@
       "url": "https://www.wired.com/feed/rss",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:19.906113+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:29.567316+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 2,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4065,10 +4173,10 @@
       "url": "https://www.reddit.com/r/technology/top.rss?t=day",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:21.085561+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:30.761441+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4082,10 +4190,10 @@
       "url": "https://simonwillison.net/atom/everything/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:22.232796+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:31.925929+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 2,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4099,10 +4207,10 @@
       "url": "https://blog.pragmaticengineer.com/rss/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:23.484939+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:33.104324+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 2,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4116,10 +4224,10 @@
       "url": "https://css-tricks.com/feed/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:25.198059+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:34.734957+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4133,10 +4241,10 @@
       "url": "https://uxdesign.cc/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:26.425463+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:35.974050+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4150,10 +4258,10 @@
       "url": "https://decrypt.co/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:27.259656+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:36.820237+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 2,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 1
@@ -4167,10 +4275,10 @@
       "url": "https://www.theblock.co/rss.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:28.085602+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:37.602036+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 2,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4184,10 +4292,10 @@
       "url": "https://api.theblockbeats.news/v2/rss/all",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:29.959096+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:39.558942+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 2,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 14
@@ -4201,7 +4309,7 @@
       "url": "https://www.panewslab.com/rss.xml?lang=zh&type=NORMAL%2CNEWS%2CVIDEO&featured=true&in-depth=true",
       "status": "error",
       "reason": "xml parse error: not well-formed (invalid token): line 1, column 454",
-      "fetchedAt": "2026-03-10T07:46:14.336927+00:00",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -4218,10 +4326,10 @@
       "url": "https://rss.odaily.news/rss/newsflash",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:33.548275+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:42.499742+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 2,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 10
@@ -4235,10 +4343,10 @@
       "url": "https://rsshub.umzzz.com/v2ex/topics/hot",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:35.398740+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:15:44.051776+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4250,9 +4358,9 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/douban/list/subject_real_time_hotest",
-      "status": "unknown",
-      "reason": null,
-      "fetchedAt": null,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -4267,10 +4375,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/juejin/trending/all/weekly",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T07:46:38.596048+00:00",
-      "itemCount": 8,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -4284,12 +4392,12 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/caixin/article",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T07:46:41.089132+00:00",
-      "itemCount": 8,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
+      "itemCount": 0,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 0,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4303,10 +4411,10 @@
       "url": "https://rsshub.umzzz.com/zhihu/hot",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:42.651539+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:16:06.536488+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4318,10 +4426,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/sspai/index",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T07:46:45.668182+00:00",
-      "itemCount": 8,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -4335,10 +4443,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/bilibili/weekly",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T07:46:47.709724+00:00",
-      "itemCount": 8,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -4352,12 +4460,12 @@
       "language": "en",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/dev.to/top/week",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T07:46:51.235470+00:00",
-      "itemCount": 8,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
+      "itemCount": 0,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 0,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4369,9 +4477,9 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/xiaoheihe/news",
-      "status": "unknown",
-      "reason": null,
-      "fetchedAt": null,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -4386,10 +4494,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/readhub/daily",
-      "status": "ok",
-      "reason": null,
-      "fetchedAt": "2026-03-10T07:46:54.477433+00:00",
-      "itemCount": 8,
+      "status": "error",
+      "reason": "The read operation timed out",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
+      "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -4405,10 +4513,10 @@
       "url": "https://rsshub.umzzz.com/hellogithub/home",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T07:46:56.205748+00:00",
-      "itemCount": 8,
+      "fetchedAt": "2026-03-10T08:16:42.938164+00:00",
+      "itemCount": 6,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 2,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4420,9 +4528,9 @@
       "language": "mixed",
       "kind": "rsshub_base",
       "url": "https://rsshub.isrss.com/",
-      "status": "unknown",
-      "reason": null,
-      "fetchedAt": null,
+      "status": "skipped",
+      "reason": "unsupported kind rsshub_base",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -4437,9 +4545,9 @@
       "language": "mixed",
       "kind": "rsshub_base",
       "url": "https://rss.datuan.dev/",
-      "status": "unknown",
-      "reason": null,
-      "fetchedAt": null,
+      "status": "skipped",
+      "reason": "unsupported kind rsshub_base",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -4454,9 +4562,9 @@
       "language": "mixed",
       "kind": "rsshub_base",
       "url": "https://rsshub.cups.moe/",
-      "status": "unknown",
-      "reason": null,
-      "fetchedAt": null,
+      "status": "skipped",
+      "reason": "unsupported kind rsshub_base",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -4471,9 +4579,9 @@
       "language": "mixed",
       "kind": "rsshub_base",
       "url": "https://rss.spriple.org/",
-      "status": "unknown",
-      "reason": null,
-      "fetchedAt": null,
+      "status": "skipped",
+      "reason": "unsupported kind rsshub_base",
+      "fetchedAt": "2026-03-10T08:15:24.690633+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -4502,18 +4610,35 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T08:15:28.058379+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T08:23:37.446952+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T08:15:28.058379+00:00",
+    "lastSuccessAt": "2026-03-10T08:18:03.865601+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T08:15:24.646039+00:00",
-        "lastSuccessAt": "2026-03-10T07:00:34.252480+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T08:18:03.865601+00:00",
+        "lastSuccessAt": "2026-03-10T08:18:03.865601+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "refresh": {
+            "updatedAt": "2026-03-10T08:15:24.690633+00:00",
+            "sources": 29,
+            "items": 90
+          },
+          "queue": {
+            "updatedAt": "2026-03-10T08:16:43.016829+00:00",
+            "researchCandidates": 24
+          },
+          "generate": {
+            "updatedAt": "2026-03-10T08:18:03.810232+00:00",
+            "count": 0,
+            "rejected": 4
+          },
+          "promote": {
+            "promoted": [],
+            "count": 0
+          }
         },
         "nextRunAt": "2026-03-10T10:05:00+00:00",
         "jobId": "lark-twitter-research",
@@ -4740,7 +4865,7 @@
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-10T08:20:00+00:00",
+        "nextRunAt": "2026-03-10T08:30:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4755,37 +4880,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T08:20:00+00:00",
+        "nextRunAt": "2026-03-10T08:25:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T08:15:28.058379+00:00",
+        "lastRunAt": "2026-03-10T08:23:37.446952+00:00",
         "lastSuccessAt": "2026-03-10T08:15:28.058379+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T08:15:24.715301+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T08:15:24.742520+00:00",
-            "sourceEntries": 21,
-            "sourceSuggestions": 8,
-            "replyEntries": 28,
-            "replySuggestions": 8
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T08:15:24.797960+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T08:16:00+00:00",
+        "nextRunAt": "2026-03-10T08:24:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -4806,65 +4913,27 @@
   "learning": {
     "sourceLearning": [
       {
-        "sourceId": "bilibili-weekly",
-        "signalCount": 8,
-        "pendingCount": 0,
-        "publishedCount": 0,
-        "rejectCount": 0,
-        "archivedCount": 0,
-        "goalAlignmentScore": 8,
-        "titleSamples": [
-          "决战！我要夺冠！！！《下一个是谁6》06",
-          "全网首发完结《生化危机9：安魂曲 》英配中字 猛男打法 全结局 全流程实况解说视频",
-          "特朗普刺杀哈梅内伊，伊朗要变天了吗？世界会怎么变？"
-        ],
-        "linkSamples": [
-          "https://www.bilibili.com/video/BV11bAUzBEqG",
-          "https://www.bilibili.com/video/BV1VNfbBUENM",
-          "https://www.bilibili.com/video/BV183Pjz9E5h"
-        ]
-      },
-      {
         "sourceId": "blockbeats",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
         "archivedCount": 0,
         "goalAlignmentScore": 8,
         "titleSamples": [
-          "海湾国家合计减产原油至多670万桶/日",
-          "离岸人民币兑美元升破6.88，日内涨超0.2%",
-          "BSC生态代币MILADY市值突破600万美元新高，日内涨幅达39%"
+          "纳斯达克100指数期货涨幅扩大至0.6%",
+          "港股收盘AI概念股普涨，MiniMax大涨22.37%",
+          "G7能源部长会议将于今晚举行"
         ],
         "linkSamples": [
-          "https://m.theblockbeats.info/flash/335359",
-          "https://m.theblockbeats.info/flash/335357",
-          "https://m.theblockbeats.info/flash/335356"
-        ]
-      },
-      {
-        "sourceId": "caixin-article",
-        "signalCount": 8,
-        "pendingCount": 0,
-        "publishedCount": 0,
-        "rejectCount": 0,
-        "archivedCount": 0,
-        "goalAlignmentScore": 8,
-        "titleSamples": [
-          "【我闻】交行梁斌案内情 供应链金融反腐补漏洞",
-          "美以伊冲突持续 国际油价上演“过山车”",
-          "油价上涨推动物价，这是我们需要的通胀吗"
-        ],
-        "linkSamples": [
-          "https://wenews.caixin.com/2026-03-10/102421504.html",
-          "https://photos.caixin.com/2026-03-10/102421508.html",
-          "https://opinion.caixin.com/2026-03-10/102421503.html"
+          "https://m.theblockbeats.info/flash/335370",
+          "https://m.theblockbeats.info/flash/335369",
+          "https://m.theblockbeats.info/flash/335368"
         ]
       },
       {
         "sourceId": "css-tricks",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
@@ -4883,7 +4952,7 @@
       },
       {
         "sourceId": "decrypt",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
@@ -4901,27 +4970,8 @@
         ]
       },
       {
-        "sourceId": "devto-top-week",
-        "signalCount": 8,
-        "pendingCount": 0,
-        "publishedCount": 0,
-        "rejectCount": 0,
-        "archivedCount": 0,
-        "goalAlignmentScore": 8,
-        "titleSamples": [
-          "Congrats to the GitHub Copilot CLI Challenge Winners!",
-          "Supercharging Open Source Projects With Free AI Code Reviews",
-          "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!"
-        ],
-        "linkSamples": [
-          "https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240",
-          "https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m",
-          "https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828"
-        ]
-      },
-      {
         "sourceId": "hellogithub",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
@@ -4939,46 +4989,27 @@
         ]
       },
       {
-        "sourceId": "juejin-trending",
-        "signalCount": 8,
-        "pendingCount": 0,
-        "publishedCount": 0,
-        "rejectCount": 0,
-        "archivedCount": 0,
-        "goalAlignmentScore": 8,
-        "titleSamples": [
-          "装了 OpenClaw 后，信用卡被盗刷了...",
-          "吃龙虾🦞咯！万字拆解OpenClaw的架构与设计",
-          "多写点skill吧，写的越多这行业死的越快。"
-        ],
-        "linkSamples": [
-          "https://juejin.cn/post/7614513113812451378",
-          "https://juejin.cn/post/7615004797963403318",
-          "https://juejin.cn/post/7614585530236092442"
-        ]
-      },
-      {
         "sourceId": "odaily-newsflash",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
         "archivedCount": 0,
         "goalAlignmentScore": 8,
         "titleSamples": [
-          "GateAI服务体系扩展：双端支持、功能覆盖全平台，用户免费使用",
-          "俄罗斯专家：全球油价可能飙升至每桶160美元",
-          "Bithumb将于4月13日下架NOM"
+          "币安将于2026年3月13日移除DODO/BTC和GMT/EUR现货交易对",
+          "Matrixport：比特币重回70,000–80,000美元区间预期升温",
+          "GateAI服务体系扩展：双端支持、功能覆盖全平台，用户免费使用"
         ],
         "linkSamples": [
-          "https://www.odaily.news/zh-CN/newsflash/471448",
-          "https://www.odaily.news/zh-CN/newsflash/471447",
-          "https://www.odaily.news/zh-CN/newsflash/471446"
+          "https://www.odaily.news/zh-CN/newsflash/471450",
+          "https://www.odaily.news/zh-CN/newsflash/471449",
+          "https://www.odaily.news/zh-CN/newsflash/471448"
         ]
       },
       {
         "sourceId": "pragmatic-engineer",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
@@ -4996,27 +5027,8 @@
         ]
       },
       {
-        "sourceId": "readhub-daily",
-        "signalCount": 8,
-        "pendingCount": 0,
-        "publishedCount": 0,
-        "rejectCount": 0,
-        "archivedCount": 0,
-        "goalAlignmentScore": 8,
-        "titleSamples": [
-          "宇树科技与香港大学上海智能计算研究院成立具身智能联合实验室",
-          "腾讯 QClaw 开始内测：可实现微信、QQ 双端接入「小龙虾」",
-          "阿里云 CTO 周靖人代管千问模型一号位，刘大一恒管理更多团队"
-        ],
-        "linkSamples": [
-          "https://readhub.cn/topic/8rMMRFmTtrf",
-          "https://readhub.cn/topic/8rLjsExVXG3",
-          "https://readhub.cn/topic/8rMAG12yNRO"
-        ]
-      },
-      {
         "sourceId": "reddit-technology",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
@@ -5035,7 +5047,7 @@
       },
       {
         "sourceId": "sheet-master-list",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
@@ -5054,7 +5066,7 @@
       },
       {
         "sourceId": "simon-willison",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
@@ -5072,27 +5084,8 @@
         ]
       },
       {
-        "sourceId": "sspai-index",
-        "signalCount": 8,
-        "pendingCount": 0,
-        "publishedCount": 0,
-        "rejectCount": 0,
-        "archivedCount": 0,
-        "goalAlignmentScore": 8,
-        "titleSamples": [
-          "年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？",
-          "年度征文 | 信息消费：七年后的再审视",
-          "派早报：达摩院发布脂肪肝筛查 AI 模型 MAOSS 等"
-        ],
-        "linkSamples": [
-          "https://sspai.com/post/106710",
-          "https://sspai.com/post/106845",
-          "https://sspai.com/post/107001"
-        ]
-      },
-      {
         "sourceId": "the-block",
-        "signalCount": 8,
+        "signalCount": 6,
         "pendingCount": 0,
         "publishedCount": 0,
         "rejectCount": 0,
@@ -5107,6 +5100,101 @@
           "https://www.theblock.co/post/392931/nasdaq-boerse-stuttgarts-tokenized-settlement-europe?utm_source=rss&utm_medium=rss",
           "https://www.theblock.co/post/392937/roman-storm-tornado-cash-retrial?utm_source=rss&utm_medium=rss",
           "https://www.theblock.co/post/392919/blockchain-com-ghana?utm_source=rss&utm_medium=rss"
+        ]
+      },
+      {
+        "sourceId": "the-verge",
+        "signalCount": 6,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 8,
+        "titleSamples": [
+          "Apple smart home display rumors now point to a fall launch with iOS 27",
+          "The government shutdown is hitting airports — but not ICE",
+          "Everything from the last week of everything is gambling now"
+        ],
+        "linkSamples": [
+          "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+          "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+          "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets"
+        ]
+      },
+      {
+        "sourceId": "uxdesign",
+        "signalCount": 6,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 8,
+        "titleSamples": [
+          "The calm and charm of cosy games in a chaotic world",
+          "Sycophancy: the emperor’s new clothes",
+          "We thought AI feedback was making our designers faster. It was making them shallower"
+        ],
+        "linkSamples": [
+          "https://uxdesign.cc/the-calm-and-charm-of-cosy-games-in-a-chaotic-world-7f29dbd8f4d9?source=rss----138adf9c44c---4",
+          "https://uxdesign.cc/sycophancy-the-emperors-new-clothes-92c6043c06c6?source=rss----138adf9c44c---4",
+          "https://uxdesign.cc/we-thought-ai-feedback-was-making-our-designers-faster-it-was-making-them-shallower-853e41b257fb?source=rss----138adf9c44c---4"
+        ]
+      },
+      {
+        "sourceId": "v2ex-hot",
+        "signalCount": 6,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 8,
+        "titleSamples": [
+          "怎么突然全国都在 OpenClaw",
+          "喝咖啡有没有不苦的办法",
+          "80 后想自学一门编程增收，恳请各位大佬推荐指教"
+        ],
+        "linkSamples": [
+          "https://www.v2ex.com/t/1197062",
+          "https://www.v2ex.com/t/1197061",
+          "https://www.v2ex.com/t/1197057"
+        ]
+      },
+      {
+        "sourceId": "wired",
+        "signalCount": 6,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 8,
+        "titleSamples": [
+          "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+          "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+          "‘Flying Cars’ Will Take Off in American Skies This Summer"
+        ],
+        "linkSamples": [
+          "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+          "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+          "https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/"
+        ]
+      },
+      {
+        "sourceId": "zhihu-hot",
+        "signalCount": 6,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 8,
+        "titleSamples": [
+          "如何评价《崩坏：星穹铁道》新角色「银狼LV.999」？",
+          "2026 年前 2 个月，我国货物贸易进出口总值同比增速重回两位数至 18.3% ，如何看待该数据？",
+          "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？"
+        ],
+        "linkSamples": [
+          "https://www.zhihu.com/question/2014677241481692081",
+          "https://www.zhihu.com/question/2014659827369009542",
+          "https://www.zhihu.com/question/2014656017116395259"
         ]
       }
     ],
@@ -5435,26 +5523,26 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-preballin&body=reject+suggestion+explore-source-account-preballin&labels=twitter-learning%2Creject"
       },
       {
-        "id": "explore-source-account-grok",
+        "id": "explore-source-account-openaidevs",
         "type": "suggest_source_account",
         "status": "pending",
         "confidence": 7,
         "sourceId": "",
-        "handle": "@Grok",
+        "handle": "@openaidevs",
         "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
         "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
         "evidence": {
           "title": "",
-          "link": "https://x.com/Grok",
+          "link": "https://x.com/openaidevs",
           "linkedFrom": [
-            "sspai-index"
+            "simon-willison"
           ],
           "reasons": [
             "Appeared near an active source item already inside the current crypto/AI research pool."
           ]
         },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-grok&body=approve+suggestion+explore-source-account-grok&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-grok&body=reject+suggestion+explore-source-account-grok&labels=twitter-learning%2Creject"
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-openaidevs&body=approve+suggestion+explore-source-account-openaidevs&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-openaidevs&body=reject+suggestion+explore-source-account-openaidevs&labels=twitter-learning%2Creject"
       }
     ],
     "replySuggestions": [
