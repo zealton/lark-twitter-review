@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T10:30:42.452458+00:00",
+  "generatedAt": "2026-03-10T10:33:48.921461+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -246,6 +246,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R41",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "🙋‍♂️ nothing builds character quite like sweating through that first pending transaction 🦞",
+      "timestamp": "2026-03-10T10:33:39.168550+00:00",
+      "targetContent": "Whose crypto journey started with @MetaMask?\n\nRaise your hand, trying to see something",
+      "originalLink": "https://x.com/pipeline_xyz/status/2031101063919534288",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Apipeline_xyz+%22%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+nothing+builds+character+quite+like+sweating+through+that+f%22&src=typed_query&f=live",
+      "targetAccount": "@pipeline_xyz",
+      "replyRationale": "Replying to @pipeline_xyz because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R40",
       "status": "sent",
       "statusDisplay": "sent",
@@ -387,19 +400,6 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ADavethompson100+%22That+soundtrack+really+sets+the+vibe%2C+hard+to+believe+it%E2%80%99s+alrea%22&src=typed_query&f=live",
       "targetAccount": "@Davethompson100",
       "replyRationale": "Replying to @Davethompson100 because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R22",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "The slope is finally looking walkable again 🦞",
-      "timestamp": "2026-03-10T05:32:18.588924+00:00",
-      "targetContent": "Has spring arrived at Cornell? Check out these pictures from campus and you be the judge.",
-      "originalLink": "https://x.com/Cornell/status/2031062208373768434",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ACornell+%22The+slope+is+finally+looking+walkable+again%22&src=typed_query&f=live",
-      "targetAccount": "@Cornell",
-      "replyRationale": "Replying to @Cornell because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
   ],
   "pendingReplies": [],
@@ -4621,10 +4621,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T10:30:42.362610+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T10:33:48.782493+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T10:30:42.362610+00:00",
+    "lastSuccessAt": "2026-03-10T10:33:48.745100+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T08:36:12.146158+00:00",
@@ -4659,50 +4659,52 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T10:22:05.446215+00:00",
-        "lastSuccessAt": "2026-03-10T10:22:05.446215+00:00",
+        "lastRunAt": "2026-03-10T10:33:48.745100+00:00",
+        "lastSuccessAt": "2026-03-10T10:33:48.745100+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
             "discovered": 1,
-            "count": 39,
+            "count": 40,
             "accountsScanned": 4,
-            "elapsedSeconds": 47.0,
+            "elapsedSeconds": 55.7,
             "targetsChecked": 1,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@thedaks_png",
+                "account": "@DeltaV_xyz",
                 "path": "member_list",
                 "status": "skipped",
                 "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-02-09T18:52:13.000Z",
-                "statusLink": "https://x.com/thedaks_png/status/2020933773446328375"
+                "publishedAt": "2026-03-04T16:04:45.000Z",
+                "statusLink": "https://x.com/DeltaV_xyz/status/2029226549527097480"
               },
               {
                 "scope": "discover",
-                "account": "@thisisfin_",
+                "account": "@monks_xyz",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-05-22T18:09:45.000Z",
+                "statusLink": "https://x.com/jusup11/status/1925615078121873850"
+              },
+              {
+                "scope": "discover",
+                "account": "@pipeline_xyz",
                 "path": "member_list",
                 "status": "ok",
-                "statusLink": "https://x.com/thisisfin_/status/2031009038394335589",
-                "score": 2,
+                "statusLink": "https://x.com/pipeline_xyz/status/2031101063919534288",
+                "score": 5,
                 "targetReasons": [
-                  "compact"
+                  "compact",
+                  "discussion_surface",
+                  "topic_fit"
                 ]
               },
               {
                 "scope": "discover",
-                "account": "@tyler_did_it",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-03-06T12:40:45.000Z",
-                "statusLink": "https://x.com/Tyler_Did_It/status/2029899986780016769"
-              },
-              {
-                "scope": "discover",
-                "account": "@venti_nft",
+                "account": "@proof_xyz",
                 "path": "member_list",
                 "status": "failed",
                 "reason": "reply discovery exceeded 45s wall clock budget"
@@ -4717,7 +4719,7 @@
           },
           "enqueueReplies": {
             "enqueued": [
-              "R40"
+              "R41"
             ],
             "skipped": [
               {
@@ -4871,6 +4873,10 @@
               {
                 "id": "R39",
                 "reason": "status=failed"
+              },
+              {
+                "id": "R40",
+                "reason": "sync_terminal_status:sent"
               }
             ],
             "count": 1
@@ -4882,7 +4888,7 @@
           "replies": {
             "processed": [
               {
-                "id": "R40",
+                "id": "R41",
                 "status": "sent"
               }
             ],
@@ -4891,7 +4897,7 @@
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-10T10:32:05.446215+00:00",
+        "nextRunAt": "2026-03-10T10:43:48.745100+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4911,40 +4917,22 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T10:30:42.362610+00:00",
+        "lastRunAt": "2026-03-10T10:33:48.782493+00:00",
         "lastSuccessAt": "2026-03-10T10:30:42.362610+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T10:30:38.754150+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 18
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T10:30:38.780411+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 29,
-            "replySuggestions": 8
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T10:30:38.834794+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T10:32:42.362610+00:00",
+        "nextRunAt": "2026-03-10T10:35:48.782493+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },
   "dispatchSummary": {
-    "lastRunAt": "2026-03-10T10:22:05.446215+00:00",
-    "lastSuccessAt": "2026-03-10T10:22:05.446215+00:00",
+    "lastRunAt": "2026-03-10T10:33:48.745100+00:00",
+    "lastSuccessAt": "2026-03-10T10:33:48.745100+00:00",
     "status": "ok",
     "outcome": "replies_sent",
     "lastError": "",
@@ -5448,6 +5436,29 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-lunarbasex&body=reject+suggestion+explore-source-account-lunarbasex&labels=twitter-learning%2Creject"
       },
       {
+        "id": "explore-source-account-metamask",
+        "type": "suggest_source_account",
+        "status": "pending",
+        "confidence": 8,
+        "sourceId": "",
+        "handle": "@MetaMask",
+        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
+        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
+        "evidence": {
+          "title": "",
+          "link": "https://x.com/MetaMask",
+          "linkedFrom": [
+            "@pipeline_xyz"
+          ],
+          "reasons": [
+            "Mentioned inside a reply thread that already produced a usable interaction.",
+            "Appeared around a candidate reply and may be part of the same high-signal local graph."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-metamask&body=approve+suggestion+explore-source-account-metamask&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-metamask&body=reject+suggestion+explore-source-account-metamask&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "explore-source-account-mikegarafolo",
         "type": "suggest_source_account",
         "status": "pending",
@@ -5584,28 +5595,6 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-preballin&body=approve+suggestion+explore-source-account-preballin&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-preballin&body=reject+suggestion+explore-source-account-preballin&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-source-account-chenqiufan",
-        "type": "suggest_source_account",
-        "status": "pending",
-        "confidence": 7,
-        "sourceId": "",
-        "handle": "@ChenQiufan",
-        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
-        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
-        "evidence": {
-          "title": "",
-          "link": "https://x.com/ChenQiufan",
-          "linkedFrom": [
-            "sheet-account:kaifulee"
-          ],
-          "reasons": [
-            "Appeared near an active source item already inside the current crypto/AI research pool."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-chenqiufan&body=approve+suggestion+explore-source-account-chenqiufan&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-chenqiufan&body=reject+suggestion+explore-source-account-chenqiufan&labels=twitter-learning%2Creject"
       }
     ],
     "replySuggestions": [
@@ -5666,6 +5655,30 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-lunarbasex&body=approve+suggestion+explore-reply-lunarbasex&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-lunarbasex&body=reject+suggestion+explore-reply-lunarbasex&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-reply-metamask",
+        "type": "explore_reply_target",
+        "status": "pending",
+        "confidence": 8,
+        "handle": "@MetaMask",
+        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
+        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "linkedFrom": [
+            "@pipeline_xyz"
+          ],
+          "linkedThreads": [
+            "https://x.com/pipeline_xyz/status/2031101063919534288"
+          ],
+          "reasons": [
+            "Mentioned inside a thread that already produced a usable reply opportunity.",
+            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-metamask&body=approve+suggestion+explore-reply-metamask&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-metamask&body=reject+suggestion+explore-reply-metamask&labels=twitter-learning%2Creject"
       },
       {
         "id": "explore-reply-mikegarafolo",
@@ -5793,6 +5806,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 29
+    "replies": 30
   }
 }
