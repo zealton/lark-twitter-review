@@ -243,6 +243,10 @@
           <div class="grid tab-panel" id="tab-replies">
             <div class="stack">
               <div class="panel">
+                <h2>Pending Replies</h2>
+                <div id="pending-reply-list"></div>
+              </div>
+              <div class="panel">
                 <h2>Reply Activity</h2>
                 <div id="reply-list"></div>
               </div>
@@ -250,8 +254,8 @@
             <div class="stack">
               <div class="panel">
                 <h2>Reply Notes</h2>
-                <div class="empty">
-                  This tab shows sent reply records, target content, and links. Next step is to add full reply pipeline state here.
+                <div class="muted">
+                  This tab separates queued replies from sent replies so you can audit what the agent plans to send versus what actually got delivered.
                 </div>
               </div>
             </div>
@@ -351,6 +355,28 @@
         `).join("");
       }
 
+      function renderPendingReplies(items) {
+        const root = document.getElementById("pending-reply-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No queued replies right now.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <article class="card">
+            <header>
+              <div>
+                <h3>${escapeHtml(item.id || "")} · ${escapeHtml(item.targetAccount || "reply")}</h3>
+                <div class="meta">${escapeHtml(formatTimestamp(item.timestamp || ""))}</div>
+              </div>
+              <span class="pill">${escapeHtml(item.status || "")}</span>
+            </header>
+            <div class="tweet">${escapeHtml(item.text || "")}</div>
+            ${item.targetContent ? `<div class="meta">Target content: ${escapeHtml(item.targetContent)}</div>` : ""}
+            ${item.originalLink ? `<div class="meta spacer"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
+          </article>
+        `).join("");
+      }
+
       function renderResearch(items) {
         const root = document.getElementById("research-list");
         if (!items.length) {
@@ -399,6 +425,7 @@
           document.getElementById("metric-posts").textContent = data.metrics.posts;
           document.getElementById("metric-replies").textContent = data.metrics.replies;
           renderPending(data.pending || []);
+          renderPendingReplies(data.pendingReplies || []);
           renderReplies(data.replyActivity || []);
           renderPostHistory(data.deliveredPosts || []);
           renderResearch(data.research || []);

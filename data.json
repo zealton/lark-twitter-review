@@ -1,81 +1,82 @@
 {
-  "generatedAt": "2026-03-10T02:33:38.119577+00:00",
+  "generatedAt": "2026-03-10T02:42:33.986727+00:00",
   "repo": "zealton/lark-twitter-review",
-  "pending": [
-    {
-      "id": "P8",
-      "status": "awaiting_approval",
-      "angle": "AI infrastructure bifurcating into local deployment and onchain agent commerce",
-      "draft": "The infrastructure wedge for AI is rapidly bifurcating into two distinct tracks: localized sovereignty versus onchain commerce.\n\nWhile Zhipu is pushing AutoClaw to enable consumers to deploy full-blooded reasoning models locally on personal hardware, Virtuals Protocol is simultaneously rolling out ERC-8183 to standardize how independent AI agents hire, evaluate, and pay each other at the contract level.\n\nWhat this really changes is the definition of an AI product. You are no longer just building a chatbot; you are either building a sovereign local engine that protects user data, or you are plugging into an interoperable gig economy where agents trade with each other via trustless reputation hooks.\n\nThe mistake is to think these are competing philosophies. The next breakout consumer app will likely run entirely on local hardware for privacy, while seamlessly leveraging onchain agent networks to execute complex, trusted B2B transactions on the user's behalf. 🦞",
-      "sources": [
-        "https://m.theblockbeats.info/flash/335275",
-        "https://m.theblockbeats.info/flash/335273"
-      ],
-      "createdAt": "2026-03-10T02:00:51.484172+00:00",
-      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P8&body=approve+P8&labels=twitter-approval%2Capprove",
-      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P8&body=reject+P8%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
-      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P8&body=archive+P8%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
-    }
-  ],
+  "pending": [],
   "research": [
     {
       "id": "R001",
-      "sourceId": "blockbeats",
-      "title": "Virtuals宣布推出ERC-8183，打造AI代理商业层",
-      "link": "https://m.theblockbeats.info/flash/335275",
-      "publishedAt": "2026-03-10T01:52:16+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，Virtuals Protocol 宣布推出 ERC-8183，AI 代理的商业层，由 Virtuals Protocol 与以太坊基金会 dAI 团队联合开发。</p><p><br></p><p>ERC-8183 的核心是「Job」原语，包括客户端、提供者和评估者三方，支持从开放到完成的四个状态，并通过 Hook 机制扩展自定义逻辑，如资金转移和声誉检查。</p><p><br></p><p>ERC-8183 提供支撑 ER"
+      "sourceId": "odaily-newsflash",
+      "title": "TRON加入Agentic AI Foundation以支持自主AI系统开放基础设施",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471414",
+      "publishedAt": "2026-03-10T02:41:07+00:00",
+      "summaryShort": "<p>Odaily星球日报讯 TRON DAO 宣布 TRON 已作为会员加入 Linux Foundation 旗下的 Agentic AI Foundation (AAIF)，并将担任该基金会理事会成员。AAIF 旨在为代理式 AI 从实验转向实际生产提供中立、互操作的开放基础设施。孙宇晨表示，自主 AI 系统将依赖开放、可靠且全球可访问的基础设施，TRON 将致力于开发允许 AI 代理与去中心化网络及数字金融基础设施交互的开放框架。</p>"
     },
     {
       "id": "R002",
-      "sourceId": "odaily-newsflash",
-      "title": "Pudgy Penguins：基于浏览器的免费游戏Pudgy World现已上线",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471403",
-      "publishedAt": "2026-03-10T01:50:20+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 Pudgy Penguins 在 X 平台发文表示，其基于浏览器的免费游戏 Pudgy World 现已上线。玩家可以在游戏中探索 The Berg 的 12 个独特城镇，帮助 Pengu 找到 Polly，并玩迷你游戏。</p>"
+      "sourceId": "blockbeats",
+      "title": "比特币重回7万美元大关",
+      "link": "https://m.theblockbeats.info/flash/335290",
+      "publishedAt": "2026-03-10T02:40:02+00:00",
+      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据 HTX 行情信息，比特币重回 7 万美元大关，现报价 70045.32 美元，24 小时涨幅为 1.72%。</p>"
     },
     {
       "id": "R003",
-      "sourceId": "odaily-newsflash",
-      "title": "Kraken上线Fractal Bitcoin (FB) 现货交易",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471402",
-      "publishedAt": "2026-03-10T01:42:31+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 Kraken 于 3 月 10 日 23:00 UTC+8 上线 Fractal Bitcoin (FB) 现货交易。</p><p>Kraken 成立于 2011 年，是一家在全球多司法辖区合规运营的数字资产交易机构，在 MiCAR 等监管框架下为全球用户提供机构级数字资产金融基础设施。据最新消息，纳斯达克与 Kraken 合作计划推出 24/7 代币化股票交易。</p>"
+      "sourceId": "blockbeats",
+      "title": "「Hyperliquid早期贡献者Loracle」死里逃生，持有的石油空单已扭亏为盈，现浮盈60万美元",
+      "link": "https://m.theblockbeats.info/flash/335288",
+      "publishedAt": "2026-03-10T02:38:16+00:00",
+      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据 The Data Nerd 监测，伴随石油高位跳水，「Hyperliquid 早期贡献者 Loracle」持有的石油空单已扭亏为盈，现浮盈 60 万美元。</p><p><br></p><p>3 月 8 日至 9 日，该地址 20 倍做空石油，油价上涨期间险被爆仓。</p>"
     },
     {
       "id": "R004",
-      "sourceId": "blockbeats",
-      "title": "此前做空原油亏损159.5万美元地址再次做空原油，现已浮盈140.5万美元",
-      "link": "https://m.theblockbeats.info/flash/335274",
-      "publishedAt": "2026-03-10T01:39:16+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据链上分析师 Ai 姨（@ai_9684xtpa）监测，3 月 8 日做空原油亏损 159.5 万美元的地址以 106.28 美元的均价再次做空 6562 桶原油（目前价值 557 万美元），现已浮盈 140.5 万美元，是 Hyperliquid 上原油头寸浮盈 TOP2 的地址。</p>"
+      "sourceId": "odaily-newsflash",
+      "title": "易理华：ETH在2000美元以下是抄底机会，短线和长线胜率都大",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471413",
+      "publishedAt": "2026-03-10T02:36:37+00:00",
+      "summaryShort": "<p>Odaily星球日报讯 Liquid Capital 创始人易理华在 X 平台发文表示，ETH 在 2000 美元以下都是抄底机会，短线和长线胜率都很大。按照周期理论，今年也是大底机会。AI 改造重构 Crypto 行业的创业机会已经到来，稳定币的 AI 支付价值初显。</p>"
     },
     {
       "id": "R005",
-      "sourceId": "blockbeats",
-      "title": "智谱股价涨超12%，此前宣布正式上线AutoClaw",
-      "link": "https://m.theblockbeats.info/flash/335273",
-      "publishedAt": "2026-03-10T01:34:27+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据 Bitget 行情数据，港股智谱涨超 12%，现报价 648 港元。</p><p><br></p><p>智谱宣布今日正式上线 AutoClaw(中文名：澳龙)，用户下载安装后，可以在本地电脑上轻松部署「龙虾」，使用满血版 OpenClaw 原生能力。目前，智谱提供一定免费额度给用户体验龙虾能力。</p>"
+      "sourceId": "odaily-newsflash",
+      "title": "BTC突破70000 USDT，24H涨幅5.64%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471412",
+      "publishedAt": "2026-03-10T02:34:34+00:00",
+      "summaryShort": "Odaily星球日报讯 OKX 行情显示，BTC 突破 70000 USDT，现报 70004.8 USDT，24H 涨幅 5.64%。 （本条快讯由AI辅助生成）"
     },
     {
       "id": "R006",
-      "sourceId": "odaily-newsflash",
-      "title": "星球早讯",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471398",
-      "publishedAt": "2026-03-10T01:29:00+00:00",
-      "summaryShort": "<p>1. Strategy 披露上周斥资 12.8 亿美元购买 17994 枚比特币；</p><p>2. Tom Lee：“加密迷你寒冬”接近尾声，BitMine 将加速增持 ETH；</p><p>3. 特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期；</p><p>4. 分析：伊朗局势与轧空共同导致了近期的 CRCL 上涨；</p><p>5. Anthropic 起诉美国政府；</p><p>6. 特朗普威胁在通过选民身份法案前停止签署任何法案，或影响加密监管法案"
+      "sourceId": "blockbeats",
+      "title": "易理华：重申以太坊2000美元以下都是抄底机会，看好AI改造重构加密行业的创业机会",
+      "link": "https://m.theblockbeats.info/flash/335286",
+      "publishedAt": "2026-03-10T02:34:17+00:00",
+      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，Liquid Capital（前 LD Capital）创始人易理华发文表示，「AI 的发展速度和焦虑恐怖如斯，不忘初心回到加密行业，首先 ETH 在 2000（美元）以下都是抄底机会，短线和长线都是胜率大，其次按照周期理论，今年也是大底机会，适合我们筹备新基金和平台。</p><p><br></p><p>最后看赛道机会，按照 AI 进化速度，到了 AI 改造重构 Crypto 行业的创业机会，相信有波 AI 创新者颠覆目前的"
     },
     {
       "id": "R007",
       "sourceId": "odaily-newsflash",
-      "title": "黄金上涨至5157美元/盎司，白银上涨至88.5美元/盎司",
-      "link": "https://www.odaily.news/zh-CN/newsflash/471401",
-      "publishedAt": "2026-03-10T01:28:52+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 据 Gate 最新数据，黄金价格上涨至 5,157.98 美元/盎司，日内涨幅达 0.41%。白银价格涨至 88.521 美元/盎司，日内涨幅达 1.76%。</p><p>BVIX（BTC 波动率指数）最新报价 56.36，日内跌幅为 7.61%。EVIX（ETH 波动率指数 ） 最新报价 74.83，日内跌幅为 3.81%。</p><p>外汇方面，美元兑离岸人民币（USD/CNH）日内上涨 0.05%，当前汇率为 6.89366。美元兑日元（U"
+      "title": "美国司法部要求重审Tornado Cash联合创始人Roman Storm",
+      "link": "https://www.odaily.news/zh-CN/newsflash/471411",
+      "publishedAt": "2026-03-10T02:34:15+00:00",
+      "summaryShort": "<p>Odaily星球日报讯 Crypto In America 记者 Eleanor Terrett 在 X 平台发文表示，美国司法部已要求对 Tornado Cash 联合创始人 Roman Storm 进行重审，涉及在第一次审判中陪审团未能达成一致的两项指控：洗钱和违反制裁。</p><p>检察官提议在 10 月初进行重审，尽管 Storm 根据第 29 条规则提出的推翻其无证汇款罪名的动议仍在审理中。</p>"
     },
     {
       "id": "R008",
+      "sourceId": "blockbeats",
+      "title": "链上WTI原油以18亿美元日交易量反超ETH，跃居Hyperliquid平台第二",
+      "link": "https://m.theblockbeats.info/flash/335285",
+      "publishedAt": "2026-03-10T02:34:11+00:00",
+      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据 <a href=\"https://t.me/HyperInsight\" target=\"_blank\">Hyperinsight 监测</a>显示，链上 RWA 赛道交易活跃度激增，<a href=\"https://app.hyperliquid.xyz/join/NTOD\" target=\"_blank\">Hyperliquid</a> 上 WTI 原油（CL）交易量自 3 月 3 日首次突破 1 亿美元后，当前 24"
+    },
+    {
+      "id": "R009",
+      "sourceId": "decrypt",
+      "title": "Elon Musk’s Grok Faces UK Backlash After AI Posts Mock Football Tragedies",
+      "link": "https://decrypt.co/360509/elon-musks-grok-uk-backlash-ai-posts-mock-football-tragedies",
+      "publishedAt": "2026-03-10T01:53:34+00:00",
+      "summaryShort": "Liverpool and Manchester United have complained after Grok mocked the Hillsborough and Munich tragedies on Monday."
+    },
+    {
+      "id": "R010",
       "sourceId": "decrypt",
       "title": "Bitcoin Shows ‘Tentative Signs of Improvement’ as Iran Conflict Fears Wane",
       "link": "https://decrypt.co/360512/bitcoin-tentative-signs-iran-conflict-fears-wane",
@@ -83,280 +84,30 @@
       "summaryShort": "Oil’s sharp swing and renewed Bitcoin ETF inflows highlight a fragile rebound as on-chain data suggest crypto market stress may be easing."
     },
     {
-      "id": "R009",
-      "sourceId": "blockbeats",
-      "title": "特朗普称「战争很快结束」，原油一度较高点跌超30%，美股收盘普涨、日韩股市开盘反弹",
-      "link": "https://m.theblockbeats.info/flash/335271",
-      "publishedAt": "2026-03-10T01:16:49+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，美国总统特朗普表示，伊朗战争已基本结束。比他最初预计的 4 到 5 周的时间框架「进展快得多」。受此消息影响，据 Bitget 数据显示，原油价格快速下跌，一度较高点跌超 30%。暂报 85.58 美元/桶。</p><p><br></p><p>中东战事冲击的担忧得到缓解，美股主要股指在收盘前最后一个小时强劲上涨：纳指领涨，基本收复自中东冲突以来的全部跌幅。美股周一收盘，道指初步收涨 0.5%，标普 500 指数涨 0.8%，"
-    },
-    {
-      "id": "R010",
+      "id": "R011",
       "sourceId": "hn-frontpage",
-      "title": "It looks like the “JVG algorithm” only wins on tiny numbers",
+      "title": "The “JVG algorithm” only wins on tiny numbers",
       "link": "https://scottaaronson.blog/?p=9615",
       "publishedAt": "2026-03-10T00:35:19+00:00",
       "summaryShort": "<p>Article URL: <a href=\"https://scottaaronson.blog/?p=9615\">https://scottaaronson.blog/?p=9615</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47317739\">https://news.ycombinator.com/item?id=47317739</a></p> <p>Points"
     },
     {
-      "id": "R011",
+      "id": "R012",
       "sourceId": "hn-frontpage",
       "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
       "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
       "publishedAt": "2026-03-10T00:16:44+00:00",
       "summaryShort": "<p>Article URL: <a href=\"https://www.rahuljuliato.com/posts/emacs-solo-two-years\">https://www.rahuljuliato.com/posts/emacs-solo-two-years</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47317616\">https://news.ycombina"
-    },
-    {
-      "id": "R012",
-      "sourceId": "decrypt",
-      "title": "Americans Use AI Every Day—But Most Still Don't Like It, New Poll Shows",
-      "link": "https://decrypt.co/360493/americans-ai-every-day-most-still-dont-like-it",
-      "publishedAt": "2026-03-09T22:34:03+00:00",
-      "summaryShort": "Americans are increasingly using AI tools even as a majority say the technology’s risks outweigh its benefits."
     }
   ],
-  "deliveredPosts": [
-    {
-      "id": "P5",
-      "status": "posted",
-      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
-      "timestamp": "2026-03-09T12:52:59.626675+00:00",
-      "angle": "If agents transact, crypto becomes part of the product stack."
-    },
-    {
-      "id": "P3",
-      "status": "posted",
-      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
-      "timestamp": "2026-03-09T12:52:45.347701+00:00",
-      "angle": "The real AI x crypto convergence is infrastructure, not narrative."
-    },
-    {
-      "id": "P5",
-      "status": "failed",
-      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
-      "timestamp": "2026-03-09T12:51:02.210021+00:00",
-      "angle": null
-    },
-    {
-      "id": "P3",
-      "status": "failed",
-      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
-      "timestamp": "2026-03-09T12:50:52.489975+00:00",
-      "angle": null
-    },
-    {
-      "id": "P5",
-      "status": "failed",
-      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
-      "timestamp": "2026-03-09T12:49:26.286539+00:00",
-      "angle": null
-    },
-    {
-      "id": "P3",
-      "status": "failed",
-      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
-      "timestamp": "2026-03-09T12:49:19.085875+00:00",
-      "angle": null
-    },
-    {
-      "id": "P5",
-      "status": "dry_run",
-      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
-      "timestamp": "2026-03-09T12:47:51.272763+00:00",
-      "angle": "If agents transact, crypto becomes part of the product stack."
-    },
-    {
-      "id": "P3",
-      "status": "dry_run",
-      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
-      "timestamp": "2026-03-09T12:47:09.291425+00:00",
-      "angle": "The real AI x crypto convergence is infrastructure, not narrative."
-    }
-  ],
-  "replyActivity": [
-    {
-      "id": "reply:test-1",
-      "status": "dry_run",
-      "text": "Good framing. The product angle matters more than the narrative angle here. 🦞",
-      "timestamp": "2026-03-09T12:56:13.898698+00:00",
-      "targetContent": "AI x crypto is mostly narrative today.",
-      "originalLink": "https://x.com/example/status/123",
-      "replyLink": "https://x.com/Lark_Lumi/status/456",
-      "targetAccount": "@example"
-    }
-  ],
-  "archive": [
-    {
-      "id": "P7",
-      "type": "post",
-      "status": "archived",
-      "angle": "Connecting local AI models with on-chain agent standards, with a playful nod to the lobster name",
-      "sources": [
-        "https://m.theblockbeats.info/flash/335275",
-        "https://m.theblockbeats.info/flash/335273"
-      ],
-      "draft": "智谱今天上线了本地部署工具 AutoClaw（这也太巧了，中文名直接叫澳龙），同时 Virtuals 联合 dAI 团队推出了专门为 AI 代理“打工”设计的 ERC-8183 协议。一边是本地开源模型越来越触手可及，另一边是给 AI 分配任务和结算的链上商业层开始成型。未来的 Web3 体验可能就是你的本地“龙虾”在链上接了其他 AI 发出的悬赏任务。🦞",
-      "queuedAt": "2026-03-10T01:55:07.310358+00:00",
-      "generatedBy": "openrouter/auto",
-      "archivedAt": "2026-03-10T01:57:08.537260+00:00",
-      "archivedReason": "Archived because drafts were still too close to source material and violated no-lifting rule."
-    },
-    {
-      "id": "P6",
-      "type": "post",
-      "status": "archived",
-      "angle": "DeFi outperforming TradFi market mechanics",
-      "sources": [
-        "https://m.theblockbeats.info/flash/335274",
-        "https://www.odaily.news/zh-CN/newsflash/471402",
-        "https://www.odaily.news/zh-CN/newsflash/471398"
-      ],
-      "draft": "Kraken and Nasdaq partnering for 24/7 tokenized stocks is a great step forward, but on-chain perps are already in a league of their own. A trader on Hyperliquid just flipped a $1.5M loss into a $1.4M profit shorting oil around the latest geopolitical news cycle. TradFi is trying to figure out weekend trading while DeFi is already pricing in global events block by block. 🦞",
-      "queuedAt": "2026-03-10T01:55:07.310358+00:00",
-      "generatedBy": "openrouter/auto",
-      "archivedAt": "2026-03-10T01:57:08.537260+00:00",
-      "archivedReason": "Archived because drafts were still too close to source material and violated no-lifting rule."
-    },
-    {
-      "id": "P5",
-      "type": "post",
-      "status": "archived",
-      "angle": "AI infrastructure vs closed AI struggles",
-      "sources": [
-        "https://m.theblockbeats.info/flash/335275",
-        "https://m.theblockbeats.info/flash/335273",
-        "https://www.odaily.news/zh-CN/newsflash/471398"
-      ],
-      "draft": "Anthropic is busy suing the US government over regulations, while crypto AI is just building standard operating procedures. Virtuals dropped ERC-8183 to give AI agents a verifiable way to contract jobs and build reputation on-chain, right as Zhipu pushes local model deployments with AutoClaw. The contrast between closed AI fighting in court and open AI building native internet commerce is getting pretty stark. 🦞",
-      "queuedAt": "2026-03-10T01:55:07.310358+00:00",
-      "generatedBy": "openrouter/auto",
-      "archivedAt": "2026-03-10T01:57:08.537260+00:00",
-      "archivedReason": "Archived because drafts were still too close to source material and violated no-lifting rule."
-    },
-    {
-      "id": "P3",
-      "type": "post",
-      "status": "archived",
-      "channel": "telegram",
-      "target": "5683890141",
-      "angle": "The real AI x crypto opportunity is agents as users, not subjects",
-      "whyItMatters": "Everyone talks about 'AI agents on crypto' but the bigger thesis is crypto becoming payment/infrastructure for AI agents. When software needs to pay, crypto becomes primitive.",
-      "sources": [
-        "current AI agent infra discussions"
-      ],
-      "draft": "Most AI x crypto talk focuses on agents trading. But the bigger shift is agents becoming crypto's first native users.\\n\\nWhen AI needs to buy API calls, compute, data, and outcomes—it can't open a bank account. It needs crypto-native payments.\\n\\nThat's when identity, payments, and settlement stop being 'DeFi features' and become product primitives for machine-to-machine commerce.\\n\\nThe opportunity isn't trading. It's infrastructure for machine economy. 🦞",
-      "createdAt": "2026-03-09T14:05:47.254913+00:00",
-      "approvalDeliveryStatus": "failed",
-      "approvalDeliveryError": "env: node: No such file or directory",
-      "archivedAt": "2026-03-10T01:51:51.375958+00:00",
-      "archivedReason": "Archived stale auto-generated batch after user requested execution-only final outputs."
-    },
-    {
-      "id": "P2",
-      "type": "post",
-      "status": "archived",
-      "channel": "telegram",
-      "target": "5683890141",
-      "angle": "ETH as corporate treasury is a structural thesis, not narrative",
-      "whyItMatters": "When companies allocate real treasury to ETH, they're betting on ETH as settlement infrastructure—not just a token to hold. BitMine's acceleration signals long-term conviction.",
-      "sources": [
-        "https://www.odaily.news/zh-CN/newsflash/471318"
-      ],
-      "draft": "Tom Lee says the 'crypto mini-winter' is ending and BitMine is accelerating ETH purchases.\\n\\nWhat's interesting isn't the narrative—it's the structural shift. Companies are treating ETH as treasury infrastructure, not tradeable token.\\n\\nWhen corporate treasuries allocate to something, they're saying: this will still exist in 3-5 years. That's a different bet than 'price goes up.' 🦞",
-      "createdAt": "2026-03-09T14:05:35.831474+00:00",
-      "approvalDeliveryStatus": "failed",
-      "approvalDeliveryError": "env: node: No such file or directory",
-      "archivedAt": "2026-03-10T01:51:51.375958+00:00",
-      "archivedReason": "Archived stale auto-generated batch after user requested execution-only final outputs."
-    },
-    {
-      "id": "P1",
-      "type": "post",
-      "status": "archived",
-      "channel": "telegram",
-      "target": "5683890141",
-      "angle": "When TradFi builds crypto-native primitives, it's validation, not competition.",
-      "whyItMatters": "CBOE's prediction market framework signals that crypto infrastructure is ready for institutional capital. The question isn't if TradFi enters—it's what they build on top of.",
-      "sources": [
-        "https://www.odaily.news/zh-CN/newsflash/471326"
-      ],
-      "draft": "CBOE just launched a prediction market framework. Not crypto-native—a major exchange building it themselves.\\n\\nWhen the incumbent starts replicating our primitives, the infrastructure is ready. Now the real question: what gets built on top? 🦞",
-      "createdAt": "2026-03-09T14:05:04.890558+00:00",
-      "approvalDeliveryStatus": "failed",
-      "approvalDeliveryError": "env: node: No such file or directory",
-      "archivedAt": "2026-03-10T01:51:51.375958+00:00",
-      "archivedReason": "Archived stale auto-generated batch after user requested execution-only final outputs."
-    },
-    {
-      "id": "P4",
-      "type": "post",
-      "status": "archived_test",
-      "archivedReason": "User asked to forget earlier test content.",
-      "archivedAt": "2026-03-09T13:22:00+00:00",
-      "channel": "telegram",
-      "target": "5683890141",
-      "angle": "Prediction markets are getting more institutional, but edge still belongs to operators with process",
-      "whyItMatters": "This fuses fresh CBOE prediction-market infrastructure news with wallet-level Polymarket behavior data into an original operator take instead of a repost.",
-      "sources": [
-        "Odaily: CBOE launched a new prediction market framework",
-        "BlockBeats: analysis of 112k Polymarket wallets"
-      ],
-      "draft": "Prediction markets are quietly splitting into two businesses.\n\nOne is infrastructure: better market design, better access, more institutional wrappers.\nThe other is edge: disciplined operators with narrow focus, patience, and real process still outperform everyone who trades headlines.\n\nCBOE pushing a richer framework matters.\nBut the more interesting signal is that the best users on Polymarket already behave less like gamblers and more like systematic traders.\n\nThat tells you this category is maturing from novelty into market structure. 🦞",
-      "createdAt": "2026-03-09T13:19:05.136436+00:00"
-    },
-    {
-      "id": "P3",
-      "type": "post",
-      "status": "archived_test",
-      "archivedReason": "User asked to forget earlier test content. Already posted historically; preserve only as archive/history.",
-      "archivedAt": "2026-03-09T13:22:00+00:00",
-      "channel": "telegram",
-      "target": "5683890141",
-      "angle": "企业BTC持仓已达流通市值的5%",
-      "whyItMatters": "企业BTC持仓突破5%是一个里程碑信号，机构采用进入新阶段",
-      "sources": [
-        "SoSoValue data",
-        "Strategy, Bitmine purchases"
-      ],
-      "draft": "一个被低估的里程碑：全球上市公司现在持有约100万枚BTC，占流通市值的5%。\n\n这只是刚开始。Strategy和Bitmine还在持续买入，5%只是企业采用曲线的起点。\n\n当5%变成15%、30%的时候，整个资产属性都会变。现在还在很早期的阶段。 🦞"
-    },
-    {
-      "id": "P2",
-      "type": "post",
-      "status": "archived_test",
-      "archivedReason": "User asked to forget earlier test content.",
-      "archivedAt": "2026-03-09T13:22:00+00:00",
-      "channel": "telegram",
-      "target": "5683890141",
-      "angle": "股票代币化不会取代ETF，而是普惠投资者",
-      "whyItMatters": "这是传统金融和crypto融合的具体进展，有实际产品进展支撑",
-      "sources": [
-        "Bloomberg Eric Balchunas",
-        "Nasdaq tokenization framework"
-      ],
-      "draft": "纳斯达克最近出的股票代币化框架挺有意思的。\n\nBalchunas说得对：代币化不会\"取代\"ETF，而是把ETF\"放到链上\"。这意味着全球最受欢迎的金融资产可以通过crypto形式被更多人参与。\n\n不是颠覆，是扩展。不是\"crypto赢了\"，是\"金融更有效率了\"。 🦞"
-    },
-    {
-      "id": "P1",
-      "type": "post",
-      "status": "archived_test",
-      "archivedReason": "User asked to forget earlier test content.",
-      "archivedAt": "2026-03-09T13:22:00+00:00",
-      "channel": "telegram",
-      "target": "5683890141",
-      "angle": "CZ预测AI支付规模将是人类的百万倍",
-      "whyItMatters": "这是AI x crypto基础设施叙事的有力支撑点，来自行业最具影响力的人物之一",
-      "sources": [
-        "CZ X post",
-        "Odaily newsflash"
-      ],
-      "draft": "CZ最近说了一句话我印象很深：AI agents未来进行的支付笔数将是人类的百万倍。\n\n这个数字可能有点夸张，但方向是对的。当软件开始自己买卖东西——API、计算、数据——crypto就不再是\"赛道\"，而是变成了\"结算层\"。\n\n百万倍我没那么确定，但\"从0到1\"这个质变，我是信的。 🦞"
-    }
-  ],
+  "deliveredPosts": [],
+  "replyActivity": [],
+  "pendingReplies": [],
+  "archive": [],
   "metrics": {
-    "pending": 1,
+    "pending": 0,
     "queued": 0,
-    "posts": 8,
-    "replies": 1
+    "posts": 0,
+    "replies": 0
   }
 }
