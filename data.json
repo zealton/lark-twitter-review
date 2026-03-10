@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T06:29:41.575350+00:00",
+  "generatedAt": "2026-03-10T06:35:58.140578+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4166,8 +4166,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T06:29:41.490457+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T06:35:58.030687+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T06:29:41.490457+00:00",
     "stages": {
@@ -4212,7 +4212,7 @@
         "details": {
           "error": "reply operation manually stopped for rule update"
         },
-        "nextRunAt": "2026-03-10T06:30:00+00:00",
+        "nextRunAt": "2026-03-10T06:40:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4233,32 +4233,19 @@
             "count": 1
           }
         },
-        "nextRunAt": "2026-03-10T06:30:00+00:00",
+        "nextRunAt": "2026-03-10T06:40:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T06:29:41.490457+00:00",
+        "lastRunAt": "2026-03-10T06:35:58.030687+00:00",
         "lastSuccessAt": "2026-03-10T06:29:41.490457+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "learning": {
-            "updatedAt": "2026-03-10T06:29:38.254335+00:00",
-            "sourceEntries": 15,
-            "sourceSuggestions": 0,
-            "replyEntries": 22,
-            "replySuggestions": 1
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T06:29:38.308422+00:00",
-              "pending": 6
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T06:30:00+00:00",
+        "nextRunAt": "2026-03-10T06:36:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -4714,11 +4701,133 @@
         "coveragePriority": 7
       }
     ],
-    "sourceSuggestions": [],
+    "sourceSuggestions": [
+      {
+        "id": "explore-source-1",
+        "type": "explore_source_candidate",
+        "status": "pending",
+        "confidence": 6,
+        "sourceId": "sheet-master-list",
+        "whySuggested": "This item sits close to the current crypto/AI thesis and can seed related source discovery.",
+        "goalFit": "Potentially expands the active source graph using content already adjacent to the current crypto/AI thesis.",
+        "evidence": {
+          "title": "宝玉",
+          "link": "https://x.com/dotey"
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-1&body=approve+suggestion+explore-source-1&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-1&body=reject+suggestion+explore-source-1&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-source-2",
+        "type": "explore_source_candidate",
+        "status": "pending",
+        "confidence": 6,
+        "sourceId": "sheet-master-list",
+        "whySuggested": "This item sits close to the current crypto/AI thesis and can seed related source discovery.",
+        "goalFit": "Potentially expands the active source graph using content already adjacent to the current crypto/AI thesis.",
+        "evidence": {
+          "title": "歸藏",
+          "link": "https://x.com/op7418"
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-2&body=approve+suggestion+explore-source-2&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-2&body=reject+suggestion+explore-source-2&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-source-3",
+        "type": "explore_source_candidate",
+        "status": "pending",
+        "confidence": 6,
+        "sourceId": "sheet-master-list",
+        "whySuggested": "This item sits close to the current crypto/AI thesis and can seed related source discovery.",
+        "goalFit": "Potentially expands the active source graph using content already adjacent to the current crypto/AI thesis.",
+        "evidence": {
+          "title": "Gorden_Sun",
+          "link": "https://x.com/Gorden_Sun"
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-3&body=approve+suggestion+explore-source-3&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-3&body=reject+suggestion+explore-source-3&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-source-4",
+        "type": "explore_source_candidate",
+        "status": "pending",
+        "confidence": 6,
+        "sourceId": "sheet-master-list",
+        "whySuggested": "This item sits close to the current crypto/AI thesis and can seed related source discovery.",
+        "goalFit": "Potentially expands the active source graph using content already adjacent to the current crypto/AI thesis.",
+        "evidence": {
+          "title": "小互",
+          "link": "https://x.com/xiaohu"
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-4&body=approve+suggestion+explore-source-4&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-4&body=reject+suggestion+explore-source-4&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-source-5",
+        "type": "explore_source_candidate",
+        "status": "pending",
+        "confidence": 6,
+        "sourceId": "hn-frontpage",
+        "whySuggested": "This item sits close to the current crypto/AI thesis and can seed related source discovery.",
+        "goalFit": "Potentially expands the active source graph using content already adjacent to the current crypto/AI thesis.",
+        "evidence": {
+          "title": "Learnings from paying artists royalties for AI-generated art",
+          "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-5&body=approve+suggestion+explore-source-5&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-5&body=reject+suggestion+explore-source-5&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-source-6",
+        "type": "explore_source_candidate",
+        "status": "pending",
+        "confidence": 6,
+        "sourceId": "the-verge",
+        "whySuggested": "This item sits close to the current crypto/AI thesis and can seed related source discovery.",
+        "goalFit": "Potentially expands the active source graph using content already adjacent to the current crypto/AI thesis.",
+        "evidence": {
+          "title": "The government shutdown is hitting airports — but not ICE",
+          "link": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports"
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-6&body=approve+suggestion+explore-source-6&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-6&body=reject+suggestion+explore-source-6&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-source-7",
+        "type": "explore_source_candidate",
+        "status": "pending",
+        "confidence": 6,
+        "sourceId": "the-verge",
+        "whySuggested": "This item sits close to the current crypto/AI thesis and can seed related source discovery.",
+        "goalFit": "Potentially expands the active source graph using content already adjacent to the current crypto/AI thesis.",
+        "evidence": {
+          "title": "Everything from the last week of everything is gambling now",
+          "link": "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets"
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-7&body=approve+suggestion+explore-source-7&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-7&body=reject+suggestion+explore-source-7&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-source-8",
+        "type": "explore_source_candidate",
+        "status": "pending",
+        "confidence": 6,
+        "sourceId": "the-verge",
+        "whySuggested": "This item sits close to the current crypto/AI thesis and can seed related source discovery.",
+        "goalFit": "Potentially expands the active source graph using content already adjacent to the current crypto/AI thesis.",
+        "evidence": {
+          "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-8&body=approve+suggestion+explore-source-8&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-8&body=reject+suggestion+explore-source-8&labels=twitter-learning%2Creject"
+      }
+    ],
     "replySuggestions": [
       {
         "id": "suggest-reply-target-ylonaaah",
         "type": "suggest_reply_target",
+        "status": "pending",
         "confidence": 7,
         "handle": "@ylonaaah",
         "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
@@ -4727,7 +4836,89 @@
           "replyCount": 1,
           "replyCountLast7Days": 1,
           "inSheetPool": false
-        }
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+suggest-reply-target-ylonaaah&body=approve+suggestion+suggest-reply-target-ylonaaah&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-ylonaaah&body=reject+suggestion+suggest-reply-target-ylonaaah&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-reply-lunarbasex",
+        "type": "explore_reply_target",
+        "status": "pending",
+        "confidence": 8,
+        "handle": "@LunarBaseX",
+        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
+        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "evidence": {
+          "linkedFrom": [
+            "@0xhu7i"
+          ],
+          "reasons": [
+            "Mentioned inside a thread that already produced a usable reply opportunity.",
+            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-lunarbasex&body=approve+suggestion+explore-reply-lunarbasex&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-lunarbasex&body=reject+suggestion+explore-reply-lunarbasex&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-reply-standx_official",
+        "type": "explore_reply_target",
+        "status": "pending",
+        "confidence": 8,
+        "handle": "@StandX_Official",
+        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
+        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "evidence": {
+          "linkedFrom": [
+            "@0xBclub"
+          ],
+          "reasons": [
+            "Mentioned inside a thread that already produced a usable reply opportunity.",
+            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-standx_official&body=approve+suggestion+explore-reply-standx_official&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-standx_official&body=reject+suggestion+explore-reply-standx_official&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-reply-base",
+        "type": "explore_reply_target",
+        "status": "pending",
+        "confidence": 8,
+        "handle": "@base",
+        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
+        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "evidence": {
+          "linkedFrom": [
+            "@0xhu7i"
+          ],
+          "reasons": [
+            "Mentioned inside a thread that already produced a usable reply opportunity.",
+            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-base&body=approve+suggestion+explore-reply-base&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-base&body=reject+suggestion+explore-reply-base&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-reply-preballin",
+        "type": "explore_reply_target",
+        "status": "pending",
+        "confidence": 8,
+        "handle": "@preballin",
+        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
+        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "evidence": {
+          "linkedFrom": [
+            "@Monad_APAC"
+          ],
+          "reasons": [
+            "Mentioned inside a thread that already produced a usable reply opportunity.",
+            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-preballin&body=approve+suggestion+explore-reply-preballin&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-preballin&body=reject+suggestion+explore-reply-preballin&labels=twitter-learning%2Creject"
       }
     ]
   },

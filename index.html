@@ -330,6 +330,7 @@
             <button class="tab active" data-tab="posts">Posts</button>
             <button class="tab" data-tab="replies">Replies</button>
             <button class="tab" data-tab="sources">Sources</button>
+            <button class="tab" data-tab="learning">Learning</button>
           </div>
           <div class="grid tab-panel active" id="tab-posts">
             <div class="stack">
@@ -348,10 +349,6 @@
                   <div id="post-history"></div>
                 </details>
               </div>
-              <div class="panel">
-                <h2>Source Learning</h2>
-                <div id="source-learning-list"></div>
-              </div>
             </div>
             <div class="stack">
               <div class="panel">
@@ -361,10 +358,6 @@
               <div class="panel">
                 <h2>Recent Archive</h2>
                 <div id="archive-list"></div>
-              </div>
-              <div class="panel">
-                <h2>Source Suggestions</h2>
-                <div id="source-suggestions-list"></div>
               </div>
             </div>
           </div>
@@ -382,10 +375,6 @@
                 <h2>Reply Activity</h2>
                 <div id="reply-list"></div>
               </div>
-              <div class="panel">
-                <h2>Reply Learning</h2>
-                <div id="reply-learning-list"></div>
-              </div>
             </div>
             <div class="stack">
               <div class="panel">
@@ -393,10 +382,6 @@
                 <div class="muted" id="reply-notes-copy">
                   This tab separates queued replies from sent replies so you can audit what the agent plans to send versus what actually got delivered.
                 </div>
-              </div>
-              <div class="panel">
-                <h2>Reply Suggestions</h2>
-                <div id="reply-suggestions-list"></div>
               </div>
             </div>
           </div>
@@ -413,6 +398,28 @@
                 <div class="muted">
                   This tab shows per-source fetch status, how many items were captured in the latest fetch, how often a source is represented in the current research pool, and how often it appears in pending, published, or archived work.
                 </div>
+              </div>
+            </div>
+          </div>
+          <div class="grid tab-panel" id="tab-learning">
+            <div class="stack">
+              <div class="panel">
+                <h2>Source Learning</h2>
+                <div id="source-learning-list"></div>
+              </div>
+              <div class="panel">
+                <h2>Source Suggestions</h2>
+                <div id="source-suggestions-list"></div>
+              </div>
+            </div>
+            <div class="stack">
+              <div class="panel">
+                <h2>Reply Learning</h2>
+                <div id="reply-learning-list"></div>
+              </div>
+              <div class="panel">
+                <h2>Reply Suggestions</h2>
+                <div id="reply-suggestions-list"></div>
               </div>
             </div>
           </div>
@@ -744,7 +751,10 @@
                 <h3>${escapeHtml(item.type || "suggestion")}</h3>
                 <div class="meta">${escapeHtml(item.sourceId || "")}</div>
               </div>
-              <span class="score-pill">${escapeHtml(String(item.confidence || 0))}/10</span>
+              <div>
+                <span class="pill">${escapeHtml(item.status || "pending")}</span>
+                <span class="score-pill">${escapeHtml(String(item.confidence || 0))}/10</span>
+              </div>
             </header>
             <div class="rationale-box">
               <div class="rationale-label">Why Suggested</div>
@@ -753,6 +763,9 @@
             <div class="rationale-box">
               <div class="rationale-label">Goal Fit</div>
               <div class="rationale-text">${escapeHtml(item.goalFit || "")}</div>
+            </div>
+            <div class="actions">
+              ${item.status === "pending" ? `<a class="btn good" href="${item.approveUrl}" target="_blank" rel="noreferrer">Yes</a><a class="btn bad" href="${item.rejectUrl}" target="_blank" rel="noreferrer">No</a>` : ""}
             </div>
           </article>
         `).join("");
@@ -786,7 +799,10 @@
                 <h3>${escapeHtml(item.handle || item.type || "suggestion")}</h3>
                 <div class="meta">${escapeHtml(item.type || "")}</div>
               </div>
-              <span class="score-pill">${escapeHtml(String(item.confidence || 0))}/10</span>
+              <div>
+                <span class="pill">${escapeHtml(item.status || "pending")}</span>
+                <span class="score-pill">${escapeHtml(String(item.confidence || 0))}/10</span>
+              </div>
             </header>
             <div class="rationale-box">
               <div class="rationale-label">Why Suggested</div>
@@ -795,6 +811,9 @@
             <div class="rationale-box">
               <div class="rationale-label">Goal Fit</div>
               <div class="rationale-text">${escapeHtml(item.goalFit || "")}</div>
+            </div>
+            <div class="actions">
+              ${item.status === "pending" ? `<a class="btn good" href="${item.approveUrl}" target="_blank" rel="noreferrer">Yes</a><a class="btn bad" href="${item.rejectUrl}" target="_blank" rel="noreferrer">No</a>` : ""}
             </div>
           </article>
         `).join("");
