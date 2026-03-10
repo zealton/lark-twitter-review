@@ -214,6 +214,7 @@
           <div class="tabs">
             <button class="tab active" data-tab="posts">Posts</button>
             <button class="tab" data-tab="replies">Replies</button>
+            <button class="tab" data-tab="sources">Sources</button>
           </div>
           <div class="grid tab-panel active" id="tab-posts">
             <div class="stack">
@@ -256,6 +257,22 @@
                 <h2>Reply Notes</h2>
                 <div class="muted">
                   This tab separates queued replies from sent replies so you can audit what the agent plans to send versus what actually got delivered.
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="grid tab-panel" id="tab-sources">
+            <div class="stack">
+              <div class="panel">
+                <h2>Source Usage</h2>
+                <div id="source-list"></div>
+              </div>
+            </div>
+            <div class="stack">
+              <div class="panel">
+                <h2>Source Notes</h2>
+                <div class="muted">
+                  This tab shows per-source fetch status, how many items were captured in the latest fetch, how often a source is represented in the current research pool, and how often it appears in pending, published, or archived work.
                 </div>
               </div>
             </div>
@@ -405,6 +422,30 @@
         `).join("");
       }
 
+      function renderSources(items) {
+        const root = document.getElementById("source-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No source telemetry yet.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <article class="card">
+            <header>
+              <div>
+                <h3>${escapeHtml(item.id || "")} · ${escapeHtml(item.category || "source")}</h3>
+                <div class="meta">${escapeHtml(item.kind || "")} · ${escapeHtml(item.language || "")} · ${escapeHtml(item.priority || "")}</div>
+              </div>
+              <span class="pill">${escapeHtml(item.status || "")}</span>
+            </header>
+            <div class="meta">Fetched: ${escapeHtml(formatTimestamp(item.fetchedAt || ""))}</div>
+            <div class="meta">Captured this fetch: ${escapeHtml(String(item.itemCount || 0))} · In research pool: ${escapeHtml(String(item.researchCount || 0))}</div>
+            <div class="meta">Used in pending: ${escapeHtml(String(item.pendingCount || 0))} · published: ${escapeHtml(String(item.publishedCount || 0))} · archived: ${escapeHtml(String(item.archivedCount || 0))}</div>
+            ${item.reason ? `<div class="muted spacer">${escapeHtml(item.reason)}</div>` : ""}
+            ${item.url ? `<div class="meta spacer"><a class="link" href="${item.url}" target="_blank" rel="noreferrer">Open source</a></div>` : ""}
+          </article>
+        `).join("");
+      }
+
       function renderArchive(items) {
         const root = document.getElementById("archive-list");
         if (!items.length) {
@@ -442,6 +483,7 @@
           renderReplies(data.replyActivity || []);
           renderPostHistory(data.deliveredPosts || []);
           renderResearch(data.research || []);
+          renderSources(data.sources || []);
           renderArchive(data.archive || []);
         })
         .catch((error) => {
