@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-10T07:19:18.913377+00:00",
+  "generatedAt": "2026-03-10T07:27:39.187064+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
       "id": "P16",
       "status": "awaiting_approval",
       "angle": "Web2 AI vs Web3 AI economies",
-      "whyItMatters": "Clarifies the crucial difference between Web2's human-directed AI tools and Web3's autonomous agent-to-agent economies.",
-      "postingRationale": "Contrasting Tencent's enterprise AI with ERC-8183's permissionless commerce highlights a structural thesis on where crypto finds its unique product-market fit.",
+      "whyItMatters": "It draws a cleaner line between AI that helps people work faster and AI that starts becoming its own economic actor.",
+      "postingRationale": "This angle works because it does not just repeat Tencent up or ERC-8183 launched. It turns both signals into a more personal judgment about where crypto stops being an add-on and starts doing something Web2 cannot really fake.",
       "goalAlignmentScore": 8,
-      "goalAlignmentRationale": "Positions the account as a macro-thinker connecting traditional tech market movements with cutting-edge onchain protocol developments, attracting high-signal builders.",
-      "draft": "Tencent’s 7% jump proves the market is hungry for AI agents, but the actual magic is happening onchain. While Web2 is busy building AI employees to report to us, the new ERC-8183 standard is building the infrastructure for agents to hire each other. We’re moving past smarter chatbots and straight into a closed-loop machine economy where code handles its own payroll. 🦞",
+      "goalAlignmentRationale": "It fits the account goal because it gives readers a sharper mental model instead of another news recap, while keeping the voice close to a founder who actually cares about where real product leverage shows up.",
+      "draft": "Tencent ripping on an AI copilot makes sense. Markets love AI that helps humans look more productive.\n\nWhat keeps nagging at me is the weirder path: software hiring software, paying software, checking software. That is why ERC-8183 feels more important than another enterprise AI demo. Web2 is making better employees. Crypto might end up making entirely new economic actors. 🦞",
       "sources": [
         "港股腾讯控股午后涨幅扩大至7.66%，推出WorkBuddy获国际投行高度评价",
         "ERC-8183：给三百万美元的链上Agent生意，写个规则"
@@ -40,11 +40,11 @@
       "id": "P17",
       "status": "awaiting_approval",
       "angle": "Machine economy transaction volume dictates high-performance state (Monad integration)",
-      "whyItMatters": "Connects the coming explosion of autonomous agent transactions with the uncompromising need for high-performance parallel execution layers.",
-      "postingRationale": "Using Tencent and Virtuals to establish the premise of a high-frequency machine economy creates a perfectly logical, non-forced pivot to championing Monad's technical architecture.",
+      "whyItMatters": "It reframes the AI-agent conversation from app hype to settlement reality, which is where infra value will actually concentrate.",
+      "postingRationale": "This works because the Monad angle comes out of a real bottleneck instead of a forced mention. The post starts from a human observation about where discussion is shallow, then lands on why high-performance state becomes non-negotiable if agent commerce is real.",
       "goalAlignmentScore": 9,
-      "goalAlignmentRationale": "Effectively champions Monad through a fundamentally sound thesis on AI agent compute demands rather than empty hype, strengthening credibility in the L1 scaling discourse.",
-      "draft": "The shift to a machine economy isn’t some far-off theory—Tencent is already deploying enterprise agents and Virtuals is turning B2B commerce into a non-human sport. When thousands of bots start programmatically clearing micro-payments and opening escrows every second, legacy EVM hits a wall immediately. High-performance state via Monad isn’t just a luxury upgrade; it’s the only way to actually settle the sheer volume of a world where software does the spending. 🦞",
+      "goalAlignmentRationale": "It fits the macro goal well because it gives a useful, founder-style take on why Monad should matter, using logic first and conviction second. That is much closer to influence-building than just sounding bullish for sport.",
+      "draft": "A lot of people are still discussing agent economies like the hard part is the interface. I do not think that is the hard part.\n\nThe hard part is settlement. Once software starts opening escrows, paying counterparties, and clearing tiny transactions all day, you stop having a chatbot story and start having a blockspace problem. That is exactly why I stay bullish on Monad: if this machine economy is real, high-performance state is table stakes, not a flex. 🦞",
       "sources": [
         "港股腾讯控股午后涨幅扩大至7.66%，推出WorkBuddy获国际投行高度评价",
         "ERC-8183：给三百万美元的链上Agent生意，写个规则"
@@ -341,6 +341,43 @@
   ],
   "pendingReplies": [],
   "archive": [
+    {
+      "id": "P6",
+      "type": "post",
+      "status": "archived",
+      "channel": "github_review_page",
+      "target": "review_dashboard",
+      "angle": "The split between TradFi asset adoption and builder AI-agent infrastructure",
+      "whyItMatters": "It shows where crypto is actually compounding: human financial wrappers on one side, machine-native commerce rails on the other.",
+      "sources": [
+        "https://www.odaily.news/zh-CN/newsflash/471431",
+        "https://www.odaily.news/zh-CN/newsflash/471432"
+      ],
+      "sourceSnapshots": [
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元",
+          "summary": "Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。 风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.3…",
+          "publishedAt": null,
+          "link": "https://www.odaily.news/zh-CN/newsflash/471431"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "星球午讯",
+          "summary": "1. 易理华：ETH 在 2000 美元以下是抄底机会，短线和长线胜率都大； 2. 美国司法部要求重审 Tornado Cash 联合创始人 Roman Storm； 3. 分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元； 4. 以太坊基金会推出 ERC-8183，旨在解决 AI Age…",
+          "publishedAt": null,
+          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
+        }
+      ],
+      "draft": "Wall Street is buying crypto beta for humans. Frontier builders are quietly building crypto rails for agents.\n\nETF flows will keep dominating headlines, but the less crowded bet is still machine-to-machine commerce. The chain that wins trust, execution, and settlement for agents may matter more than the next TradFi wrapper. 🦞",
+      "createdAt": "2026-03-10T05:37:01.151038+00:00",
+      "postingRationale": "This post is worth sending because it reframes two plain news items into a sharper account-level thesis: the bigger opportunity is not ETF optics but infrastructure for autonomous transactions. That fits the crypto x AI positioning much better than a simple market recap.",
+      "goalAlignmentScore": 9,
+      "goalAlignmentRationale": "This fits the system goal strongly because it gives readers a non-obvious crypto x AI frame they can reuse, while also reinforcing the account as a founder who sees where machine-native demand may create the next real infrastructure wedge.",
+      "approvedAt": "2026-03-10T06:58:38.782455+00:00",
+      "archivedAt": "2026-03-10T07:19:20.869766+00:00",
+      "archivedReason": "archive P6\n\nReason:\n-"
+    },
     {
       "id": "P9",
       "type": "post",
@@ -4177,9 +4214,9 @@
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
-      "pendingCount": 2,
+      "pendingCount": 0,
       "publishedCount": 0,
-      "archivedCount": 8
+      "archivedCount": 10
     },
     {
       "id": "v2ex-hot",
@@ -4355,10 +4392,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T07:19:18.843156+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T07:27:39.070037+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T07:19:18.843156+00:00",
+    "lastSuccessAt": "2026-03-10T07:19:23.273567+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T07:00:34.252480+00:00",
@@ -4635,49 +4672,50 @@
             "dryRun": false
           }
         },
-        "nextRunAt": "2026-03-10T07:20:00+00:00",
+        "nextRunAt": "2026-03-10T07:30:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T07:19:15.404769+00:00",
-        "lastSuccessAt": "2026-03-10T06:59:01.526367+00:00",
+        "lastRunAt": "2026-03-10T07:19:23.273567+00:00",
+        "lastSuccessAt": "2026-03-10T07:19:23.273567+00:00",
+        "status": "ok",
+        "lastError": "",
+        "details": {
+          "sync": {
+            "applied": [
+              {
+                "id": "P14",
+                "action": "archive",
+                "issue": 15
+              },
+              {
+                "id": "P9",
+                "action": "archive",
+                "issue": 14
+              },
+              {
+                "id": "P6",
+                "action": "archive",
+                "issue": 13
+              }
+            ],
+            "count": 3
+          }
+        },
+        "nextRunAt": "2026-03-10T07:30:00+00:00",
+        "jobId": "lark-twitter-review-sync",
+        "jobName": "Sync GitHub approvals"
+      },
+      "dashboard_publish": {
+        "lastRunAt": "2026-03-10T07:27:39.070037+00:00",
+        "lastSuccessAt": "2026-03-10T07:19:18.843156+00:00",
         "status": "running",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T07:20:00+00:00",
-        "jobId": "lark-twitter-review-sync",
-        "jobName": "Sync GitHub approvals"
-      },
-      "dashboard_publish": {
-        "lastRunAt": "2026-03-10T07:19:18.843156+00:00",
-        "lastSuccessAt": "2026-03-10T07:19:18.843156+00:00",
-        "status": "ok",
-        "lastError": "",
-        "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T07:19:15.468476+00:00",
-            "replyCandidates": 3,
-            "sourceCandidates": 12
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T07:19:15.496685+00:00",
-            "sourceEntries": 17,
-            "sourceSuggestions": 8,
-            "replyEntries": 22,
-            "replySuggestions": 4
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T07:19:15.555668+00:00",
-              "pending": 4
-            }
-          }
-        },
-        "nextRunAt": "2026-03-10T07:20:00+00:00",
+        "nextRunAt": "2026-03-10T07:28:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -4688,7 +4726,7 @@
       {
         "sourceId": "blockbeats",
         "signalCount": 4,
-        "pendingCount": 5,
+        "pendingCount": 4,
         "publishedCount": 0,
         "rejectCount": 0,
         "archivedCount": 0,
@@ -4702,25 +4740,6 @@
           "https://m.theblockbeats.info/flash/335349",
           "https://m.theblockbeats.info/news/61495",
           "https://m.theblockbeats.info/flash/335348"
-        ]
-      },
-      {
-        "sourceId": "odaily-newsflash",
-        "signalCount": 4,
-        "pendingCount": 5,
-        "publishedCount": 0,
-        "rejectCount": 0,
-        "archivedCount": 0,
-        "goalAlignmentScore": 10,
-        "titleSamples": [
-          "Founders Fund第四支成长基金接近完成，募资规模达60亿美元",
-          "Bitmine钱包今日向Coinbase Prime转移9257枚ETH，价值1879万美元",
-          "Santiment：受战争恐慌及《Clarity Act》不确定性影响，比特币空单数量远超多单"
-        ],
-        "linkSamples": [
-          "https://www.odaily.news/zh-CN/newsflash/471444",
-          "https://www.odaily.news/zh-CN/newsflash/471443",
-          "https://www.odaily.news/zh-CN/newsflash/471442"
         ]
       },
       {
@@ -4816,6 +4835,25 @@
           "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
           "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
           "https://washere.live"
+        ]
+      },
+      {
+        "sourceId": "odaily-newsflash",
+        "signalCount": 4,
+        "pendingCount": 0,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 7,
+        "titleSamples": [
+          "Founders Fund第四支成长基金接近完成，募资规模达60亿美元",
+          "Bitmine钱包今日向Coinbase Prime转移9257枚ETH，价值1879万美元",
+          "Santiment：受战争恐慌及《Clarity Act》不确定性影响，比特币空单数量远超多单"
+        ],
+        "linkSamples": [
+          "https://www.odaily.news/zh-CN/newsflash/471444",
+          "https://www.odaily.news/zh-CN/newsflash/471443",
+          "https://www.odaily.news/zh-CN/newsflash/471442"
         ]
       },
       {
