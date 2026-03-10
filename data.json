@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:12:40.296722+00:00",
+  "generatedAt": "2026-03-10T05:17:21.025472+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -110,7 +110,7 @@
       "targetContent": "Happy New Year 2026 \n\nThank you for being part of the Lumiterra journey.\nA bigger, bolder year awaits. - Team Lumiterra",
       "originalLink": "https://x.com/LumiterraGame/status/2006545916090577037",
       "replyLink": null,
-      "targetAccount": "@0xyeezi"
+      "targetAccount": "@LumiterraGame"
     },
     {
       "id": "R18",
@@ -120,7 +120,7 @@
       "targetContent": "The N1 Explorer is now live.\n\n\nhttp://\nexplorer.n1.xyz",
       "originalLink": "https://x.com/N1Chain/status/2026670178621370540",
       "replyLink": null,
-      "targetAccount": "@0xNarb"
+      "targetAccount": "@N1Chain"
     },
     {
       "id": "R17",
@@ -150,7 +150,7 @@
       "targetContent": "I just made an art for \n@0xFastLane\n \n\nWhat do you think?\n\nLike, comment and repost..\n\nMake sure you stake your mon on fastlane to get the highest yields on monad. \n\nStay shtaked. \nGshmonad..",
       "originalLink": "https://x.com/screwysanta0447/status/2026322075665711224",
       "replyLink": null,
-      "targetAccount": "@0xfastlane"
+      "targetAccount": "@screwysanta0447"
     },
     {
       "id": "R14",
@@ -726,10 +726,10 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:12:40.220656+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T05:17:20.967257+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T05:12:40.220656+00:00",
+    "lastSuccessAt": "2026-03-10T05:12:42.283912+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T03:57:08.142533+00:00",
@@ -909,32 +909,40 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T05:12:37.183462+00:00",
-        "lastSuccessAt": "2026-03-10T03:52:09.817119+00:00",
+        "lastRunAt": "2026-03-10T05:12:42.283912+00:00",
+        "lastSuccessAt": "2026-03-10T05:12:42.283912+00:00",
+        "status": "ok",
+        "lastError": "",
+        "details": {
+          "sync": {
+            "applied": [
+              {
+                "id": "P4",
+                "action": "archive",
+                "issue": 4
+              },
+              {
+                "id": "P5",
+                "action": "archive",
+                "issue": 3
+              }
+            ],
+            "count": 2
+          }
+        },
+        "nextRunAt": "2026-03-10T05:20:00+00:00",
+        "jobId": "lark-twitter-review-sync",
+        "jobName": "Sync GitHub approvals"
+      },
+      "dashboard_publish": {
+        "lastRunAt": "2026-03-10T05:17:20.967257+00:00",
+        "lastSuccessAt": "2026-03-10T05:12:40.220656+00:00",
         "status": "running",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T05:15:00+00:00",
-        "jobId": "lark-twitter-review-sync",
-        "jobName": "Sync GitHub approvals"
-      },
-      "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:12:40.220656+00:00",
-        "lastSuccessAt": "2026-03-10T05:12:40.220656+00:00",
-        "status": "ok",
-        "lastError": "",
-        "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:12:37.270211+00:00",
-              "pending": 2
-            }
-          }
-        },
-        "nextRunAt": "2026-03-10T05:14:00+00:00",
+        "nextRunAt": "2026-03-10T05:18:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
