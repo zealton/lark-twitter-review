@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T13:18:10.709236+00:00",
+  "generatedAt": "2026-03-10T13:18:14.156749+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4621,10 +4621,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T13:18:10.604534+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-10T13:18:14.066033+00:00",
+    "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T13:18:10.575716+00:00",
+    "lastSuccessAt": "2026-03-10T13:18:14.066033+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T12:40:57.970661+00:00",
@@ -4915,14 +4915,32 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T13:18:10.604534+00:00",
-        "lastSuccessAt": "2026-03-10T13:15:50.417250+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T13:18:14.066033+00:00",
+        "lastSuccessAt": "2026-03-10T13:18:14.066033+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "exploration": {
+            "updatedAt": "2026-03-10T13:18:10.628609+00:00",
+            "replyCandidates": 7,
+            "sourceCandidates": 18
+          },
+          "learning": {
+            "updatedAt": "2026-03-10T13:18:10.654463+00:00",
+            "sourceEntries": 27,
+            "sourceSuggestions": 8,
+            "replyEntries": 30,
+            "replySuggestions": 9
+          },
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T13:18:10.709236+00:00",
+              "pending": 0
+            }
+          }
         },
-        "nextRunAt": "2026-03-10T13:20:10.604534+00:00",
+        "nextRunAt": "2026-03-10T13:20:14.066033+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
