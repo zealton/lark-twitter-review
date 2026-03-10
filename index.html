@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lark Twitter Review</title>
+    <style>
+      :root {
+        --bg: #f3efe6;
+        --panel: rgba(255, 252, 248, 0.94);
+        --ink: #1f1c1a;
+        --muted: #6f665d;
+        --line: rgba(31, 28, 26, 0.12);
+        --accent: #bf4f2f;
+        --accent-2: #1d5d73;
+        --good: #236f44;
+        --bad: #a43f2b;
+        --warn: #9b6b11;
+      }
+
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at top left, rgba(191,79,47,.14), transparent 24%),
+          radial-gradient(circle at top right, rgba(29,93,115,.12), transparent 22%),
+          linear-gradient(180deg, #f8f3eb 0%, #efe7d8 100%);
+      }
+      .shell {
+        max-width: 1380px;
+        margin: 0 auto;
+        padding: 32px 20px 48px;
+      }
+      .hero, .grid {
+        display: grid;
+        gap: 18px;
+      }
+      .hero {
+        grid-template-columns: 1.2fr 0.8fr;
+        margin-bottom: 18px;
+      }
+      .grid {
+        grid-template-columns: 1.08fr 0.92fr;
+      }
+      .panel, .hero-card {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        padding: 22px;
+        box-shadow: 0 18px 38px rgba(32, 24, 18, 0.08);
+      }
+      .hero-card h1 {
+        margin: 0 0 10px;
+        font-size: clamp(34px, 4vw, 58px);
+        line-height: .95;
+        letter-spacing: -.04em;
+      }
+      .hero-card p, .meta, .muted {
+        color: var(--muted);
+      }
+      .metrics {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 14px;
+      }
+      .metric {
+        background: rgba(255,255,255,.58);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        padding: 18px;
+      }
+      .metric .label {
+        font-size: 12px;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+      .metric .value {
+        margin-top: 8px;
+        font-size: 34px;
+        font-weight: 700;
+      }
+      .panel h2 {
+        margin: 0 0 12px;
+        font-size: 20px;
+      }
+      .stack {
+        display: grid;
+        gap: 18px;
+      }
+      .card {
+        background: rgba(255,255,255,.7);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        padding: 18px;
+        margin-bottom: 14px;
+      }
+      .card:last-child { margin-bottom: 0; }
+      .card header {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 12px;
+      }
+      .card h3 { margin: 0; font-size: 18px; }
+      .tweet {
+        white-space: pre-wrap;
+        line-height: 1.55;
+        margin-bottom: 12px;
+      }
+      .actions {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        margin-top: 14px;
+      }
+      .btn, .pill {
+        display: inline-flex;
+        align-items: center;
+        border-radius: 999px;
+        padding: 9px 14px;
+        text-decoration: none;
+        font-size: 13px;
+        border: 1px solid transparent;
+      }
+      .btn.good { background: var(--good); color: #fff; }
+      .btn.bad { background: var(--bad); color: #fff; }
+      .btn.warn { background: var(--warn); color: #fff; }
+      .btn.ghost { background: rgba(31,28,26,.08); color: var(--ink); }
+      .pill {
+        border-color: var(--line);
+        color: var(--muted);
+        background: rgba(255,255,255,.72);
+      }
+      .feed-item {
+        padding: 12px 0;
+        border-top: 1px solid var(--line);
+      }
+      .feed-item:first-child { border-top: 0; padding-top: 0; }
+      a.link {
+        color: var(--accent-2);
+        text-decoration: none;
+      }
+      a.link:hover { text-decoration: underline; }
+      .empty { color: var(--muted); padding: 18px 0; }
+      @media (max-width: 1100px) {
+        .hero, .grid { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <section class="hero">
+        <div class="hero-card">
+          <h1>Lark Twitter Review Desk</h1>
+          <p>
+            Review exact tweet drafts, inspect agent research, and audit sent
+            posts and replies. Approval actions open prefilled GitHub issues so
+            the Mac executor can sync and execute later.
+          </p>
+          <p class="meta" id="generated-at"></p>
+        </div>
+        <div class="metrics">
+          <div class="metric"><div class="label">Pending</div><div class="value" id="metric-pending">0</div></div>
+          <div class="metric"><div class="label">Queued</div><div class="value" id="metric-queued">0</div></div>
+          <div class="metric"><div class="label">Posts Logged</div><div class="value" id="metric-posts">0</div></div>
+          <div class="metric"><div class="label">Replies Logged</div><div class="value" id="metric-replies">0</div></div>
+        </div>
+      </section>
+
+      <section class="grid">
+        <div class="stack">
+          <div class="panel">
+            <h2>Pending Post Approval</h2>
+            <div id="pending-list"></div>
+          </div>
+          <div class="panel">
+            <h2>Recent Output</h2>
+            <div id="delivery-list"></div>
+          </div>
+        </div>
+        <div class="stack">
+          <div class="panel">
+            <h2>Research Feed</h2>
+            <div id="research-list"></div>
+          </div>
+          <div class="panel">
+            <h2>Recent Archive</h2>
+            <div id="archive-list"></div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script>
+      function escapeHtml(value) {
+        return String(value || "")
+          .replaceAll("&", "&amp;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;");
+      }
+
+      function renderPending(items) {
+        const root = document.getElementById("pending-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No pending posts right now.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <article class="card">
+            <header>
+              <div>
+                <h3>${escapeHtml(item.id)} · ${escapeHtml(item.angle || "No angle")}</h3>
+                <div class="meta">${escapeHtml(item.createdAt || "")}</div>
+              </div>
+              <span class="pill">${escapeHtml(item.status)}</span>
+            </header>
+            <div class="tweet">${escapeHtml(item.draft || "")}</div>
+            <div class="meta">Sources: ${(item.sources || []).map((s) => escapeHtml(s)).join(" | ")}</div>
+            <div class="actions">
+              <a class="btn good" href="${item.approveUrl}" target="_blank" rel="noreferrer">Approve</a>
+              <a class="btn bad" href="${item.rejectUrl}" target="_blank" rel="noreferrer">Reject</a>
+              <a class="btn warn" href="${item.archiveUrl}" target="_blank" rel="noreferrer">Archive</a>
+            </div>
+          </article>
+        `).join("");
+      }
+
+      function renderDelivery(items) {
+        const root = document.getElementById("delivery-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No delivery records yet.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <article class="card">
+            <header>
+              <div>
+                <h3>${escapeHtml(String(item.kind || "").toUpperCase())} · ${escapeHtml(item.id || "")}</h3>
+                <div class="meta">${escapeHtml(item.timestamp || "")}</div>
+              </div>
+              <span class="pill">${escapeHtml(item.status || "")}</span>
+            </header>
+            <div class="tweet">${escapeHtml(item.text || "")}</div>
+            ${item.targetContent ? `<div class="meta">Target content: ${escapeHtml(item.targetContent)}</div>` : ""}
+            ${item.originalLink ? `<div class="meta"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
+            ${item.replyLink ? `<div class="meta"><a class="link" href="${item.replyLink}" target="_blank" rel="noreferrer">Reply link</a></div>` : ""}
+          </article>
+        `).join("");
+      }
+
+      function renderResearch(items) {
+        const root = document.getElementById("research-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No research cached yet.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <div class="feed-item">
+            <div class="meta">${escapeHtml(item.sourceId || "")} · ${escapeHtml(item.publishedAt || "")}</div>
+            <div><a class="link" href="${item.link}" target="_blank" rel="noreferrer">${escapeHtml(item.title || "")}</a></div>
+            <div class="muted">${escapeHtml(item.summaryShort || "")}</div>
+          </div>
+        `).join("");
+      }
+
+      function renderArchive(items) {
+        const root = document.getElementById("archive-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No archived items yet.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <div class="feed-item">
+            <div class="meta">${escapeHtml(item.id || "")} · ${escapeHtml(item.archivedAt || "")}</div>
+            <div>${escapeHtml(item.angle || item.archivedReason || "")}</div>
+            <div class="muted">${escapeHtml(item.archivedReason || "")}</div>
+          </div>
+        `).join("");
+      }
+
+      fetch("./data.json")
+        .then((res) => res.json())
+        .then((data) => {
+          document.getElementById("generated-at").textContent = `Updated ${data.generatedAt} · repo ${data.repo}`;
+          document.getElementById("metric-pending").textContent = data.metrics.pending;
+          document.getElementById("metric-queued").textContent = data.metrics.queued;
+          document.getElementById("metric-posts").textContent = data.metrics.posts;
+          document.getElementById("metric-replies").textContent = data.metrics.replies;
+          renderPending(data.pending || []);
+          renderDelivery(data.delivery || []);
+          renderResearch(data.research || []);
+          renderArchive(data.archive || []);
+        })
+        .catch((error) => {
+          document.getElementById("pending-list").innerHTML = `<div class="empty">${escapeHtml(error.message)}</div>`;
+        });
+    </script>
+  </body>
+</html>
