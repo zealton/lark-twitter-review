@@ -159,6 +159,17 @@
         flex-wrap: wrap;
         margin-top: 14px;
       }
+      textarea.editor {
+        width: 100%;
+        min-height: 320px;
+        margin-top: 14px;
+        border-radius: 16px;
+        border: 1px solid var(--line);
+        background: rgba(255,255,255,.78);
+        padding: 14px;
+        font: 13px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace;
+        color: var(--ink);
+      }
       .btn, .pill {
         display: inline-flex;
         align-items: center;
@@ -527,12 +538,13 @@
           <div class="muted">${escapeHtml(copy)}</div>
           <div class="actions spacer">
             <button class="btn ghost" type="button" data-export="${rootId}">Export JSON</button>
-            <a class="btn good" href="${config.editUrl}" target="_blank" rel="noreferrer">Edit Sources</a>
+            <button class="btn ghost" type="button" data-toggle="${rootId}">Edit Sources</button>
+            <button class="btn good" type="button" data-submit="${rootId}">Copy JSON + Open Submit Issue</button>
           </div>
-          <details class="fold spacer">
-            <summary>Show current source config</summary>
-            <div class="tweet">${escapeHtml(config.json || "")}</div>
-          </details>
+          <div class="spacer" data-editor-wrap="${rootId}" style="display:none;">
+            <textarea class="editor" data-editor="${rootId}">${config.json || "{}\n"}</textarea>
+            <div class="meta spacer">Edit the JSON here, then use "Copy JSON + Open Submit Issue". Paste the copied JSON into the GitHub issue body.</div>
+          </div>
           ${config.memberCount !== undefined ? `
             <div class="meta spacer">Cached reply members: ${escapeHtml(String(config.memberCount || 0))}</div>
             <div class="meta">Reply lists: ${(config.listUrls || []).map((value) => escapeHtml(value)).join(" | ") || "n/a"}</div>
@@ -541,6 +553,28 @@
         `;
         root.querySelector(`[data-export="${rootId}"]`)?.addEventListener("click", () => {
           downloadText(config.exportFilename || `${rootId}.json`, config.json || "{}\n");
+        });
+        root.querySelector(`[data-toggle="${rootId}"]`)?.addEventListener("click", () => {
+          const wrap = root.querySelector(`[data-editor-wrap="${rootId}"]`);
+          if (!wrap) return;
+          wrap.style.display = wrap.style.display === "none" ? "block" : "none";
+        });
+        root.querySelector(`[data-submit="${rootId}"]`)?.addEventListener("click", async () => {
+          const editor = root.querySelector(`[data-editor="${rootId}"]`);
+          const current = editor ? editor.value : (config.json || "{}\n");
+          try {
+            JSON.parse(current);
+          } catch (error) {
+            window.alert(`Invalid JSON: ${error.message}`);
+            return;
+          }
+          try {
+            await navigator.clipboard.writeText(current);
+          } catch (error) {
+            window.alert(`Copy failed: ${error.message}`);
+            return;
+          }
+          window.open(config.submitUrl, "_blank", "noopener,noreferrer");
         });
       }
 

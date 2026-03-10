@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:46:45.723831+00:00",
+  "generatedAt": "2026-03-10T05:51:00.665036+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -414,16 +414,16 @@
   ],
   "sources": [
     {
-      "id": "sheet-master-list",
-      "category": "meta",
+      "id": "sheet-dotey",
+      "category": "AI 领域",
       "priority": "high",
       "language": "mixed",
-      "kind": "sheet",
-      "url": "https://docs.google.com/spreadsheets/d/1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU/edit",
+      "kind": "account_seed",
+      "url": "https://x.com/dotey",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
       "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
-      "itemCount": 130,
+      "itemCount": 1,
       "previewRows": [
         {
           "姓名/昵称": "宝玉",
@@ -431,34 +431,3231 @@
           "Twitter 链接": "https://x.com/dotey",
           "领域": "AI 领域",
           "简介": "中文 AI 圈高频信息源，长期分享 Prompt 工程、AI 实战、前沿工具与模型解读。"
-        },
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-op7418",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/op7418",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
         {
           "姓名/昵称": "歸藏",
           "Twitter Handle": "@op7418",
           "Twitter 链接": "https://x.com/op7418",
           "领域": "AI 领域",
           "简介": "AIGC 周刊主理人，专注 AI 绘画、视频生成、设计工作流和工具趋势。"
-        },
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-gorden-sun",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Gorden_Sun",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
         {
           "姓名/昵称": "Gorden_Sun",
           "Twitter Handle": "@Gorden_Sun",
           "Twitter 链接": "https://x.com/Gorden_Sun",
           "领域": "AI 领域",
           "简介": "以 AI 资讯日报和前沿动态整理见长，适合追踪新模型、新产品和热点变化。"
-        },
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-xiaohu",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/xiaohu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
         {
           "姓名/昵称": "小互",
           "Twitter Handle": "@xiaohu",
           "Twitter 链接": "https://x.com/xiaohu",
           "领域": "AI 领域",
           "简介": "科技与 AI 工具分享型账号，覆盖 ChatGPT、AI 工具导航、产品资讯和使用技巧。"
-        },
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-shao-meng",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/shao__meng",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
         {
           "姓名/昵称": "shao__meng",
           "Twitter Handle": "@shao__meng",
           "Twitter 链接": "https://x.com/shao__meng",
           "领域": "AI 领域",
           "简介": "偏 Web 与 AI 技术实践，常分享 AI 论文、开源项目和产品落地思考。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-thinkingjimmy",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/thinkingjimmy",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "thinkingjimmy",
+          "Twitter Handle": "@thinkingjimmy",
+          "Twitter 链接": "https://x.com/thinkingjimmy",
+          "领域": "AI 领域",
+          "简介": "聚焦 AI 工具普及与产品体验，内容偏实用、面向普通用户和工具使用者。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-goocarlos",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/goocarlos",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "goocarlos",
+          "Twitter Handle": "@goocarlos",
+          "Twitter 链接": "https://x.com/goocarlos",
+          "领域": "AI 领域",
+          "简介": "AI 开发与产品结合型账号，偏开发者视角，适合关注工具构建和应用实践。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-tumeng05",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Tumeng05",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Tumeng05",
+          "Twitter Handle": "@Tumeng05",
+          "Twitter 链接": "https://x.com/Tumeng05",
+          "领域": "AI 领域",
+          "简介": "偏 AI 创业和 LLM、RAG、Agent 方向，关注技术趋势与商业落地。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-axtonliu",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/AxtonLiu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Axton Liu",
+          "Twitter Handle": "@AxtonLiu",
+          "Twitter 链接": "https://x.com/AxtonLiu",
+          "领域": "AI 领域",
+          "简介": "擅长把复杂 AI 技术讲清楚，常写 AI 产品、开发实践和工具应用心得。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-haibun",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/haibun",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "海辛",
+          "Twitter Handle": "@haibun",
+          "Twitter 链接": "https://x.com/haibun",
+          "领域": "AI 领域",
+          "简介": "偏 AI 视频和生成式视觉创作，适合关注创意类 AI 方向。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-nishuang",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/nishuang",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "倪爽",
+          "Twitter Handle": "@nishuang",
+          "Twitter 链接": "https://x.com/nishuang",
+          "领域": "AI 领域",
+          "简介": "常分享 AI 工具、生产力提升和趋势观察，内容完整度和信息密度都较高。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-vista8",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/vista8",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "向阳乔木",
+          "Twitter Handle": "@vista8",
+          "Twitter 链接": "https://x.com/vista8",
+          "领域": "AI 领域",
+          "简介": "偏 AI 产品、工作流、Vibe Coding 和趋势判断，兼具产品感和表达能力。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-lijigang",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/lijigang",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "李继刚",
+          "Twitter Handle": "@lijigang",
+          "Twitter 链接": "https://x.com/lijigang",
+          "领域": "AI 领域",
+          "简介": "深度 Prompt 探索者，内容偏 AI 思考、创意应用和方法论总结。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-kaifulee",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/kaifulee",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "李开复",
+          "Twitter Handle": "@kaifulee",
+          "Twitter 链接": "https://x.com/kaifulee",
+          "领域": "AI 领域",
+          "简介": "华人 AI 领域最具影响力的意见领袖之一，偏产业、创业和大模型趋势判断。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-waytoagi",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/WaytoAGI",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "WaytoAGI",
+          "Twitter Handle": "@WaytoAGI",
+          "Twitter 链接": "https://x.com/WaytoAGI",
+          "领域": "AI 领域",
+          "简介": "中文 AI 知识整理型头部账号，适合体系化学习和追踪前沿资源。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-xicilion",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/xicilion",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "响马",
+          "Twitter Handle": "@xicilion",
+          "Twitter 链接": "https://x.com/xicilion",
+          "领域": "AI 领域",
+          "简介": "偏 LLM、AI 实战和开发者视角，内容通常信息密度较高。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-oran-ge",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/oran_ge",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Orange AI",
+          "Twitter Handle": "@oran_ge",
+          "Twitter 链接": "https://x.com/oran_ge",
+          "领域": "AI 领域",
+          "简介": "更偏 AI 创业者视角，关注 Agent、产品机会和模型能力变化。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-alchainhust",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/AlchainHust",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "AI进化论 花生",
+          "Twitter Handle": "@AlchainHust",
+          "Twitter 链接": "https://x.com/AlchainHust",
+          "领域": "AI 领域",
+          "简介": "聚焦 AI 编程、AI Native 产品和具体工具实操，内容落地性强。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-samuelqzq",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/SamuelQZQ",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "DN-Samuel",
+          "Twitter Handle": "@SamuelQZQ",
+          "Twitter 链接": "https://x.com/SamuelQZQ",
+          "领域": "AI 领域",
+          "简介": "覆盖 AI 工具、AI 认知和开发者实践，适合看一线新工具和新玩法。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-elliotchen100",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/elliotchen100",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "艾略特",
+          "Twitter Handle": "@elliotchen100",
+          "Twitter 链接": "https://x.com/elliotchen100",
+          "领域": "AI 领域",
+          "简介": "常做 AI 工具拆解、项目观察和开发者生态内容，适合追踪新项目。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-hayami-kiraa",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Hayami_kiraa",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "早见 Hayami",
+          "Twitter Handle": "@Hayami_kiraa",
+          "Twitter 链接": "https://x.com/Hayami_kiraa",
+          "领域": "AI 领域",
+          "简介": "偏 AI Builder 和内容创作者路线，连接产品、创作和增长。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-berryxia",
+      "category": "AI 领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/berryxia",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Berryxia.AI",
+          "Twitter Handle": "@berryxia",
+          "Twitter 链接": "https://x.com/berryxia",
+          "领域": "AI 领域",
+          "简介": "以创意型 AI 应用、提示词、自动化和生产流为主。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-lidangzzz",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/lidangzzz",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "立党",
+          "Twitter Handle": "@lidangzzz",
+          "Twitter 链接": "https://x.com/lidangzzz",
+          "领域": "创业者领域",
+          "简介": "偏创业、投资、学习成长与人生避坑，具有较强个人观点输出。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-lxfater",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/lxfater",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "铁锤人",
+          "Twitter Handle": "@lxfater",
+          "Twitter 链接": "https://x.com/lxfater",
+          "领域": "创业者领域",
+          "简介": "AI 创业与赚钱实践结合型账号，兼顾产品、流量和实战经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-nateleex",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/nateleex",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "李自然",
+          "Twitter Handle": "@nateleex",
+          "Twitter 链接": "https://x.com/nateleex",
+          "领域": "创业者领域",
+          "简介": "连续创业者视角，常分享创业故事、商业认知和实战经历。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-yan5xu",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/yan5xu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "yan5xu",
+          "Twitter Handle": "@yan5xu",
+          "Twitter 链接": "https://x.com/yan5xu",
+          "领域": "创业者领域",
+          "简介": "非典型开发者创业路线，内容涵盖 AIGC 应用、商业化和个人经历。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-santiagoyoungus",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/santiagoyoungus",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "圣总聊出海",
+          "Twitter Handle": "@santiagoyoungus",
+          "Twitter 链接": "https://x.com/santiagoyoungus",
+          "领域": "创业者领域",
+          "简介": "海外创业者视角，偏普通人出海创业路径和真实经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-cydiar404",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Cydiar404",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Cydiar404",
+          "Twitter Handle": "@Cydiar404",
+          "Twitter 链接": "https://x.com/Cydiar404",
+          "领域": "创业者领域",
+          "简介": "偏 AI 创业和产品落地，适合看从想法到产品化的过程。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-jefferytatsuya",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/JefferyTatsuya",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "JefferyTatsuya",
+          "Twitter Handle": "@JefferyTatsuya",
+          "Twitter 链接": "https://x.com/JefferyTatsuya",
+          "领域": "创业者领域",
+          "简介": "AI 创业者视角，关注产品构建、市场验证和实际增长。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-seclink",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/seclink",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "seclink",
+          "Twitter Handle": "@seclink",
+          "Twitter 链接": "https://x.com/seclink",
+          "领域": "创业者领域",
+          "简介": "结合 AI 趋势、创业视角和产品运营，偏实战型表达。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-fenng",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Fenng",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Fenng",
+          "Twitter Handle": "@Fenng",
+          "Twitter 链接": "https://x.com/Fenng",
+          "领域": "创业者领域",
+          "简介": "互联网老兵型创业观察者，擅长商业评论、创业反思和行业判断。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-turingou",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/turingou",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "郭宇",
+          "Twitter Handle": "@turingou",
+          "Twitter 链接": "https://x.com/turingou",
+          "领域": "创业者领域",
+          "简介": "连续创业者视角，常写科技、创业和数字生活方式。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-tinyfool",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/tinyfool",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Tinyfool",
+          "Twitter Handle": "@tinyfool",
+          "Twitter 链接": "https://x.com/tinyfool",
+          "领域": "创业者领域",
+          "简介": "资深技术创业者，内容偏创业心态、技术路线和行业选择。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-virushuo",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/virushuo",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "霍炬",
+          "Twitter Handle": "@virushuo",
+          "Twitter 链接": "https://x.com/virushuo",
+          "领域": "创业者领域",
+          "简介": "长期关注科技周期和公司战略，对创业和技术趋势有独到看法。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-fankaishuoai",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/fankaishuoai",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "范凯",
+          "Twitter Handle": "@fankaishuoai",
+          "Twitter 链接": "https://x.com/fankaishuoai",
+          "领域": "创业者领域",
+          "简介": "技术创业老兵，常分享创业复盘、技术产品和行业经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-xdash",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/XDash",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "XDash",
+          "Twitter Handle": "@XDash",
+          "Twitter 链接": "https://x.com/XDash",
+          "领域": "创业者领域",
+          "简介": "创业洞察、工具推荐和书单类内容较多，兼顾实用和思考。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-idoubicc",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/idoubicc",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "idoubi",
+          "Twitter Handle": "@idoubicc",
+          "Twitter 链接": "https://x.com/idoubicc",
+          "领域": "创业者领域",
+          "简介": "前工程师转独立开发与创业，分享 build in public 和 AI 产品实践。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-nishuang",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/nishuang",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "倪爽",
+          "Twitter Handle": "@nishuang",
+          "Twitter 链接": "https://x.com/nishuang",
+          "领域": "创业者领域",
+          "简介": "设计与品牌创业交叉视角，常写工作室经营和创作型创业经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-coderjefflee",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/CoderJeffLee",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "子木",
+          "Twitter Handle": "@CoderJeffLee",
+          "Twitter 链接": "https://x.com/CoderJeffLee",
+          "领域": "创业者领域",
+          "简介": "偏 SaaS 海外营销、认知升级和案例拆解。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-tuturetom",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/tuturetom",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Tom Huang",
+          "Twitter Handle": "@tuturetom",
+          "Twitter 链接": "https://x.com/tuturetom",
+          "领域": "创业者领域",
+          "简介": "偏开源 Agent 产品和创业工具链，内容兼具产品与创业思考。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-iamtonyzhu",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/iamtonyzhu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Tony出海",
+          "Twitter Handle": "@iamtonyzhu",
+          "Twitter 链接": "https://x.com/iamtonyzhu",
+          "领域": "创业者领域",
+          "简介": "跨境和 AI 创业结合较深，适合关注出海创业实战路径。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-hongjun60",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/hongjun60",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "泓君 Jane",
+          "Twitter Handle": "@hongjun60",
+          "Twitter 链接": "https://x.com/hongjun60",
+          "领域": "创业者领域",
+          "简介": "偏科技创业和高质量访谈内容，适合看产业视角和创业认知。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-valley101-qian",
+      "category": "创业者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Valley101_Qian",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "陈茜 Qian Chen",
+          "Twitter Handle": "@Valley101_Qian",
+          "Twitter 链接": "https://x.com/Valley101_Qian",
+          "领域": "创业者领域",
+          "简介": "科技媒体与创业观察结合，信息密度较高。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-indie-maker-fox",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/indie_maker_fox",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "indie_maker_fox",
+          "Twitter Handle": "@indie_maker_fox",
+          "Twitter 链接": "https://x.com/indie_maker_fox",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "独立开发与出海 SaaS 路线代表账号，分享模板、建站、流量和变现经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-hongyuancao",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/HongyuanCao",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "HongyuanCao",
+          "Twitter Handle": "@HongyuanCao",
+          "Twitter 链接": "https://x.com/HongyuanCao",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "出海 SaaS 和 AI 产品创业者，偏产品开发、增长和 SEO 实战。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-nextify2024",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/nextify2024",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "nextify2024",
+          "Twitter Handle": "@nextify2024",
+          "Twitter 链接": "https://x.com/nextify2024",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "偏 SaaS 开发工具、模板和产品构建经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-readyfor2025",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/readyfor2025",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "readyfor2025",
+          "Twitter Handle": "@readyfor2025",
+          "Twitter 链接": "https://x.com/readyfor2025",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "连续创业者和产品经理视角，分享 SaaS 出海和产品思考。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-weijunext",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/weijunext",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "weijunext",
+          "Twitter Handle": "@weijunext",
+          "Twitter 链接": "https://x.com/weijunext",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "Next.js 和 SaaS 出海方向账号，偏开发工具和产品搭建。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-yihui-indie",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/yihui_indie",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "yihui_indie",
+          "Twitter Handle": "@yihui_indie",
+          "Twitter 链接": "https://x.com/yihui_indie",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "结合 SaaS 独立开发与知识产品变现，内容偏实操和经营思路。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-jinsfavorites",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/JinsFavorites",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "JinsFavorites",
+          "Twitter Handle": "@JinsFavorites",
+          "Twitter 链接": "https://x.com/JinsFavorites",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "偏 SaaS 工具和 APP 产品观察，常做产品体验和优化案例整理。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-xiongchun007",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/xiongchun007",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "xiongchun007",
+          "Twitter Handle": "@xiongchun007",
+          "Twitter 链接": "https://x.com/xiongchun007",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "数据工具与 SaaS 创业方向，偏产品实践与业务理解。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-junyu",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Junyu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "王俊煜",
+          "Twitter Handle": "@Junyu",
+          "Twitter 链接": "https://x.com/Junyu",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "产品设计哲学和用户体验表达强，适合看高质量 APP 产品思考。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-luoleiorg",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/luoleiorg",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "罗磊",
+          "Twitter Handle": "@luoleiorg",
+          "Twitter 链接": "https://x.com/luoleiorg",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "从全栈与体验角度看产品，常做各类 SaaS 和 APP 分析。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-plidezus",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Plidezus",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Plidezus",
+          "Twitter Handle": "@Plidezus",
+          "Twitter 链接": "https://x.com/Plidezus",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "独立 APP 开发者视角，关注移动产品从零到一和上架运营。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-jesselaunz",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/jesselaunz",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "遁一子",
+          "Twitter Handle": "@jesselaunz",
+          "Twitter 链接": "https://x.com/jesselaunz",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "偏 AI 产品和实际应用，常写 Prompt 与产品落地。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-lewangx",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/lewangx",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "王乐",
+          "Twitter Handle": "@lewangx",
+          "Twitter 链接": "https://x.com/lewangx",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "独立创业者，关注 AI 和硬件、产品思维与新形态产品尝试。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-axtonliu",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/axtonliu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Axton",
+          "Twitter Handle": "@axtonliu",
+          "Twitter 链接": "https://x.com/axtonliu",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "iOS/Mac 独立开发者路线，订阅变现和 App Store 经验较多。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-tualatrix",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/tualatrix",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "图拉鼎",
+          "Twitter Handle": "@tualatrix",
+          "Twitter 链接": "https://x.com/tualatrix",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "高质量 iOS 独立开发者，产品审美和完成度都很强。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-luinlee",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/luinlee",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "子骅 Zihua Li",
+          "Twitter Handle": "@luinlee",
+          "Twitter 链接": "https://x.com/luinlee",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "工程与产品兼具，偏开发者工具和 SaaS 思维。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-yupi996",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/yupi996",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "程序员鱼皮",
+          "Twitter Handle": "@yupi996",
+          "Twitter 链接": "https://x.com/yupi996",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "AI 编程教育、产品化和内容转化结合较好。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-seclink",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/seclink",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Y11",
+          "Twitter Handle": "@seclink",
+          "Twitter 链接": "https://x.com/seclink",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "把 AI 工具、冷启动和求职产品化思维结合起来，产品感较强。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-servasyy-ai",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/servasyy_ai",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "huangserva",
+          "Twitter Handle": "@servasyy_ai",
+          "Twitter 链接": "https://x.com/servasyy_ai",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "偏多 Agent、工具链和落地能力，适合看下一代 AI 产品形态。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-xiaohuiai666",
+      "category": "SaaS 和 APP 产品领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/XiaohuiAI666",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "程序员小灰",
+          "Twitter Handle": "@XiaohuiAI666",
+          "Twitter 链接": "https://x.com/XiaohuiAI666",
+          "领域": "SaaS 和 APP 产品领域",
+          "简介": "AI、内容和副业式产品思维结合，面向普通用户的表达能力强。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-gefei55",
+      "category": "出海领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/gefei55",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "哥飞",
+          "Twitter Handle": "@gefei55",
+          "Twitter 链接": "https://x.com/gefei55",
+          "领域": "出海领域",
+          "简介": "中文出海建站、SEO 流量和 SaaS 增长方向的高频实战派。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-lyc-zh",
+      "category": "出海领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/lyc_zh",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "lyc_zh",
+          "Twitter Handle": "@lyc_zh",
+          "Twitter 链接": "https://x.com/lyc_zh",
+          "领域": "出海领域",
+          "简介": "偏 AI 出海独立开发和产品增长经验分享。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-ai-jasonyu",
+      "category": "出海领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/AI_Jasonyu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "鱼总聊AI",
+          "Twitter Handle": "@AI_Jasonyu",
+          "Twitter 链接": "https://x.com/AI_Jasonyu",
+          "领域": "出海领域",
+          "简介": "兼顾 AI、出海、SaaS、APP 和海外手机卡 eSIM 实操干货，是交叉领域影响力账号。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-journeymanchina",
+      "category": "出海领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/JourneymanChina",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "JourneymanChina",
+          "Twitter Handle": "@JourneymanChina",
+          "Twitter 链接": "https://x.com/JourneymanChina",
+          "领域": "出海领域",
+          "简介": "出海、被动收入和海外创业路径结合型账号。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-dev-afei",
+      "category": "出海领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/dev_afei",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "dev_afei",
+          "Twitter Handle": "@dev_afei",
+          "Twitter 链接": "https://x.com/dev_afei",
+          "领域": "出海领域",
+          "简介": "前端工程师出海探索路线，分享英推增长和产品出海。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-luobogooooo",
+      "category": "出海领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/luobogooooo",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "luobogooooo",
+          "Twitter Handle": "@luobogooooo",
+          "Twitter 链接": "https://x.com/luobogooooo",
+          "领域": "出海领域",
+          "简介": "工具站构建和出海实战分享为主。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-gosailglobal",
+      "category": "出海领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/GoSailGlobal",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "GoSailGlobal",
+          "Twitter Handle": "@GoSailGlobal",
+          "Twitter 链接": "https://x.com/GoSailGlobal",
+          "领域": "出海领域",
+          "简介": "AI SaaS 出海独立开发实践者，偏全球化经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-chuhaiqu",
+      "category": "出海领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/chuhaiqu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "出海去孵化器",
+          "Twitter Handle": "@chuhaiqu",
+          "Twitter 链接": "https://x.com/chuhaiqu",
+          "领域": "出海领域",
+          "简介": "偏出海创业生态、社区活动和项目观察，机构属性较强。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-daluoseo",
+      "category": "出海领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/daluoseo",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "大罗 SEO",
+          "Twitter Handle": "@daluoseo",
+          "Twitter 链接": "https://x.com/daluoseo",
+          "领域": "出海领域",
+          "简介": "出海 SEO 和自然流量打法代表账号。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-realnyarime",
+      "category": "海外手机卡领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/realNyarime",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "奶昔",
+          "Twitter Handle": "@realNyarime",
+          "Twitter 链接": "https://x.com/realNyarime",
+          "领域": "海外手机卡领域",
+          "简介": "偏 eSIM、虚拟手机号和海外手机卡使用教程。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-digitalnomadlc",
+      "category": "海外手机卡领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/DigitalNomadLC",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "DigitalNomadLC",
+          "Twitter Handle": "@DigitalNomadLC",
+          "Twitter 链接": "https://x.com/DigitalNomadLC",
+          "领域": "海外手机卡领域",
+          "简介": "数字游民路线，专注境外手机卡、eSIM 和海外银行卡实用方案。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-rocm301",
+      "category": "海外手机卡领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/RocM301",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "RocM301",
+          "Twitter Handle": "@RocM301",
+          "Twitter 链接": "https://x.com/RocM301",
+          "领域": "海外手机卡领域",
+          "简介": "常分享海外手机卡、eSIM 和相关黑科技使用经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-evacmore",
+      "category": "海外手机卡领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/EvaCmore",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Eva树姐",
+          "Twitter Handle": "@EvaCmore",
+          "Twitter 链接": "https://x.com/EvaCmore",
+          "领域": "海外手机卡领域",
+          "简介": "偏海外手机卡和 eSIM 交易、使用经验与 deal 分享。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-shuziyimin",
+      "category": "海外手机卡领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/shuziyimin",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "数字移民",
+          "Twitter Handle": "@shuziyimin",
+          "Twitter 链接": "https://x.com/shuziyimin",
+          "领域": "海外手机卡领域",
+          "简介": "覆盖海外手机卡、银行账户和数字身份搭建。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-ai-jasonyu",
+      "category": "海外手机卡领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/AI_Jasonyu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "鱼总聊AI",
+          "Twitter Handle": "@AI_Jasonyu",
+          "Twitter 链接": "https://x.com/AI_Jasonyu",
+          "领域": "海外手机卡领域",
+          "简介": "不仅做 AI 和出海，也长期覆盖海外手机卡 eSIM 的实操内容。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-itangtalk",
+      "category": "海外手机卡领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/itangtalk",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "小糖",
+          "Twitter Handle": "@itangtalk",
+          "Twitter 链接": "https://x.com/itangtalk",
+          "领域": "海外手机卡领域",
+          "简介": "海外手机卡和数字生活方向账号，偏美国和欧洲 eSIM 保号攻略。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-austinit",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/austinit",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "austinit",
+          "Twitter Handle": "@austinit",
+          "Twitter 链接": "https://x.com/austinit",
+          "领域": "独立开发者领域",
+          "简介": "靠写代码养活自己的独立开发者路线，常写 AI 编程和收入内容。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-guishou-56",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/guishou_56",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "guishou_56",
+          "Twitter Handle": "@guishou_56",
+          "Twitter 链接": "https://x.com/guishou_56",
+          "领域": "独立开发者领域",
+          "简介": "出海独立开发和 AI 工具折腾者，常写构建过程和真实故事。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-9yearfish",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/9yearfish",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "9yearfish",
+          "Twitter Handle": "@9yearfish",
+          "Twitter 链接": "https://x.com/9yearfish",
+          "领域": "独立开发者领域",
+          "简介": "关注产品迭代、开源贡献和独立开发经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-benshandebiao",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/benshandebiao",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "benshandebiao",
+          "Twitter Handle": "@benshandebiao",
+          "Twitter 链接": "https://x.com/benshandebiao",
+          "领域": "独立开发者领域",
+          "简介": "分享 build in public 和技术实战笔记。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-hwwaanng",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/hwwaanng",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "hwwaanng",
+          "Twitter Handle": "@hwwaanng",
+          "Twitter 链接": "https://x.com/hwwaanng",
+          "领域": "独立开发者领域",
+          "简介": "偏 iOS 独立开发和 APP 构建经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-owenyoungzh",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/OwenYoungZh",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "OwenYoungZh",
+          "Twitter Handle": "@OwenYoungZh",
+          "Twitter 链接": "https://x.com/OwenYoungZh",
+          "领域": "独立开发者领域",
+          "简介": "沉浸式翻译作者，产品与工具出海结合的代表型独立开发者。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-tualatrix",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/tualatrix",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "图拉鼎",
+          "Twitter Handle": "@tualatrix",
+          "Twitter 链接": "https://x.com/tualatrix",
+          "领域": "独立开发者领域",
+          "简介": "知名独立开发者，常分享开发日常、产品思考和生态观察。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-waylybaye",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/waylybaye",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Baye",
+          "Twitter Handle": "@waylybaye",
+          "Twitter 链接": "https://x.com/waylybaye",
+          "领域": "独立开发者领域",
+          "简介": "iOS 独立开发视角，适合看应用打磨和推广经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-randyloop",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/randyloop",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Randy",
+          "Twitter Handle": "@randyloop",
+          "Twitter 链接": "https://x.com/randyloop",
+          "领域": "独立开发者领域",
+          "简介": "活跃开源作者和独立开发者，技术前沿感强。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-livid",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/livid",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Livid",
+          "Twitter Handle": "@livid",
+          "Twitter 链接": "https://x.com/livid",
+          "领域": "独立开发者领域",
+          "简介": "中文独立开发者和极客社区代表人物之一。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-shengxj1",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/shengxj1",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "花果山大圣",
+          "Twitter Handle": "@shengxj1",
+          "Twitter 链接": "https://x.com/shengxj1",
+          "领域": "独立开发者领域",
+          "简介": "前端讲师和独立开发者路线，内容覆盖 Web、英语和独立开发。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-financeyf5",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/FinanceYF5",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "郎瀚威 Will",
+          "Twitter Handle": "@FinanceYF5",
+          "Twitter 链接": "https://x.com/FinanceYF5",
+          "领域": "独立开发者领域",
+          "简介": "关注独立开发者破冰、个人品牌建设和社交推广。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-liuyi0922",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/liuyi0922",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "61",
+          "Twitter Handle": "@liuyi0922",
+          "Twitter 链接": "https://x.com/liuyi0922",
+          "领域": "独立开发者领域",
+          "简介": "高质量 iOS 应用作者，偏产品审美和完成度。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-fkysly",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/fkysly",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "马天翼",
+          "Twitter Handle": "@fkysly",
+          "Twitter 链接": "https://x.com/fkysly",
+          "领域": "独立开发者领域",
+          "简介": "Indie hacker 和 AI 路线，适合看个人开发者如何持续做产品。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-zhixianio",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/zhixianio",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "知县",
+          "Twitter Handle": "@zhixianio",
+          "Twitter 链接": "https://x.com/zhixianio",
+          "领域": "独立开发者领域",
+          "简介": "OpenClaw、Agent、工具开发结合较深，也是 builder 型独立开发账号。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-pluvio9yte",
+      "category": "独立开发者领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Pluvio9yte",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "雪踏乌云",
+          "Twitter Handle": "@Pluvio9yte",
+          "Twitter 链接": "https://x.com/Pluvio9yte",
+          "领域": "独立开发者领域",
+          "简介": "更新频率高，常写 AI 工具、自动化、增长和 OpenClaw 生态。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-abskoop",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/abskoop",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "abskoop",
+          "Twitter Handle": "@abskoop",
+          "Twitter 链接": "https://x.com/abskoop",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "活跃分享 OpenClaw 使用教程和 AI Agent 资源。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-stark-nico99",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/stark_nico99",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "stark_nico99",
+          "Twitter Handle": "@stark_nico99",
+          "Twitter 链接": "https://x.com/stark_nico99",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "偏 OpenClaw 教程和 Agent 工具实战案例。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-hongming731",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/hongming731",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "hongming731",
+          "Twitter Handle": "@hongming731",
+          "Twitter 链接": "https://x.com/hongming731",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "分享 OpenClaw 指南、社区构建和应用经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-penny777",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/penny777",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "penny777",
+          "Twitter Handle": "@penny777",
+          "Twitter 链接": "https://x.com/penny777",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "偏 OpenClaw 项目展示、演示和优化经验。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-quarktalksss",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/quarktalksss",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "quarktalksss",
+          "Twitter Handle": "@quarktalksss",
+          "Twitter 链接": "https://x.com/quarktalksss",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "偏 OpenClaw 教程与资源整理。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-khazix0918",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Khazix0918",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Khazix0918",
+          "Twitter Handle": "@Khazix0918",
+          "Twitter 链接": "https://x.com/Khazix0918",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "AI Agent 和 OpenClaw 实践方向，偏工具优化和案例。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-servasyy-ai",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/servasyy_ai",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "servasyy_ai",
+          "Twitter Handle": "@servasyy_ai",
+          "Twitter 链接": "https://x.com/servasyy_ai",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "OpenClaw 和多 Agent 开发者路线，偏高级应用与社区资源。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-jiqizhixin",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/jiqizhixin",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "机器之心",
+          "Twitter Handle": "@jiqizhixin",
+          "Twitter 链接": "https://x.com/jiqizhixin",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "AI 专业媒体账号，适合跟 OpenClaw 等前沿项目的技术解读，机构属性较强。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-evilcos",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/evilcos",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "余弦",
+          "Twitter Handle": "@evilcos",
+          "Twitter 链接": "https://x.com/evilcos",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "安全视角强，适合看 AI Agent 的越权风险和攻防问题。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-steipete",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/steipete",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Peter Steinberger",
+          "Twitter Handle": "@steipete",
+          "Twitter 链接": "https://x.com/steipete",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "OpenClaw 创始人，适合直接追踪项目演进和一手动态。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-lxfater",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/lxfater",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "铁锤人",
+          "Twitter Handle": "@lxfater",
+          "Twitter 链接": "https://x.com/lxfater",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "中文 OpenClaw 传播链中影响力较强，偏部署、认知和生态扩散。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-pluvio9yte",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Pluvio9yte",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "雪踏乌云",
+          "Twitter Handle": "@Pluvio9yte",
+          "Twitter 链接": "https://x.com/Pluvio9yte",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "偏 OpenClaw 生态整理、教程汇总和趋势跟踪。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-fkysly",
+      "category": "OpenClaw 领域（小垂直领域）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/fkysly",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "马天翼",
+          "Twitter Handle": "@fkysly",
+          "Twitter 链接": "https://x.com/fkysly",
+          "领域": "OpenClaw 领域（小垂直领域）",
+          "简介": "偏独立开发者如何把 OpenClaw 和技能生态做产品化。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-kasong2048",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/kasong2048",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "kasong2048",
+          "Twitter Handle": "@kasong2048",
+          "Twitter 链接": "https://x.com/kasong2048",
+          "领域": "知识分享领域",
+          "简介": "知识、成长、AI 副业和咨询内容结合，适合看结构化表达。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-cellinlab",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/cellinlab",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "cellinlab",
+          "Twitter Handle": "@cellinlab",
+          "Twitter 链接": "https://x.com/cellinlab",
+          "领域": "知识分享领域",
+          "简介": "AI 应用开发者与播客路线，偏独立工作者知识和资源整理。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-wshuyi",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/wshuyi",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "wshuyi",
+          "Twitter Handle": "@wshuyi",
+          "Twitter 链接": "https://x.com/wshuyi",
+          "领域": "知识分享领域",
+          "简介": "适合小白入门的 AI 工具和知识分享账号，表达通俗。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-financeyf5",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/FinanceYF5",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "FinanceYF5",
+          "Twitter Handle": "@FinanceYF5",
+          "Twitter 链接": "https://x.com/FinanceYF5",
+          "领域": "知识分享领域",
+          "简介": "知识付费、成长和个人建设内容较多，也连接独立开发与表达。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-waytoagi",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/WaytoAGI",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "WaytoAGI",
+          "Twitter Handle": "@WaytoAGI",
+          "Twitter 链接": "https://x.com/WaytoAGI",
+          "领域": "知识分享领域",
+          "简介": "前沿 AI 知识库型账号，体系化整理能力强，机构属性偏强。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-ruanyf",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/ruanyf",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "阮一峰",
+          "Twitter Handle": "@ruanyf",
+          "Twitter 链接": "https://x.com/ruanyf",
+          "领域": "知识分享领域",
+          "简介": "中文互联网知识分享常青树，科技与工具类内容长期稳定高质量。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-svwang1",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Svwang1",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "王川",
+          "Twitter Handle": "@Svwang1",
+          "Twitter 链接": "https://x.com/Svwang1",
+          "领域": "知识分享领域",
+          "简介": "擅长深度长推，内容涉及历史、商业、科技与认知。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-sspai-com",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/sspai_com",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "少数派",
+          "Twitter Handle": "@sspai_com",
+          "Twitter 链接": "https://x.com/sspai_com",
+          "领域": "知识分享领域",
+          "简介": "数字生活和高效工具的头部知识平台号，机构属性较强。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-owenyoungzh",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/OwenYoungZh",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Owen",
+          "Twitter Handle": "@OwenYoungZh",
+          "Twitter 链接": "https://x.com/OwenYoungZh",
+          "领域": "知识分享领域",
+          "简介": "偏外语阅读、信息获取与效率提升的方法论分享。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-foxshuo",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/foxshuo",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "阑夕",
+          "Twitter Handle": "@foxshuo",
+          "Twitter 链接": "https://x.com/foxshuo",
+          "领域": "知识分享领域",
+          "简介": "科技资讯和商业观察结合型账号，视野较广。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-pongba",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/pongba",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "刘未鹏",
+          "Twitter Handle": "@pongba",
+          "Twitter 链接": "https://x.com/pongba",
+          "领域": "知识分享领域",
+          "简介": "思维方法和认知科学分享很有代表性。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-francis-yao",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Francis_YAO_",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Bob Fu 符尧",
+          "Twitter Handle": "@Francis_YAO_",
+          "Twitter 链接": "https://x.com/Francis_YAO_",
+          "领域": "知识分享领域",
+          "简介": "前沿研究和多模态、推理方向知识分享。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-hongjun60",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/hongjun60",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "泓君 Jane",
+          "Twitter Handle": "@hongjun60",
+          "Twitter 链接": "https://x.com/hongjun60",
+          "领域": "知识分享领域",
+          "简介": "高质量访谈和行业内容，信息筛选层级高。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-valley101-qian",
+      "category": "知识分享领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Valley101_Qian",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "陈茜 Qian Chen",
+          "Twitter Handle": "@Valley101_Qian",
+          "Twitter 链接": "https://x.com/Valley101_Qian",
+          "领域": "知识分享领域",
+          "简介": "偏科技媒体和产业内容，长期看有价值。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-astronaut-1216",
+      "category": "副业领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/Astronaut_1216",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "Astronaut_1216",
+          "Twitter Handle": "@Astronaut_1216",
+          "Twitter 链接": "https://x.com/Astronaut_1216",
+          "领域": "副业领域",
+          "简介": "专注 X 平台起号和 AI 工具变现实战。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-ityouknows",
+      "category": "副业领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/ityouknows",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "ityouknows",
+          "Twitter Handle": "@ityouknows",
+          "Twitter 链接": "https://x.com/ityouknows",
+          "领域": "副业领域",
+          "简介": "覆盖 AI、跨境、自媒体和副业变现路径。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-kasong2048",
+      "category": "副业领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/kasong2048",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "kasong2048",
+          "Twitter Handle": "@kasong2048",
+          "Twitter 链接": "https://x.com/kasong2048",
+          "领域": "副业领域",
+          "简介": "偏 AI 副业、咨询和知识变现路线。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-journeymanchina",
+      "category": "副业领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/JourneymanChina",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "JourneymanChina",
+          "Twitter Handle": "@JourneymanChina",
+          "Twitter 链接": "https://x.com/JourneymanChina",
+          "领域": "副业领域",
+          "简介": "出海、被动收入和副业实践结合型账号。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-austinit",
+      "category": "副业领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/austinit",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "austinit",
+          "Twitter Handle": "@austinit",
+          "Twitter 链接": "https://x.com/austinit",
+          "领域": "副业领域",
+          "简介": "偏代码养活自己和个人开发变现路径。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-yan5xu",
+      "category": "副业领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/yan5xu",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "yan5xu",
+          "Twitter Handle": "@yan5xu",
+          "Twitter 链接": "https://x.com/yan5xu",
+          "领域": "副业领域",
+          "简介": "AIGC 商业化和个人重整经历结合，副业属性明显。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-expatlevi",
+      "category": "副业领域",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/expatlevi",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "expatlevi",
+          "Twitter Handle": "@expatlevi",
+          "Twitter 链接": "https://x.com/expatlevi",
+          "领域": "副业领域",
+          "简介": "地理套利、出海工具和副业工具分享。"
+        }
+      ],
+      "researchCount": 0,
+      "pendingCount": 0,
+      "publishedCount": 0,
+      "archivedCount": 0
+    },
+    {
+      "id": "sheet-cuimao",
+      "category": "补充（作者手动添加）",
+      "priority": "high",
+      "language": "mixed",
+      "kind": "account_seed",
+      "url": "https://x.com/CuiMao",
+      "status": "ok",
+      "reason": "loaded from local sheet snapshot",
+      "fetchedAt": "2026-03-10T05:38:06.322657+00:00",
+      "itemCount": 1,
+      "previewRows": [
+        {
+          "姓名/昵称": "CuiMao",
+          "Twitter Handle": "@CuiMao",
+          "Twitter 链接": "https://x.com/CuiMao",
+          "领域": "补充（作者手动添加）",
+          "简介": "宝藏博主，作者手动补充推荐。"
         }
       ],
       "researchCount": 0,
@@ -844,13 +4041,13 @@
   "sourceEditors": {
     "post": {
       "exportFilename": "lark-twitter-post-sources.json",
-      "json": "{\n  \"version\": 1,\n  \"updatedAt\": \"2026-03-09T00:00:00Z\",\n  \"sources\": [\n    {\n      \"id\": \"sheet-master-list\",\n      \"category\": \"meta\",\n      \"kind\": \"sheet\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"url\": \"https://docs.google.com/spreadsheets/d/1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU/edit\",\n      \"notes\": \"Primary user-provided source list. Treat as a first-class registry when accessible. A local snapshot is stored in twitter-ops for fallback.\",\n      \"localCsvPath\": \"/Users/leelark/.openclaw/workspace/twitter-ops/sheet-master-list.csv\",\n      \"localJsonPath\": \"/Users/leelark/.openclaw/workspace/twitter-ops/sheet-master-list.json\"\n    },\n    {\n      \"id\": \"hn-frontpage\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://hnrss.org/frontpage\"\n    },\n    {\n      \"id\": \"the-verge\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.theverge.com/rss/index.xml\"\n    },\n    {\n      \"id\": \"wired\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.wired.com/feed/rss\"\n    },\n    {\n      \"id\": \"reddit-technology\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.reddit.com/r/technology/top.rss?t=day\"\n    },\n    {\n      \"id\": \"simon-willison\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://simonwillison.net/atom/everything/\"\n    },\n    {\n      \"id\": \"pragmatic-engineer\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://blog.pragmaticengineer.com/rss/\"\n    },\n    {\n      \"id\": \"css-tricks\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://css-tricks.com/feed/\"\n    },\n    {\n      \"id\": \"uxdesign\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://uxdesign.cc/feed\"\n    },\n    {\n      \"id\": \"decrypt\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://decrypt.co/feed\"\n    },\n    {\n      \"id\": \"the-block\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.theblock.co/rss.xml\"\n    },\n    {\n      \"id\": \"blockbeats\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://api.theblockbeats.news/v2/rss/all\"\n    },\n    {\n      \"id\": \"panews\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://www.panewslab.com/rss.xml?lang=zh&type=NORMAL%2CNEWS%2CVIDEO&featured=true&in-depth=true\"\n    },\n    {\n      \"id\": \"odaily-newsflash\",\n      \"category\": \"crypto\",\n      \"kind\": \"rss\",\n      \"priority\": \"high\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rss.odaily.news/rss/newsflash\"\n    },\n    {\n      \"id\": \"v2ex-hot\",\n      \"category\": \"product\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/v2ex/topics/hot\"\n    },\n    {\n      \"id\": \"juejin-trending\",\n      \"category\": \"product\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/juejin/trending/all/weekly\"\n    },\n    {\n      \"id\": \"caixin-article\",\n      \"category\": \"macro\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/caixin/article\"\n    },\n    {\n      \"id\": \"zhihu-hot\",\n      \"category\": \"trend\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/zhihu/hot\"\n    },\n    {\n      \"id\": \"sspai-index\",\n      \"category\": \"product\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/sspai/index\"\n    },\n    {\n      \"id\": \"bilibili-weekly\",\n      \"category\": \"trend\",\n      \"kind\": \"rss\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/bilibili/weekly\"\n    },\n    {\n      \"id\": \"devto-top-week\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/dev.to/top/week\"\n    },\n    {\n      \"id\": \"readhub-daily\",\n      \"category\": \"trend\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/readhub/daily\"\n    },\n    {\n      \"id\": \"hellogithub\",\n      \"category\": \"tech\",\n      \"kind\": \"rss\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/hellogithub/home\"\n    }\n  ]\n}",
-      "editUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Update+post+sources&body=update+post+sources%0A%0AReplace+the+JSON+below+with+the+full+updated+post+source+registry.%0A%0A%60%60%60json%0A%7B%0A++%22version%22%3A+1%2C%0A++%22updatedAt%22%3A+%222026-03-09T00%3A00%3A00Z%22%2C%0A++%22sources%22%3A+%5B%0A++++%7B%0A++++++%22id%22%3A+%22sheet-master-list%22%2C%0A++++++%22category%22%3A+%22meta%22%2C%0A++++++%22kind%22%3A+%22sheet%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22mixed%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU%2Fedit%22%2C%0A++++++%22notes%22%3A+%22Primary+user-provided+source+list.+Treat+as+a+first-class+registry+when+accessible.+A+local+snapshot+is+stored+in+twitter-ops+for+fallback.%22%2C%0A++++++%22localCsvPath%22%3A+%22%2FUsers%2Fleelark%2F.openclaw%2Fworkspace%2Ftwitter-ops%2Fsheet-master-list.csv%22%2C%0A++++++%22localJsonPath%22%3A+%22%2FUsers%2Fleelark%2F.openclaw%2Fworkspace%2Ftwitter-ops%2Fsheet-master-list.json%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22hn-frontpage%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fhnrss.org%2Ffrontpage%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22the-verge%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.theverge.com%2Frss%2Findex.xml%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22wired%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.wired.com%2Ffeed%2Frss%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22reddit-technology%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.reddit.com%2Fr%2Ftechnology%2Ftop.rss%3Ft%3Dday%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22simon-willison%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fsimonwillison.net%2Fatom%2Feverything%2F%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22pragmatic-engineer%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fblog.pragmaticengineer.com%2Frss%2F%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22css-tricks%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fcss-tricks.com%2Ffeed%2F%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22uxdesign%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fuxdesign.cc%2Ffeed%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22decrypt%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fdecrypt.co%2Ffeed%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22the-block%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.theblock.co%2Frss.xml%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22blockbeats%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fapi.theblockbeats.news%2Fv2%2Frss%2Fall%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22panews%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Fwww.panewslab.com%2Frss.xml%3Flang%3Dzh%26type%3DNORMAL%252CNEWS%252CVIDEO%26featured%3Dtrue%26in-depth%3Dtrue%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22odaily-newsflash%22%2C%0A++++++%22category%22%3A+%22crypto%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22high%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frss.odaily.news%2Frss%2Fnewsflash%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22v2ex-hot%22%2C%0A++++++%22category%22%3A+%22product%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fv2ex%2Ftopics%2Fhot%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22juejin-trending%22%2C%0A++++++%22category%22%3A+%22product%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fjuejin%2Ftrending%2Fall%2Fweekly%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22caixin-article%22%2C%0A++++++%22category%22%3A+%22macro%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fcaixin%2Farticle%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22zhihu-hot%22%2C%0A++++++%22category%22%3A+%22trend%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fzhihu%2Fhot%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22sspai-index%22%2C%0A++++++%22category%22%3A+%22product%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fsspai%2Findex%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22bilibili-weekly%22%2C%0A++++++%22category%22%3A+%22trend%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22low%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fbilibili%2Fweekly%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22devto-top-week%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22en%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fdev.to%2Ftop%2Fweek%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22readhub-daily%22%2C%0A++++++%22category%22%3A+%22trend%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Freadhub%2Fdaily%22%0A++++%7D%2C%0A++++%7B%0A++++++%22id%22%3A+%22hellogithub%22%2C%0A++++++%22category%22%3A+%22tech%22%2C%0A++++++%22kind%22%3A+%22rss%22%2C%0A++++++%22priority%22%3A+%22medium%22%2C%0A++++++%22language%22%3A+%22zh%22%2C%0A++++++%22enabled%22%3A+true%2C%0A++++++%22url%22%3A+%22https%3A%2F%2Frsshub.umzzz.com%2Fhellogithub%2Fhome%22%0A++++%7D%0A++%5D%0A%7D%0A%60%60%60&labels=twitter-source-edit%2Cpost-sources"
+      "json": "{\n  \"version\": 1,\n  \"updatedAt\": \"2026-03-09T00:00:00Z\",\n  \"sources\": [\n    {\n      \"id\": \"hn-frontpage\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://hnrss.org/frontpage\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"the-verge\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.theverge.com/rss/index.xml\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"wired\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.wired.com/feed/rss\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"reddit-technology\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.reddit.com/r/technology/top.rss?t=day\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"simon-willison\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://simonwillison.net/atom/everything/\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"pragmatic-engineer\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://blog.pragmaticengineer.com/rss/\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"css-tricks\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"low\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://css-tricks.com/feed/\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"uxdesign\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"low\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://uxdesign.cc/feed\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"decrypt\",\n      \"kind\": \"rss\",\n      \"category\": \"crypto\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://decrypt.co/feed\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"the-block\",\n      \"kind\": \"rss\",\n      \"category\": \"crypto\",\n      \"priority\": \"high\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://www.theblock.co/rss.xml\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"blockbeats\",\n      \"kind\": \"rss\",\n      \"category\": \"crypto\",\n      \"priority\": \"high\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://api.theblockbeats.news/v2/rss/all\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"panews\",\n      \"kind\": \"rss\",\n      \"category\": \"crypto\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://www.panewslab.com/rss.xml?lang=zh&type=NORMAL%2CNEWS%2CVIDEO&featured=true&in-depth=true\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"odaily-newsflash\",\n      \"kind\": \"rss\",\n      \"category\": \"crypto\",\n      \"priority\": \"high\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rss.odaily.news/rss/newsflash\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"v2ex-hot\",\n      \"kind\": \"rss\",\n      \"category\": \"product\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/v2ex/topics/hot\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"juejin-trending\",\n      \"kind\": \"rss\",\n      \"category\": \"product\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/juejin/trending/all/weekly\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"caixin-article\",\n      \"kind\": \"rss\",\n      \"category\": \"macro\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/caixin/article\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"zhihu-hot\",\n      \"kind\": \"rss\",\n      \"category\": \"trend\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/zhihu/hot\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"sspai-index\",\n      \"kind\": \"rss\",\n      \"category\": \"product\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/sspai/index\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"bilibili-weekly\",\n      \"kind\": \"rss\",\n      \"category\": \"trend\",\n      \"priority\": \"low\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/bilibili/weekly\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"devto-top-week\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"medium\",\n      \"language\": \"en\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/dev.to/top/week\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"readhub-daily\",\n      \"kind\": \"rss\",\n      \"category\": \"trend\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/readhub/daily\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"hellogithub\",\n      \"kind\": \"rss\",\n      \"category\": \"tech\",\n      \"priority\": \"medium\",\n      \"language\": \"zh\",\n      \"enabled\": true,\n      \"url\": \"https://rsshub.umzzz.com/hellogithub/home\",\n      \"notes\": \"\"\n    },\n    {\n      \"id\": \"sheet-dotey\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"宝玉\",\n      \"handle\": \"@dotey\",\n      \"url\": \"https://x.com/dotey\",\n      \"bio\": \"中文 AI 圈高频信息源，长期分享 Prompt 工程、AI 实战、前沿工具与模型解读。\"\n    },\n    {\n      \"id\": \"sheet-op7418\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"歸藏\",\n      \"handle\": \"@op7418\",\n      \"url\": \"https://x.com/op7418\",\n      \"bio\": \"AIGC 周刊主理人，专注 AI 绘画、视频生成、设计工作流和工具趋势。\"\n    },\n    {\n      \"id\": \"sheet-gorden-sun\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Gorden_Sun\",\n      \"handle\": \"@Gorden_Sun\",\n      \"url\": \"https://x.com/Gorden_Sun\",\n      \"bio\": \"以 AI 资讯日报和前沿动态整理见长，适合追踪新模型、新产品和热点变化。\"\n    },\n    {\n      \"id\": \"sheet-xiaohu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"小互\",\n      \"handle\": \"@xiaohu\",\n      \"url\": \"https://x.com/xiaohu\",\n      \"bio\": \"科技与 AI 工具分享型账号，覆盖 ChatGPT、AI 工具导航、产品资讯和使用技巧。\"\n    },\n    {\n      \"id\": \"sheet-shao-meng\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"shao__meng\",\n      \"handle\": \"@shao__meng\",\n      \"url\": \"https://x.com/shao__meng\",\n      \"bio\": \"偏 Web 与 AI 技术实践，常分享 AI 论文、开源项目和产品落地思考。\"\n    },\n    {\n      \"id\": \"sheet-thinkingjimmy\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"thinkingjimmy\",\n      \"handle\": \"@thinkingjimmy\",\n      \"url\": \"https://x.com/thinkingjimmy\",\n      \"bio\": \"聚焦 AI 工具普及与产品体验，内容偏实用、面向普通用户和工具使用者。\"\n    },\n    {\n      \"id\": \"sheet-goocarlos\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"goocarlos\",\n      \"handle\": \"@goocarlos\",\n      \"url\": \"https://x.com/goocarlos\",\n      \"bio\": \"AI 开发与产品结合型账号，偏开发者视角，适合关注工具构建和应用实践。\"\n    },\n    {\n      \"id\": \"sheet-tumeng05\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Tumeng05\",\n      \"handle\": \"@Tumeng05\",\n      \"url\": \"https://x.com/Tumeng05\",\n      \"bio\": \"偏 AI 创业和 LLM、RAG、Agent 方向，关注技术趋势与商业落地。\"\n    },\n    {\n      \"id\": \"sheet-axtonliu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Axton Liu\",\n      \"handle\": \"@AxtonLiu\",\n      \"url\": \"https://x.com/AxtonLiu\",\n      \"bio\": \"擅长把复杂 AI 技术讲清楚，常写 AI 产品、开发实践和工具应用心得。\"\n    },\n    {\n      \"id\": \"sheet-haibun\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"海辛\",\n      \"handle\": \"@haibun\",\n      \"url\": \"https://x.com/haibun\",\n      \"bio\": \"偏 AI 视频和生成式视觉创作，适合关注创意类 AI 方向。\"\n    },\n    {\n      \"id\": \"sheet-nishuang\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"倪爽\",\n      \"handle\": \"@nishuang\",\n      \"url\": \"https://x.com/nishuang\",\n      \"bio\": \"常分享 AI 工具、生产力提升和趋势观察，内容完整度和信息密度都较高。\"\n    },\n    {\n      \"id\": \"sheet-vista8\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"向阳乔木\",\n      \"handle\": \"@vista8\",\n      \"url\": \"https://x.com/vista8\",\n      \"bio\": \"偏 AI 产品、工作流、Vibe Coding 和趋势判断，兼具产品感和表达能力。\"\n    },\n    {\n      \"id\": \"sheet-lijigang\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"李继刚\",\n      \"handle\": \"@lijigang\",\n      \"url\": \"https://x.com/lijigang\",\n      \"bio\": \"深度 Prompt 探索者，内容偏 AI 思考、创意应用和方法论总结。\"\n    },\n    {\n      \"id\": \"sheet-kaifulee\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"李开复\",\n      \"handle\": \"@kaifulee\",\n      \"url\": \"https://x.com/kaifulee\",\n      \"bio\": \"华人 AI 领域最具影响力的意见领袖之一，偏产业、创业和大模型趋势判断。\"\n    },\n    {\n      \"id\": \"sheet-waytoagi\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"WaytoAGI\",\n      \"handle\": \"@WaytoAGI\",\n      \"url\": \"https://x.com/WaytoAGI\",\n      \"bio\": \"中文 AI 知识整理型头部账号，适合体系化学习和追踪前沿资源。\"\n    },\n    {\n      \"id\": \"sheet-xicilion\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"响马\",\n      \"handle\": \"@xicilion\",\n      \"url\": \"https://x.com/xicilion\",\n      \"bio\": \"偏 LLM、AI 实战和开发者视角，内容通常信息密度较高。\"\n    },\n    {\n      \"id\": \"sheet-oran-ge\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Orange AI\",\n      \"handle\": \"@oran_ge\",\n      \"url\": \"https://x.com/oran_ge\",\n      \"bio\": \"更偏 AI 创业者视角，关注 Agent、产品机会和模型能力变化。\"\n    },\n    {\n      \"id\": \"sheet-alchainhust\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"AI进化论 花生\",\n      \"handle\": \"@AlchainHust\",\n      \"url\": \"https://x.com/AlchainHust\",\n      \"bio\": \"聚焦 AI 编程、AI Native 产品和具体工具实操，内容落地性强。\"\n    },\n    {\n      \"id\": \"sheet-samuelqzq\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"DN-Samuel\",\n      \"handle\": \"@SamuelQZQ\",\n      \"url\": \"https://x.com/SamuelQZQ\",\n      \"bio\": \"覆盖 AI 工具、AI 认知和开发者实践，适合看一线新工具和新玩法。\"\n    },\n    {\n      \"id\": \"sheet-elliotchen100\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"艾略特\",\n      \"handle\": \"@elliotchen100\",\n      \"url\": \"https://x.com/elliotchen100\",\n      \"bio\": \"常做 AI 工具拆解、项目观察和开发者生态内容，适合追踪新项目。\"\n    },\n    {\n      \"id\": \"sheet-hayami-kiraa\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"早见 Hayami\",\n      \"handle\": \"@Hayami_kiraa\",\n      \"url\": \"https://x.com/Hayami_kiraa\",\n      \"bio\": \"偏 AI Builder 和内容创作者路线，连接产品、创作和增长。\"\n    },\n    {\n      \"id\": \"sheet-berryxia\",\n      \"kind\": \"account_seed\",\n      \"category\": \"AI 领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Berryxia.AI\",\n      \"handle\": \"@berryxia\",\n      \"url\": \"https://x.com/berryxia\",\n      \"bio\": \"以创意型 AI 应用、提示词、自动化和生产流为主。\"\n    },\n    {\n      \"id\": \"sheet-lidangzzz\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"立党\",\n      \"handle\": \"@lidangzzz\",\n      \"url\": \"https://x.com/lidangzzz\",\n      \"bio\": \"偏创业、投资、学习成长与人生避坑，具有较强个人观点输出。\"\n    },\n    {\n      \"id\": \"sheet-lxfater\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"铁锤人\",\n      \"handle\": \"@lxfater\",\n      \"url\": \"https://x.com/lxfater\",\n      \"bio\": \"AI 创业与赚钱实践结合型账号，兼顾产品、流量和实战经验。\"\n    },\n    {\n      \"id\": \"sheet-nateleex\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"李自然\",\n      \"handle\": \"@nateleex\",\n      \"url\": \"https://x.com/nateleex\",\n      \"bio\": \"连续创业者视角，常分享创业故事、商业认知和实战经历。\"\n    },\n    {\n      \"id\": \"sheet-yan5xu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"yan5xu\",\n      \"handle\": \"@yan5xu\",\n      \"url\": \"https://x.com/yan5xu\",\n      \"bio\": \"非典型开发者创业路线，内容涵盖 AIGC 应用、商业化和个人经历。\"\n    },\n    {\n      \"id\": \"sheet-santiagoyoungus\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"圣总聊出海\",\n      \"handle\": \"@santiagoyoungus\",\n      \"url\": \"https://x.com/santiagoyoungus\",\n      \"bio\": \"海外创业者视角，偏普通人出海创业路径和真实经验。\"\n    },\n    {\n      \"id\": \"sheet-cydiar404\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Cydiar404\",\n      \"handle\": \"@Cydiar404\",\n      \"url\": \"https://x.com/Cydiar404\",\n      \"bio\": \"偏 AI 创业和产品落地，适合看从想法到产品化的过程。\"\n    },\n    {\n      \"id\": \"sheet-jefferytatsuya\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"JefferyTatsuya\",\n      \"handle\": \"@JefferyTatsuya\",\n      \"url\": \"https://x.com/JefferyTatsuya\",\n      \"bio\": \"AI 创业者视角，关注产品构建、市场验证和实际增长。\"\n    },\n    {\n      \"id\": \"sheet-seclink\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"seclink\",\n      \"handle\": \"@seclink\",\n      \"url\": \"https://x.com/seclink\",\n      \"bio\": \"结合 AI 趋势、创业视角和产品运营，偏实战型表达。\"\n    },\n    {\n      \"id\": \"sheet-fenng\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Fenng\",\n      \"handle\": \"@Fenng\",\n      \"url\": \"https://x.com/Fenng\",\n      \"bio\": \"互联网老兵型创业观察者，擅长商业评论、创业反思和行业判断。\"\n    },\n    {\n      \"id\": \"sheet-turingou\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"郭宇\",\n      \"handle\": \"@turingou\",\n      \"url\": \"https://x.com/turingou\",\n      \"bio\": \"连续创业者视角，常写科技、创业和数字生活方式。\"\n    },\n    {\n      \"id\": \"sheet-tinyfool\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Tinyfool\",\n      \"handle\": \"@tinyfool\",\n      \"url\": \"https://x.com/tinyfool\",\n      \"bio\": \"资深技术创业者，内容偏创业心态、技术路线和行业选择。\"\n    },\n    {\n      \"id\": \"sheet-virushuo\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"霍炬\",\n      \"handle\": \"@virushuo\",\n      \"url\": \"https://x.com/virushuo\",\n      \"bio\": \"长期关注科技周期和公司战略，对创业和技术趋势有独到看法。\"\n    },\n    {\n      \"id\": \"sheet-fankaishuoai\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"范凯\",\n      \"handle\": \"@fankaishuoai\",\n      \"url\": \"https://x.com/fankaishuoai\",\n      \"bio\": \"技术创业老兵，常分享创业复盘、技术产品和行业经验。\"\n    },\n    {\n      \"id\": \"sheet-xdash\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"XDash\",\n      \"handle\": \"@XDash\",\n      \"url\": \"https://x.com/XDash\",\n      \"bio\": \"创业洞察、工具推荐和书单类内容较多，兼顾实用和思考。\"\n    },\n    {\n      \"id\": \"sheet-idoubicc\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"idoubi\",\n      \"handle\": \"@idoubicc\",\n      \"url\": \"https://x.com/idoubicc\",\n      \"bio\": \"前工程师转独立开发与创业，分享 build in public 和 AI 产品实践。\"\n    },\n    {\n      \"id\": \"sheet-nishuang\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"倪爽\",\n      \"handle\": \"@nishuang\",\n      \"url\": \"https://x.com/nishuang\",\n      \"bio\": \"设计与品牌创业交叉视角，常写工作室经营和创作型创业经验。\"\n    },\n    {\n      \"id\": \"sheet-coderjefflee\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"子木\",\n      \"handle\": \"@CoderJeffLee\",\n      \"url\": \"https://x.com/CoderJeffLee\",\n      \"bio\": \"偏 SaaS 海外营销、认知升级和案例拆解。\"\n    },\n    {\n      \"id\": \"sheet-tuturetom\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Tom Huang\",\n      \"handle\": \"@tuturetom\",\n      \"url\": \"https://x.com/tuturetom\",\n      \"bio\": \"偏开源 Agent 产品和创业工具链，内容兼具产品与创业思考。\"\n    },\n    {\n      \"id\": \"sheet-iamtonyzhu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Tony出海\",\n      \"handle\": \"@iamtonyzhu\",\n      \"url\": \"https://x.com/iamtonyzhu\",\n      \"bio\": \"跨境和 AI 创业结合较深，适合关注出海创业实战路径。\"\n    },\n    {\n      \"id\": \"sheet-hongjun60\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"泓君 Jane\",\n      \"handle\": \"@hongjun60\",\n      \"url\": \"https://x.com/hongjun60\",\n      \"bio\": \"偏科技创业和高质量访谈内容，适合看产业视角和创业认知。\"\n    },\n    {\n      \"id\": \"sheet-valley101-qian\",\n      \"kind\": \"account_seed\",\n      \"category\": \"创业者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"陈茜 Qian Chen\",\n      \"handle\": \"@Valley101_Qian\",\n      \"url\": \"https://x.com/Valley101_Qian\",\n      \"bio\": \"科技媒体与创业观察结合，信息密度较高。\"\n    },\n    {\n      \"id\": \"sheet-indie-maker-fox\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"indie_maker_fox\",\n      \"handle\": \"@indie_maker_fox\",\n      \"url\": \"https://x.com/indie_maker_fox\",\n      \"bio\": \"独立开发与出海 SaaS 路线代表账号，分享模板、建站、流量和变现经验。\"\n    },\n    {\n      \"id\": \"sheet-hongyuancao\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"HongyuanCao\",\n      \"handle\": \"@HongyuanCao\",\n      \"url\": \"https://x.com/HongyuanCao\",\n      \"bio\": \"出海 SaaS 和 AI 产品创业者，偏产品开发、增长和 SEO 实战。\"\n    },\n    {\n      \"id\": \"sheet-nextify2024\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"nextify2024\",\n      \"handle\": \"@nextify2024\",\n      \"url\": \"https://x.com/nextify2024\",\n      \"bio\": \"偏 SaaS 开发工具、模板和产品构建经验。\"\n    },\n    {\n      \"id\": \"sheet-readyfor2025\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"readyfor2025\",\n      \"handle\": \"@readyfor2025\",\n      \"url\": \"https://x.com/readyfor2025\",\n      \"bio\": \"连续创业者和产品经理视角，分享 SaaS 出海和产品思考。\"\n    },\n    {\n      \"id\": \"sheet-weijunext\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"weijunext\",\n      \"handle\": \"@weijunext\",\n      \"url\": \"https://x.com/weijunext\",\n      \"bio\": \"Next.js 和 SaaS 出海方向账号，偏开发工具和产品搭建。\"\n    },\n    {\n      \"id\": \"sheet-yihui-indie\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"yihui_indie\",\n      \"handle\": \"@yihui_indie\",\n      \"url\": \"https://x.com/yihui_indie\",\n      \"bio\": \"结合 SaaS 独立开发与知识产品变现，内容偏实操和经营思路。\"\n    },\n    {\n      \"id\": \"sheet-jinsfavorites\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"JinsFavorites\",\n      \"handle\": \"@JinsFavorites\",\n      \"url\": \"https://x.com/JinsFavorites\",\n      \"bio\": \"偏 SaaS 工具和 APP 产品观察，常做产品体验和优化案例整理。\"\n    },\n    {\n      \"id\": \"sheet-xiongchun007\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"xiongchun007\",\n      \"handle\": \"@xiongchun007\",\n      \"url\": \"https://x.com/xiongchun007\",\n      \"bio\": \"数据工具与 SaaS 创业方向，偏产品实践与业务理解。\"\n    },\n    {\n      \"id\": \"sheet-junyu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"王俊煜\",\n      \"handle\": \"@Junyu\",\n      \"url\": \"https://x.com/Junyu\",\n      \"bio\": \"产品设计哲学和用户体验表达强，适合看高质量 APP 产品思考。\"\n    },\n    {\n      \"id\": \"sheet-luoleiorg\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"罗磊\",\n      \"handle\": \"@luoleiorg\",\n      \"url\": \"https://x.com/luoleiorg\",\n      \"bio\": \"从全栈与体验角度看产品，常做各类 SaaS 和 APP 分析。\"\n    },\n    {\n      \"id\": \"sheet-plidezus\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Plidezus\",\n      \"handle\": \"@Plidezus\",\n      \"url\": \"https://x.com/Plidezus\",\n      \"bio\": \"独立 APP 开发者视角，关注移动产品从零到一和上架运营。\"\n    },\n    {\n      \"id\": \"sheet-jesselaunz\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"遁一子\",\n      \"handle\": \"@jesselaunz\",\n      \"url\": \"https://x.com/jesselaunz\",\n      \"bio\": \"偏 AI 产品和实际应用，常写 Prompt 与产品落地。\"\n    },\n    {\n      \"id\": \"sheet-lewangx\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"王乐\",\n      \"handle\": \"@lewangx\",\n      \"url\": \"https://x.com/lewangx\",\n      \"bio\": \"独立创业者，关注 AI 和硬件、产品思维与新形态产品尝试。\"\n    },\n    {\n      \"id\": \"sheet-axtonliu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Axton\",\n      \"handle\": \"@axtonliu\",\n      \"url\": \"https://x.com/axtonliu\",\n      \"bio\": \"iOS/Mac 独立开发者路线，订阅变现和 App Store 经验较多。\"\n    },\n    {\n      \"id\": \"sheet-tualatrix\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"图拉鼎\",\n      \"handle\": \"@tualatrix\",\n      \"url\": \"https://x.com/tualatrix\",\n      \"bio\": \"高质量 iOS 独立开发者，产品审美和完成度都很强。\"\n    },\n    {\n      \"id\": \"sheet-luinlee\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"子骅 Zihua Li\",\n      \"handle\": \"@luinlee\",\n      \"url\": \"https://x.com/luinlee\",\n      \"bio\": \"工程与产品兼具，偏开发者工具和 SaaS 思维。\"\n    },\n    {\n      \"id\": \"sheet-yupi996\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"程序员鱼皮\",\n      \"handle\": \"@yupi996\",\n      \"url\": \"https://x.com/yupi996\",\n      \"bio\": \"AI 编程教育、产品化和内容转化结合较好。\"\n    },\n    {\n      \"id\": \"sheet-seclink\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Y11\",\n      \"handle\": \"@seclink\",\n      \"url\": \"https://x.com/seclink\",\n      \"bio\": \"把 AI 工具、冷启动和求职产品化思维结合起来，产品感较强。\"\n    },\n    {\n      \"id\": \"sheet-servasyy-ai\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"huangserva\",\n      \"handle\": \"@servasyy_ai\",\n      \"url\": \"https://x.com/servasyy_ai\",\n      \"bio\": \"偏多 Agent、工具链和落地能力，适合看下一代 AI 产品形态。\"\n    },\n    {\n      \"id\": \"sheet-xiaohuiai666\",\n      \"kind\": \"account_seed\",\n      \"category\": \"SaaS 和 APP 产品领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"程序员小灰\",\n      \"handle\": \"@XiaohuiAI666\",\n      \"url\": \"https://x.com/XiaohuiAI666\",\n      \"bio\": \"AI、内容和副业式产品思维结合，面向普通用户的表达能力强。\"\n    },\n    {\n      \"id\": \"sheet-gefei55\",\n      \"kind\": \"account_seed\",\n      \"category\": \"出海领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"哥飞\",\n      \"handle\": \"@gefei55\",\n      \"url\": \"https://x.com/gefei55\",\n      \"bio\": \"中文出海建站、SEO 流量和 SaaS 增长方向的高频实战派。\"\n    },\n    {\n      \"id\": \"sheet-lyc-zh\",\n      \"kind\": \"account_seed\",\n      \"category\": \"出海领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"lyc_zh\",\n      \"handle\": \"@lyc_zh\",\n      \"url\": \"https://x.com/lyc_zh\",\n      \"bio\": \"偏 AI 出海独立开发和产品增长经验分享。\"\n    },\n    {\n      \"id\": \"sheet-ai-jasonyu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"出海领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"鱼总聊AI\",\n      \"handle\": \"@AI_Jasonyu\",\n      \"url\": \"https://x.com/AI_Jasonyu\",\n      \"bio\": \"兼顾 AI、出海、SaaS、APP 和海外手机卡 eSIM 实操干货，是交叉领域影响力账号。\"\n    },\n    {\n      \"id\": \"sheet-journeymanchina\",\n      \"kind\": \"account_seed\",\n      \"category\": \"出海领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"JourneymanChina\",\n      \"handle\": \"@JourneymanChina\",\n      \"url\": \"https://x.com/JourneymanChina\",\n      \"bio\": \"出海、被动收入和海外创业路径结合型账号。\"\n    },\n    {\n      \"id\": \"sheet-dev-afei\",\n      \"kind\": \"account_seed\",\n      \"category\": \"出海领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"dev_afei\",\n      \"handle\": \"@dev_afei\",\n      \"url\": \"https://x.com/dev_afei\",\n      \"bio\": \"前端工程师出海探索路线，分享英推增长和产品出海。\"\n    },\n    {\n      \"id\": \"sheet-luobogooooo\",\n      \"kind\": \"account_seed\",\n      \"category\": \"出海领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"luobogooooo\",\n      \"handle\": \"@luobogooooo\",\n      \"url\": \"https://x.com/luobogooooo\",\n      \"bio\": \"工具站构建和出海实战分享为主。\"\n    },\n    {\n      \"id\": \"sheet-gosailglobal\",\n      \"kind\": \"account_seed\",\n      \"category\": \"出海领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"GoSailGlobal\",\n      \"handle\": \"@GoSailGlobal\",\n      \"url\": \"https://x.com/GoSailGlobal\",\n      \"bio\": \"AI SaaS 出海独立开发实践者，偏全球化经验。\"\n    },\n    {\n      \"id\": \"sheet-chuhaiqu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"出海领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"出海去孵化器\",\n      \"handle\": \"@chuhaiqu\",\n      \"url\": \"https://x.com/chuhaiqu\",\n      \"bio\": \"偏出海创业生态、社区活动和项目观察，机构属性较强。\"\n    },\n    {\n      \"id\": \"sheet-daluoseo\",\n      \"kind\": \"account_seed\",\n      \"category\": \"出海领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"大罗 SEO\",\n      \"handle\": \"@daluoseo\",\n      \"url\": \"https://x.com/daluoseo\",\n      \"bio\": \"出海 SEO 和自然流量打法代表账号。\"\n    },\n    {\n      \"id\": \"sheet-realnyarime\",\n      \"kind\": \"account_seed\",\n      \"category\": \"海外手机卡领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"奶昔\",\n      \"handle\": \"@realNyarime\",\n      \"url\": \"https://x.com/realNyarime\",\n      \"bio\": \"偏 eSIM、虚拟手机号和海外手机卡使用教程。\"\n    },\n    {\n      \"id\": \"sheet-digitalnomadlc\",\n      \"kind\": \"account_seed\",\n      \"category\": \"海外手机卡领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"DigitalNomadLC\",\n      \"handle\": \"@DigitalNomadLC\",\n      \"url\": \"https://x.com/DigitalNomadLC\",\n      \"bio\": \"数字游民路线，专注境外手机卡、eSIM 和海外银行卡实用方案。\"\n    },\n    {\n      \"id\": \"sheet-rocm301\",\n      \"kind\": \"account_seed\",\n      \"category\": \"海外手机卡领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"RocM301\",\n      \"handle\": \"@RocM301\",\n      \"url\": \"https://x.com/RocM301\",\n      \"bio\": \"常分享海外手机卡、eSIM 和相关黑科技使用经验。\"\n    },\n    {\n      \"id\": \"sheet-evacmore\",\n      \"kind\": \"account_seed\",\n      \"category\": \"海外手机卡领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Eva树姐\",\n      \"handle\": \"@EvaCmore\",\n      \"url\": \"https://x.com/EvaCmore\",\n      \"bio\": \"偏海外手机卡和 eSIM 交易、使用经验与 deal 分享。\"\n    },\n    {\n      \"id\": \"sheet-shuziyimin\",\n      \"kind\": \"account_seed\",\n      \"category\": \"海外手机卡领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"数字移民\",\n      \"handle\": \"@shuziyimin\",\n      \"url\": \"https://x.com/shuziyimin\",\n      \"bio\": \"覆盖海外手机卡、银行账户和数字身份搭建。\"\n    },\n    {\n      \"id\": \"sheet-ai-jasonyu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"海外手机卡领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"鱼总聊AI\",\n      \"handle\": \"@AI_Jasonyu\",\n      \"url\": \"https://x.com/AI_Jasonyu\",\n      \"bio\": \"不仅做 AI 和出海，也长期覆盖海外手机卡 eSIM 的实操内容。\"\n    },\n    {\n      \"id\": \"sheet-itangtalk\",\n      \"kind\": \"account_seed\",\n      \"category\": \"海外手机卡领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"小糖\",\n      \"handle\": \"@itangtalk\",\n      \"url\": \"https://x.com/itangtalk\",\n      \"bio\": \"海外手机卡和数字生活方向账号，偏美国和欧洲 eSIM 保号攻略。\"\n    },\n    {\n      \"id\": \"sheet-austinit\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"austinit\",\n      \"handle\": \"@austinit\",\n      \"url\": \"https://x.com/austinit\",\n      \"bio\": \"靠写代码养活自己的独立开发者路线，常写 AI 编程和收入内容。\"\n    },\n    {\n      \"id\": \"sheet-guishou-56\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"guishou_56\",\n      \"handle\": \"@guishou_56\",\n      \"url\": \"https://x.com/guishou_56\",\n      \"bio\": \"出海独立开发和 AI 工具折腾者，常写构建过程和真实故事。\"\n    },\n    {\n      \"id\": \"sheet-9yearfish\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"9yearfish\",\n      \"handle\": \"@9yearfish\",\n      \"url\": \"https://x.com/9yearfish\",\n      \"bio\": \"关注产品迭代、开源贡献和独立开发经验。\"\n    },\n    {\n      \"id\": \"sheet-benshandebiao\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"benshandebiao\",\n      \"handle\": \"@benshandebiao\",\n      \"url\": \"https://x.com/benshandebiao\",\n      \"bio\": \"分享 build in public 和技术实战笔记。\"\n    },\n    {\n      \"id\": \"sheet-hwwaanng\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"hwwaanng\",\n      \"handle\": \"@hwwaanng\",\n      \"url\": \"https://x.com/hwwaanng\",\n      \"bio\": \"偏 iOS 独立开发和 APP 构建经验。\"\n    },\n    {\n      \"id\": \"sheet-owenyoungzh\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"OwenYoungZh\",\n      \"handle\": \"@OwenYoungZh\",\n      \"url\": \"https://x.com/OwenYoungZh\",\n      \"bio\": \"沉浸式翻译作者，产品与工具出海结合的代表型独立开发者。\"\n    },\n    {\n      \"id\": \"sheet-tualatrix\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"图拉鼎\",\n      \"handle\": \"@tualatrix\",\n      \"url\": \"https://x.com/tualatrix\",\n      \"bio\": \"知名独立开发者，常分享开发日常、产品思考和生态观察。\"\n    },\n    {\n      \"id\": \"sheet-waylybaye\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Baye\",\n      \"handle\": \"@waylybaye\",\n      \"url\": \"https://x.com/waylybaye\",\n      \"bio\": \"iOS 独立开发视角，适合看应用打磨和推广经验。\"\n    },\n    {\n      \"id\": \"sheet-randyloop\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Randy\",\n      \"handle\": \"@randyloop\",\n      \"url\": \"https://x.com/randyloop\",\n      \"bio\": \"活跃开源作者和独立开发者，技术前沿感强。\"\n    },\n    {\n      \"id\": \"sheet-livid\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Livid\",\n      \"handle\": \"@livid\",\n      \"url\": \"https://x.com/livid\",\n      \"bio\": \"中文独立开发者和极客社区代表人物之一。\"\n    },\n    {\n      \"id\": \"sheet-shengxj1\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"花果山大圣\",\n      \"handle\": \"@shengxj1\",\n      \"url\": \"https://x.com/shengxj1\",\n      \"bio\": \"前端讲师和独立开发者路线，内容覆盖 Web、英语和独立开发。\"\n    },\n    {\n      \"id\": \"sheet-financeyf5\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"郎瀚威 Will\",\n      \"handle\": \"@FinanceYF5\",\n      \"url\": \"https://x.com/FinanceYF5\",\n      \"bio\": \"关注独立开发者破冰、个人品牌建设和社交推广。\"\n    },\n    {\n      \"id\": \"sheet-liuyi0922\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"61\",\n      \"handle\": \"@liuyi0922\",\n      \"url\": \"https://x.com/liuyi0922\",\n      \"bio\": \"高质量 iOS 应用作者，偏产品审美和完成度。\"\n    },\n    {\n      \"id\": \"sheet-fkysly\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"马天翼\",\n      \"handle\": \"@fkysly\",\n      \"url\": \"https://x.com/fkysly\",\n      \"bio\": \"Indie hacker 和 AI 路线，适合看个人开发者如何持续做产品。\"\n    },\n    {\n      \"id\": \"sheet-zhixianio\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"知县\",\n      \"handle\": \"@zhixianio\",\n      \"url\": \"https://x.com/zhixianio\",\n      \"bio\": \"OpenClaw、Agent、工具开发结合较深，也是 builder 型独立开发账号。\"\n    },\n    {\n      \"id\": \"sheet-pluvio9yte\",\n      \"kind\": \"account_seed\",\n      \"category\": \"独立开发者领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"雪踏乌云\",\n      \"handle\": \"@Pluvio9yte\",\n      \"url\": \"https://x.com/Pluvio9yte\",\n      \"bio\": \"更新频率高，常写 AI 工具、自动化、增长和 OpenClaw 生态。\"\n    },\n    {\n      \"id\": \"sheet-abskoop\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"abskoop\",\n      \"handle\": \"@abskoop\",\n      \"url\": \"https://x.com/abskoop\",\n      \"bio\": \"活跃分享 OpenClaw 使用教程和 AI Agent 资源。\"\n    },\n    {\n      \"id\": \"sheet-stark-nico99\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"stark_nico99\",\n      \"handle\": \"@stark_nico99\",\n      \"url\": \"https://x.com/stark_nico99\",\n      \"bio\": \"偏 OpenClaw 教程和 Agent 工具实战案例。\"\n    },\n    {\n      \"id\": \"sheet-hongming731\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"hongming731\",\n      \"handle\": \"@hongming731\",\n      \"url\": \"https://x.com/hongming731\",\n      \"bio\": \"分享 OpenClaw 指南、社区构建和应用经验。\"\n    },\n    {\n      \"id\": \"sheet-penny777\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"penny777\",\n      \"handle\": \"@penny777\",\n      \"url\": \"https://x.com/penny777\",\n      \"bio\": \"偏 OpenClaw 项目展示、演示和优化经验。\"\n    },\n    {\n      \"id\": \"sheet-quarktalksss\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"quarktalksss\",\n      \"handle\": \"@quarktalksss\",\n      \"url\": \"https://x.com/quarktalksss\",\n      \"bio\": \"偏 OpenClaw 教程与资源整理。\"\n    },\n    {\n      \"id\": \"sheet-khazix0918\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Khazix0918\",\n      \"handle\": \"@Khazix0918\",\n      \"url\": \"https://x.com/Khazix0918\",\n      \"bio\": \"AI Agent 和 OpenClaw 实践方向，偏工具优化和案例。\"\n    },\n    {\n      \"id\": \"sheet-servasyy-ai\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"servasyy_ai\",\n      \"handle\": \"@servasyy_ai\",\n      \"url\": \"https://x.com/servasyy_ai\",\n      \"bio\": \"OpenClaw 和多 Agent 开发者路线，偏高级应用与社区资源。\"\n    },\n    {\n      \"id\": \"sheet-jiqizhixin\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"机器之心\",\n      \"handle\": \"@jiqizhixin\",\n      \"url\": \"https://x.com/jiqizhixin\",\n      \"bio\": \"AI 专业媒体账号，适合跟 OpenClaw 等前沿项目的技术解读，机构属性较强。\"\n    },\n    {\n      \"id\": \"sheet-evilcos\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"余弦\",\n      \"handle\": \"@evilcos\",\n      \"url\": \"https://x.com/evilcos\",\n      \"bio\": \"安全视角强，适合看 AI Agent 的越权风险和攻防问题。\"\n    },\n    {\n      \"id\": \"sheet-steipete\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Peter Steinberger\",\n      \"handle\": \"@steipete\",\n      \"url\": \"https://x.com/steipete\",\n      \"bio\": \"OpenClaw 创始人，适合直接追踪项目演进和一手动态。\"\n    },\n    {\n      \"id\": \"sheet-lxfater\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"铁锤人\",\n      \"handle\": \"@lxfater\",\n      \"url\": \"https://x.com/lxfater\",\n      \"bio\": \"中文 OpenClaw 传播链中影响力较强，偏部署、认知和生态扩散。\"\n    },\n    {\n      \"id\": \"sheet-pluvio9yte\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"雪踏乌云\",\n      \"handle\": \"@Pluvio9yte\",\n      \"url\": \"https://x.com/Pluvio9yte\",\n      \"bio\": \"偏 OpenClaw 生态整理、教程汇总和趋势跟踪。\"\n    },\n    {\n      \"id\": \"sheet-fkysly\",\n      \"kind\": \"account_seed\",\n      \"category\": \"OpenClaw 领域（小垂直领域）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"马天翼\",\n      \"handle\": \"@fkysly\",\n      \"url\": \"https://x.com/fkysly\",\n      \"bio\": \"偏独立开发者如何把 OpenClaw 和技能生态做产品化。\"\n    },\n    {\n      \"id\": \"sheet-kasong2048\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"kasong2048\",\n      \"handle\": \"@kasong2048\",\n      \"url\": \"https://x.com/kasong2048\",\n      \"bio\": \"知识、成长、AI 副业和咨询内容结合，适合看结构化表达。\"\n    },\n    {\n      \"id\": \"sheet-cellinlab\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"cellinlab\",\n      \"handle\": \"@cellinlab\",\n      \"url\": \"https://x.com/cellinlab\",\n      \"bio\": \"AI 应用开发者与播客路线，偏独立工作者知识和资源整理。\"\n    },\n    {\n      \"id\": \"sheet-wshuyi\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"wshuyi\",\n      \"handle\": \"@wshuyi\",\n      \"url\": \"https://x.com/wshuyi\",\n      \"bio\": \"适合小白入门的 AI 工具和知识分享账号，表达通俗。\"\n    },\n    {\n      \"id\": \"sheet-financeyf5\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"FinanceYF5\",\n      \"handle\": \"@FinanceYF5\",\n      \"url\": \"https://x.com/FinanceYF5\",\n      \"bio\": \"知识付费、成长和个人建设内容较多，也连接独立开发与表达。\"\n    },\n    {\n      \"id\": \"sheet-waytoagi\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"WaytoAGI\",\n      \"handle\": \"@WaytoAGI\",\n      \"url\": \"https://x.com/WaytoAGI\",\n      \"bio\": \"前沿 AI 知识库型账号，体系化整理能力强，机构属性偏强。\"\n    },\n    {\n      \"id\": \"sheet-ruanyf\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"阮一峰\",\n      \"handle\": \"@ruanyf\",\n      \"url\": \"https://x.com/ruanyf\",\n      \"bio\": \"中文互联网知识分享常青树，科技与工具类内容长期稳定高质量。\"\n    },\n    {\n      \"id\": \"sheet-svwang1\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"王川\",\n      \"handle\": \"@Svwang1\",\n      \"url\": \"https://x.com/Svwang1\",\n      \"bio\": \"擅长深度长推，内容涉及历史、商业、科技与认知。\"\n    },\n    {\n      \"id\": \"sheet-sspai-com\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"少数派\",\n      \"handle\": \"@sspai_com\",\n      \"url\": \"https://x.com/sspai_com\",\n      \"bio\": \"数字生活和高效工具的头部知识平台号，机构属性较强。\"\n    },\n    {\n      \"id\": \"sheet-owenyoungzh\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Owen\",\n      \"handle\": \"@OwenYoungZh\",\n      \"url\": \"https://x.com/OwenYoungZh\",\n      \"bio\": \"偏外语阅读、信息获取与效率提升的方法论分享。\"\n    },\n    {\n      \"id\": \"sheet-foxshuo\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"阑夕\",\n      \"handle\": \"@foxshuo\",\n      \"url\": \"https://x.com/foxshuo\",\n      \"bio\": \"科技资讯和商业观察结合型账号，视野较广。\"\n    },\n    {\n      \"id\": \"sheet-pongba\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"刘未鹏\",\n      \"handle\": \"@pongba\",\n      \"url\": \"https://x.com/pongba\",\n      \"bio\": \"思维方法和认知科学分享很有代表性。\"\n    },\n    {\n      \"id\": \"sheet-francis-yao\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Bob Fu 符尧\",\n      \"handle\": \"@Francis_YAO_\",\n      \"url\": \"https://x.com/Francis_YAO_\",\n      \"bio\": \"前沿研究和多模态、推理方向知识分享。\"\n    },\n    {\n      \"id\": \"sheet-hongjun60\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"泓君 Jane\",\n      \"handle\": \"@hongjun60\",\n      \"url\": \"https://x.com/hongjun60\",\n      \"bio\": \"高质量访谈和行业内容，信息筛选层级高。\"\n    },\n    {\n      \"id\": \"sheet-valley101-qian\",\n      \"kind\": \"account_seed\",\n      \"category\": \"知识分享领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"陈茜 Qian Chen\",\n      \"handle\": \"@Valley101_Qian\",\n      \"url\": \"https://x.com/Valley101_Qian\",\n      \"bio\": \"偏科技媒体和产业内容，长期看有价值。\"\n    },\n    {\n      \"id\": \"sheet-astronaut-1216\",\n      \"kind\": \"account_seed\",\n      \"category\": \"副业领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"Astronaut_1216\",\n      \"handle\": \"@Astronaut_1216\",\n      \"url\": \"https://x.com/Astronaut_1216\",\n      \"bio\": \"专注 X 平台起号和 AI 工具变现实战。\"\n    },\n    {\n      \"id\": \"sheet-ityouknows\",\n      \"kind\": \"account_seed\",\n      \"category\": \"副业领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"ityouknows\",\n      \"handle\": \"@ityouknows\",\n      \"url\": \"https://x.com/ityouknows\",\n      \"bio\": \"覆盖 AI、跨境、自媒体和副业变现路径。\"\n    },\n    {\n      \"id\": \"sheet-kasong2048\",\n      \"kind\": \"account_seed\",\n      \"category\": \"副业领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"kasong2048\",\n      \"handle\": \"@kasong2048\",\n      \"url\": \"https://x.com/kasong2048\",\n      \"bio\": \"偏 AI 副业、咨询和知识变现路线。\"\n    },\n    {\n      \"id\": \"sheet-journeymanchina\",\n      \"kind\": \"account_seed\",\n      \"category\": \"副业领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"JourneymanChina\",\n      \"handle\": \"@JourneymanChina\",\n      \"url\": \"https://x.com/JourneymanChina\",\n      \"bio\": \"出海、被动收入和副业实践结合型账号。\"\n    },\n    {\n      \"id\": \"sheet-austinit\",\n      \"kind\": \"account_seed\",\n      \"category\": \"副业领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"austinit\",\n      \"handle\": \"@austinit\",\n      \"url\": \"https://x.com/austinit\",\n      \"bio\": \"偏代码养活自己和个人开发变现路径。\"\n    },\n    {\n      \"id\": \"sheet-yan5xu\",\n      \"kind\": \"account_seed\",\n      \"category\": \"副业领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"yan5xu\",\n      \"handle\": \"@yan5xu\",\n      \"url\": \"https://x.com/yan5xu\",\n      \"bio\": \"AIGC 商业化和个人重整经历结合，副业属性明显。\"\n    },\n    {\n      \"id\": \"sheet-expatlevi\",\n      \"kind\": \"account_seed\",\n      \"category\": \"副业领域\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"expatlevi\",\n      \"handle\": \"@expatlevi\",\n      \"url\": \"https://x.com/expatlevi\",\n      \"bio\": \"地理套利、出海工具和副业工具分享。\"\n    },\n    {\n      \"id\": \"sheet-cuimao\",\n      \"kind\": \"account_seed\",\n      \"category\": \"补充（作者手动添加）\",\n      \"priority\": \"high\",\n      \"language\": \"mixed\",\n      \"enabled\": true,\n      \"name\": \"CuiMao\",\n      \"handle\": \"@CuiMao\",\n      \"url\": \"https://x.com/CuiMao\",\n      \"bio\": \"宝藏博主，作者手动补充推荐。\"\n    }\n  ]\n}",
+      "submitUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Update+post+sources&body=update+post+sources%0A%0APaste+the+full+edited+JSON+between+the+fences+below.%0A%0A%60%60%60json%0A%7B%0A++%22version%22%3A+1%2C%0A++%22updatedAt%22%3A+%22%22%2C%0A++%22sources%22%3A+%5B%5D%0A%7D%0A%60%60%60&labels=twitter-source-edit%2Cpost-sources"
     },
     "reply": {
       "exportFilename": "lark-twitter-reply-sources.json",
       "json": "{\n  \"version\": 1,\n  \"updatedAt\": \"2026-03-10T00:00:00Z\",\n  \"listUrls\": [\n    \"https://x.com/i/lists/1906619509454331909/members\",\n    \"https://x.com/i/lists/1950082842056413419/members\"\n  ],\n  \"seedAccounts\": []\n}",
-      "editUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Update+reply+sources&body=update+reply+sources%0A%0AReplace+the+JSON+below+with+the+full+updated+reply+source+config.%0A%0A%60%60%60json%0A%7B%0A++%22version%22%3A+1%2C%0A++%22updatedAt%22%3A+%222026-03-10T00%3A00%3A00Z%22%2C%0A++%22listUrls%22%3A+%5B%0A++++%22https%3A%2F%2Fx.com%2Fi%2Flists%2F1906619509454331909%2Fmembers%22%2C%0A++++%22https%3A%2F%2Fx.com%2Fi%2Flists%2F1950082842056413419%2Fmembers%22%0A++%5D%2C%0A++%22seedAccounts%22%3A+%5B%5D%0A%7D%0A%60%60%60&labels=twitter-source-edit%2Creply-sources",
+      "submitUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Update+reply+sources&body=update+reply+sources%0A%0APaste+the+full+edited+JSON+between+the+fences+below.%0A%0A%60%60%60json%0A%7B%0A++%22version%22%3A+1%2C%0A++%22updatedAt%22%3A+%22%22%2C%0A++%22listUrls%22%3A+%5B%5D%2C%0A++%22seedAccounts%22%3A+%5B%5D%0A%7D%0A%60%60%60&labels=twitter-source-edit%2Creply-sources",
       "memberCount": 108,
       "listUrls": [
         "https://x.com/i/lists/1906619509454331909/members",
@@ -861,8 +4058,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:46:45.648717+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T05:51:00.608519+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T05:46:45.648717+00:00",
     "stages": {
@@ -1163,7 +4360,7 @@
             "dryRun": false
           }
         },
-        "nextRunAt": "2026-03-10T05:50:00+00:00",
+        "nextRunAt": "2026-03-10T06:00:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -1178,25 +4375,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T05:50:00+00:00",
+        "nextRunAt": "2026-03-10T05:55:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:46:45.648717+00:00",
+        "lastRunAt": "2026-03-10T05:51:00.608519+00:00",
         "lastSuccessAt": "2026-03-10T05:46:45.648717+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:46:42.345872+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T05:48:00+00:00",
+        "nextRunAt": "2026-03-10T05:52:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
