@@ -112,6 +112,27 @@
       .heartbeat-panel .muted {
         margin-bottom: 10px;
       }
+      .heartbeat-summary {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 10px;
+      }
+      .heartbeat-chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        border-radius: 999px;
+        background: rgba(255,255,255,.72);
+        border: 1px solid var(--line);
+        font-size: 13px;
+      }
+      .heartbeat-chip strong {
+        font-size: 12px;
+        letter-spacing: .06em;
+        text-transform: uppercase;
+      }
       .tabs {
         display: flex;
         gap: 10px;
@@ -690,6 +711,13 @@
 
         const stageRoot = document.getElementById("heartbeat-stage-list");
         const stages = heartbeat?.stages || {};
+        const summary = Object.entries(stages).map(([stage, state]) => `
+          <div class="heartbeat-chip">
+            <strong>${escapeHtml(stage)}</strong>
+            <span class="status-${escapeHtml(state.status || "unknown")}">${escapeHtml(state.status || "unknown")}</span>
+            <span>${escapeHtml(formatTimestamp(state.nextRunAt || "")) || "n/a"}</span>
+          </div>
+        `).join("");
         const blocks = Object.entries(stages).map(([stage, state]) => `
           <div class="heartbeat-stage">
             <strong>${escapeHtml(stage)}</strong>
@@ -702,8 +730,9 @@
           </div>
         `).join("");
         stageRoot.innerHTML = `
-          <details class="fold" open>
-            <summary>Execution Heartbeat</summary>
+          <div class="heartbeat-summary">${summary || '<div class="empty">No heartbeat stages yet.</div>'}</div>
+          <details class="fold">
+            <summary>Show heartbeat details</summary>
             <div>${blocks || '<div class="empty">No heartbeat stages yet.</div>'}</div>
           </details>
         `;
