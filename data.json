@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T06:14:12.401032+00:00",
+  "generatedAt": "2026-03-10T06:16:03.424748+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -111,6 +111,108 @@
       "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P9&body=approve+P9&labels=twitter-approval%2Capprove",
       "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P9&body=reject+P9%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
       "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P9&body=archive+P9%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    },
+    {
+      "id": "P10",
+      "status": "awaiting_approval",
+      "angle": "Crypto infrastructure replacing traditional media and TradFi hours during crises",
+      "whyItMatters": "Highlights how onchain infrastructure offers superior reliability, truth-seeking, and uptime during real-world geopolitical crises compared to legacy systems.",
+      "postingRationale": "Juxtaposes media sensationalism with decentralized market mechanics, perfectly capturing a systemic builder critique of legacy structures while synthesizing two isolated weekend events.",
+      "goalAlignmentScore": 9,
+      "goalAlignmentRationale": "Elevates the account's positioning by shifting the timeline conversation from token prices to the structural advantages of crypto, attracting high-value operator followers who appreciate macro-level synthesis.",
+      "draft": "The more interesting signal from the Middle East conflict isn't just geopolitical—it's how onchain primitives behave under stress. While traditional media trades on sensationalism and TradFi oil markets are closed for the weekend, Polymarket is instantly filtering fake news via financial skin-in-the-game, and Hyperliquid is seamlessly absorbing billions in WTI crude volume.\n\nWhat this really changes is the baseline expectation for global infrastructure. 24/7, financially verified reality is quietly replacing legacy narrative and legacy trading hours. 🦞",
+      "sources": [
+        "https://m.theblockbeats.info/news/61494",
+        "https://m.theblockbeats.info/flash/335341"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "blockbeats",
+          "title": "如果只看新闻，你可能已经误判了这场伊朗冲突",
+          "summary": "<p>美国华盛顿特区一家著名非营利性智库在 2024 年关于 AI 时代新闻挑战的讨论中指出：</p><p><br></p><blockquote>「当下这种环境迫使记者们在突发新闻场景中优先考虑速度而非准确性。」</blockquote><p><br></p><p>最近的伊朗冲突就是一个典型例子：学校被炸、继任领袖遇刺、邻国突袭打击……西方媒体往往在第一时间给出极具冲击力的标题，以吸引眼球并迅速塑造舆论方向。</p><p><br></p><p>但有一个地方，往往比媒体更早体现出「真实判断」——预测市场。</p><p><br></p><p>在这里，诸如「真主党是否会打击以色列」、「某国是否会对伊朗采取军事行动」等事件的概率，并不是由情绪或机构叙事主导，而是由一个个交易者用真金白银投票形成的结果。</p><p><br></p><p>更直观地说，如果交易者笃定某件事会发生，他会押注「是」，而这一行为本身就会推高事件的发生概率。这种以资金作为约束的表达机制，使预测市场成为一种不同于传统媒体的信息来源。</p><p><br></p><p>过去一周中东发生的两件事，恰好完美地诠释了这一点。</p><p><br></p><h1>塞浦路斯英军基地无人机袭击事件</h1><p><br></p><p>当地时间 3 月 1 日晚间，英国首相基尔·斯塔默通过一段预录制的视频声明宣布，英国同意允许美国使用其基地打击伊朗导弹设施。数小时后，位于塞浦路斯阿克罗蒂里的英国皇家空军基地遭受疑似无人机袭击。</p><p><br></p><p>事件发生后，BBC、独立报、路透社等多家主流媒体第一时间发布报道，并在标题或正文中使用诸如「Iran missiles」（伊朗导弹）、「Iranian drone」（伊朗无人机）等表述，将袭击与伊朗直接联系起来。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/0c15ece5-c2d6-4e8c-9bdc-a725289fdb89.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>这些报道迅速登上头版，给读者留下一个清晰印象：伊朗正在直接攻击北约盟国基地。</p><p><br></p><p>然而在事件发生后的第一时间，预测市场平台 Polymarket 上的相关市场——「伊朗是否会在 3 月 31 日前打击塞浦路斯」——却出现了不同的反应：在媒体报道发布后，该市场确实出现了一些典型的「buy the news」交易，导致概率短暂上涨。但与媒体形成的舆论氛围不同，该市场概率在约 30 分钟后便迅速回落，回到袭击发生前相近的水平。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/fa4e65fd-5959-40a7-8b36-8b6f353705bc.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>很显然，这些对突发信息最敏感的一群人并没有完全相信媒体叙事。</p><p><br></p><p>数小时后，英国国防部发表声明称「目前没有证据表明此次袭击直接来自伊朗」。各家媒体随后也跟进修正报道称此次袭击更可能来自伊朗在黎巴嫩的代理武装组织真主党，并指出此前提到的「伊朗无人机」实际上指的是「伊朗设计的 Shahed 型无人机」，而不是所谓的「袭击直接由伊朗发起」。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/599f5cfe-735b-45c2-811f-d45e1f779efa.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>换句话说，媒体在最初阶段通过叙事框架放大了伊朗的直接责任，而预测市场则从一开始就保持了更谨慎的判断。</p><p><br></p><h1>以色列媒体大肆宣扬阿联酋打击伊朗</h1><p><br></p><p>类似的情况在本周再次出现。3 月 8 日，以色列多家媒体称，阿联酋首次对伊朗本土发动打击。报道将这一行动描述为对伊朗此前袭击海湾国家的「象征性报复」。</p><p><br></p><p>这一叙事很快营造出一种印象：海湾国家正在加入对伊朗的军事行动。</p><p><br></p><p>和塞浦路斯事件类似，Polymarket 上「阿联酋是否会在 3 月 31 日前打击伊朗」的市场概率在报道发布后出现短暂上涨，但在约一小时内迅速回落。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/889581cb-8e3c-4c84-8049-f2b08b143ced.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>不久后，阿联酋联邦国民议会国防、内政与外交事务委员会主席 Ali Rashid Al Nuaimi 在 X 上直接表示称之为「假新闻」，并坦言「如果我们做了什么，我们有勇气公开宣布」。</p><p><br></p><p>如果从信息传播角度看，本次以色列媒体的信息投放很大可能是在试图营造一种地区联合反击伊朗的叙事氛围，从而在心理层面增加对伊朗的压力，并推动地区盟友更加公开地支持美以行动。</p><p><br></p><p>而如果将这些媒体噪音过滤掉，单看预测市场概率变化，反而可以更早意识到这类报道或许并不可靠。</p><p><br></p><h1>为什么预测市场更可靠？</h1><p><br></p><p>随着全球政治环境逐渐从冷战结束后的开放主义阶段，转向更加明显的阵营化与地缘竞争，信息传播也越来越成为战略工具。</p><p><br></p><p>在这样的环境下，传统媒体的重要性反而被进一步放大。媒体不仅是新闻渠道，也成为影响公众立场和政策讨论的重要平台。</p><p><br></p><p>美国媒体生态中不同机构之间的立场差异就十分明显：长期被特朗普批评的 CNN，因大量报道校园枪击事件，吸引了众多支持加强枪支管制的受众群体。而枪支制造商恰恰是共和党重要的政治金主之一。</p><p><br></p><p>当新闻报道不仅仅是「信息」，而是逐渐成为塑造公众态度的工具时，传统媒体作为纯粹信息来源的可靠性就不可避免地受到挑战。</p><p><br></p><p>在这种环境下，预测市场提供了一种完全不同的信息机制：由于每个事件的概率背后都是交易者对于该事件走向的决策判断，以盈利为目的的交易者必须投入相应金额为自己的判断做担保。</p><p><br></p><p>在这轮的伊朗冲突中，这些参与者或许是开源情报分析师、军迷、投机交易者，甚至前线或后方参与战事的内幕人士。无论背景如何，他们表达观点的方式只有下注这一种模式，而每一笔下注都代表着参与者基于自身认知做出的真实判断。</p><p><br></p><p>而这些真实想法的准确度，已在过去几年中的大选、利率、非农等一系列预测中被多次证明优于传统民调和专家预测。</p><p><br></p><h1>基于预测市场数据提前看到结果</h1><p><br></p><p>前面提到，当我们把预测市场概率当作信息源时，本质上是在观察一群交易者用自己的资金为未来判断做担保的结果。</p><p><br></p><p>不过，单纯的市场概率仍然存在一个问题：参与交易的人水平参差不齐，有些人可能只是跟风下注。因此，一些分析工具会进一步对数据进行筛选，其中一个常用指标就是加权市场概率（Market Strength）。</p><p><br></p><p>换句话说，过去预测更准确、交易收益更高的参与者，在最终概率中的影响力会更大。相比普通市场概率，这一指标更接近所谓的「聪明钱判断」。</p><p><br></p><p>可以用一个简单的比喻理解：如果只看市场概率，就像是让 10 个来自不同行业的人匿名给你投资建议；而如果参考加权市场概率，则相当于你同时知道这 10 个人的职业背景和投资回报率，自然会更重视那些长期收益更高的人。</p><p><br></p><p>带着这个思路，我们来看当下全世界正在聚焦的一个问题：其他国家是否会加入美国和以色列共同打击伊朗。按照预测市场目前的概率来看，其他国家本月加入打击的概率为 51%；但如果看加权市场概率，打击发生的可能性仅约 25%。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/d061379b-83ca-46e6-9486-4f035991fa6a.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>这一结果与近期媒体叙事形成了明显反差。表面上看，新闻报道中充斥着海湾国家谴责伊朗、欧洲军舰驶向中东、地区局势不断升级的信号，仿佛一场更大规模的冲突即将到来；但在预测市场中，许多长期活跃、对地缘政治较为熟悉的交易者却普遍认为，本月出现其他国家直接打击伊朗的可能性并不高。</p><p><br></p><p>在信息高度碎片化的时代，预测市场或许不会取代新闻，但它正在成为一种新的信息校准机制。当媒体叙事不断放大情绪与立场时，市场价格则提供了一种由资金约束的集体判断。</p><p><br></p><p>对于希望理解真实世界的人来说，这两种信号之间的差异，本身就是重要的信息。</p><p><br></p>",
+          "publishedAt": "2026-03-10T05:54:46+00:00",
+          "link": "https://m.theblockbeats.info/news/61494"
+        },
+        {
+          "sourceId": "blockbeats",
+          "title": "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%",
+          "summary": "<p>BlockBeats 消息，3 月 10 日，2 月 28 日，美以突然对伊朗动武，由于当时时值周末，传统市场闭市，链上黄金产品完美承接交易者对于该事件的交易需求。同样在上周末，霍尔木兹海峡封闭、中东产油国减产刺激市场对于原油系列产品的交易需求。Hyperliquid 再次承接，甚至提供了长达一日的低价买入机会。</p><p><br></p><p>截至 10 日，Hyperliquid 上 WTI 原油（CL）交易量自 3 月 3 日首次突破 1 亿美元后，当前 24 小时交易量已飙升至 18.3 亿美元，周环比涨幅高达 1830%，日环比增长 220%，同期持仓量达 1.7 亿美元。目前，CL 合约交易量已达 ETH 的 1.8 倍，仅次于 BTC，位列平台成交榜第二位。</p><p><br></p><p>另据 DefiLlama 数据，伊朗冲突爆发以来，Hyperliquid 平台收益由之前的 854 万美元升至 1520 万美元，周涨幅超 60%。</p>",
+          "publishedAt": "2026-03-10T05:59:55+00:00",
+          "link": "https://m.theblockbeats.info/flash/335341"
+        }
+      ],
+      "createdAt": "2026-03-10T06:14:26.989371+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P10&body=approve+P10&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P10&body=reject+P10%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P10&body=archive+P10%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    },
+    {
+      "id": "P11",
+      "status": "awaiting_approval",
+      "angle": "Crypto venues encroaching on global macro TradFi territory",
+      "whyItMatters": "Provides a structural market observation that crypto exchanges are expanding their total addressable market far beyond native digital assets.",
+      "postingRationale": "Combines Gate's new product rollout with Hyperliquid's volume surge to illustrate an aggressive, unified thesis on crypto's systemic encroachment into traditional finance.",
+      "goalAlignmentScore": 8,
+      "goalAlignmentRationale": "Demonstrates sharp operator insight by connecting two separate exchange developments into a broader thesis on market infrastructure, driving platform authority and profile credibility among builders.",
+      "draft": "The mistake is to think crypto venues are just competing for meme coin liquidity. The real wedge is aggressively eating TradFi's lunch. We are watching Gate roll out 500x leverage on traditional equities and forex, while Hyperliquid’s WTI crude volume casually spikes 1800% simply because legacy commodity markets were asleep during a weekend geopolitical crisis.\n\nCrypto infrastructure is no longer an alternative asset class—it's rapidly becoming the de facto global macro execution layer. 🦞",
+      "sources": [
+        "https://m.theblockbeats.info/flash/335341",
+        "https://www.odaily.news/zh-CN/newsflash/471437"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "blockbeats",
+          "title": "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%",
+          "summary": "<p>BlockBeats 消息，3 月 10 日，2 月 28 日，美以突然对伊朗动武，由于当时时值周末，传统市场闭市，链上黄金产品完美承接交易者对于该事件的交易需求。同样在上周末，霍尔木兹海峡封闭、中东产油国减产刺激市场对于原油系列产品的交易需求。Hyperliquid 再次承接，甚至提供了长达一日的低价买入机会。</p><p><br></p><p>截至 10 日，Hyperliquid 上 WTI 原油（CL）交易量自 3 月 3 日首次突破 1 亿美元后，当前 24 小时交易量已飙升至 18.3 亿美元，周环比涨幅高达 1830%，日环比增长 220%，同期持仓量达 1.7 亿美元。目前，CL 合约交易量已达 ETH 的 1.8 倍，仅次于 BTC，位列平台成交榜第二位。</p><p><br></p><p>另据 DefiLlama 数据，伊朗冲突爆发以来，Hyperliquid 平台收益由之前的 854 万美元升至 1520 万美元，周涨幅超 60%。</p>",
+          "publishedAt": "2026-03-10T05:59:55+00:00",
+          "link": "https://m.theblockbeats.info/flash/335341"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "Gate TradFi板块支持双端、多杠杆机制与API接入并纳入VIP体系",
+          "summary": "<p>Odaily星球日报讯 Gate 持续推进 TradFi 交易体系建设，目前相关产品已实现 App 与 Web 双端支持，为用户提供更灵活的多端交易体验。Gate TradFi 以 CFD 形式提供传统金融资产交易，覆盖金属（9 个）、股票（83 个）、外汇（48 个）、指数（19 个）及大宗商品（2 个）等全球主流资产类别，进一步拓展平台多资产配置能力。</p><p>Gate TradFi 行业首创推出多档杠杆选项机制。在最高 500 倍杠杆基础上，平台新增多种杠杆档位，如黄金 20x、100x、200x 及白银 10x、20x、50x 等选择。平台同步开放 TradFi 交易 API，支持金属、外汇、指数及商品等资产类别的程序化交易，开发者与量化团队可通过接口实现策略部署、订单管理与行情数据调用。</p><p>此外，TradFi 交易量已正式纳入 Gate VIP 晋级统计体系，用户在参与黄金、外汇、指数等传统金融资产交易的同时，也可同步提升 VIP 等级，进一步强化平台一站式跨市场交易体验。</p>",
+          "publishedAt": "2026-03-10T05:52:28+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471437"
+        }
+      ],
+      "createdAt": "2026-03-10T06:14:26.989371+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P11&body=approve+P11&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P11&body=reject+P11%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P11&body=archive+P11%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    },
+    {
+      "id": "P12",
+      "status": "awaiting_approval",
+      "angle": "AI agents require prediction markets as their truth API",
+      "whyItMatters": "Connects the evolution of autonomous AI with the necessity of prediction markets as a reliable, noise-free truth oracle for machines.",
+      "postingRationale": "Bridges the gap between consumer AI product trends and crypto primitives, fulfilling the exact mandate to explore second-order implications at the intersection of both sectors.",
+      "goalAlignmentScore": 10,
+      "goalAlignmentRationale": "Directly serves the macro objective of establishing thought leadership in both crypto and AI by identifying a non-obvious synergy between agentic tooling and decentralized prediction markets.",
+      "draft": "The most interesting takeaway from a16z's latest AI report is that AI is migrating from browser chat windows into autonomous background agents. But agents need a reliable data layer to execute real-world tasks, and traditional media is failing that test—just look at how Polymarket instantly filtered out fake news during the recent Middle East strikes while major outlets blindly amplified it.\n\nWhat this really changes is the agentic data stack. Prediction markets and onchain truth layers will inevitably become the baseline API for machine decision-making. 🦞",
+      "sources": [
+        "https://m.theblockbeats.info/news/61493",
+        "https://m.theblockbeats.info/news/61494"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "blockbeats",
+          "title": "a16z发布Top 100 AI应用榜单，模型正在走出浏览器和应用",
+          "summary": "<blockquote>原文标题：Top 100 Gen AI Consumer Apps: March 2026<br>原文作者：Oliva Moore，a16z 合伙人<br>编译：Peggy，BlockBeats</blockquote><p><br></p><p>编者按：三年前，生成式 AI 仍是少数产品的试验场；而今天，它已经成为软件世界的基础能力。从 ChatGPT 依然领先的默认 AI 之争，到视频、音乐与语音创意工具的更替，再到 Agent 产品和 AI 浏览器的出现，AI 的形态正在迅速从「聊天工具」演变为一种新的计算平台。</p><p><br></p><p>本文通过对全球主流 AI 产品的流量、用户结构与功能演进进行梳理，呈现出几个关键变化：平台生态开始形成锁定效应，全球市场在政策与技术路径下逐渐分化，创意工具的重心从图像走向视频与音频，而 Agent 正将 AI 从「会回答问题」推进到「能够执行任务」。</p><p><br></p><p>更重要的是，AI 正在悄然离开浏览器和应用本身，嵌入到操作系统、开发工具和日常软件之中。随着 AI 从一个独立产品转变为无处不在的功能，衡量它的方式，也将不得不随之改变。</p><p><br></p><p>以下为原文：</p><p><br></p><p>三年前，我们发布了这份榜单的第一版，目标很简单：找出哪些生成式 AI 产品真正被主流消费者使用。</p><p><br></p><p>当时，AI 原生（AI-first）公司与其他软件公司的界限非常清晰。像 ChatGPT、Midjourney 和 Character.AI 这样的产品，从一开始就是围绕基础模型构建的。而软件行业的其他参与者，还在摸索该如何使用这项技术。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/122b7a70-2926-4581-b63e-972698f6a13d.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/60095ecb-5898-4c35-a5b7-941483aaa043.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>这种区分已经不再成立。以视频编辑应用 CapCut 为例，它在移动端拥有 7.36 亿月活用户，其最受欢迎的功能都高度依赖 AI，例如背景移除、AI 特效、自动字幕以及文本生成视频。Canva 则把整个增长引擎建立在其 Magic Suite 的 AI 工具套件之上。Notion 的付费 AI 功能绑定率在一年内从 20% 飙升至超过 50%，如今 AI 功能大约贡献了公司一半的年度经常性收入（ARR）。</p><p><br></p><p>从这一版榜单开始，我们将扩大统计口径，把任何生成式 AI 已成为核心产品体验的消费级应用都纳入其中，包括 CapCut、Canva、Notion、Picsart、Freepik 和 Grammarly。我们认为，这样得到的结果更能真实反映人们实际使用 AI 的方式，尽管榜单中的大多数头部产品，依然是 AI 原生（AI-native）的。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/dc35e44d-97cb-491b-836d-58def7a83899.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>和往常一样，我们的网页端榜单依据 2026 年 1 月 SimilarWeb 统计的月度独立访问量（unique monthly visits）进行排名；移动端应用榜单则依据 2026 年 1 月 Sensor Tower 统计的月活跃用户数（MAU）进行排名。</p><p><br></p><p>以下是我们总结出的几个主要观察：</p><p><br></p><h1>ChatGPT 仍然领先，但「默认 AI」之争已经开始</h1><p><br></p><p>ChatGPT 依然是规模遥遥领先的消费级 AI 产品。在网页端，以月度访问量计算，它的规模是排名第二的 Gemini 的 2.7 倍；在移动端，以月活用户计算，它的规模也达到 2.5 倍。</p><p><br></p><p>过去一年中，ChatGPT 的周活跃用户增加了 5 亿人，目前已达到 9 亿。考虑到在如此庞大的规模下继续保持增长本身就极具挑战，这一成绩尤为惊人。如今，全球已有超过 10% 的人口每周都会使用 ChatGPT。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/5240a028-2e5e-4423-a851-48205d710a0a.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/6697eae8-410e-4827-a815-6aa78281961b.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>但我们也开始看到，这一赛道正在逐渐扩展，其他横向平台正在针对特定使用场景加速崛起。过去一年中，Gemini 和 Claude 在美国的付费订阅用户增长明显加快（尽管规模仍远小于 ChatGPT。在这一指标上，ChatGPT 的规模约为 Claude 的 8 倍、Gemini 的 4 倍）。</p><p><br></p><p>根据 Yipit Data 的数据，截至 2026 年 1 月，Claude 的付费订阅用户同比增长超过 200%，而 Gemini 的增长率则达到 258%。与此同时，我们也观察到越来越明显的多平台使用行为：大约 20% 的 ChatGPT 网页端周活用户，在同一周内也会使用 Gemini。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/c475a95c-0163-4e15-9251-be7777fdf474.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>发生了什么变化？竞争对手开始真正发力推出产品。</p><p><br></p><p>Google 在创意模型方面取得了明显突破。Nano Banana 在上线首周就生成了 2 亿张图片，为 Gemini 带来了 1000 万新用户；而 Veo 3 则被广泛视为 AI 视频领域的一个关键突破时刻。与此同时，Anthropic 则继续深耕专业用户（prosumer）市场，推出了 Cowork、Claude in Chrome、Excel 和 PowerPoint 插件，以及最引人关注的 Claude Code。</p><p><br></p><p>这场竞争的重要性不仅在于谁今天领先，更在于谁能够形成结构性难以被替代的地位。在这一领域，「上下文会不断累积优势」：一个大模型越了解你的信息与习惯，就越能提供更好的结果，也会促使你更加频繁地使用它。</p><p><br></p><p>初步数据显示，Gemini 在网页端的用户月均会话次数正在上升，不过仍然比 ChatGPT 低约 1.3 倍；而在移动端，ChatGPT 的优势更为明显，用户月均会话次数 高出 2.2 倍。根据 Yipit Data 的统计，两家公司在美国市场的消费级付费订阅用户留存率都处于行业领先水平。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/dd0fe7b3-71d1-4fec-9056-7e80854cf768.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/edfa2713-6508-4fa3-9f30-4d65eb47b30b.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>下一层「锁定效应」来自应用生态。</p><p><br></p><p>ChatGPT 和 Claude 都已经推出各自的连接器生态，ChatGPT 的 GPTs 与 Apps，以及 Claude 的 MCP 集成与 Connectors，允许用户在助手之上构建自己的工作流。一旦用户将 AI 接入自己的 日历、邮箱、CRM 等系统，切换平台的成本就会显著上升。与此同时，开发者也往往会把精力集中在用户规模最大的生态上，从而形成类似过去平台战争中的飞轮效应。</p><p><br></p><p>我们已经开始看到两条平台路线逐渐清晰。Sam Altman 曾表示，OpenAI 的目标是「把 AI 带给数十亿无法支付订阅费的人」，这也是为什么他们开始引入广告；他还提到 OpenAI 将推出「Sign in with ChatGPT」的身份体系，让 ChatGPT 成为消费者连接互联网的默认入口。其雄心是把 ChatGPT 打造成一切活动的起点：购物、预订、浏览信息、健康管理以及日常生活。</p><p><br></p><p>应用目录已经反映出这种方向。截至 2 月底，ChatGPT 的应用商店已有 220 个应用，覆盖 13 个类别；Claude 则拥有 约 160 个官方精选连接器，以及 约 50 个社区构建的 MCP 服务器。但两者仅有 41 个应用是重合的，约占两者总目录的 11%。而这 41 个几乎全部是通用的生产力工具：Slack、Notion、Figma、Gmail、Google Calendar、HubSpot、Stripe 等。</p><p><br></p><p>在这些基础工具之外，两大平台的路径几乎完全分化。</p><p><br>ChatGPT 已经拥有 85+ 个应用，分布在旅行、购物、食品、健康与健身、生活方式和娱乐等类别；而 Claude 在这些领域几乎没有布局。这些都是消费交易场景：例如在 Expedia 订机票、通过 Instacart 购买杂货、在 Zillow 浏览房源、用 MyFitnessPal 记录营养数据。这是迄今为止任何 AI 公司为成为消费级超级应用（super-app）所做出的最激进尝试。</p><p><br></p><p>相比之下，Claude 的独家集成明显偏向专业与企业场景：包括金融数据终端（PitchBook、FactSet、Moody』s、MSCI）、开发者基础设施（Sentry、Supabase、Snowflake、Databricks）、科研与医疗工具（PubMed、Clinical Trials、Benchling），以及一个不断扩展的开源 MCP 社区。这是 ChatGPT 目前尚未对应的生态。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/5036276e-30c9-4146-8011-d100279a8b37.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>Anthropic 似乎正将重点放在 AI 重度用户（如开发者、知识工作者等）身上。这类用户更愿意、也更有能力为成本更高的直接订阅服务付费。虽然 ChatGPT 也推出了面向同一群体的产品（例如 Codex、Frontier），但 OpenAI 同时明确表示，希望把 ChatGPT 打造成真正面向大众用户的平台。随着用户基数不断扩大，这也可能打开更多变现渠道。目前他们已经开始测试广告模式，而对平台交易抽取分成（take rate）也将是一个顺理成章的扩展方向。</p><p><br></p><p>如果 AI 助手最终不只是一个聊天窗口，而成为一个操作环境（operating environment），那么这场竞争的结局或许不会像当年的搜索大战，由一个玩家占据 90% 市场；反而更可能类似移动操作系统之争：两种理念截然不同的平台，各自建立起 万亿美元级的生态体系。</p><p><br></p><h1>全球使用格局正按产品分裂</h1><p><br></p><p>从地理分布来看，AI 市场正在逐渐分化为三个彼此独立的生态体系，而且它们之间的差距还在不断扩大。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/d0c7bdec-2eb1-4f79-947c-52f221b902a1.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>西方 AI 工具的用户结构依然高度相似。ChatGPT、Claude、Gemini 和 Perplexity 的主要用户市场几乎来自同一组国家：美国、印度、巴西、英国和印度尼西亚（只是排名顺序有所不同）。而在中国和俄罗斯，这些产品几乎没有实质性的使用规模。这主要源于政策因素——自 2022 年以来，西方科技制裁限制了美国 AI 工具在俄罗斯的使用；而中国则要求 AI 服务提供商完成备案、数据本地存储，并遵守内容审查规则。</p><p><br></p><p>DeepSeek 是目前唯一一个在这两大阵营之间形成「桥梁」的产品。其网页端流量分布为：中国 33.5%、俄罗斯 7.1%、美国 6.6%，移动端的结构也呈现类似格局。与此同时，中国用户还大量使用字节跳动的豆包（Doubao）以及本土模型 Kimi。</p><p><br></p><p>俄罗斯，在我们此前的榜单中几乎没有形成独立市场，如今正逐渐成为第三极，并拥有第二高的 DeepSeek 渗透率。集成 Alice AI 助手 的 Yandex Browser 已达到 7100 万月活用户（MAU），使其成为全球前十的移动 AI 产品之一。与此同时，Sber 的 GigaChat 也首次进入我们的网页端榜单。这一格局与中国的发展路径非常相似，只是速度更快：制裁创造了市场空缺，本土产品在两年内迅速填补。</p><p><br></p><p>为了从人均使用水平的角度观察 AI 采用情况，我们构建了一个简单指数：将人均网页访问量与人均移动端月活用户数（MAU）结合，对榜单中的产品进行评分，范围为 0–100。结果重新塑造了全球格局：新加坡排名第一，其次是阿联酋、香港和韩国。而诞生了大多数 AI 产品的美国，仅排名第 20 位。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/24ebf601-26b3-490d-9774-8a805c617ada.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><h1>创意工具正在发生变化</h1><p><br></p><p>Midjourney、DALL-E 和 Stable Diffusion 是最早让大量早期用户接触生成式 AI 的产品，这三者都发布于 ChatGPT 之前。在生成式 AI 的早期阶段，图像生成工具不仅主导了创意类应用（视频和音频生成后来才出现），也在我们最初几版榜单中占据绝对优势。不过，这一赛道如今已经发生了明显演变。</p><p><br></p><p>在 2023 年 9 月发布的第一版榜单中，网页端创意工具榜单的 9 个产品中有 7 个是图像生成工具。三年之后，榜单中只剩下 3 个图像生成产品，但创意类工具的总数仍然是 7 个。变化在于填补空缺的类别：视频、音乐和语音生成产品，已经取代了曾由图像生成工具占据的位置。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/692526bd-6bb9-439e-b216-a4d089b98189.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>图像生成领域的变化，本质上是「打包整合」（bundling）带来的结果。随着 ChatGPT（GPT Image 1.5）和 Gemini（Nano Banana）内置图像模型能力不断提升，独立图像生成产品的竞争门槛被迅速抬高。在我们最早的一版榜单中，Midjourney 曾进入前 10 名，而如今已经下滑至第 46 位。目前仍然留在榜单上的产品，Leonardo、Ideogram、CivitAI 更多服务于特定创作者社区，通过具有鲜明取向的功能来满足细分需求，而不是与通用型生成能力正面竞争。</p><p><br></p><p>本期榜单中，视频生成领域的变化最为明显。Kling AI、Hailuo 和 Pixverse 都已经积累了真实的用户规模，而中国开发的模型在生成质量上持续领先。如果基于 Seedance 2.0 的应用出现在下一期榜单中，我们也不会感到意外。与此同时，Veo 3 成为首个在质量上接近这一水平的美国模型，并显著带动了 Google Labs 的访问量，使其排名从 第 36 位上升到第 25 位。</p><p><br></p><p>那缺席的是谁？Sora。OpenAI 在 2025 年 9 月 将其旗舰视频模型 Sora 2.0 以独立应用形式推出，用户可以上传自己的数字形象（Cameo），生成包含真实人物的视频。Sora 曾连续 20 天登上美国 App Store 榜首，并且比 ChatGPT 更快达到 100 万下载量。但此后下载量逐渐回落，因为 Sora 并没有发展成一个病毒式传播的社交应用（至今仍没有人真正破解「AI × 社交」的组合），因此未能进入本期的移动端榜单。不过，根据 Sensor Tower 的数据，移动端 Sora 的日活用户仍超过 300 万。许多 AI 视频创作者依然在使用该模型，只是生成的内容往往会发布到其他平台。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/376ec783-54f3-41c5-8bd9-bd1bd83ca62c.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>音乐与语音领域则表现得更加稳固。<br></p><p>Suno（第 15 名）保持了上一期榜单中的排名；而 ElevenLabs 自 2023 年 9 月以来每一版榜单都榜上有名。其核心能力，语音克隆、配音与音频制作，依然足够专业化，目前还没有被简单地复制成大模型产品里的一个「功能选项」。</p><p><br></p><p>这一趋势背后的规律是：当模型巨头和既有平台（如 Google、OpenAI）将创意能力集中在某个领域时（例如图像，以及越来越多的视频），独立产品的流量空间就会被压缩。不过，即便如此，仍然存在为特定用户群体打造更具风格化、也可能更高变现能力的产品的机会。相反，在巨头尚未大规模进入的领域（例如音乐和语音），市场空间则相对更大。</p><p><br></p><h1>Agent 已经出现</h1><p><br></p><p>向 Agentic AI 的转变并不是从这一版榜单开始的，而是从上一版开始，当时出现了所谓的「vibe coding」。当 Lovable、Cursor 和 Bolt 在 2025 年 3 月进入我们的榜单时，它们代表了一类新的产品形态：AI 不再只是回答问题或生成内容，而是开始代表用户「构建东西」。这是一种 面向单一垂直领域的 Agent 行为。</p><p><br></p><p>事实证明，vibe coding 在技术用户（以及部分半技术用户）中具有很强的留存能力。本期榜单中，Replit 和 Lovable 仍然在列，同时 Claude Code（通过 Claude）也进入榜单。未来仍然存在更多增长空间，因为这一趋势尚未真正触及大众市场。目前，排名前五的 vibe coding 平台总体流量仍在增长，尽管相比最初的爆发期已经有所放缓——但随着开发者和团队更深度地使用这些工具，许多产品的收入仍在持续上升。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/f5872a6e-fee6-4aa7-a181-4949feed6765.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>最近，横向型 Agent 也开始出现。2026 年 1 月，一个名为 OpenClaw 的开源项目在短短几周内，从一名开发者的个人副项目迅速增长到 6.8 万个 GitHub Star，并获得主流媒体关注。该项目由奥地利开发者 Peter Steinberger 创建，是一个本地运行的 AI Agent，可以连接用户的消息应用，并代表用户执行多步骤任务。</p><p><br></p><p>如果说 ChatGPT 是消费者第一次意识到 AI 可以「对话」的时刻，那么 OpenClaw 可能代表着他们第一次意识到 AI 可以「行动」。这款产品在开发者社区迅速走红，如果我们的统计周期延长到 2 月（而不是 1 月），OpenClaw 很可能会进入我们网页端榜单的 前 30 名。</p><p><br></p><p>不过，OpenClaw 目前还不是面向普通消费者的产品，安装和维护仍然需要一定的 Terminal（命令行）操作知识。尽管如此，它在技术用户中的关注度仍在持续上升，并在 3 月初成为 GitHub 上 Star 数最多的项目，甚至超过了 React 和 Linux。但从访问其安装网站的新用户数量来看，该产品尚未真正进入大众市场，相关流量仍然相对平稳。</p><p><br></p><p>2026 年 2 月，OpenAI 收购了 OpenClaw，这或许意味着，一个更易用、更面向普通用户的版本可能很快就会出现。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/c60b86a4-2880-46bc-9079-07303cd849f2.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/4016b711-17e8-442c-86ae-bee1844d7050.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>OpenClaw 并不是榜单上唯一的横向 Agent。</p><p><br>Manus 和 Genspark 也进入了排名。这类平台允许用户把开放式任务（例如研究、表格分析或生成幻灯片）交给 AI，由其从头到尾完成整个工作流程。这是 Manus 第二次进入榜单；自首次上榜以来，它已在 2025 年 12 月被 Meta 收购，交易金额估计约 20 亿美元。而 Genspark 则是本期首次上榜，公司今年早些时候完成 3 亿美元 B 轮融资，并宣布其 年化收入已达到 1 亿美元。</p><p><br></p><p>在移动端，用户与 Agent 的互动通常并不通过专门的应用，而是通过文本消息完成。以 OpenClaw 为例，用户在初始设置时会将其连接到 WhatsApp、Telegram 或 Signal 等平台，然后像给朋友发消息一样与其交流，而 AI 会在后台执行任务。类似的产品 Poke 甚至直接通过短信（SMS）提供 Agent 体验。</p><p><br></p><p>这些产品将与消费者日常使用的通用 LLM 助手，ChatGPT、Claude 和 Gemini 的 Agent 功能展开竞争。随着这些平台通过 Connectors 和应用生态不断构建自己的连接网络，一个关键问题是：用户是否会把其中某一个产品作为自己的「主要 Agent」？</p><p><br>未来六个月或许就能给出更清晰的答案。</p><p><br></p><h1>AI 正在走出浏览器和应用</h1><p><br></p><p>此前每一版榜单都通过两个指标来衡量 AI 产品：网页访问量和移动端 MAU。但现在，一类新的 AI 产品正在出现，而这些产品无法通过上述指标被完整捕捉。事实上，在过去一年里，一些最重要的消费级 AI 增长，正发生在既不体现在网页访问量、也不体现在移动应用 MAU 的产品之中。</p><p><br></p><p>最明显的变化是：浏览器本身正在变成 AI 产品。在过去九个月里，OpenAI 推出了 Atlas（一个在每个网页中都内置 ChatGPT 的浏览器），Perplexity 发布了 Comet，而 Browser Company（后来被 Atlassian 收购）则推出了 Dia。根据 Yipit 的数据，在这些产品中，Perplexity 的 Comet 对市场的影响最大（以下载页面访问量计算），不过目前还没有任何 AI 浏览器呈现出持续加速的增长。</p><p><br></p><p>与此同时，一些 AI 巨头选择在现有浏览器中加入 AI 功能，而不是推出独立的 AI 浏览器。Google 将 Gemini 集成到 Chrome 中，并推出 Disco（测试版），可以根据用户当前浏览的网页标签页动态生成 Web 应用。Anthropic 也推出了 Claude in Chrome，可以连接用户的 Claude 或 Claude Code 会话，从而在网页环境中执行实际操作。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/f474e4d9-8c56-4a42-a0e5-36cd627fb9a8.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>原生桌面端 AI 工具的增长更为迅猛，尤其是在开发者群体中。</p><p><br>例如 Claude Code，一个面向开发者的命令行 Agent，在 短短六个月内就达到了 10 亿美元的年化收入（ARR）。OpenAI 也推出了 Mac 版独立 Codex 应用，公司披露截至 3 月初 Codex 的周活跃用户已达 200 万，并且仍在以每周 25% 的速度增长。与此同时，Cursor 依然保持在我们网页端 前 50 名榜单之中。</p><p><br></p><p>对于普通消费者来说，最常见的独立 AI 桌面应用则集中在语音相关工具。</p><p><br></p><p>例如会议记录类产品 Fireflies、Fathom、Otter、TL;DV 和 Granola，主要通过 PLG（产品驱动增长）模式触达用户，并逐渐渗透企业市场。这五家头部产品的月访问量合计已达到约 2000 万。与此同时，一些工作空间类产品，如 Notion（本期首次进入榜单），也在不断将 AI 融入产品中，例如 会议记录、研究 Agent，甚至任务自动化等功能。</p><p><br></p><p>最后，AI 正在越来越多地嵌入到人们原本就使用的软件之中。</p><p><br></p><p>Anthropic 推出了 Claude in Excel 和 Claude in PowerPoint；OpenAI 发布了 ChatGPT for Excel；而 Google 则进一步加强了 Gemini 在 Workspace 中的整合——如今 Docs、Sheets、Gmail 和 Meet 都已拥有原生 AI 功能。Google 还在 2026 年 1 月推出了 Personal Intelligence，将 Gemini 与 Gmail、Google Photos、YouTube 和 Search 连接起来，使助手能够自动引用你的酒店预订、购物记录、照片库以及观看习惯，无需用户额外说明。</p><p><br></p><p>这一趋势对榜单的意义在于：我们的排名正在越来越低估人们实际使用最多的 AI 产品。</p><p><br></p><p>一个每天花 8 小时使用 Claude Code 的开发者，或是通过 Wispr 语音工具撰写所有邮件的知识工作者，都是重度 AI 用户，但他们几乎不会在网页流量数据中体现出来。随着 AI 从一个目的地产品（用户专门打开一个产品去用 AI）变成一种基础功能（feature），我们的统计方法也必然需要随之改变。</p><p><br></p><p>[<a href=\"https://www.a16z.news/p/top-100-gen-ai-consumer-apps-march\" target=\"\">原文链接</a>]</p><p><br></p>",
+          "publishedAt": "2026-03-10T05:41:03+00:00",
+          "link": "https://m.theblockbeats.info/news/61493"
+        },
+        {
+          "sourceId": "blockbeats",
+          "title": "如果只看新闻，你可能已经误判了这场伊朗冲突",
+          "summary": "<p>美国华盛顿特区一家著名非营利性智库在 2024 年关于 AI 时代新闻挑战的讨论中指出：</p><p><br></p><blockquote>「当下这种环境迫使记者们在突发新闻场景中优先考虑速度而非准确性。」</blockquote><p><br></p><p>最近的伊朗冲突就是一个典型例子：学校被炸、继任领袖遇刺、邻国突袭打击……西方媒体往往在第一时间给出极具冲击力的标题，以吸引眼球并迅速塑造舆论方向。</p><p><br></p><p>但有一个地方，往往比媒体更早体现出「真实判断」——预测市场。</p><p><br></p><p>在这里，诸如「真主党是否会打击以色列」、「某国是否会对伊朗采取军事行动」等事件的概率，并不是由情绪或机构叙事主导，而是由一个个交易者用真金白银投票形成的结果。</p><p><br></p><p>更直观地说，如果交易者笃定某件事会发生，他会押注「是」，而这一行为本身就会推高事件的发生概率。这种以资金作为约束的表达机制，使预测市场成为一种不同于传统媒体的信息来源。</p><p><br></p><p>过去一周中东发生的两件事，恰好完美地诠释了这一点。</p><p><br></p><h1>塞浦路斯英军基地无人机袭击事件</h1><p><br></p><p>当地时间 3 月 1 日晚间，英国首相基尔·斯塔默通过一段预录制的视频声明宣布，英国同意允许美国使用其基地打击伊朗导弹设施。数小时后，位于塞浦路斯阿克罗蒂里的英国皇家空军基地遭受疑似无人机袭击。</p><p><br></p><p>事件发生后，BBC、独立报、路透社等多家主流媒体第一时间发布报道，并在标题或正文中使用诸如「Iran missiles」（伊朗导弹）、「Iranian drone」（伊朗无人机）等表述，将袭击与伊朗直接联系起来。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/0c15ece5-c2d6-4e8c-9bdc-a725289fdb89.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>这些报道迅速登上头版，给读者留下一个清晰印象：伊朗正在直接攻击北约盟国基地。</p><p><br></p><p>然而在事件发生后的第一时间，预测市场平台 Polymarket 上的相关市场——「伊朗是否会在 3 月 31 日前打击塞浦路斯」——却出现了不同的反应：在媒体报道发布后，该市场确实出现了一些典型的「buy the news」交易，导致概率短暂上涨。但与媒体形成的舆论氛围不同，该市场概率在约 30 分钟后便迅速回落，回到袭击发生前相近的水平。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/fa4e65fd-5959-40a7-8b36-8b6f353705bc.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>很显然，这些对突发信息最敏感的一群人并没有完全相信媒体叙事。</p><p><br></p><p>数小时后，英国国防部发表声明称「目前没有证据表明此次袭击直接来自伊朗」。各家媒体随后也跟进修正报道称此次袭击更可能来自伊朗在黎巴嫩的代理武装组织真主党，并指出此前提到的「伊朗无人机」实际上指的是「伊朗设计的 Shahed 型无人机」，而不是所谓的「袭击直接由伊朗发起」。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/599f5cfe-735b-45c2-811f-d45e1f779efa.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>换句话说，媒体在最初阶段通过叙事框架放大了伊朗的直接责任，而预测市场则从一开始就保持了更谨慎的判断。</p><p><br></p><h1>以色列媒体大肆宣扬阿联酋打击伊朗</h1><p><br></p><p>类似的情况在本周再次出现。3 月 8 日，以色列多家媒体称，阿联酋首次对伊朗本土发动打击。报道将这一行动描述为对伊朗此前袭击海湾国家的「象征性报复」。</p><p><br></p><p>这一叙事很快营造出一种印象：海湾国家正在加入对伊朗的军事行动。</p><p><br></p><p>和塞浦路斯事件类似，Polymarket 上「阿联酋是否会在 3 月 31 日前打击伊朗」的市场概率在报道发布后出现短暂上涨，但在约一小时内迅速回落。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/889581cb-8e3c-4c84-8049-f2b08b143ced.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>不久后，阿联酋联邦国民议会国防、内政与外交事务委员会主席 Ali Rashid Al Nuaimi 在 X 上直接表示称之为「假新闻」，并坦言「如果我们做了什么，我们有勇气公开宣布」。</p><p><br></p><p>如果从信息传播角度看，本次以色列媒体的信息投放很大可能是在试图营造一种地区联合反击伊朗的叙事氛围，从而在心理层面增加对伊朗的压力，并推动地区盟友更加公开地支持美以行动。</p><p><br></p><p>而如果将这些媒体噪音过滤掉，单看预测市场概率变化，反而可以更早意识到这类报道或许并不可靠。</p><p><br></p><h1>为什么预测市场更可靠？</h1><p><br></p><p>随着全球政治环境逐渐从冷战结束后的开放主义阶段，转向更加明显的阵营化与地缘竞争，信息传播也越来越成为战略工具。</p><p><br></p><p>在这样的环境下，传统媒体的重要性反而被进一步放大。媒体不仅是新闻渠道，也成为影响公众立场和政策讨论的重要平台。</p><p><br></p><p>美国媒体生态中不同机构之间的立场差异就十分明显：长期被特朗普批评的 CNN，因大量报道校园枪击事件，吸引了众多支持加强枪支管制的受众群体。而枪支制造商恰恰是共和党重要的政治金主之一。</p><p><br></p><p>当新闻报道不仅仅是「信息」，而是逐渐成为塑造公众态度的工具时，传统媒体作为纯粹信息来源的可靠性就不可避免地受到挑战。</p><p><br></p><p>在这种环境下，预测市场提供了一种完全不同的信息机制：由于每个事件的概率背后都是交易者对于该事件走向的决策判断，以盈利为目的的交易者必须投入相应金额为自己的判断做担保。</p><p><br></p><p>在这轮的伊朗冲突中，这些参与者或许是开源情报分析师、军迷、投机交易者，甚至前线或后方参与战事的内幕人士。无论背景如何，他们表达观点的方式只有下注这一种模式，而每一笔下注都代表着参与者基于自身认知做出的真实判断。</p><p><br></p><p>而这些真实想法的准确度，已在过去几年中的大选、利率、非农等一系列预测中被多次证明优于传统民调和专家预测。</p><p><br></p><h1>基于预测市场数据提前看到结果</h1><p><br></p><p>前面提到，当我们把预测市场概率当作信息源时，本质上是在观察一群交易者用自己的资金为未来判断做担保的结果。</p><p><br></p><p>不过，单纯的市场概率仍然存在一个问题：参与交易的人水平参差不齐，有些人可能只是跟风下注。因此，一些分析工具会进一步对数据进行筛选，其中一个常用指标就是加权市场概率（Market Strength）。</p><p><br></p><p>换句话说，过去预测更准确、交易收益更高的参与者，在最终概率中的影响力会更大。相比普通市场概率，这一指标更接近所谓的「聪明钱判断」。</p><p><br></p><p>可以用一个简单的比喻理解：如果只看市场概率，就像是让 10 个来自不同行业的人匿名给你投资建议；而如果参考加权市场概率，则相当于你同时知道这 10 个人的职业背景和投资回报率，自然会更重视那些长期收益更高的人。</p><p><br></p><p>带着这个思路，我们来看当下全世界正在聚焦的一个问题：其他国家是否会加入美国和以色列共同打击伊朗。按照预测市场目前的概率来看，其他国家本月加入打击的概率为 51%；但如果看加权市场概率，打击发生的可能性仅约 25%。</p><p><br></p><p style=\"text-align: center;\"><img src=\"https://image.blockbeats.cn/file_v6/20260310/d061379b-83ca-46e6-9486-4f035991fa6a.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"></p><p><br></p><p>这一结果与近期媒体叙事形成了明显反差。表面上看，新闻报道中充斥着海湾国家谴责伊朗、欧洲军舰驶向中东、地区局势不断升级的信号，仿佛一场更大规模的冲突即将到来；但在预测市场中，许多长期活跃、对地缘政治较为熟悉的交易者却普遍认为，本月出现其他国家直接打击伊朗的可能性并不高。</p><p><br></p><p>在信息高度碎片化的时代，预测市场或许不会取代新闻，但它正在成为一种新的信息校准机制。当媒体叙事不断放大情绪与立场时，市场价格则提供了一种由资金约束的集体判断。</p><p><br></p><p>对于希望理解真实世界的人来说，这两种信号之间的差异，本身就是重要的信息。</p><p><br></p>",
+          "publishedAt": "2026-03-10T05:54:46+00:00",
+          "link": "https://m.theblockbeats.info/news/61494"
+        }
+      ],
+      "createdAt": "2026-03-10T06:14:26.989371+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P12&body=approve+P12&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P12&body=reject+P12%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P12&body=archive+P12%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
     }
   ],
   "research": [
@@ -4064,25 +4166,46 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T06:14:12.320717+00:00",
-    "overallStatus": "ok",
-    "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T06:14:12.320717+00:00",
+    "updatedAt": "2026-03-10T06:16:03.359660+00:00",
+    "overallStatus": "running",
+    "lastStage": "dispatch",
+    "lastSuccessAt": "2026-03-10T06:14:27.059192+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T06:12:53.262406+00:00",
-        "lastSuccessAt": "2026-03-10T05:39:23.457618+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T06:14:27.059192+00:00",
+        "lastSuccessAt": "2026-03-10T06:14:27.059192+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "refresh": {
+            "updatedAt": "2026-03-10T06:12:53.330175+00:00",
+            "sources": 23,
+            "items": 60
+          },
+          "queue": {
+            "updatedAt": "2026-03-10T06:13:44.902700+00:00",
+            "researchCandidates": 12
+          },
+          "generate": {
+            "updatedAt": "2026-03-10T06:14:26.989371+00:00",
+            "count": 3,
+            "rejected": 0
+          },
+          "promote": {
+            "promoted": [
+              "P10",
+              "P11",
+              "P12"
+            ],
+            "count": 3
+          }
         },
         "nextRunAt": "2026-03-10T08:05:00+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T06:14:09.054642+00:00",
+        "lastRunAt": "2026-03-10T06:16:03.359660+00:00",
         "lastSuccessAt": "2026-03-10T05:40:26.261829+00:00",
         "status": "running",
         "lastError": "",
@@ -4111,7 +4234,7 @@
             "count": 1
           }
         },
-        "nextRunAt": "2026-03-10T06:15:00+00:00",
+        "nextRunAt": "2026-03-10T06:20:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
@@ -4129,14 +4252,14 @@
             }
           }
         },
-        "nextRunAt": "2026-03-10T06:16:00+00:00",
+        "nextRunAt": "2026-03-10T06:18:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },
   "metrics": {
-    "pending": 3,
+    "pending": 6,
     "queued": 0,
     "posts": 0,
     "replies": 22
