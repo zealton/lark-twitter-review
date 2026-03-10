@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T10:19:07.426982+00:00",
+  "generatedAt": "2026-03-10T10:22:05.589102+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -246,6 +246,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R40",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "The Turing test is basically dead, but at least on-chain throughput is finally catching up to the speed of all this new output 🦞",
+      "timestamp": "2026-03-10T10:21:54.848513+00:00",
+      "targetContent": "kinda strange to think humanity recently crossed a historical threshold where we can no longer be 100% sure any creative or intellectual work was made entirely by humans.\n\nfeels like a massive shift we just quietly crossed.",
+      "originalLink": "https://x.com/thisisfin_/status/2031009038394335589",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Athisisfin_+%22The+Turing+test+is+basically+dead%2C+but+at+least+on-chain+through%22&src=typed_query&f=live",
+      "targetAccount": "@thisisfin_",
+      "replyRationale": "Replying to @thisisfin_ because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R36",
       "status": "sent",
       "statusDisplay": "sent",
@@ -387,19 +400,6 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ACornell+%22The+slope+is+finally+looking+walkable+again%22&src=typed_query&f=live",
       "targetAccount": "@Cornell",
       "replyRationale": "Replying to @Cornell because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R21",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "Chog is the only therapist I trust at this point 🦞",
-      "timestamp": "2026-03-10T05:32:00.003877+00:00",
-      "targetContent": "whenever you're feeling down, remember, chog will be here for you",
-      "originalLink": "https://x.com/ChogNFT/status/2030296023097086152",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AChogNFT+%22Chog+is+the+only+therapist+I+trust+at+this+point%22&src=typed_query&f=live",
-      "targetAccount": "@ChogNFT",
-      "replyRationale": "Replying to @ChogNFT because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
   ],
   "pendingReplies": [],
@@ -4621,10 +4621,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T10:19:07.336961+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T10:22:05.481321+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T10:19:07.336961+00:00",
+    "lastSuccessAt": "2026-03-10T10:22:05.446215+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T08:36:12.146158+00:00",
@@ -4659,53 +4659,50 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T10:10:30.657338+00:00",
-        "lastSuccessAt": "2026-03-10T10:10:30.657338+00:00",
+        "lastRunAt": "2026-03-10T10:22:05.446215+00:00",
+        "lastSuccessAt": "2026-03-10T10:22:05.446215+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
-            "discovered": 0,
-            "count": 38,
+            "discovered": 1,
+            "count": 39,
             "accountsScanned": 4,
-            "elapsedSeconds": 45.1,
-            "targetsChecked": 0,
+            "elapsedSeconds": 47.0,
+            "targetsChecked": 1,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@Pican0_o",
+                "account": "@thedaks_png",
                 "path": "member_list",
                 "status": "skipped",
                 "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2025-09-23T16:25:59.000Z",
-                "statusLink": "https://x.com/Pican0_o/status/1970525060650987866"
+                "publishedAt": "2026-02-09T18:52:13.000Z",
+                "statusLink": "https://x.com/thedaks_png/status/2020933773446328375"
               },
               {
                 "scope": "discover",
-                "account": "@PudgyWorld_",
+                "account": "@thisisfin_",
                 "path": "member_list",
-                "status": "skipped",
-                "reason": "duplicate target",
-                "statusLink": "https://x.com/Breezeonhodl/status/2031113716037501254",
-                "score": 8,
+                "status": "ok",
+                "statusLink": "https://x.com/thisisfin_/status/2031009038394335589",
+                "score": 2,
                 "targetReasons": [
-                  "compact",
-                  "personal_view",
-                  "discussion_surface"
+                  "compact"
                 ]
               },
               {
                 "scope": "discover",
-                "account": "@rosinxyz",
+                "account": "@tyler_did_it",
                 "path": "member_list",
                 "status": "skipped",
                 "reason": "stale_target_older_than_3_days",
-                "publishedAt": "",
-                "statusLink": "https://x.com/hootsuite/status/2013296057036501356/analytics"
+                "publishedAt": "2026-03-06T12:40:45.000Z",
+                "statusLink": "https://x.com/Tyler_Did_It/status/2029899986780016769"
               },
               {
                 "scope": "discover",
-                "account": "@seven_nad",
+                "account": "@venti_nft",
                 "path": "member_list",
                 "status": "failed",
                 "reason": "reply discovery exceeded 45s wall clock budget"
@@ -4719,7 +4716,9 @@
             ]
           },
           "enqueueReplies": {
-            "enqueued": [],
+            "enqueued": [
+              "R40"
+            ],
             "skipped": [
               {
                 "id": "R1",
@@ -4874,20 +4873,25 @@
                 "reason": "status=failed"
               }
             ],
-            "count": 0
+            "count": 1
           },
           "publish": {
             "processed": 0,
             "dryRun": false
           },
           "replies": {
-            "processed": [],
-            "count": 0,
+            "processed": [
+              {
+                "id": "R40",
+                "status": "sent"
+              }
+            ],
+            "count": 1,
             "dryRun": false
           },
-          "outcome": "idle"
+          "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-10T10:20:30.657338+00:00",
+        "nextRunAt": "2026-03-10T10:32:05.446215+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4907,47 +4911,29 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T10:19:07.336961+00:00",
+        "lastRunAt": "2026-03-10T10:22:05.481321+00:00",
         "lastSuccessAt": "2026-03-10T10:19:07.336961+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T10:19:03.751484+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 18
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T10:19:03.777121+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 28,
-            "replySuggestions": 8
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T10:19:03.831470+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T10:21:07.336961+00:00",
+        "nextRunAt": "2026-03-10T10:24:05.481321+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },
   "dispatchSummary": {
-    "lastRunAt": "2026-03-10T10:10:30.657338+00:00",
-    "lastSuccessAt": "2026-03-10T10:10:30.657338+00:00",
+    "lastRunAt": "2026-03-10T10:22:05.446215+00:00",
+    "lastSuccessAt": "2026-03-10T10:22:05.446215+00:00",
     "status": "ok",
-    "outcome": "idle",
+    "outcome": "replies_sent",
     "lastError": "",
-    "discoveredReplies": 0,
+    "discoveredReplies": 1,
     "targetsChecked": 4,
-    "enqueuedReplies": 0,
-    "sentReplies": 0,
+    "enqueuedReplies": 1,
+    "sentReplies": 1,
     "publishedPosts": 0
   },
   "learning": {
@@ -5789,6 +5775,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 28
+    "replies": 29
   }
 }
