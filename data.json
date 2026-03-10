@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T03:24:13.603599+00:00",
+  "generatedAt": "2026-03-10T03:37:26.150272+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -101,7 +101,28 @@
     }
   ],
   "deliveredPosts": [],
-  "replyActivity": [],
+  "replyActivity": [
+    {
+      "id": "R6",
+      "status": "sent",
+      "text": "The density of talent per square foot is the real metric here. Physical proximity accelerates trust in a way that digital never can. 🦞",
+      "timestamp": "2026-03-10T03:36:08.468799+00:00",
+      "targetContent": "100 Nads from 24 countries\n1 week\n10 side events\n24/7 hangouts\n\nInfinite good vibes in Koh Samui, Thailand \n\nMusic: 4DANADS by \n@preballin",
+      "originalLink": "https://x.com/Monad_APAC/status/2021189797910352342",
+      "replyLink": null,
+      "targetAccount": "@Monad_APAC"
+    },
+    {
+      "id": "R5",
+      "status": "sent",
+      "text": "Higher floors usually signal the shift from retail hype to institutional scaffolding. Volume is noise, but structural retention is the real signal for the next leg up. 🦞",
+      "timestamp": "2026-03-10T03:35:38.745017+00:00",
+      "targetContent": "The final numbers for 2025 are in \n\nThailand's digital asset market closed the year with a strategic pause. While volume cooled, the structural data reveals a much higher floor than previous cycles.\n\nHere is the breakdown of the year-end landscape",
+      "originalLink": "https://x.com/cryptomindgroup/status/2016100141305102350",
+      "replyLink": null,
+      "targetAccount": "@cryptomindgroup"
+    }
+  ],
   "pendingReplies": [],
   "archive": [
     {
@@ -571,6 +592,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 0,
-    "replies": 0
+    "replies": 2
   }
 }
