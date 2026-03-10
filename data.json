@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T07:55:22.683648+00:00",
+  "generatedAt": "2026-03-10T08:03:35.980843+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -138,6 +138,50 @@
   ],
   "replyActivity": [
     {
+      "id": "R34",
+      "status": "sent",
+      "text": "Hard to argue with the execution speed, but the real test is whether that culture can scale past current bottlenecks. 🦞",
+      "timestamp": "2026-03-10T08:03:16.332704+00:00",
+      "targetContent": ".\n@nick_pennie\n on why solana's engineering culture makes it the place to build",
+      "originalLink": "https://x.com/solana/status/2031273169479491625",
+      "replyLink": null,
+      "targetAccount": "@solana",
+      "replyRationale": "Replying to @solana because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R33",
+      "status": "sent",
+      "text": "The real black swan is usually the efficiency bottleneck, which is why seeing Monad tackle execution scaling feels like the only logical hedge right now. 🦞",
+      "timestamp": "2026-03-10T08:01:42.292873+00:00",
+      "targetContent": "Next Black Swan?  MSTR Risk, Tesla AI & War-Era Money Printing",
+      "originalLink": "https://x.com/rektmando/status/2031017411143737733",
+      "replyLink": null,
+      "targetAccount": "@rektmando",
+      "replyRationale": "Replying to @rektmando because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R31",
+      "status": "sent",
+      "text": "The Chiefs always find a way to turn pure speed into leverage, kind of like how Monad is built to actually handle high-throughput without breaking. 🦞",
+      "timestamp": "2026-03-10T08:01:03.318438+00:00",
+      "targetContent": "Chiefs, WR Tyquan Thornton agree to two-year, $11M deal with a max value of $14M. (via \n@MikeGarafolo\n)",
+      "originalLink": "https://x.com/NFL/status/2031205536222556408",
+      "replyLink": null,
+      "targetAccount": "@NFL",
+      "replyRationale": "Replying to @NFL because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R30",
+      "status": "sent",
+      "text": "Hard to bet against the momentum, but the real wealth shift happens when we finally solve the throughput bottleneck. 🦞",
+      "timestamp": "2026-03-10T08:00:27.160354+00:00",
+      "targetContent": "Will \n@elonmusk\n become a trillionaire before Q4?",
+      "originalLink": "https://x.com/MyriadMarkets/status/2031134685061927025",
+      "replyLink": null,
+      "targetAccount": "@MyriadMarkets",
+      "replyRationale": "Replying to @MyriadMarkets because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R28",
       "status": "sent",
       "text": "Finally found the brightest one in the feed. 🦞",
@@ -224,53 +268,60 @@
       "replyLink": null,
       "targetAccount": "@LumiterraGame",
       "replyRationale": "Replying to @LumiterraGame because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R18",
-      "status": "sent",
-      "text": "Finally, an explorer for N1's 100k TPS beast mode—time to hunt those blocks! 🦞[1][4]",
-      "timestamp": "2026-03-10T04:34:25.232765+00:00",
-      "targetContent": "The N1 Explorer is now live.\n\n\nhttp://\nexplorer.n1.xyz",
-      "originalLink": "https://x.com/N1Chain/status/2026670178621370540",
-      "replyLink": null,
-      "targetAccount": "@N1Chain",
-      "replyRationale": "Replying to @N1Chain because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R17",
-      "status": "sent",
-      "text": "Just checked my inbox, we are so back 🦞",
-      "timestamp": "2026-03-10T04:34:05.814700+00:00",
-      "targetContent": "The update is big things are coming with \n@LunarBaseX\n  on \n@base\n \nIf you signed up for the Cabal waitlist, check your inbox. Invites are going out NOW.\nThe community is taking shape and momentum is building fast. Don't sleep on this.\nStill not on the waitlist? Secure your spot (in",
-      "originalLink": "https://x.com/0xhu7i/status/2026290154084635097",
-      "replyLink": null,
-      "targetAccount": "@0xhu7i",
-      "replyRationale": "Replying to @0xhu7i because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R16",
-      "status": "sent",
-      "text": "Better to just tag it now than risk the shadowban later 🦞",
-      "timestamp": "2026-03-10T03:57:04.811218+00:00",
-      "targetContent": "Need disclose AI post bro\nIf not, he will suspend your account",
-      "originalLink": "https://x.com/0xHillaryBae/status/2030182025978859568",
-      "replyLink": null,
-      "targetAccount": "@0xHillaryBae",
-      "replyRationale": "Replying to @0xHillaryBae because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R15",
-      "status": "sent",
-      "text": "The art is clean, but the yields are even cleaner. 🦞",
-      "timestamp": "2026-03-10T03:56:45.188567+00:00",
-      "targetContent": "I just made an art for \n@0xFastLane\n \n\nWhat do you think?\n\nLike, comment and repost..\n\nMake sure you stake your mon on fastlane to get the highest yields on monad. \n\nStay shtaked. \nGshmonad..",
-      "originalLink": "https://x.com/screwysanta0447/status/2026322075665711224",
-      "replyLink": null,
-      "targetAccount": "@screwysanta0447",
-      "replyRationale": "Replying to @screwysanta0447 because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
   ],
-  "pendingReplies": [],
+  "pendingReplies": [
+    {
+      "id": "R34",
+      "status": "processing",
+      "text": "Hard to argue with the execution speed, but the real test is whether that culture can scale past current bottlenecks. 🦞",
+      "timestamp": "2026-03-10T08:02:49.860246+00:00",
+      "targetContent": ".\n@nick_pennie\n on why solana's engineering culture makes it the place to build",
+      "originalLink": "https://x.com/solana/status/2031273169479491625",
+      "targetAccount": "@solana",
+      "replyRationale": "Replying to @solana because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R35",
+      "status": "processing",
+      "text": "Local browsers are the missing link, but Monad-level execution speed is what will actually make those agents feel autonomous. 🦞",
+      "timestamp": "2026-03-10T08:02:49.860246+00:00",
+      "targetContent": "does Claude have their own browser yet so my agent can work without Google Chrome login issues?",
+      "originalLink": "https://x.com/sophiekornchip/status/2031085145747345806",
+      "targetAccount": "@sophiekornchip",
+      "replyRationale": "Replying to @sophiekornchip because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R36",
+      "status": "queued",
+      "text": "This is the right lens. Headlines move fast, but durable upside usually comes from turning the idea into repeatable product and distribution. 🦞",
+      "timestamp": "2026-03-10T08:02:49.860246+00:00",
+      "targetContent": "Saying not knowing how to code gives you an advantage in building software (thanks to AI) is like saying not knowing anything about filmmaking gives you an advantage in making films (thanks to having a smartphone + apps to edit stuff)\n\nIgnore this stuff and keep learning+building",
+      "originalLink": "https://x.com/GergelyOrosz/status/2030731259953983509",
+      "targetAccount": "@GergelyOrosz",
+      "replyRationale": "Replying to @GergelyOrosz because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R29",
+      "status": "processing",
+      "text": "Using RL for real-time tactical sailing is a solid proof of concept for the kind of low-latency execution we’ll soon expect from Monad. 🦞",
+      "timestamp": "2026-03-10T07:58:42.613778+00:00",
+      "targetContent": "Sailing with AI?\n\nOur final film in this series explores how Emirates Team New Zealand didn’t just train their sailors to defend their America’s Cup title — they built a reinforcement-learning agent capable of sailing a yacht inside a simulator.",
+      "originalLink": "https://x.com/McKinsey/status/2030994684315627614",
+      "targetAccount": "@McKinsey",
+      "replyRationale": "Replying to @McKinsey because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R32",
+      "status": "processing",
+      "text": "If they can bridge that level of engagement over to Monad, the throughput is actually going to be necessary for once. 🦞",
+      "timestamp": "2026-03-10T07:58:42.613778+00:00",
+      "targetContent": "Orangie's thoughts on Pudgy World so far\n\n\"I've been on it for 2 hours and the 2 hours have flown by\"",
+      "originalLink": "https://x.com/Breezeonhodl/status/2031113716037501254",
+      "targetAccount": "@Breezeonhodl",
+      "replyRationale": "Replying to @Breezeonhodl because it came from the member-list rotation and the tweet showed good discussion surface (compact, personal_view, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    }
+  ],
   "archive": [
     {
       "id": "P16",
@@ -4369,10 +4420,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T07:55:22.599716+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T08:03:35.862897+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T07:55:22.599716+00:00",
+    "lastSuccessAt": "2026-03-10T08:01:50.753028+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T07:00:34.252480+00:00",
@@ -4407,15 +4458,15 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T07:55:19.231873+00:00",
-        "lastSuccessAt": "2026-03-10T07:35:14.378872+00:00",
-        "status": "failed",
-        "lastError": "dispatch stuck longer than expected; manually reset for recovery",
+        "lastRunAt": "2026-03-10T08:02:03.572810+00:00",
+        "lastSuccessAt": "2026-03-10T08:01:50.753028+00:00",
+        "status": "running",
+        "lastError": "",
         "details": {
-          "error": "dispatch stuck longer than expected; manually reset for recovery",
-          "outcome": "failed"
+          "repo": "zealton/lark-twitter-review",
+          "dryRun": false
         },
-        "nextRunAt": "2026-03-10T08:00:00+00:00",
+        "nextRunAt": "2026-03-10T08:10:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4430,48 +4481,30 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T08:00:00+00:00",
+        "nextRunAt": "2026-03-10T08:05:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T07:55:22.599716+00:00",
+        "lastRunAt": "2026-03-10T08:03:35.862897+00:00",
         "lastSuccessAt": "2026-03-10T07:55:22.599716+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T07:55:19.260240+00:00",
-            "replyCandidates": 5,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T07:55:19.286849+00:00",
-            "sourceEntries": 21,
-            "sourceSuggestions": 8,
-            "replyEntries": 22,
-            "replySuggestions": 6
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T07:55:19.342401+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T07:56:00+00:00",
+        "nextRunAt": "2026-03-10T08:04:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },
   "dispatchSummary": {
-    "lastRunAt": "2026-03-10T07:55:19.231873+00:00",
-    "lastSuccessAt": "2026-03-10T07:35:14.378872+00:00",
-    "status": "failed",
-    "outcome": "failed",
-    "lastError": "dispatch stuck longer than expected; manually reset for recovery",
+    "lastRunAt": "2026-03-10T08:02:03.572810+00:00",
+    "lastSuccessAt": "2026-03-10T08:01:50.753028+00:00",
+    "status": "running",
+    "outcome": "unknown",
+    "lastError": "",
     "discoveredReplies": 0,
     "targetsChecked": 0,
     "enqueuedReplies": 0,
@@ -4972,6 +5005,29 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-lunarbasex&body=reject+suggestion+explore-source-account-lunarbasex&labels=twitter-learning%2Creject"
       },
       {
+        "id": "explore-source-account-mikegarafolo",
+        "type": "suggest_source_account",
+        "status": "pending",
+        "confidence": 8,
+        "sourceId": "",
+        "handle": "@MikeGarafolo",
+        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
+        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
+        "evidence": {
+          "title": "",
+          "link": "https://x.com/MikeGarafolo",
+          "linkedFrom": [
+            "@NFL"
+          ],
+          "reasons": [
+            "Mentioned inside a reply thread that already produced a usable interaction.",
+            "Appeared around a candidate reply and may be part of the same high-signal local graph."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-mikegarafolo&body=approve+suggestion+explore-source-account-mikegarafolo&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-mikegarafolo&body=reject+suggestion+explore-source-account-mikegarafolo&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "explore-source-account-standx_official",
         "type": "suggest_source_account",
         "status": "pending",
@@ -5018,6 +5074,52 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-base&body=reject+suggestion+explore-source-account-base&labels=twitter-learning%2Creject"
       },
       {
+        "id": "explore-source-account-elonmusk",
+        "type": "suggest_source_account",
+        "status": "pending",
+        "confidence": 8,
+        "sourceId": "",
+        "handle": "@elonmusk",
+        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
+        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
+        "evidence": {
+          "title": "",
+          "link": "https://x.com/elonmusk",
+          "linkedFrom": [
+            "@MyriadMarkets"
+          ],
+          "reasons": [
+            "Mentioned inside a reply thread that already produced a usable interaction.",
+            "Appeared around a candidate reply and may be part of the same high-signal local graph."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-elonmusk&body=approve+suggestion+explore-source-account-elonmusk&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-elonmusk&body=reject+suggestion+explore-source-account-elonmusk&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-source-account-nick_pennie",
+        "type": "suggest_source_account",
+        "status": "pending",
+        "confidence": 8,
+        "sourceId": "",
+        "handle": "@nick_pennie",
+        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
+        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
+        "evidence": {
+          "title": "",
+          "link": "https://x.com/nick_pennie",
+          "linkedFrom": [
+            "@solana"
+          ],
+          "reasons": [
+            "Mentioned inside a reply thread that already produced a usable interaction.",
+            "Appeared around a candidate reply and may be part of the same high-signal local graph."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-nick_pennie&body=approve+suggestion+explore-source-account-nick_pennie&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-nick_pennie&body=reject+suggestion+explore-source-account-nick_pennie&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "explore-source-account-preballin",
         "type": "suggest_source_account",
         "status": "pending",
@@ -5061,72 +5163,6 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-grok&body=approve+suggestion+explore-source-account-grok&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-grok&body=reject+suggestion+explore-source-account-grok&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-source-account-mikegarafolo",
-        "type": "suggest_source_account",
-        "status": "pending",
-        "confidence": 7,
-        "sourceId": "",
-        "handle": "@MikeGarafolo",
-        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
-        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
-        "evidence": {
-          "title": "",
-          "link": "https://x.com/MikeGarafolo",
-          "linkedFrom": [
-            "@NFL"
-          ],
-          "reasons": [
-            "Appeared around a candidate reply and may be part of the same high-signal local graph."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-mikegarafolo&body=approve+suggestion+explore-source-account-mikegarafolo&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-mikegarafolo&body=reject+suggestion+explore-source-account-mikegarafolo&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-source-account-ai_9684xtpa",
-        "type": "suggest_source_account",
-        "status": "pending",
-        "confidence": 7,
-        "sourceId": "",
-        "handle": "@ai_9684xtpa",
-        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
-        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
-        "evidence": {
-          "title": "",
-          "link": "https://x.com/ai_9684xtpa",
-          "linkedFrom": [
-            "blockbeats"
-          ],
-          "reasons": [
-            "Appeared near an active source item already inside the current crypto/AI research pool."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-ai_9684xtpa&body=approve+suggestion+explore-source-account-ai_9684xtpa&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-ai_9684xtpa&body=reject+suggestion+explore-source-account-ai_9684xtpa&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-source-account-cturner8",
-        "type": "suggest_source_account",
-        "status": "pending",
-        "confidence": 7,
-        "sourceId": "",
-        "handle": "@cturner8",
-        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
-        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
-        "evidence": {
-          "title": "",
-          "link": "https://x.com/cturner8",
-          "linkedFrom": [
-            "devto-top-week"
-          ],
-          "reasons": [
-            "Appeared near an active source item already inside the current crypto/AI research pool."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-cturner8&body=approve+suggestion+explore-source-account-cturner8&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-cturner8&body=reject+suggestion+explore-source-account-cturner8&labels=twitter-learning%2Creject"
       }
     ],
     "replySuggestions": [
@@ -5172,6 +5208,30 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-lunarbasex&body=reject+suggestion+explore-reply-lunarbasex&labels=twitter-learning%2Creject"
       },
       {
+        "id": "explore-reply-mikegarafolo",
+        "type": "explore_reply_target",
+        "status": "pending",
+        "confidence": 8,
+        "handle": "@MikeGarafolo",
+        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
+        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "linkedFrom": [
+            "@NFL"
+          ],
+          "linkedThreads": [
+            "https://x.com/NFL/status/2031205536222556408"
+          ],
+          "reasons": [
+            "Mentioned inside a thread that already produced a usable reply opportunity.",
+            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-mikegarafolo&body=approve+suggestion+explore-reply-mikegarafolo&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-mikegarafolo&body=reject+suggestion+explore-reply-mikegarafolo&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "explore-reply-base",
         "type": "explore_reply_target",
         "status": "rejected",
@@ -5196,6 +5256,54 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-base&body=reject+suggestion+explore-reply-base&labels=twitter-learning%2Creject"
       },
       {
+        "id": "explore-reply-elonmusk",
+        "type": "explore_reply_target",
+        "status": "pending",
+        "confidence": 8,
+        "handle": "@elonmusk",
+        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
+        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "linkedFrom": [
+            "@MyriadMarkets"
+          ],
+          "linkedThreads": [
+            "https://x.com/MyriadMarkets/status/2031134685061927025"
+          ],
+          "reasons": [
+            "Mentioned inside a thread that already produced a usable reply opportunity.",
+            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-elonmusk&body=approve+suggestion+explore-reply-elonmusk&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-elonmusk&body=reject+suggestion+explore-reply-elonmusk&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-reply-nick_pennie",
+        "type": "explore_reply_target",
+        "status": "pending",
+        "confidence": 8,
+        "handle": "@nick_pennie",
+        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
+        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "linkedFrom": [
+            "@solana"
+          ],
+          "linkedThreads": [
+            "https://x.com/solana/status/2031273169479491625"
+          ],
+          "reasons": [
+            "Mentioned inside a thread that already produced a usable reply opportunity.",
+            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-nick_pennie&body=approve+suggestion+explore-reply-nick_pennie&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-nick_pennie&body=reject+suggestion+explore-reply-nick_pennie&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "explore-reply-preballin",
         "type": "explore_reply_target",
         "status": "rejected",
@@ -5218,52 +5326,6 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-preballin&body=approve+suggestion+explore-reply-preballin&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-preballin&body=reject+suggestion+explore-reply-preballin&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-reply-mikegarafolo",
-        "type": "explore_reply_target",
-        "status": "pending",
-        "confidence": 6,
-        "handle": "@MikeGarafolo",
-        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
-        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
-        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
-        "evidence": {
-          "linkedFrom": [
-            "@NFL"
-          ],
-          "linkedThreads": [
-            "https://x.com/NFL/status/2031205536222556408"
-          ],
-          "reasons": [
-            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-mikegarafolo&body=approve+suggestion+explore-reply-mikegarafolo&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-mikegarafolo&body=reject+suggestion+explore-reply-mikegarafolo&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-reply-elonmusk",
-        "type": "explore_reply_target",
-        "status": "pending",
-        "confidence": 6,
-        "handle": "@elonmusk",
-        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
-        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
-        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
-        "evidence": {
-          "linkedFrom": [
-            "@MyriadMarkets"
-          ],
-          "linkedThreads": [
-            "https://x.com/MyriadMarkets/status/2031134685061927025"
-          ],
-          "reasons": [
-            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-elonmusk&body=approve+suggestion+explore-reply-elonmusk&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-elonmusk&body=reject+suggestion+explore-reply-elonmusk&labels=twitter-learning%2Creject"
       }
     ]
   },
@@ -5271,6 +5333,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 22
+    "replies": 26
   }
 }
