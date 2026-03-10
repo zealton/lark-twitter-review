@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T06:12:53.354624+00:00",
+  "generatedAt": "2026-03-10T06:12:56.721174+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "id": "P8",
-      "status": "awaiting_approval",
+      "status": "rejected",
       "angle": "Market consolidation into institutional duopolies",
       "whyItMatters": "It gives readers a clearer lens on why crypto market structure is becoming harder, narrower, and more institutional.",
       "postingRationale": "This should go out because it compresses two market signals into one useful operator takeaway: crypto is consolidating, so founders need a real wedge instead of assuming the market will reward another lookalike product.",
@@ -4040,10 +4040,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T06:12:53.284544+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-10T06:12:56.656323+00:00",
+    "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T06:09:02.710138+00:00",
+    "lastSuccessAt": "2026-03-10T06:12:56.656323+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T06:12:53.262406+00:00",
@@ -4071,24 +4071,39 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T06:12:53.270664+00:00",
-        "lastSuccessAt": "2026-03-10T05:35:26.622237+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T06:12:56.481472+00:00",
+        "lastSuccessAt": "2026-03-10T06:12:56.481472+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "sync": {
+            "applied": [
+              {
+                "id": "P8",
+                "action": "reject",
+                "issue": 1
+              }
+            ],
+            "count": 1
+          }
         },
         "nextRunAt": "2026-03-10T06:15:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T06:12:53.284544+00:00",
-        "lastSuccessAt": "2026-03-10T06:09:02.710138+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T06:12:56.656323+00:00",
+        "lastSuccessAt": "2026-03-10T06:12:56.656323+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T06:12:53.354624+00:00",
+              "pending": 3
+            }
+          }
         },
         "nextRunAt": "2026-03-10T06:14:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
