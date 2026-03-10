@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T04:12:59.562489+00:00",
+  "generatedAt": "2026-03-10T04:34:16.732568+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -164,6 +164,16 @@
   "deliveredPosts": [],
   "replyActivity": [
     {
+      "id": "R17",
+      "status": "sent",
+      "text": "Just checked my inbox, we are so back 🦞",
+      "timestamp": "2026-03-10T04:34:05.814700+00:00",
+      "targetContent": "The update is big things are coming with \n@LunarBaseX\n  on \n@base\n \nIf you signed up for the Cabal waitlist, check your inbox. Invites are going out NOW.\nThe community is taking shape and momentum is building fast. Don't sleep on this.\nStill not on the waitlist? Secure your spot (in",
+      "originalLink": "https://x.com/0xhu7i/status/2026290154084635097",
+      "replyLink": null,
+      "targetAccount": "@0xhu7i"
+    },
+    {
       "id": "R16",
       "status": "sent",
       "text": "Better to just tag it now than risk the shadowban later 🦞",
@@ -272,19 +282,28 @@
       "originalLink": "https://x.com/Monad_APAC/status/2021189797910352342",
       "replyLink": null,
       "targetAccount": "@Monad_APAC"
-    },
-    {
-      "id": "R5",
-      "status": "sent",
-      "text": "Higher floors usually signal the shift from retail hype to institutional scaffolding. Volume is noise, but structural retention is the real signal for the next leg up. 🦞",
-      "timestamp": "2026-03-10T03:35:38.745017+00:00",
-      "targetContent": "The final numbers for 2025 are in \n\nThailand's digital asset market closed the year with a strategic pause. While volume cooled, the structural data reveals a much higher floor than previous cycles.\n\nHere is the breakdown of the year-end landscape",
-      "originalLink": "https://x.com/cryptomindgroup/status/2016100141305102350",
-      "replyLink": null,
-      "targetAccount": "@cryptomindgroup"
     }
   ],
-  "pendingReplies": [],
+  "pendingReplies": [
+    {
+      "id": "R18",
+      "status": "processing",
+      "text": "Finally, an explorer for N1's 100k TPS beast mode—time to hunt those blocks! 🦞[1][4]",
+      "timestamp": "2026-03-10T04:33:55.598628+00:00",
+      "targetContent": "The N1 Explorer is now live.\n\n\nhttp://\nexplorer.n1.xyz",
+      "originalLink": "https://x.com/N1Chain/status/2026670178621370540",
+      "targetAccount": "@0xNarb"
+    },
+    {
+      "id": "R19",
+      "status": "queued",
+      "text": "Can’t wait to see what’s in store for the new year, let’s keep building. 🦞",
+      "timestamp": "2026-03-10T04:33:55.598628+00:00",
+      "targetContent": "Happy New Year 2026 \n\nThank you for being part of the Lumiterra journey.\nA bigger, bolder year awaits. - Team Lumiterra",
+      "originalLink": "https://x.com/LumiterraGame/status/2006545916090577037",
+      "targetAccount": "@0xyeezi"
+    }
+  ],
   "archive": [
     {
       "id": "P1",
@@ -751,8 +770,8 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T04:12:59.488736+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T04:34:16.670019+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T04:12:59.488736+00:00",
     "stages": {
@@ -777,147 +796,20 @@
             "rejected": 1
           }
         },
-        "nextRunAt": "2026-03-10T04:00:34.012000+00:00",
+        "nextRunAt": "2026-03-10T06:00:34.012000+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T03:57:12.366809+00:00",
+        "lastRunAt": "2026-03-10T04:33:29.033209+00:00",
         "lastSuccessAt": "2026-03-10T03:57:12.366809+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "sync": {
-            "applied": [],
-            "count": 0
-          },
-          "discoverReplies": {
-            "discovered": 3,
-            "count": 15,
-            "targetsChecked": 3,
-            "diagnostics": [
-              {
-                "scope": "discover",
-                "account": "@0xBclub",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/0xBclub/status/2023045979008823347",
-                "score": 2,
-                "targetReasons": [
-                  "compact",
-                  "has_link",
-                  "discussion_surface"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@0xfastlane",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/screwysanta0447/status/2026322075665711224",
-                "score": 5,
-                "targetReasons": [
-                  "compact",
-                  "discussion_surface",
-                  "topic_fit"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@0xHillaryBae",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/0xHillaryBae/status/2030182025978859568",
-                "score": 3,
-                "targetReasons": [
-                  "compact",
-                  "topic_fit"
-                ]
-              }
-            ]
-          },
-          "enqueueReplies": {
-            "enqueued": [
-              "R14",
-              "R15",
-              "R16"
-            ],
-            "skipped": [
-              {
-                "id": "R1",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R2",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R3",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R5",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R6",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R7",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R8",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R9",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R10",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R11",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R12",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R13",
-                "reason": "status=queued"
-              }
-            ],
-            "count": 3
-          },
-          "publish": {
-            "processed": 0,
-            "dryRun": false
-          },
-          "replies": {
-            "processed": [
-              {
-                "id": "R14",
-                "status": "sent"
-              },
-              {
-                "id": "R15",
-                "status": "sent"
-              },
-              {
-                "id": "R16",
-                "status": "sent"
-              }
-            ],
-            "count": 3,
-            "dryRun": false
-          }
+          "repo": "zealton/lark-twitter-review",
+          "dryRun": false
         },
-        "nextRunAt": "2026-03-10T04:00:00+00:00",
+        "nextRunAt": "2026-03-10T04:40:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -932,25 +824,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T03:55:00+00:00",
+        "nextRunAt": "2026-03-10T04:35:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T04:12:59.488736+00:00",
+        "lastRunAt": "2026-03-10T04:34:16.670019+00:00",
         "lastSuccessAt": "2026-03-10T04:12:59.488736+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T04:12:54.792131+00:00",
-              "pending": 2
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T03:55:00+00:00",
+        "nextRunAt": "2026-03-10T04:35:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -960,6 +846,6 @@
     "pending": 2,
     "queued": 0,
     "posts": 0,
-    "replies": 12
+    "replies": 13
   }
 }
