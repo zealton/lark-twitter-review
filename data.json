@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:55:13.401345+00:00",
+  "generatedAt": "2026-03-10T05:57:39.232436+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -8,6 +8,8 @@
       "angle": "The split between TradFi asset adoption and builder AI-agent infrastructure",
       "whyItMatters": "It shows where crypto is actually compounding: human financial wrappers on one side, machine-native commerce rails on the other.",
       "postingRationale": "This post is worth sending because it reframes two plain news items into a sharper account-level thesis: the bigger opportunity is not ETF optics but infrastructure for autonomous transactions. That fits the crypto x AI positioning much better than a simple market recap.",
+      "goalAlignmentScore": 9,
+      "goalAlignmentRationale": "This fits the system goal strongly because it gives readers a non-obvious crypto x AI frame they can reuse, while also reinforcing the account as a founder who sees where machine-native demand may create the next real infrastructure wedge.",
       "draft": "The crypto industry has fundamentally split into two parallel realities that barely acknowledge each other's existence.\n\nOn one side of the spectrum, investment banks like Goldman Sachs are deploying nine-figure blocks into Solana ETFs to capture retail beta, while on the other, the Ethereum Foundation is quietly shipping ERC-8183 to establish native commercial trust entirely for autonomous AI agents.\n\nThe more interesting signal here is the diverging definition of a \"user.\" TradFi is aggressively financializing our blockspace for human mutual funds, while the actual frontier builders are pivoting to design infrastructure where the primary economic actors are entirely non-human.\n\nThe highest alpha isn't found in trying to front-run Wall Street's ETF flows anymore. The real wedge is building the settlement and execution layers for the incoming explosion of machine-to-machine commerce, because traditional allocators haven't even begun to price that in. 🦞",
       "sources": [
         "https://www.odaily.news/zh-CN/newsflash/471431",
@@ -40,6 +42,8 @@
       "angle": "Market consolidation into institutional duopolies",
       "whyItMatters": "It gives readers a clearer lens on why crypto market structure is becoming harder, narrower, and more institutional.",
       "postingRationale": "This post should go out because it turns scattered market signals into a founder-facing warning: distribution and defensibility now matter more than launching another generic asset or venue. That is a stronger influence-building angle than just saying the market is competitive.",
+      "goalAlignmentScore": 8,
+      "goalAlignmentRationale": "This aligns well because it turns scattered market updates into a sharper operator takeaway about consolidation and distribution, which is useful to founders and investors and helps position the account as someone with market-structure judgment rather than headline reactions.",
       "draft": "The crypto industry is quietly transitioning from an era of endless fragmentation into a hardened, high-stakes institutional oligopoly.\n\nWhile Binance tightens its risk engines and adjusts margin tiers across long-tail assets to reduce exposure, Wall Street heavyweights like Goldman and Citadel just dumped over $540M into Solana ETFs in a single quarter, perfectly confirming recent observations that crypto verticals are rapidly consolidating into strict duopolies.\n\nInstitutional capital doesn't care about your new experimental architecture; it cares about established liquidity moats and regulatory clarity. They are aggressively picking the two or three largest networks and starving the rest of the ecosystem of fresh inflows.\n\nWhat this really changes is the go-to-market strategy for new protocols. If you aren't building a wedge that can either directly plug into these entrenched duopolies or completely bypass them with retail-native distribution, you are just building an expensive ghost town. 🦞",
       "sources": [
         "https://www.odaily.news/zh-CN/newsflash/471433",
@@ -80,6 +84,8 @@
       "angle": "TradFi human focus vs Crypto-native AI focus",
       "whyItMatters": "It helps readers see that TradFi and crypto-native builders are optimizing for different end users, which leads to very different products and value capture.",
       "postingRationale": "This post fits the account because it connects crypto and AI through a specific product thesis: traditional capital is still packaging assets for humans while frontier builders are designing rails for software agents. That is a differentiated founder-builder take, not a recycled headline.",
+      "goalAlignmentScore": 9,
+      "goalAlignmentRationale": "This is highly aligned because it bridges crypto and AI through a concrete user-definition lens, which is exactly the kind of synthesis that can grow influence for the account: useful to readers, differentiated from news summaries, and consistent with a founder-builder identity.",
       "draft": "There is a massive disconnect right now between what traditional finance thinks crypto is for and what crypto-native engineers are actually building.\n\nWall Street juggernauts like Morgan Stanley just poured half a billion dollars into Solana ETFs to bet on high-throughput human consumer finance, while the Ethereum Foundation quietly dropped ERC-8183—a core standard exclusively designed to establish commercial trust between autonomous AI agents.\n\nTradFi is busy buying up the infrastructure for the next generation of human day-trading, but open-source developers are already pivoting to build the foundational financial rails for a purely non-human economy.\n\nThe more interesting signal isn't which chain gets the next ETF approval, but which network successfully captures the first billion dollars of machine-to-machine GDP. The founders who optimize their smart contracts for AI agent liquidity today will own the actual frontier tomorrow. 🦞",
       "sources": [
         "https://www.odaily.news/zh-CN/newsflash/471431",
@@ -4058,8 +4064,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:55:13.323268+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T05:57:39.179211+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T05:55:13.323268+00:00",
     "stages": {
@@ -4380,20 +4386,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:55:13.323268+00:00",
+        "lastRunAt": "2026-03-10T05:57:39.179211+00:00",
         "lastSuccessAt": "2026-03-10T05:55:13.323268+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:55:09.966694+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T05:56:00+00:00",
+        "nextRunAt": "2026-03-10T05:58:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }

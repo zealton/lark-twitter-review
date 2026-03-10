@@ -147,6 +147,19 @@
         border: 1px solid rgba(29, 93, 115, 0.18);
         background: linear-gradient(180deg, rgba(29,93,115,.08), rgba(255,255,255,.78));
       }
+      .score-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 7px 12px;
+        border-radius: 999px;
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: .04em;
+        background: rgba(191,79,47,.12);
+        color: var(--accent);
+        border: 1px solid rgba(191,79,47,.18);
+      }
       .rationale-box + .rationale-box {
         margin-top: 10px;
       }
@@ -403,6 +416,12 @@
                 <div class="rationale-label">Why This Post</div>
                 <div class="rationale-text">${escapeHtml(item.postingRationale)}</div>
               </div>` : ""}
+            ${item.goalAlignmentScore ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Goal Alignment</div>
+                <div class="score-pill">${escapeHtml(String(item.goalAlignmentScore))}/10 Fit</div>
+                ${item.goalAlignmentRationale ? `<div class="rationale-text" style="margin-top:10px;">${escapeHtml(item.goalAlignmentRationale)}</div>` : ""}
+              </div>` : ""}
             <div class="meta">Sources: ${(item.sources || []).map((s) => escapeHtml(s)).join(" | ")}</div>
             <details class="fold spacer">
               <summary>Show raw source context</summary>
@@ -451,6 +470,12 @@
               <div class="rationale-box">
                 <div class="rationale-label">Why This Post</div>
                 <div class="rationale-text">${escapeHtml(item.postingRationale)}</div>
+              </div>` : ""}
+            ${item.goalAlignmentScore ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Goal Alignment</div>
+                <div class="score-pill">${escapeHtml(String(item.goalAlignmentScore))}/10 Fit</div>
+                ${item.goalAlignmentRationale ? `<div class="rationale-text" style="margin-top:10px;">${escapeHtml(item.goalAlignmentRationale)}</div>` : ""}
               </div>` : ""}
           </article>
         `).join("");
