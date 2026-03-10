@@ -748,14 +748,16 @@
           <article class="card">
             <header>
               <div>
-                <h3>${escapeHtml(item.type || "suggestion")}</h3>
-                <div class="meta">${escapeHtml(item.sourceId || "")}</div>
+                <h3>${escapeHtml(item.handle || item.evidence?.title || item.type || "suggestion")}</h3>
+                <div class="meta">${escapeHtml(item.type || "")}${item.sourceId ? ` · ${escapeHtml(item.sourceId)}` : ""}</div>
               </div>
               <div>
                 <span class="pill">${escapeHtml(item.status || "pending")}</span>
                 <span class="score-pill">${escapeHtml(String(item.confidence || 0))}/10</span>
               </div>
             </header>
+            ${item.evidence?.link ? `<div class="meta"><a class="link" href="${item.evidence.link}" target="_blank" rel="noreferrer">${escapeHtml(item.evidence.link)}</a></div>` : ""}
+            ${(item.evidence?.linkedFrom || []).length ? `<div class="meta">Discovered from: ${(item.evidence.linkedFrom || []).map((v) => escapeHtml(v)).join(" · ")}</div>` : ""}
             <div class="rationale-box">
               <div class="rationale-label">Why Suggested</div>
               <div class="rationale-text">${escapeHtml(item.whySuggested || "")}</div>
@@ -764,6 +766,11 @@
               <div class="rationale-label">Goal Fit</div>
               <div class="rationale-text">${escapeHtml(item.goalFit || "")}</div>
             </div>
+            ${(item.evidence?.reasons || []).length ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Evidence</div>
+                <div class="rationale-text">${(item.evidence.reasons || []).map((v) => escapeHtml(v)).join(" ")}</div>
+              </div>` : ""}
             <div class="actions">
               ${item.status === "pending" ? `<a class="btn good" href="${item.approveUrl}" target="_blank" rel="noreferrer">Yes</a><a class="btn bad" href="${item.rejectUrl}" target="_blank" rel="noreferrer">No</a>` : ""}
             </div>
@@ -804,6 +811,7 @@
                 <span class="score-pill">${escapeHtml(String(item.confidence || 0))}/10</span>
               </div>
             </header>
+            ${(item.evidence?.linkedFrom || []).length ? `<div class="meta">Discovered from: ${(item.evidence.linkedFrom || []).map((v) => escapeHtml(v)).join(" · ")}</div>` : ""}
             <div class="rationale-box">
               <div class="rationale-label">Why Suggested</div>
               <div class="rationale-text">${escapeHtml(item.whySuggested || "")}</div>
@@ -812,6 +820,11 @@
               <div class="rationale-label">Goal Fit</div>
               <div class="rationale-text">${escapeHtml(item.goalFit || "")}</div>
             </div>
+            ${(item.evidence?.reasons || []).length ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Evidence</div>
+                <div class="rationale-text">${(item.evidence.reasons || []).map((v) => escapeHtml(v)).join(" ")}</div>
+              </div>` : ""}
             <div class="actions">
               ${item.status === "pending" ? `<a class="btn good" href="${item.approveUrl}" target="_blank" rel="noreferrer">Yes</a><a class="btn bad" href="${item.rejectUrl}" target="_blank" rel="noreferrer">No</a>` : ""}
             </div>
