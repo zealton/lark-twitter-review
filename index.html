@@ -441,6 +441,18 @@
             <div class="meta">Captured this fetch: ${escapeHtml(String(item.itemCount || 0))} · In research pool: ${escapeHtml(String(item.researchCount || 0))}</div>
             <div class="meta">Used in pending: ${escapeHtml(String(item.pendingCount || 0))} · published: ${escapeHtml(String(item.publishedCount || 0))} · archived: ${escapeHtml(String(item.archivedCount || 0))}</div>
             ${item.reason ? `<div class="muted spacer">${escapeHtml(item.reason)}</div>` : ""}
+            ${(item.previewRows || []).length ? `
+              <details class="fold spacer">
+                <summary>Show source entries</summary>
+                ${(item.previewRows || []).map((row) => `
+                  <div class="feed-item">
+                    <div>${escapeHtml(row["姓名/昵称"] || row["Twitter Handle"] || "")} · ${escapeHtml(row["领域"] || "")}</div>
+                    <div class="muted">${escapeHtml(row["简介"] || "")}</div>
+                    ${row["Twitter 链接"] ? `<div class="meta spacer"><a class="link" href="${row["Twitter 链接"]}" target="_blank" rel="noreferrer">${escapeHtml(row["Twitter Handle"] || row["Twitter 链接"])}</a></div>` : ""}
+                  </div>
+                `).join("")}
+              </details>
+            ` : ""}
             ${item.url ? `<div class="meta spacer"><a class="link" href="${item.url}" target="_blank" rel="noreferrer">Open source</a></div>` : ""}
           </article>
         `).join("");
