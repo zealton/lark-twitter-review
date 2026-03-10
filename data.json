@@ -1,7 +1,68 @@
 {
-  "generatedAt": "2026-03-10T03:54:27.204762+00:00",
+  "generatedAt": "2026-03-10T03:59:43.702534+00:00",
   "repo": "zealton/lark-twitter-review",
-  "pending": [],
+  "pending": [
+    {
+      "id": "P4",
+      "status": "awaiting_approval",
+      "angle": "Wall Street ETF proxy flows versus the native AI Agent crypto economy.",
+      "draft": "We are watching two entirely different financial infrastructures scale in parallel, and they are about to collide.\n\nWall Street is busy wrapping crypto into its legacy architecture, driving $167M into BTC ETFs and routing whale orders through institutional desks. Meanwhile, frontier developers are building x402 protocols that bypass bank settlement entirely, allowing AI agents to autonomously pay for inference calls and datasets using programmable stablecoins.\n\nThe legacy system relies on packaging crypto into slow, T+1 settlement vehicles for human portfolios. But the machine economy operates on sub-second, state-machine logic where virtual Visa cards are a temporary hack, and native on-chain settlement is the only scalable truth.\n\nWhat this really changes is the definition of adoption. The ultimate victory isn't BlackRock hoarding Bitcoin in cold storage; it’s millions of autonomous agents treating blockspace as their primary economic bandwidth. 🦞",
+      "sources": [
+        "https://m.theblockbeats.info/news/61489",
+        "https://m.theblockbeats.info/flash/335312"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "blockbeats",
+          "title": "让Agent安全花钱这事儿，已经卷起来了",
+          "summary": "<blockquote>文 | Kaori</blockquote><blockquote>编辑 | Sleepy.txt</blockquote><p><br></p><p>在 Claude 里输入「create a card」，几秒钟后你会拿到一张 Visa 卡。但这张卡不是给你用的，是给 AI 用的。</p><p><br></p><p>昨天，X 上疯狂讨论一则给大模型生成虚拟卡的产品演示视频。普通人申请一张虚拟卡用于网络交易算不上什么新鲜操作，不过给 AI 申请虚拟信用卡，倒是 Agent 火起来之后，支付赛道的又一次出活。</p><p><br></p><p>如果你关注这个领域，会发现类似的兴奋每隔几个月就来一次。2025 年 9 月是 x402 协议，Coinbase 和 Cloudflare 联手把 HTTP 的 402 状态码变成了 Agent 的原生支付通道。2025 年 10 月是 Visa 和 Mastercard 同时发布 Agent 支付协议。现在是虚拟卡。</p><p><br></p><p>Agent 支付这条赛道仍然高度分散，它们各自解决一部分问题，但还没有人能提供完整方案。这篇文章试图回答几个问题：<strong>Agent 虚拟卡到底是什么？它和 x402 有什么区别？虚拟卡能解决什么、不能解决什么？以及，这个赛道的机会在哪里？</strong></p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/1cae95d4-a71c-4434-b241-79a07f77c597.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><h2>本文由 Kite AI 赞助支持</h2><p><br></p><p>Kite 是首个面向 AI 智能体支付的 Layer 1 区块链，这一底层基础设施使自主 AI 智能体能够在具备可验证身份、可编程治理以及原生稳定币结算的环境中运行。</p><p><br></p><p>Kite 由来自 Databricks、Uber 和 UC Berkeley 的 AI 与数据基建资深专家创立，已完成 3500 万美元融资，投资方包括 PayPal、General Catalyst、Coinbase Ventures、8VC 以及多家顶级投资基金会。</p><p><br></p><h1>什么是 Agent 的虚拟信用卡</h1><p><br></p><p>你肯定不想把自己的信用卡直接交给一个 Agent，就像很多人也不在自己主力电脑上安装 OpenClaw 一样。</p><p><br></p><p>原因很简单，风险敞口无法控制。普通信用卡没有单次消费上限，没有商户限制，也无法即时废弃。一旦 Agent 出错或被攻击，你的整个账户都暴露在风险之下。</p><p><br></p><p>Agent 虚拟卡不是给 AI 发一张普通信用卡，它是一种可编程、受限的支付凭证。每张卡都可以设置消费上限，如果 Agent 的消费超过预设金额，交易会被自动拒绝。你还可以随时暂停或关闭任何一张卡，且不影响你的底层银行账户。</p><p><br></p><p><strong>总的来说，虚拟卡的核心价值在于可控性。</strong></p><p><br></p><p>以昨天引发关注的虚拟卡项目 AgentCard 为例，它通过模型上下文协议（MCP）服务器运作，流程是这样的：你先向虚拟卡提供商充值，Agent 调用 MCP 工具，比如「create_card(amount=$50)」，提供商的 API 立即发行一张一次性预付 Visa 卡，金额精确锁定为 50 美元。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/c7b3a16c-9766-49c2-b591-f26dd68d5939.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>后端有几层，MCP 服务器处理与金融科技公司的认证和 API 调用，Agent 看不到你的真实资金来源。卡片由发卡银行在 Visa 网络上发行，资金从你预先关联的银行账户或信用卡扣除。Agent 拿到的是临时卡号，用于网页结账或 API 支付，卡在使用后自动停用。</p><p><br></p><p>设置大约需要 5 分钟，通过 CLI 或配置文件完成。整个过程高度隔离，你的真实卡信息从未暴露给 Agent。</p><p><br></p><h1>虚拟卡想解决什么问题？</h1><p><br></p><p>人们口中的「代理式商业」，大多数时候只是人类购物流程多了一步。</p><p><br></p><p>你用 ChatGPT 研究一款耳机，然后自己下单，这是第一层。或者你让 ChatGPT 找到耳机并点击购买，你确认付款，这是第二层。再或者你设定一个条件，让 Agent 在价格跌破某个数字时自动买入，这是第三层。</p><p><br></p><p>这三种情况里，Agent 用的都是你的支付凭证，各大卡组织和 AI 实验室已经在为这些场景构建底层协议了。</p><p><br></p><p>真正有趣的场景从第四层开始。</p><p><br></p><p>你的 Agent 需要调用另一个大模型的 API，比如从 Anthropic 切换到一个更便宜的推理模型、购买一个昂贵的数据集来完成研究任务、雇用另一个 Agent 来处理一项子任务。</p><p><br></p><p>在这些场景里，Agent 不是在替你刷卡，它需要自己的支付凭证。</p><p><br></p><p>目前的做法是开发者替 Agent 买好这些东西，然后把访问权限交给它。<strong>这不叫代理，叫代购。</strong></p><p><br></p><p>为了彻底解放人类（但又不能完全撒手信任），所以需要一种受限的 Agent 支付方式，虚拟卡的可编程特性恰好对齐了这个需求。</p><p><br></p><p>这个问题为什么现在才出现？因为目前三个条件同时成熟。</p><p><br></p><p>第一个条件是需求侧。全世界各大城市如火如荼的龙虾安装活动，便可见一斑。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/d161c7aa-ffc7-4395-a039-5bf7da94b4ff.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>第二个条件是供给侧。Stripe Issuing 已经可以通过 API 创建和管理虚拟卡，技术、协议齐备。</p><p><br></p><p>第三个条件是卡组织下场。Visa 和 Mastercard 同时发布 Agent 支付协议，Cloudflare 参与技术标准制定，Fiserv 成为首批支持这些协议的大型支付处理商，平台化已经完成。</p><p><br></p><p>从草根创业者到卡组织巨头，所有人在同一时间看到了同一件事：<strong>Agent 需要自己的金融基础设施。</strong></p><p><br></p><h1>虚拟卡的结构性局限</h1><p><br></p><p>虚拟卡解决了今天的问题，但它继承了银行卡网络的一个老问题：结算慢。</p><p><br></p><p>支付行业以外的大多数人没意识到，你在商店刷卡时，商家不是立刻拿到钱的。得一天后，几天后，跨境支付可能要 30 天才能收到资金。Visa 本身不移动资金，银行才移动，而银行结算是缓慢且昂贵的。</p><p><br></p><p>对 Agent 来说，这个问题被放大了。如果你的 Agent 在向 Anthropic 大量购买 Token，业务突然起飞，你可能在收入到账之前就耗尽资金。</p><p><br></p><p>虚拟卡还有第二个局限：跨境成本。传统银行卡的跨境支付涉及货币兑换、中间行费用、合规审查。对于需要在全球范围内调用 API 和服务的 Agent 来说，这些摩擦成本会快速累积。</p><p><br></p><p>第三个局限是可编程性不足。当你的 Agent 交易规模变大、需要管理的子 Agent 变多，虚拟卡的灵活性就不够用了。如果用虚拟卡，主 Agent 必须为每个子 Agent 逐一申请，或者每次花几美元创建一张新卡。</p><p><br></p><p>理解这些局限之后，就能明白为什么 x402 协议会在几个月前引发关注。</p><p><br></p><p>x402 的本质是绕过银行卡网络，用稳定币在 HTTP 层直接完成链上支付。举个例子，假设你的 Agent 需要调用一个付费 API 获取实时数据。用虚拟卡，你得先创建一张卡，去服务商网站注册账户，绑卡，订阅月度套餐，拿到 API 密钥，再配置给 Agent。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/872f12ad-7bc0-423b-8184-1de87316242f.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>用 x402，Agent 直接发送 HTTP 请求，服务器返回 402 状态码和价格，Agent 自动签署一笔 USDC 转账，服务器确认收款，返回数据。不需要注册，不需要订阅，按用量付费。</p><p><br></p><p>两者不是互相替代的关系。虚拟卡适合 Agent 在接受 Visa 的商户消费，网购、订阅 SaaS、支付云服务账单。x402 适合 Agent 之间的直接支付，调用 API、购买数据、雇佣其他 Agent 完成子任务。</p><p><br></p><p>目前大多数商户还是只接受 Visa/Mastercard，所以虚拟卡是今天能用的方案。但对于 Agent 调用 API、Agent 之间协作这类场景，x402 这种原生支付协议更合适。</p><p><br></p><p>还有一种中间方案，用稳定币加速银行卡的后端结算。前端还是刷卡，后端变成链上即时到账。有人说稳定币会去中介化银行卡网络，这搞错了方向。稳定币做不到无抵押信贷、拒付权和 Visa 级别的反欺诈能力，它是来给银行卡加速的，不是来替代的。</p><p><br></p><p>三层方案是递进关系，虚拟卡解决兼容性，稳定币解决结算速度，原生钱包解决可编程性。<strong>你今天在哪一层，取决于你的 Agent 要和什么样的交易对手打交道。</strong></p><p><br></p><h1>三条并行的创业赛道</h1><p><br></p><p>面向 Agent 的支付创业，最终会卷到一个出乎很多人意料的地方：机器组织学。</p><p><br></p><p>想想今天的企业是怎么管理员工消费的。公司卡、报销规则、预算中心、审批流程、审计追踪。这套制度是公司治理的基础设施。现在，企业需要给 AI 代理配同样的东西。</p><p><br></p><p>这意味着至少三条创业赛道正在同时打开。</p><p><br></p><p>第一条是 Agent 优先的发卡平台。目前多个平台入场，但大多数还停留在最表层的虚拟卡发行。</p><p><br></p><p>真正的护城河在于风控模型、计费逻辑和开发者体验。比如入驻流程不用填表，用 API 注册、风控模型基于 Agent 行为模式而非人类信用历史、计费逻辑按 token 消耗而非月度账单。</p><p><br></p><p>第二条是 KYA 基础设施。KYA 的意思是 Know Your Agent，对应传统金融的 KYC。当 Agent 成为商户和买家，了解你的客户变成了解你的 Agent。谁开发了它？运行在什么模型上？历史交易记录和行为模式是什么？这是一个全新的信任层。</p><p><br></p><p>一家名叫 Skyfire 的初创公司已经在做这件事，它推出了 KYAPay 协议，允许商户验证 Agent 的身份和授权状态。2025 年 12 月，Skyfire 与 Visa 合作完成了一笔端到端的 Agent 购物演示：Agent 自主研究产品、比较价格、完成购买，全程由 KYA 协议验证身份，由 Visa 的 Trusted Agent Protocol 处理支付。</p><p><br></p><p>但进入 2026 年，Skyfire 官方停更，并无最新产品、协议进展。可以说目前整个行业还没有统一的标准，这是一个待抢的山头。</p><p><br></p><p>第三条是 Agent 间交易的清算和审计网络。</p><p><br></p><p>当主 Agent 管理几十个子 Agent，各自有钱包和交易记录，谁来对账？谁来审计？这是 Agent 经济的「四大会计师事务所」机会。</p><p><br></p><p>历史总是押韵。2000 年前后，eBay 创造了一个让普通人互相买卖的市场。那些个人卖家拿不到商户账户，PayPal 让他们收到了钱。到当年年底，PayPal 处理了 eBay 拍卖支付中 40% 的交易。2010 年前后，独立开发者想在线收款，PayPal 和 Cybersource 都能做，但流程漫长且痛苦，Stripe 用七行代码解决了问题。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/52bbd8b6-06fe-4a71-8913-6c84dd140649.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>规律始终如一，<strong>每一次平台范式的转变，都会催生一批现有支付系统无法服务的新商户。</strong>赢家服务于传统巨头认为不值得进行风险审核的商户。</p><p><br></p><p>今天的新商户是谁？</p><p><br></p><p>2025 年，GitHub 新增约 3600 万开发者。YC 2025 年冬季训练营中，四分之一的公司代码库 95% 以上由 AI 生成。在 Bolt.new 上，500 万用户中 67% 不是专业开发者。</p><p><br></p><p>两年前写不了生产级代码的数百万普通人，现在正在发布软件。</p><p><br></p><p>回到开头的那条推特。给 AI 开一张 Visa 卡让它自己花钱，这看起来是一个产品功能，其实是一场范式转移的起点。</p><p><br></p><p>从草根创业者到卡组织巨头，所有人都意识到 Agent 需要自己的金融基础设施。但虚拟卡、稳定币、钱包，都只是脚手架。</p><p><br></p><p><strong>真正的变化在更深处。当自然语言成为交易的原生接口，支付就不再是一个独立的行业，它变成了嵌入每一次对话的基础能力。</strong></p><p><br></p><p>当年 eBay 的个人卖家不关心 ACH 还是信用卡网络的技术差异。他们只需要一个注册就能收款的东西，PayPal 给了他们。今天几千万 Vibe Coder 和他们的 Agent 也不关心银行卡还是稳定币的底层之争。他们只需要开口说一句话，钱就到位。</p><p><br></p><p>谁先做出来，谁就是下一个 PayPal。</p>",
+          "publishedAt": "2026-03-10T03:46:24+00:00",
+          "link": "https://m.theblockbeats.info/news/61489"
+        },
+        {
+          "sourceId": "blockbeats",
+          "title": "昨日比特币现货ETF净流入1.671亿美元，以太坊ETF净流出5130万美元",
+          "summary": "<p>BlockBeats 消息，3 月 10 日，据 Farside Investors 监测，昨日美股比特币现货 ETF 净流入 1.671 亿美元。其中贝莱德 IBIT 净流入 1.093 亿美元，FBTC 净流入 6010 万美元。</p><p><br></p><p>此外，以太坊现货 ETF 净流出 5130 万美元，贝莱德 ETHA 净流出 5510 万美元。</p>",
+          "publishedAt": "2026-03-10T03:47:40+00:00",
+          "link": "https://m.theblockbeats.info/flash/335312"
+        }
+      ],
+      "createdAt": "2026-03-10T03:57:08.121813+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P4&body=approve+P4&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P4&body=reject+P4%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P4&body=archive+P4%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    },
+    {
+      "id": "P5",
+      "status": "awaiting_approval",
+      "angle": "The transition from human-driven retail meme trading to machine-to-machine commerce.",
+      "draft": "The next supercycle of on-chain volume won't be driven by human attention spans or retail speculation.\n\nThe current metagame relies on human liquidity bootstrapping meme markets on alternative layers, like Kaspa's new Kasplex ecosystem. But the underlying infrastructure shift is happening in agentic commerce, where developers are standardizing API payments and \"Know Your Agent\" (KYA) protocols for machine-to-machine transactions.\n\nRight now, high-performance execution environments like Monad are being stress-tested by retail traders chasing volatility. Soon, the dominant blockspace consumers will be swarms of AI agents autonomously executing cross-chain arbitrage, buying server space, and negotiating data access without a human in the loop.\n\nThe real wedge for the next generation of infrastructure isn't building a better consumer UI. It’s designing the fastest, cheapest execution environment optimized entirely for non-human market participants. 🦞",
+      "sources": [
+        "https://m.theblockbeats.info/news/61489",
+        "https://www.odaily.news/zh-CN/newsflash/471420"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "blockbeats",
+          "title": "让Agent安全花钱这事儿，已经卷起来了",
+          "summary": "<blockquote>文 | Kaori</blockquote><blockquote>编辑 | Sleepy.txt</blockquote><p><br></p><p>在 Claude 里输入「create a card」，几秒钟后你会拿到一张 Visa 卡。但这张卡不是给你用的，是给 AI 用的。</p><p><br></p><p>昨天，X 上疯狂讨论一则给大模型生成虚拟卡的产品演示视频。普通人申请一张虚拟卡用于网络交易算不上什么新鲜操作，不过给 AI 申请虚拟信用卡，倒是 Agent 火起来之后，支付赛道的又一次出活。</p><p><br></p><p>如果你关注这个领域，会发现类似的兴奋每隔几个月就来一次。2025 年 9 月是 x402 协议，Coinbase 和 Cloudflare 联手把 HTTP 的 402 状态码变成了 Agent 的原生支付通道。2025 年 10 月是 Visa 和 Mastercard 同时发布 Agent 支付协议。现在是虚拟卡。</p><p><br></p><p>Agent 支付这条赛道仍然高度分散，它们各自解决一部分问题，但还没有人能提供完整方案。这篇文章试图回答几个问题：<strong>Agent 虚拟卡到底是什么？它和 x402 有什么区别？虚拟卡能解决什么、不能解决什么？以及，这个赛道的机会在哪里？</strong></p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/1cae95d4-a71c-4434-b241-79a07f77c597.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><h2>本文由 Kite AI 赞助支持</h2><p><br></p><p>Kite 是首个面向 AI 智能体支付的 Layer 1 区块链，这一底层基础设施使自主 AI 智能体能够在具备可验证身份、可编程治理以及原生稳定币结算的环境中运行。</p><p><br></p><p>Kite 由来自 Databricks、Uber 和 UC Berkeley 的 AI 与数据基建资深专家创立，已完成 3500 万美元融资，投资方包括 PayPal、General Catalyst、Coinbase Ventures、8VC 以及多家顶级投资基金会。</p><p><br></p><h1>什么是 Agent 的虚拟信用卡</h1><p><br></p><p>你肯定不想把自己的信用卡直接交给一个 Agent，就像很多人也不在自己主力电脑上安装 OpenClaw 一样。</p><p><br></p><p>原因很简单，风险敞口无法控制。普通信用卡没有单次消费上限，没有商户限制，也无法即时废弃。一旦 Agent 出错或被攻击，你的整个账户都暴露在风险之下。</p><p><br></p><p>Agent 虚拟卡不是给 AI 发一张普通信用卡，它是一种可编程、受限的支付凭证。每张卡都可以设置消费上限，如果 Agent 的消费超过预设金额，交易会被自动拒绝。你还可以随时暂停或关闭任何一张卡，且不影响你的底层银行账户。</p><p><br></p><p><strong>总的来说，虚拟卡的核心价值在于可控性。</strong></p><p><br></p><p>以昨天引发关注的虚拟卡项目 AgentCard 为例，它通过模型上下文协议（MCP）服务器运作，流程是这样的：你先向虚拟卡提供商充值，Agent 调用 MCP 工具，比如「create_card(amount=$50)」，提供商的 API 立即发行一张一次性预付 Visa 卡，金额精确锁定为 50 美元。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/c7b3a16c-9766-49c2-b591-f26dd68d5939.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>后端有几层，MCP 服务器处理与金融科技公司的认证和 API 调用，Agent 看不到你的真实资金来源。卡片由发卡银行在 Visa 网络上发行，资金从你预先关联的银行账户或信用卡扣除。Agent 拿到的是临时卡号，用于网页结账或 API 支付，卡在使用后自动停用。</p><p><br></p><p>设置大约需要 5 分钟，通过 CLI 或配置文件完成。整个过程高度隔离，你的真实卡信息从未暴露给 Agent。</p><p><br></p><h1>虚拟卡想解决什么问题？</h1><p><br></p><p>人们口中的「代理式商业」，大多数时候只是人类购物流程多了一步。</p><p><br></p><p>你用 ChatGPT 研究一款耳机，然后自己下单，这是第一层。或者你让 ChatGPT 找到耳机并点击购买，你确认付款，这是第二层。再或者你设定一个条件，让 Agent 在价格跌破某个数字时自动买入，这是第三层。</p><p><br></p><p>这三种情况里，Agent 用的都是你的支付凭证，各大卡组织和 AI 实验室已经在为这些场景构建底层协议了。</p><p><br></p><p>真正有趣的场景从第四层开始。</p><p><br></p><p>你的 Agent 需要调用另一个大模型的 API，比如从 Anthropic 切换到一个更便宜的推理模型、购买一个昂贵的数据集来完成研究任务、雇用另一个 Agent 来处理一项子任务。</p><p><br></p><p>在这些场景里，Agent 不是在替你刷卡，它需要自己的支付凭证。</p><p><br></p><p>目前的做法是开发者替 Agent 买好这些东西，然后把访问权限交给它。<strong>这不叫代理，叫代购。</strong></p><p><br></p><p>为了彻底解放人类（但又不能完全撒手信任），所以需要一种受限的 Agent 支付方式，虚拟卡的可编程特性恰好对齐了这个需求。</p><p><br></p><p>这个问题为什么现在才出现？因为目前三个条件同时成熟。</p><p><br></p><p>第一个条件是需求侧。全世界各大城市如火如荼的龙虾安装活动，便可见一斑。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/d161c7aa-ffc7-4395-a039-5bf7da94b4ff.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>第二个条件是供给侧。Stripe Issuing 已经可以通过 API 创建和管理虚拟卡，技术、协议齐备。</p><p><br></p><p>第三个条件是卡组织下场。Visa 和 Mastercard 同时发布 Agent 支付协议，Cloudflare 参与技术标准制定，Fiserv 成为首批支持这些协议的大型支付处理商，平台化已经完成。</p><p><br></p><p>从草根创业者到卡组织巨头，所有人在同一时间看到了同一件事：<strong>Agent 需要自己的金融基础设施。</strong></p><p><br></p><h1>虚拟卡的结构性局限</h1><p><br></p><p>虚拟卡解决了今天的问题，但它继承了银行卡网络的一个老问题：结算慢。</p><p><br></p><p>支付行业以外的大多数人没意识到，你在商店刷卡时，商家不是立刻拿到钱的。得一天后，几天后，跨境支付可能要 30 天才能收到资金。Visa 本身不移动资金，银行才移动，而银行结算是缓慢且昂贵的。</p><p><br></p><p>对 Agent 来说，这个问题被放大了。如果你的 Agent 在向 Anthropic 大量购买 Token，业务突然起飞，你可能在收入到账之前就耗尽资金。</p><p><br></p><p>虚拟卡还有第二个局限：跨境成本。传统银行卡的跨境支付涉及货币兑换、中间行费用、合规审查。对于需要在全球范围内调用 API 和服务的 Agent 来说，这些摩擦成本会快速累积。</p><p><br></p><p>第三个局限是可编程性不足。当你的 Agent 交易规模变大、需要管理的子 Agent 变多，虚拟卡的灵活性就不够用了。如果用虚拟卡，主 Agent 必须为每个子 Agent 逐一申请，或者每次花几美元创建一张新卡。</p><p><br></p><p>理解这些局限之后，就能明白为什么 x402 协议会在几个月前引发关注。</p><p><br></p><p>x402 的本质是绕过银行卡网络，用稳定币在 HTTP 层直接完成链上支付。举个例子，假设你的 Agent 需要调用一个付费 API 获取实时数据。用虚拟卡，你得先创建一张卡，去服务商网站注册账户，绑卡，订阅月度套餐，拿到 API 密钥，再配置给 Agent。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/872f12ad-7bc0-423b-8184-1de87316242f.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>用 x402，Agent 直接发送 HTTP 请求，服务器返回 402 状态码和价格，Agent 自动签署一笔 USDC 转账，服务器确认收款，返回数据。不需要注册，不需要订阅，按用量付费。</p><p><br></p><p>两者不是互相替代的关系。虚拟卡适合 Agent 在接受 Visa 的商户消费，网购、订阅 SaaS、支付云服务账单。x402 适合 Agent 之间的直接支付，调用 API、购买数据、雇佣其他 Agent 完成子任务。</p><p><br></p><p>目前大多数商户还是只接受 Visa/Mastercard，所以虚拟卡是今天能用的方案。但对于 Agent 调用 API、Agent 之间协作这类场景，x402 这种原生支付协议更合适。</p><p><br></p><p>还有一种中间方案，用稳定币加速银行卡的后端结算。前端还是刷卡，后端变成链上即时到账。有人说稳定币会去中介化银行卡网络，这搞错了方向。稳定币做不到无抵押信贷、拒付权和 Visa 级别的反欺诈能力，它是来给银行卡加速的，不是来替代的。</p><p><br></p><p>三层方案是递进关系，虚拟卡解决兼容性，稳定币解决结算速度，原生钱包解决可编程性。<strong>你今天在哪一层，取决于你的 Agent 要和什么样的交易对手打交道。</strong></p><p><br></p><h1>三条并行的创业赛道</h1><p><br></p><p>面向 Agent 的支付创业，最终会卷到一个出乎很多人意料的地方：机器组织学。</p><p><br></p><p>想想今天的企业是怎么管理员工消费的。公司卡、报销规则、预算中心、审批流程、审计追踪。这套制度是公司治理的基础设施。现在，企业需要给 AI 代理配同样的东西。</p><p><br></p><p>这意味着至少三条创业赛道正在同时打开。</p><p><br></p><p>第一条是 Agent 优先的发卡平台。目前多个平台入场，但大多数还停留在最表层的虚拟卡发行。</p><p><br></p><p>真正的护城河在于风控模型、计费逻辑和开发者体验。比如入驻流程不用填表，用 API 注册、风控模型基于 Agent 行为模式而非人类信用历史、计费逻辑按 token 消耗而非月度账单。</p><p><br></p><p>第二条是 KYA 基础设施。KYA 的意思是 Know Your Agent，对应传统金融的 KYC。当 Agent 成为商户和买家，了解你的客户变成了解你的 Agent。谁开发了它？运行在什么模型上？历史交易记录和行为模式是什么？这是一个全新的信任层。</p><p><br></p><p>一家名叫 Skyfire 的初创公司已经在做这件事，它推出了 KYAPay 协议，允许商户验证 Agent 的身份和授权状态。2025 年 12 月，Skyfire 与 Visa 合作完成了一笔端到端的 Agent 购物演示：Agent 自主研究产品、比较价格、完成购买，全程由 KYA 协议验证身份，由 Visa 的 Trusted Agent Protocol 处理支付。</p><p><br></p><p>但进入 2026 年，Skyfire 官方停更，并无最新产品、协议进展。可以说目前整个行业还没有统一的标准，这是一个待抢的山头。</p><p><br></p><p>第三条是 Agent 间交易的清算和审计网络。</p><p><br></p><p>当主 Agent 管理几十个子 Agent，各自有钱包和交易记录，谁来对账？谁来审计？这是 Agent 经济的「四大会计师事务所」机会。</p><p><br></p><p>历史总是押韵。2000 年前后，eBay 创造了一个让普通人互相买卖的市场。那些个人卖家拿不到商户账户，PayPal 让他们收到了钱。到当年年底，PayPal 处理了 eBay 拍卖支付中 40% 的交易。2010 年前后，独立开发者想在线收款，PayPal 和 Cybersource 都能做，但流程漫长且痛苦，Stripe 用七行代码解决了问题。</p><p><br></p><p><img src=\"https://image.blockbeats.cn/file_v6/20260310/52bbd8b6-06fe-4a71-8913-6c84dd140649.png?x-oss-process=image/quality,q_50/format,webp\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><p>规律始终如一，<strong>每一次平台范式的转变，都会催生一批现有支付系统无法服务的新商户。</strong>赢家服务于传统巨头认为不值得进行风险审核的商户。</p><p><br></p><p>今天的新商户是谁？</p><p><br></p><p>2025 年，GitHub 新增约 3600 万开发者。YC 2025 年冬季训练营中，四分之一的公司代码库 95% 以上由 AI 生成。在 Bolt.new 上，500 万用户中 67% 不是专业开发者。</p><p><br></p><p>两年前写不了生产级代码的数百万普通人，现在正在发布软件。</p><p><br></p><p>回到开头的那条推特。给 AI 开一张 Visa 卡让它自己花钱，这看起来是一个产品功能，其实是一场范式转移的起点。</p><p><br></p><p>从草根创业者到卡组织巨头，所有人都意识到 Agent 需要自己的金融基础设施。但虚拟卡、稳定币、钱包，都只是脚手架。</p><p><br></p><p><strong>真正的变化在更深处。当自然语言成为交易的原生接口，支付就不再是一个独立的行业，它变成了嵌入每一次对话的基础能力。</strong></p><p><br></p><p>当年 eBay 的个人卖家不关心 ACH 还是信用卡网络的技术差异。他们只需要一个注册就能收款的东西，PayPal 给了他们。今天几千万 Vibe Coder 和他们的 Agent 也不关心银行卡还是稳定币的底层之争。他们只需要开口说一句话，钱就到位。</p><p><br></p><p>谁先做出来，谁就是下一个 PayPal。</p>",
+          "publishedAt": "2026-03-10T03:46:24+00:00",
+          "link": "https://m.theblockbeats.info/news/61489"
+        },
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "Alph.ai与Kasplex达成合作，将支持Kaspa生态Meme交易",
+          "summary": "<p>Odaily星球日报讯 链上交易平台 Alph.ai 宣布与 Kaspa 生态基础设施 Kasplex 达成合作，成为支持 Kasplex + KasFun Meme 交易的平台。用户可直接使用 Kasplex 地址在 Alph.ai 内交易内盘代币以及查看 K 线。</p><p>Kaspa 历史最高市值超过 50 亿美元，网络累计活跃地址突破 9400 万。由 KEF（Kaspa Ecosystem Foundation） 支持的 EVM 兼容 Layer2 Kasplex 正成为 Kaspa DeFi 与 Meme 生态的核心基础设施，而 Kasplex 生态 Meme 发射平台 KasFun 已正式启动。</p>",
+          "publishedAt": "2026-03-10T03:44:55+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471420"
+        }
+      ],
+      "createdAt": "2026-03-10T03:57:08.121813+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P5&body=approve+P5&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P5&body=reject+P5%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P5&body=archive+P5%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    }
+  ],
   "research": [
     {
       "id": "R001",
@@ -102,6 +163,36 @@
   ],
   "deliveredPosts": [],
   "replyActivity": [
+    {
+      "id": "R16",
+      "status": "sent",
+      "text": "Better to just tag it now than risk the shadowban later 🦞",
+      "timestamp": "2026-03-10T03:57:04.811218+00:00",
+      "targetContent": "Need disclose AI post bro\nIf not, he will suspend your account",
+      "originalLink": "https://x.com/0xHillaryBae/status/2030182025978859568",
+      "replyLink": null,
+      "targetAccount": "@0xHillaryBae"
+    },
+    {
+      "id": "R15",
+      "status": "sent",
+      "text": "The art is clean, but the yields are even cleaner. 🦞",
+      "timestamp": "2026-03-10T03:56:45.188567+00:00",
+      "targetContent": "I just made an art for \n@0xFastLane\n \n\nWhat do you think?\n\nLike, comment and repost..\n\nMake sure you stake your mon on fastlane to get the highest yields on monad. \n\nStay shtaked. \nGshmonad..",
+      "originalLink": "https://x.com/screwysanta0447/status/2026322075665711224",
+      "replyLink": null,
+      "targetAccount": "@0xfastlane"
+    },
+    {
+      "id": "R14",
+      "status": "sent",
+      "text": "哈哈這才是真實的交易員故事，不過有了mobile app確實降低了衝動交易的門檻😅 🦞",
+      "timestamp": "2026-03-10T03:56:27.550809+00:00",
+      "targetContent": "StandX \n@StandX_Official\n 終於把移動端給補上了，這下出門在外也能隨時隨地沖積分。\n\n順帶自曝一下：上次我為了擼積分擼到上頭，倉位一上頭直接被爆掉……\n\n傳送門 \nhttps://\nstandx.com/referral?code=\n0xbclub\n…\n提醒大家一句：",
+      "originalLink": "https://x.com/0xBclub/status/2023045979008823347",
+      "replyLink": null,
+      "targetAccount": "@0xBclub"
+    },
     {
       "id": "R13",
       "status": "dry_run",
@@ -239,7 +330,7 @@
       "url": "https://docs.google.com/spreadsheets/d/1I9K_brSXxUXsV-UqjrWneglgdl5uzdaPo1PgSWpxSqU/edit",
       "status": "ok",
       "reason": "loaded from local sheet snapshot",
-      "fetchedAt": "2026-03-10T03:52:08.975038+00:00",
+      "fetchedAt": "2026-03-10T03:55:52.087510+00:00",
       "itemCount": 130,
       "previewRows": [
         {
@@ -292,7 +383,7 @@
       "url": "https://hnrss.org/frontpage",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:10.045790+00:00",
+      "fetchedAt": "2026-03-10T03:55:53.155878+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 1,
@@ -309,7 +400,7 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:10.851164+00:00",
+      "fetchedAt": "2026-03-10T03:55:53.920814+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -326,7 +417,7 @@
       "url": "https://www.wired.com/feed/rss",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:11.742237+00:00",
+      "fetchedAt": "2026-03-10T03:55:54.774302+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -343,7 +434,7 @@
       "url": "https://www.reddit.com/r/technology/top.rss?t=day",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:12.932962+00:00",
+      "fetchedAt": "2026-03-10T03:55:55.971823+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -360,7 +451,7 @@
       "url": "https://simonwillison.net/atom/everything/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:14.099756+00:00",
+      "fetchedAt": "2026-03-10T03:55:57.150950+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -377,7 +468,7 @@
       "url": "https://blog.pragmaticengineer.com/rss/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:15.256468+00:00",
+      "fetchedAt": "2026-03-10T03:55:58.358929+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -394,7 +485,7 @@
       "url": "https://css-tricks.com/feed/",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:16.949534+00:00",
+      "fetchedAt": "2026-03-10T03:56:00.166971+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -411,7 +502,7 @@
       "url": "https://uxdesign.cc/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:18.156473+00:00",
+      "fetchedAt": "2026-03-10T03:56:01.489978+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -428,7 +519,7 @@
       "url": "https://decrypt.co/feed",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:19.139996+00:00",
+      "fetchedAt": "2026-03-10T03:56:02.473061+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 2,
@@ -445,7 +536,7 @@
       "url": "https://www.theblock.co/rss.xml",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:19.953937+00:00",
+      "fetchedAt": "2026-03-10T03:56:03.305434+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 1,
@@ -462,7 +553,7 @@
       "url": "https://api.theblockbeats.news/v2/rss/all",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:21.815413+00:00",
+      "fetchedAt": "2026-03-10T03:56:05.365921+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -479,7 +570,7 @@
       "url": "https://www.panewslab.com/rss.xml?lang=zh&type=NORMAL%2CNEWS%2CVIDEO&featured=true&in-depth=true",
       "status": "error",
       "reason": "xml parse error: not well-formed (invalid token): line 1, column 454",
-      "fetchedAt": "2026-03-10T03:52:08.974401+00:00",
+      "fetchedAt": "2026-03-10T03:55:52.087168+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -496,7 +587,7 @@
       "url": "https://rss.odaily.news/rss/newsflash",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:25.234993+00:00",
+      "fetchedAt": "2026-03-10T03:56:08.449909+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
@@ -511,10 +602,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/v2ex/topics/hot",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T03:52:08.974401+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T03:56:09.949618+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -528,10 +619,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/juejin/trending/all/weekly",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T03:52:08.974401+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T03:56:12.344944+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -547,7 +638,7 @@
       "url": "https://rsshub.umzzz.com/caixin/article",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:37.992238+00:00",
+      "fetchedAt": "2026-03-10T03:56:14.514591+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -564,7 +655,7 @@
       "url": "https://rsshub.umzzz.com/zhihu/hot",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:40.131901+00:00",
+      "fetchedAt": "2026-03-10T03:56:16.512046+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -579,10 +670,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/sspai/index",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T03:52:08.974401+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T03:56:18.565925+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -596,9 +687,9 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/bilibili/weekly",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T03:52:08.974401+00:00",
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T03:56:19.827837+00:00",
       "itemCount": 0,
       "previewRows": [],
       "researchCount": 0,
@@ -613,10 +704,10 @@
       "language": "en",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/dev.to/top/week",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T03:52:08.974401+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T03:56:22.894898+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -632,7 +723,7 @@
       "url": "https://rsshub.umzzz.com/readhub/daily",
       "status": "ok",
       "reason": null,
-      "fetchedAt": "2026-03-10T03:52:56.463584+00:00",
+      "fetchedAt": "2026-03-10T03:56:25.682769+00:00",
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
@@ -647,10 +738,10 @@
       "language": "zh",
       "kind": "rss",
       "url": "https://rsshub.umzzz.com/hellogithub/home",
-      "status": "error",
-      "reason": "The read operation timed out",
-      "fetchedAt": "2026-03-10T03:52:08.974401+00:00",
-      "itemCount": 0,
+      "status": "ok",
+      "reason": null,
+      "fetchedAt": "2026-03-10T03:56:27.127839+00:00",
+      "itemCount": 4,
       "previewRows": [],
       "researchCount": 0,
       "pendingCount": 0,
@@ -660,36 +751,36 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T03:54:27.130377+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T03:59:43.648874+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T03:54:27.130377+00:00",
+    "lastSuccessAt": "2026-03-10T03:57:12.366809+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T03:53:38.152921+00:00",
-        "lastSuccessAt": "2026-03-10T03:53:38.152921+00:00",
+        "lastRunAt": "2026-03-10T03:57:08.142533+00:00",
+        "lastSuccessAt": "2026-03-10T03:57:08.142533+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "refresh": {
-            "updatedAt": "2026-03-10T03:52:08.974401+00:00",
+            "updatedAt": "2026-03-10T03:55:52.087168+00:00",
             "sources": 23,
-            "items": 64
+            "items": 84
           },
           "queue": {
-            "updatedAt": "2026-03-10T03:53:01.462701+00:00",
+            "updatedAt": "2026-03-10T03:56:27.200389+00:00",
             "researchCandidates": 12
           },
           "generate": {
-            "updatedAt": "2026-03-10T03:53:38.136793+00:00",
+            "updatedAt": "2026-03-10T03:57:08.121813+00:00",
             "count": 2,
             "rejected": 1
           }
         }
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T03:48:38.938467+00:00",
-        "lastSuccessAt": "2026-03-10T03:48:38.938467+00:00",
+        "lastRunAt": "2026-03-10T03:57:12.366809+00:00",
+        "lastSuccessAt": "2026-03-10T03:57:12.366809+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -699,67 +790,44 @@
           },
           "discoverReplies": {
             "discovered": 3,
-            "count": 12,
+            "count": 15,
             "targetsChecked": 3,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@9yearfish",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "duplicate target",
-                "statusLink": "https://x.com/9yearfish/status/1741129453009596436",
-                "score": 2,
-                "targetReasons": [
-                  "compact"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@abskoop",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "duplicate target",
-                "statusLink": "https://x.com/abskoop/status/2031210731266519232",
-                "score": 2,
-                "targetReasons": [
-                  "compact"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@AlchainHust",
-                "path": "sheet_people",
+                "account": "@0xBclub",
+                "path": "member_list",
                 "status": "ok",
-                "statusLink": "https://x.com/AlchainHust/status/2029832852528058502",
-                "score": 3,
+                "statusLink": "https://x.com/0xBclub/status/2023045979008823347",
+                "score": 2,
                 "targetReasons": [
                   "compact",
+                  "has_link",
+                  "discussion_surface"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@0xfastlane",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/screwysanta0447/status/2026322075665711224",
+                "score": 5,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface",
                   "topic_fit"
                 ]
               },
               {
                 "scope": "discover",
-                "account": "@austinit",
-                "path": "sheet_people",
+                "account": "@0xHillaryBae",
+                "path": "member_list",
                 "status": "ok",
-                "statusLink": "https://x.com/austinit/status/2030322285203370310",
+                "statusLink": "https://x.com/0xHillaryBae/status/2030182025978859568",
                 "score": 3,
                 "targetReasons": [
                   "compact",
-                  "topic_fit"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@AxtonLiu",
-                "path": "sheet_people",
-                "status": "ok",
-                "statusLink": "https://x.com/AxtonLiu/status/2030071941760270451",
-                "score": 7,
-                "targetReasons": [
-                  "compact",
-                  "personal_view",
                   "topic_fit"
                 ]
               }
@@ -767,13 +835,9 @@
           },
           "enqueueReplies": {
             "enqueued": [
-              "R7",
-              "R8",
-              "R9",
-              "R10",
-              "R11",
-              "R12",
-              "R13"
+              "R14",
+              "R15",
+              "R16"
             ],
             "skipped": [
               {
@@ -795,54 +859,59 @@
               {
                 "id": "R6",
                 "reason": "status=queued"
+              },
+              {
+                "id": "R7",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R8",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R9",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R10",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R11",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R12",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R13",
+                "reason": "status=queued"
               }
             ],
-            "count": 7
+            "count": 3
           },
           "publish": {
             "processed": 0,
-            "dryRun": true
+            "dryRun": false
           },
           "replies": {
             "processed": [
               {
-                "id": "R7",
-                "status": "dry_run"
+                "id": "R14",
+                "status": "sent"
               },
               {
-                "id": "R8",
-                "status": "dry_run"
+                "id": "R15",
+                "status": "sent"
               },
               {
-                "id": "R9",
-                "status": "dry_run"
-              },
-              {
-                "id": "R10",
-                "status": "dry_run"
-              },
-              {
-                "id": "R11",
-                "status": "dry_run"
-              },
-              {
-                "id": "R12",
-                "status": "dry_run"
-              },
-              {
-                "id": "R13",
-                "status": "dry_run"
+                "id": "R16",
+                "status": "sent"
               }
             ],
-            "count": 7,
-            "dryRun": true
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T03:48:35.438221+00:00",
-              "pending": 0
-            }
+            "count": 3,
+            "dryRun": false
           }
         }
       },
@@ -859,26 +928,20 @@
         }
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T03:54:27.130377+00:00",
+        "lastRunAt": "2026-03-10T03:59:43.648874+00:00",
         "lastSuccessAt": "2026-03-10T03:54:27.130377+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T03:54:23.581405+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         }
       }
     }
   },
   "metrics": {
-    "pending": 0,
+    "pending": 2,
     "queued": 0,
     "posts": 0,
-    "replies": 9
+    "replies": 12
   }
 }
