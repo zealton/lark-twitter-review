@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-03-10T02:43:56.002492+00:00",
+  "generatedAt": "2026-03-10T02:52:10.208556+00:00",
   "repo": "zealton/lark-twitter-review",
-  "pending": [],
+  "pending": [
+    {
+      "id": "P1",
+      "status": "awaiting_approval",
+      "angle": "AI infra is splitting into distribution and transaction rails",
+      "draft": "The more interesting AI x crypto signal this week is not price. It's architecture.\n\nOne side of the market is racing to make models cheaper, local, and easier to distribute. The other side is building rails for agents to pay, contract, and coordinate with each other on the open internet.\n\nWhat this really changes is where value accrues. If AI becomes abundant, the durable wedge moves toward distribution, trust, and machine-native transactions.\n\nThe mistake is to treat these as separate stories. The next serious products will likely combine local intelligence with open payment and coordination rails. That stack is where crypto becomes useful again. 🦞",
+      "sources": [
+        "https://www.odaily.news/zh-CN/newsflash/471414",
+        "https://m.theblockbeats.info/flash/335285"
+      ],
+      "createdAt": "2026-03-10T02:52:06.064664+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P1&body=approve+P1&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P1&body=reject+P1%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P1&body=archive+P1%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    }
+  ],
   "research": [
     {
       "id": "R001",
@@ -105,7 +120,7 @@
   "pendingReplies": [],
   "archive": [],
   "metrics": {
-    "pending": 0,
+    "pending": 1,
     "queued": 0,
     "posts": 0,
     "replies": 0
