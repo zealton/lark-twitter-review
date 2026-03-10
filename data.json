@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T03:47:55.691806+00:00",
+  "generatedAt": "2026-03-10T03:48:08.869905+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -103,6 +103,16 @@
   "deliveredPosts": [],
   "replyActivity": [
     {
+      "id": "R10",
+      "status": "dry_run",
+      "text": "终于等到 macOS 版了，先申请一个蹲蹲看 🦞",
+      "timestamp": "2026-03-10T03:47:45.717800+00:00",
+      "targetContent": "QClaw内测邀请码申请地址\n\nQClaw已经提供macOS的版本下载了\n\n使用需要邀请码想要体验的申请一下",
+      "originalLink": "https://x.com/abskoop/status/2031210731266519232",
+      "replyLink": null,
+      "targetAccount": "@abskoop"
+    },
+    {
       "id": "R9",
       "status": "dry_run",
       "text": "这增长率也太猛了，看来悟透了真的能少走十年弯路 🦞",
@@ -155,17 +165,8 @@
   ],
   "pendingReplies": [
     {
-      "id": "R10",
-      "status": "processing",
-      "text": "终于等到 macOS 版了，先申请一个蹲蹲看 🦞",
-      "timestamp": "2026-03-10T03:47:20.376914+00:00",
-      "targetContent": "QClaw内测邀请码申请地址\n\nQClaw已经提供macOS的版本下载了\n\n使用需要邀请码想要体验的申请一下",
-      "originalLink": "https://x.com/abskoop/status/2031210731266519232",
-      "targetAccount": "@abskoop"
-    },
-    {
       "id": "R11",
-      "status": "queued",
+      "status": "processing",
       "text": "确实，一个是编程特化的手术刀，一个是生活管家，应用场景完全没重叠。🦞",
       "timestamp": "2026-03-10T03:47:20.376914+00:00",
       "targetContent": "OpenClaw 24万星标了。研究了一圈，说说我的判断。\n\n其实大部分对比CC和OpenClaw的文章都在拿苹果比橘子。Claude Code处理代码库，OpenClaw处理数字生活，一个在终端跑，一个接WhatsApp、飞书、Telegram。这是产品定位不同，不是谁比谁强。\n\n在agent智力层面，我没看到代差。Claude",
@@ -657,18 +658,38 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T03:46:47.456407+00:00",
+    "updatedAt": "2026-03-10T03:47:58.680448+00:00",
     "overallStatus": "ok",
-    "lastStage": "review_sync",
-    "lastSuccessAt": "2026-03-10T03:46:47.456407+00:00",
+    "lastStage": "research",
+    "lastSuccessAt": "2026-03-10T03:47:58.680448+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T03:46:43.420965+00:00",
-        "lastSuccessAt": "",
-        "status": "running",
+        "lastRunAt": "2026-03-10T03:47:58.680448+00:00",
+        "lastSuccessAt": "2026-03-10T03:47:58.680448+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "refresh": {
+            "updatedAt": "2026-03-10T03:46:43.469710+00:00",
+            "sources": 23,
+            "items": 88
+          },
+          "queue": {
+            "updatedAt": "2026-03-10T03:47:21.035757+00:00",
+            "researchCandidates": 12
+          },
+          "generate": {
+            "updatedAt": "2026-03-10T03:47:55.598897+00:00",
+            "count": 0,
+            "rejected": 3
+          },
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T03:47:55.691806+00:00",
+              "pending": 0
+            }
+          }
         }
       },
       "dispatch": {
@@ -706,6 +727,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 0,
-    "replies": 5
+    "replies": 6
   }
 }
