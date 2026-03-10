@@ -303,6 +303,19 @@
             </header>
             <div class="tweet">${escapeHtml(item.draft || "")}</div>
             <div class="meta">Sources: ${(item.sources || []).map((s) => escapeHtml(s)).join(" | ")}</div>
+            <details class="fold spacer">
+              <summary>Show raw source context</summary>
+              ${((item.rawSourceDetails || []).length
+                ? (item.rawSourceDetails || []).map((raw) => `
+                  <div class="feed-item">
+                    <div class="meta">${escapeHtml(raw.sourceId || "source")} · ${escapeHtml(formatTimestamp(raw.publishedAt || ""))}</div>
+                    <div>${escapeHtml(raw.title || "")}</div>
+                    <div class="muted">${escapeHtml(raw.summary || "")}</div>
+                    ${raw.link ? `<div class="meta spacer"><a class="link" href="${raw.link}" target="_blank" rel="noreferrer">Open source</a></div>` : ""}
+                  </div>
+                `).join("")
+                : '<div class="empty">No matched raw source snapshot for this candidate yet.</div>')}
+            </details>
             <div class="actions">
               <a class="btn good" href="${item.approveUrl}" target="_blank" rel="noreferrer">Approve</a>
               <a class="btn bad" href="${item.rejectUrl}" target="_blank" rel="noreferrer">Reject</a>

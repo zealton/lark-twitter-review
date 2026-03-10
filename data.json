@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T02:52:10.208556+00:00",
+  "generatedAt": "2026-03-10T02:56:50.744212+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -10,6 +10,22 @@
       "sources": [
         "https://www.odaily.news/zh-CN/newsflash/471414",
         "https://m.theblockbeats.info/flash/335285"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "odaily-newsflash",
+          "title": "TRON加入Agentic AI Foundation以支持自主AI系统开放基础设施",
+          "summary": "<p>Odaily星球日报讯 TRON DAO 宣布 TRON 已作为会员加入 Linux Foundation 旗下的 Agentic AI Foundation (AAIF)，并将担任该基金会理事会成员。AAIF 旨在为代理式 AI 从实验转向实际生产提供中立、互操作的开放基础设施。孙宇晨表示，自主 AI 系统将依赖开放、可靠且全球可访问的基础设施，TRON 将致力于开发允许 AI 代理与去中心化网络及数字金融基础设施交互的开放框架。</p>",
+          "publishedAt": "2026-03-10T02:41:07+00:00",
+          "link": "https://www.odaily.news/zh-CN/newsflash/471414"
+        },
+        {
+          "sourceId": null,
+          "title": "https://m.theblockbeats.info/flash/335285",
+          "summary": "",
+          "publishedAt": null,
+          "link": "https://m.theblockbeats.info/flash/335285"
+        }
       ],
       "createdAt": "2026-03-10T02:52:06.064664+00:00",
       "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P1&body=approve+P1&labels=twitter-approval%2Capprove",
