@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-03-10T08:31:30.401827+00:00",
+  "generatedAt": "2026-03-10T08:36:12.294704+00:00",
   "repo": "zealton/lark-twitter-review",
-  "pending": [],
+  "pending": [
+    {
+      "id": "P18",
+      "status": "awaiting_approval",
+      "angle": "Engineering as cybernetics insight meets AI's Sisyphus trap, push for asset-like prompts",
+      "whyItMatters": "Turns abstract engineering wisdom into daily AI habits that save time, resonating with builders tired of prompt drudgery.",
+      "postingRationale": "Fuses control theory epiphany with AI workflow myths to deliver gritty operator fix, sounding like lived frustration-turned-hack for human authenticity.",
+      "goalAlignmentScore": 9,
+      "goalAlignmentRationale": "Embodies founder energy in AI tooling judgment, providing high reader utility on prompt efficiency that positions account as essential for crypto/AI builders chasing leverage.",
+      "draft": "工程本质是控制论才懂 AI用着用着就成西西弗斯了 每天重prompt重纠错 醒醒 重复活儿收成资产 自救报错 验证输出 这三板斧让我从推石头变砌城墙 你们还在原地吗🦞",
+      "sources": [
+        "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
+        "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。\n\n很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。\n\n换个模式：每天砌一块砖。\n\n三个习惯：\n遇到重复劳动，收敛成资产\n遇到报错，先学会自救\n保持验证意识，AI 输出的不一定对\n\n"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "sheet-account:xicilion",
+          "title": "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
+          "summary": "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
+          "publishedAt": "2026-03-10T05:47:38.000Z",
+          "link": "https://x.com/xicilion/status/2031245573509230824"
+        },
+        {
+          "sourceId": "sheet-account:axtonliu",
+          "title": "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。\n\n很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。\n\n换个模式：每天砌一块砖。\n\n三个习惯：\n遇到重复劳动，收敛成资产\n遇到报错，先学会自救\n保持验证意识，AI 输出的不一定对\n\n",
+          "summary": "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。 很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。 换个模式：每天砌一块砖。 三个习惯： 遇到重复劳动，收敛成资产 遇到报错，先学会自救 保持验证意识，AI 输出的不一定对 MAPS 的",
+          "publishedAt": "2026-03-08T14:04:03.000Z",
+          "link": "https://x.com/AxtonLiu/status/2030645727081500679"
+        }
+      ],
+      "createdAt": "2026-03-10T08:35:50.121568+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P18&body=approve+P18&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P18&body=reject+P18%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P18&body=archive+P18%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    }
+  ],
   "research": [
     {
       "id": "R001",
@@ -4610,18 +4645,38 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T08:31:30.340232+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T08:36:12.185394+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T08:31:30.340232+00:00",
+    "lastSuccessAt": "2026-03-10T08:36:12.146158+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T08:27:58.352917+00:00",
-        "lastSuccessAt": "2026-03-10T08:18:03.865601+00:00",
-        "status": "failed",
-        "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_generate_drafts.py', '--count', '4', '--source-count', '12']' returned non-zero exit status 1.",
+        "lastRunAt": "2026-03-10T08:36:12.146158+00:00",
+        "lastSuccessAt": "2026-03-10T08:36:12.146158+00:00",
+        "status": "ok",
+        "lastError": "",
         "details": {
-          "error": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_generate_drafts.py', '--count', '4', '--source-count', '12']' returned non-zero exit status 1."
+          "sheetAccounts": {
+            "sampledAccounts": 8,
+            "tweetItems": 16
+          },
+          "refresh": {
+            "sources": 37,
+            "items": 136
+          },
+          "queue": {
+            "researchCandidates": 24
+          },
+          "generate": {
+            "count": 1,
+            "rejected": 3
+          },
+          "promote": {
+            "promoted": [
+              "P18"
+            ],
+            "count": 1
+          }
         },
         "nextRunAt": "2026-03-10T10:05:00+00:00",
         "jobId": "lark-twitter-research",
@@ -4863,37 +4918,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T08:35:00+00:00",
+        "nextRunAt": "2026-03-10T08:40:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T08:31:30.340232+00:00",
+        "lastRunAt": "2026-03-10T08:36:12.185394+00:00",
         "lastSuccessAt": "2026-03-10T08:31:30.340232+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T08:31:26.827718+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 18
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T08:31:26.854503+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 28,
-            "replySuggestions": 8
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T08:31:26.912704+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T08:32:00+00:00",
+        "nextRunAt": "2026-03-10T08:38:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -5747,7 +5784,7 @@
     ]
   },
   "metrics": {
-    "pending": 0,
+    "pending": 1,
     "queued": 0,
     "posts": 2,
     "replies": 28
