@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T08:09:27.596041+00:00",
+  "generatedAt": "2026-03-10T08:10:43.876748+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -10,7 +10,7 @@
       "link": "https://m.theblockbeats.info/flash/335359",
       "publishedAt": "2026-03-10T07:37:40+00:00",
       "capturedAt": "2026-03-10T07:46:29.959096+00:00",
-      "summaryShort": "<p>BlockBeats 消息，3 月 10 日，据市场消息，沙特、阿联酋、伊拉克、科威特合计减产原油至多 670 万桶/日。</p>"
+      "summaryShort": "BlockBeats 消息，3 月 10 日，据市场消息，沙特、阿联酋、伊拉克、科威特合计减产原油至多 670 万桶/日。"
     },
     {
       "id": "R002",
@@ -19,7 +19,7 @@
       "link": "https://www.odaily.news/zh-CN/newsflash/471448",
       "publishedAt": "2026-03-10T07:36:16+00:00",
       "capturedAt": "2026-03-10T07:46:33.548275+00:00",
-      "summaryShort": "<p>Odaily星球日报讯 加密资产交易平台 Gate 大门宣布，GateAI 已实现 App 与 Web 双端全面支持，用户可通过 Web 端任意页面底部入口及 App 端首页、行情等页面悬浮球和常用功能栏进入。</p><p>与此同时，GateAI 进一步完成服务范围扩展，覆盖用户中心、营销活动、统一账户、资产管理、量化与返佣体系等多个核心模块，支持现货行情解读、理财与打新参与指引、闪兑操作说明及平台使用咨询等多类服务，用户可通过自然语言直接获取信息或完成操作指引，减少多"
+      "summaryShort": "Odaily星球日报讯 加密资产交易平台 Gate 大门宣布，GateAI 已实现 App 与 Web 双端全面支持，用户可通过 Web 端任意页面底部入口及 App 端首页、行情等页面悬浮球和常用功能栏进入。 与此同时，GateAI 进一步完成服务范围扩展，覆盖用户中心、营销活动、统一账户、资产管理、量化与返佣体系等多个核心模块，支持现货行情解读、理财与打新参与指引、闪兑操作说明及平台使用咨询等多类服务，用户可通过自然语言直接获取信息或完成操作指引，减少多页面查找步骤，提升"
     },
     {
       "id": "R003",
@@ -37,7 +37,7 @@
       "link": "https://www.theblock.co/post/392931/nasdaq-boerse-stuttgarts-tokenized-settlement-europe?utm_source=rss&utm_medium=rss",
       "publishedAt": "2026-03-10T04:51:49+00:00",
       "capturedAt": "2026-03-10T07:46:28.085602+00:00",
-      "summaryShort": "<p>The partnership is set to connect Nasdaq's European trading venues to Seturion's blockchain-based platform.</p>"
+      "summaryShort": "The partnership is set to connect Nasdaq's European trading venues to Seturion's blockchain-based platform."
     },
     {
       "id": "R005",
@@ -46,7 +46,7 @@
       "link": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything",
       "publishedAt": null,
       "capturedAt": "2026-03-10T07:46:22.232796+00:00",
-      "summaryShort": "<p><strong><a href=\"https://boringsql.com/posts/portable-stats/\">Production query plans without production data</a></strong></p> Radim Marek describes the new <a href=\"https://www.postgresql.org/docs/current/functions-admin.html#FUNCTIONS-A"
+      "summaryShort": "Production query plans without production data Radim Marek describes the new pg_restore_relation_stats() and pg_restore_attribute_stats() functions that were introduced in PostgreSQL 18 in September 2025. The PostgreSQL query planner makes "
     },
     {
       "id": "R006",
@@ -55,7 +55,7 @@
       "link": "https://wenews.caixin.com/2026-03-10/102421504.html",
       "publishedAt": "2026-03-10T07:40:01+00:00",
       "capturedAt": "2026-03-10T07:46:41.089132+00:00",
-      "summaryShort": "<audio src=\"https://audio.caixin.com/caixin/504/rngHAu718TnHgipUeNNz.mp3\" controls=\"\"></audio><br><blockquote><p>在离职五年后，这位加盟了小贷平台的银行前信贷业务人员，因何被追查？</p></blockquote><br> <p> <b>【金融我闻/张宇哲】</b>近日，上海市纪检监察网通告，交通银行上海市分行营业部原副总经理梁斌涉嫌严重违纪违法，目前正在接受交通银"
+      "summaryShort": "在离职五年后，这位加盟了小贷平台的银行前信贷业务人员，因何被追查？ 【金融我闻/张宇哲】 近日，上海市纪检监察网通告，交通银行上海市分行营业部原副总经理梁斌涉嫌严重违纪违法，目前正在接受交通银行上海市分行纪律检查委员会纪律审查和黄浦区监察委员会监察调查。 此时距离梁斌离任交行已近五年。梁斌主要的职业履历在交行，时任交行上海市分行营业部副总经理时，梁斌主管信贷业务。上海分行营业部是上海分行的下属机构，是交行辐射长三角的核心服务窗口和重要业务运营机构。 据财新从业内多方了解，梁斌"
     },
     {
       "id": "R007",
@@ -73,7 +73,7 @@
       "link": "https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240",
       "publishedAt": "2026-03-09T18:28:59+00:00",
       "capturedAt": "2026-03-10T07:46:51.235470+00:00",
-      "summaryShort": "<p>The results are in! Thank you all so much for your patience as we reviewed over 400 submissions for this challenge. </p> <p>We're going to jump right in because our full list of winners and runner-ups is quite long. Regardless of whether"
+      "summaryShort": "The results are in! Thank you all so much for your patience as we reviewed over 400 submissions for this challenge. We're going to jump right in because our full list of winners and runner-ups is quite long. Regardless of whether or not you"
     },
     {
       "id": "R009",
@@ -4400,8 +4400,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T08:09:27.518493+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T08:10:43.755656+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T08:09:27.518493+00:00",
     "stages": {
@@ -4658,7 +4658,7 @@
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-10T08:10:00+00:00",
+        "nextRunAt": "2026-03-10T08:20:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4673,37 +4673,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T08:10:00+00:00",
+        "nextRunAt": "2026-03-10T08:15:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T08:09:27.518493+00:00",
+        "lastRunAt": "2026-03-10T08:10:43.755656+00:00",
         "lastSuccessAt": "2026-03-10T08:09:27.518493+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T08:09:24.099393+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T08:09:24.128447+00:00",
-            "sourceEntries": 21,
-            "sourceSuggestions": 8,
-            "replyEntries": 28,
-            "replySuggestions": 8
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T08:09:24.184931+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T08:10:00+00:00",
+        "nextRunAt": "2026-03-10T08:12:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
