@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:30:32.676409+00:00",
+  "generatedAt": "2026-03-10T05:33:27.388496+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -103,6 +103,36 @@
   "deliveredPosts": [],
   "replyActivity": [
     {
+      "id": "R22",
+      "status": "sent",
+      "text": "The slope is finally looking walkable again 🦞",
+      "timestamp": "2026-03-10T05:32:18.588924+00:00",
+      "targetContent": "Has spring arrived at Cornell? Check out these pictures from campus and you be the judge.",
+      "originalLink": "https://x.com/Cornell/status/2031062208373768434",
+      "replyLink": null,
+      "targetAccount": "@Cornell"
+    },
+    {
+      "id": "R21",
+      "status": "sent",
+      "text": "Chog is the only therapist I trust at this point. 🦞",
+      "timestamp": "2026-03-10T05:32:00.003877+00:00",
+      "targetContent": "whenever you're feeling down, remember, chog will be here for you",
+      "originalLink": "https://x.com/ChogNFT/status/2030296023097086152",
+      "replyLink": null,
+      "targetAccount": "@ChogNFT"
+    },
+    {
+      "id": "R20",
+      "status": "sent",
+      "text": "It’s wild that they have a \"comfort zone\" just like us, we really are just babysitting spicy rocks. 🦞",
+      "timestamp": "2026-03-10T05:31:40.767557+00:00",
+      "targetContent": "Kind of odd phones and laptops need the same conditions human brains do. Too hot or too cold for us is too hot or too cold for them.\nYou’d think a machine could run at freezing temps, but your phone just dies. Feel strangely organic, almost human in spirit.",
+      "originalLink": "https://x.com/billmondays/status/2030364138229113045",
+      "replyLink": null,
+      "targetAccount": "@billmondays"
+    },
+    {
       "id": "R19",
       "status": "sent",
       "text": "Can’t wait to see what’s in store for the new year, let’s keep building. 🦞",
@@ -191,36 +221,6 @@
       "originalLink": "https://x.com/AlchainHust/status/2029832852528058502",
       "replyLink": null,
       "targetAccount": "@AlchainHust"
-    },
-    {
-      "id": "R10",
-      "status": "dry_run",
-      "text": "终于等到 macOS 版了，先申请一个蹲蹲看 🦞",
-      "timestamp": "2026-03-10T03:47:45.717800+00:00",
-      "targetContent": "QClaw内测邀请码申请地址\n\nQClaw已经提供macOS的版本下载了\n\n使用需要邀请码想要体验的申请一下",
-      "originalLink": "https://x.com/abskoop/status/2031210731266519232",
-      "replyLink": null,
-      "targetAccount": "@abskoop"
-    },
-    {
-      "id": "R9",
-      "status": "dry_run",
-      "text": "这增长率也太猛了，看来悟透了真的能少走十年弯路 🦞",
-      "timestamp": "2026-03-10T03:47:38.801377+00:00",
-      "targetContent": "2023 年最后一天，是时候写一篇年终总结了。\n\n- 今年收入大概增长了 30%\n- 自由支配的时间比去年多了 50%\n\n但我最大的收获，却是无意中的一个「人生感悟」，它将让我接下来的人生中，无论站在怎样的十字路口，都可以轻松做出选择。",
-      "originalLink": "https://x.com/9yearfish/status/1741129453009596436",
-      "replyLink": null,
-      "targetAccount": "@9yearfish"
-    },
-    {
-      "id": "R8",
-      "status": "dry_run",
-      "text": "It’s wild how the closer you get to the limit, the more every single second feels like an entire workout. 🦞",
-      "timestamp": "2026-03-10T03:47:31.844278+00:00",
-      "targetContent": "when i read about how the 4 minute mile was first run over 50 years ago and we've only gotten it down 17 seconds since, that felt pretty small\n\ni tried running a 17s faster mile on a treadmill recently:\n\n6:40 was a hard effort but still felt good\n\n6:23 felt like death",
-      "originalLink": "https://x.com/kyvan_z/status/2030667616717537316",
-      "replyLink": null,
-      "targetAccount": "@kyvan_z"
     }
   ],
   "pendingReplies": [],
@@ -726,44 +726,256 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:30:32.587866+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T05:33:27.335652+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T05:30:32.587866+00:00",
+    "lastSuccessAt": "2026-03-10T05:32:26.924539+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T03:57:08.142533+00:00",
+        "lastRunAt": "2026-03-10T05:33:15.062377+00:00",
         "lastSuccessAt": "2026-03-10T03:57:08.142533+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "refresh": {
-            "updatedAt": "2026-03-10T03:55:52.087168+00:00",
-            "sources": 23,
-            "items": 84
-          },
-          "queue": {
-            "updatedAt": "2026-03-10T03:56:27.200389+00:00",
-            "researchCandidates": 12
-          },
-          "generate": {
-            "updatedAt": "2026-03-10T03:57:08.121813+00:00",
-            "count": 2,
-            "rejected": 1
-          }
+          "repo": "zealton/lark-twitter-review"
         },
         "nextRunAt": "2026-03-10T06:05:00+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T05:30:16.901549+00:00",
-        "lastSuccessAt": "2026-03-10T04:34:51.224381+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T05:32:26.924539+00:00",
+        "lastSuccessAt": "2026-03-10T05:32:26.924539+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review",
-          "dryRun": false
+          "sync": {
+            "applied": [],
+            "count": 0
+          },
+          "discoverReplies": {
+            "discovered": 3,
+            "count": 21,
+            "targetsChecked": 3,
+            "diagnostics": [
+              {
+                "scope": "discover",
+                "account": "@4UAIcrypto",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "no target found"
+              },
+              {
+                "scope": "discover",
+                "account": "@atomicform",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-07-03T16:05:00.000Z",
+                "statusLink": "https://x.com/bryanbrinkman/status/1940803975449592150"
+              },
+              {
+                "scope": "discover",
+                "account": "@attio",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-02-04T16:14:12.000Z",
+                "statusLink": "https://x.com/attio/status/2019082068538384468"
+              },
+              {
+                "scope": "discover",
+                "account": "@beulrunyang",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-12-08T01:24:40.000Z",
+                "statusLink": "https://x.com/beulrunyang/status/1997839714985132324"
+              },
+              {
+                "scope": "discover",
+                "account": "@bhdigitalassets",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "no target found"
+              },
+              {
+                "scope": "discover",
+                "account": "@billmondays",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/billmondays/status/2030364138229113045",
+                "score": 3,
+                "targetReasons": [
+                  "compact",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@breathofestova",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-01-01T00:17:53.000Z",
+                "statusLink": "https://x.com/BreathOfEstova/status/2006520215497224620"
+              },
+              {
+                "scope": "discover",
+                "account": "@chase",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-12-10T20:22:22.000Z",
+                "statusLink": "https://x.com/Chase/status/1998850801750679693"
+              },
+              {
+                "scope": "discover",
+                "account": "@ChogNFT",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/ChogNFT/status/2030296023097086152",
+                "score": 2,
+                "targetReasons": [
+                  "compact"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@clawnad9",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-02-01T05:40:53.000Z",
+                "statusLink": "https://x.com/clawnad9/status/2017835525777068339"
+              },
+              {
+                "scope": "discover",
+                "account": "@communahub",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-04-17T23:17:55.000Z",
+                "statusLink": "https://x.com/CommunaHub/status/1913009054516981944"
+              },
+              {
+                "scope": "discover",
+                "account": "@cornell",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/Cornell/status/2031062208373768434",
+                "score": 4,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface"
+                ]
+              }
+            ]
+          },
+          "enqueueReplies": {
+            "enqueued": [
+              "R20",
+              "R21",
+              "R22"
+            ],
+            "skipped": [
+              {
+                "id": "R1",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R2",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R3",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R5",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R6",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R7",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R8",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R9",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R10",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R11",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R12",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R13",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R14",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R15",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R16",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R17",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R18",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R19",
+                "reason": "status=queued"
+              }
+            ],
+            "count": 3
+          },
+          "publish": {
+            "processed": 0,
+            "dryRun": false
+          },
+          "replies": {
+            "processed": [
+              {
+                "id": "R20",
+                "status": "sent"
+              },
+              {
+                "id": "R21",
+                "status": "sent"
+              },
+              {
+                "id": "R22",
+                "status": "sent"
+              }
+            ],
+            "count": 3,
+            "dryRun": false
+          }
         },
         "nextRunAt": "2026-03-10T05:40:00+00:00",
         "jobId": "lark-twitter-dispatch",
@@ -785,20 +997,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:30:32.587866+00:00",
+        "lastRunAt": "2026-03-10T05:33:27.335652+00:00",
         "lastSuccessAt": "2026-03-10T05:30:32.587866+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:30:29.268152+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T05:32:00+00:00",
+        "nextRunAt": "2026-03-10T05:34:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -808,6 +1014,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 0,
-    "replies": 15
+    "replies": 18
   }
 }
