@@ -140,6 +140,28 @@
         padding: 18px;
         margin-bottom: 14px;
       }
+      .rationale-box {
+        margin-top: 12px;
+        padding: 14px 16px;
+        border-radius: 16px;
+        border: 1px solid rgba(29, 93, 115, 0.18);
+        background: linear-gradient(180deg, rgba(29,93,115,.08), rgba(255,255,255,.78));
+      }
+      .rationale-box + .rationale-box {
+        margin-top: 10px;
+      }
+      .rationale-label {
+        font-size: 11px;
+        letter-spacing: .1em;
+        text-transform: uppercase;
+        color: var(--accent-2);
+        margin-bottom: 6px;
+        font-weight: 700;
+      }
+      .rationale-text {
+        line-height: 1.55;
+        font-size: 14px;
+      }
       .card:last-child { margin-bottom: 0; }
       .card header {
         display: flex;
@@ -371,8 +393,16 @@
               <span class="pill">${escapeHtml(item.status)}</span>
             </header>
             <div class="tweet">${escapeHtml(item.draft || "")}</div>
-            ${item.whyItMatters ? `<div class="meta spacer">Why it matters: ${escapeHtml(item.whyItMatters)}</div>` : ""}
-            ${item.postingRationale ? `<div class="meta">Why this post: ${escapeHtml(item.postingRationale)}</div>` : ""}
+            ${item.whyItMatters ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Why It Matters</div>
+                <div class="rationale-text">${escapeHtml(item.whyItMatters)}</div>
+              </div>` : ""}
+            ${item.postingRationale ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Why This Post</div>
+                <div class="rationale-text">${escapeHtml(item.postingRationale)}</div>
+              </div>` : ""}
             <div class="meta">Sources: ${(item.sources || []).map((s) => escapeHtml(s)).join(" | ")}</div>
             <details class="fold spacer">
               <summary>Show raw source context</summary>
@@ -412,8 +442,16 @@
               <span class="pill">${escapeHtml(item.status || "")}</span>
             </header>
             <div class="tweet">${escapeHtml(item.text || "")}</div>
-            ${item.whyItMatters ? `<div class="meta spacer">Why it matters: ${escapeHtml(item.whyItMatters)}</div>` : ""}
-            ${item.postingRationale ? `<div class="meta">Why this post: ${escapeHtml(item.postingRationale)}</div>` : ""}
+            ${item.whyItMatters ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Why It Matters</div>
+                <div class="rationale-text">${escapeHtml(item.whyItMatters)}</div>
+              </div>` : ""}
+            ${item.postingRationale ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Why This Post</div>
+                <div class="rationale-text">${escapeHtml(item.postingRationale)}</div>
+              </div>` : ""}
           </article>
         `).join("");
       }
@@ -434,7 +472,11 @@
               <span class="pill">${escapeHtml(item.status || "")}</span>
             </header>
             <div class="tweet">${escapeHtml(item.text || "")}</div>
-            ${item.replyRationale ? `<div class="meta spacer">Why this reply: ${escapeHtml(item.replyRationale)}</div>` : ""}
+            ${item.replyRationale ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Why This Reply</div>
+                <div class="rationale-text">${escapeHtml(item.replyRationale)}</div>
+              </div>` : ""}
             ${item.targetContent ? `<div class="meta">Target content: ${escapeHtml(item.targetContent)}</div>` : ""}
             ${item.originalLink ? `<div class="meta spacer"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
             ${item.replyLink ? `<div class="meta"><a class="link" href="${item.replyLink}" target="_blank" rel="noreferrer">Reply link</a></div>` : ""}
@@ -458,7 +500,11 @@
               <span class="pill">${escapeHtml(item.status || "")}</span>
             </header>
             <div class="tweet">${escapeHtml(item.text || "")}</div>
-            ${item.replyRationale ? `<div class="meta spacer">Why this reply: ${escapeHtml(item.replyRationale)}</div>` : ""}
+            ${item.replyRationale ? `
+              <div class="rationale-box">
+                <div class="rationale-label">Why This Reply</div>
+                <div class="rationale-text">${escapeHtml(item.replyRationale)}</div>
+              </div>` : ""}
             ${item.targetContent ? `<div class="meta">Target content: ${escapeHtml(item.targetContent)}</div>` : ""}
             ${item.originalLink ? `<div class="meta spacer"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
           </article>
