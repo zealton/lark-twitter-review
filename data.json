@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T06:09:02.791915+00:00",
+  "generatedAt": "2026-03-10T06:12:53.354624+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4040,342 +4040,57 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T06:09:02.710138+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T06:12:53.284544+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T06:09:02.710138+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-10T05:39:23.457618+00:00",
+        "lastRunAt": "2026-03-10T06:12:53.262406+00:00",
         "lastSuccessAt": "2026-03-10T05:39:23.457618+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "refresh": {
-            "updatedAt": "2026-03-10T05:38:06.322299+00:00",
-            "sources": 23,
-            "items": 72
-          },
-          "queue": {
-            "updatedAt": "2026-03-10T05:38:46.744574+00:00",
-            "researchCandidates": 12
-          },
-          "generate": {
-            "updatedAt": "2026-03-10T05:39:23.392058+00:00",
-            "count": 2,
-            "rejected": 1
-          },
-          "promote": {
-            "promoted": [
-              "P8",
-              "P9"
-            ],
-            "count": 2
-          }
+          "repo": "zealton/lark-twitter-review"
         },
         "nextRunAt": "2026-03-10T08:05:00+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T05:40:26.261829+00:00",
+        "lastRunAt": "2026-03-10T06:12:53.278960+00:00",
         "lastSuccessAt": "2026-03-10T05:40:26.261829+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "sync": {
-            "applied": [],
-            "count": 0
-          },
-          "discoverReplies": {
-            "discovered": 3,
-            "count": 27,
-            "targetsChecked": 3,
-            "diagnostics": [
-              {
-                "scope": "discover",
-                "account": "@clawnad9",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-02-01T05:40:53.000Z",
-                "statusLink": "https://x.com/clawnad9/status/2017835525777068339"
-              },
-              {
-                "scope": "discover",
-                "account": "@communahub",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2025-04-17T23:17:55.000Z",
-                "statusLink": "https://x.com/CommunaHub/status/1913009054516981944"
-              },
-              {
-                "scope": "discover",
-                "account": "@CryptoHayes",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-02-24T00:33:01.000Z",
-                "statusLink": "https://x.com/CryptoHayes/status/2026092968458002762"
-              },
-              {
-                "scope": "discover",
-                "account": "@delvallecrypto",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2025-11-28T21:41:08.000Z",
-                "statusLink": "https://x.com/keoneHD/status/1994521967505113233"
-              },
-              {
-                "scope": "discover",
-                "account": "@dreykoooooooo",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2025-11-23T23:16:54.000Z",
-                "statusLink": "https://x.com/dreykoooooooo/status/1992734128878547271"
-              },
-              {
-                "scope": "discover",
-                "account": "@farokh",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-03-01T22:26:39.000Z",
-                "statusLink": "https://x.com/farokh/status/2028235494572863951"
-              },
-              {
-                "scope": "discover",
-                "account": "@Gkoiart",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2025-11-11T01:47:17.000Z",
-                "statusLink": "https://x.com/Blessed_echezi/status/1988060931541397809"
-              },
-              {
-                "scope": "discover",
-                "account": "@HavoMartinez",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-03-06T17:55:13.000Z",
-                "statusLink": "https://x.com/HavoMartinez/status/2029979125188796856"
-              },
-              {
-                "scope": "discover",
-                "account": "@hebi555",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/hebi555/status/2031198624122810781",
-                "score": 2,
-                "targetReasons": [
-                  "compact"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@KuruExchange",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/KuruExchange/status/2031004940684960117",
-                "score": 3,
-                "targetReasons": [
-                  "compact",
-                  "topic_fit"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@leonardoevm",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-01-27T21:37:33.000Z",
-                "statusLink": "https://x.com/leonardoevm/status/2016264340718960700"
-              },
-              {
-                "scope": "discover",
-                "account": "@Lilstarrrs",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/ylonaaah/status/2030693835815485875",
-                "score": 2,
-                "targetReasons": [
-                  "compact",
-                  "multi_mentions",
-                  "topic_fit"
-                ]
-              }
-            ]
-          },
-          "enqueueReplies": {
-            "enqueued": [
-              "R26",
-              "R27",
-              "R28"
-            ],
-            "skipped": [
-              {
-                "id": "R1",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R2",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R3",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R5",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R6",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R7",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R8",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R9",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R10",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R11",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R12",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R13",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R14",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R15",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R16",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R17",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R18",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R19",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R20",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R21",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R22",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R23",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R24",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R25",
-                "reason": "status=queued"
-              }
-            ],
-            "count": 3
-          },
-          "publish": {
-            "processed": 0,
-            "dryRun": false
-          },
-          "replies": {
-            "processed": [
-              {
-                "id": "R26",
-                "status": "failed",
-                "error": "Reply composer not ready: NO_COMPOSER"
-              },
-              {
-                "id": "R27",
-                "status": "failed",
-                "error": "Reply composer not ready: NO_COMPOSER"
-              },
-              {
-                "id": "R28",
-                "status": "sent"
-              }
-            ],
-            "count": 3,
-            "dryRun": false
-          }
+          "repo": "zealton/lark-twitter-review",
+          "dryRun": false
         },
-        "nextRunAt": "2026-03-10T06:10:00+00:00",
+        "nextRunAt": "2026-03-10T06:20:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T05:35:26.622237+00:00",
+        "lastRunAt": "2026-03-10T06:12:53.270664+00:00",
         "lastSuccessAt": "2026-03-10T05:35:26.622237+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "sync": {
-            "applied": [],
-            "count": 0
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T06:10:00+00:00",
+        "nextRunAt": "2026-03-10T06:15:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T06:09:02.710138+00:00",
+        "lastRunAt": "2026-03-10T06:12:53.284544+00:00",
         "lastSuccessAt": "2026-03-10T06:09:02.710138+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T06:08:59.511791+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T06:10:00+00:00",
+        "nextRunAt": "2026-03-10T06:14:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
