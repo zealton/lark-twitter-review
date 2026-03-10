@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T07:42:51.447301+00:00",
+  "generatedAt": "2026-03-10T07:42:54.655888+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4344,10 +4344,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T07:42:51.319158+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-10T07:42:54.598627+00:00",
+    "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T07:40:32.743309+00:00",
+    "lastSuccessAt": "2026-03-10T07:42:54.598627+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T07:00:34.252480+00:00",
@@ -4638,24 +4638,51 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T07:42:51.296636+00:00",
-        "lastSuccessAt": "2026-03-10T07:19:23.273567+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T07:42:54.453088+00:00",
+        "lastSuccessAt": "2026-03-10T07:42:54.453088+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "sync": {
+            "applied": [
+              {
+                "id": "explore-source-account-everythingempty",
+                "action": "approve_suggestion",
+                "issue": 18
+              }
+            ],
+            "count": 1
+          }
         },
         "nextRunAt": "2026-03-10T07:45:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T07:42:51.319158+00:00",
-        "lastSuccessAt": "2026-03-10T07:40:32.743309+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T07:42:54.598627+00:00",
+        "lastSuccessAt": "2026-03-10T07:42:54.598627+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "exploration": {
+            "updatedAt": "2026-03-10T07:42:51.348960+00:00",
+            "replyCandidates": 3,
+            "sourceCandidates": 12
+          },
+          "learning": {
+            "updatedAt": "2026-03-10T07:42:51.382073+00:00",
+            "sourceEntries": 17,
+            "sourceSuggestions": 8,
+            "replyEntries": 22,
+            "replySuggestions": 4
+          },
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T07:42:51.447301+00:00",
+              "pending": 0
+            }
+          }
         },
         "nextRunAt": "2026-03-10T07:44:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
@@ -5282,7 +5309,7 @@
       {
         "id": "explore-source-account-everythingempty",
         "type": "suggest_source_account",
-        "status": "pending",
+        "status": "approved",
         "confidence": 7,
         "sourceId": "",
         "handle": "@everythingempty",
@@ -5298,6 +5325,7 @@
             "Appeared near an active source item already inside the current crypto/AI research pool."
           ]
         },
+        "updatedAt": "2026-03-10T07:42:52.198309+00:00",
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-everythingempty&body=approve+suggestion+explore-source-account-everythingempty&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-everythingempty&body=reject+suggestion+explore-source-account-everythingempty&labels=twitter-learning%2Creject"
       },
