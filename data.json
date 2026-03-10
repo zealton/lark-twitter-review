@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T06:47:46.771286+00:00",
+  "generatedAt": "2026-03-10T06:49:07.424710+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -12,23 +12,15 @@
       "goalAlignmentRationale": "This fits the system goal strongly because it gives readers a non-obvious crypto x AI frame they can reuse, while also reinforcing the account as a founder who sees where machine-native demand may create the next real infrastructure wedge.",
       "draft": "Wall Street is buying crypto beta for humans. Frontier builders are quietly building crypto rails for agents.\n\nETF flows will keep dominating headlines, but the less crowded bet is still machine-to-machine commerce. The chain that wins trust, execution, and settlement for agents may matter more than the next TradFi wrapper. 🦞",
       "sources": [
-        "https://www.odaily.news/zh-CN/newsflash/471431",
-        "https://www.odaily.news/zh-CN/newsflash/471432"
+        "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元"
       ],
       "rawSourceDetails": [
         {
-          "sourceId": null,
-          "title": "https://www.odaily.news/zh-CN/newsflash/471431",
-          "summary": "",
+          "sourceId": "odaily-newsflash",
+          "title": "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元",
+          "summary": "Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。 风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.3…",
           "publishedAt": null,
           "link": "https://www.odaily.news/zh-CN/newsflash/471431"
-        },
-        {
-          "sourceId": null,
-          "title": "https://www.odaily.news/zh-CN/newsflash/471432",
-          "summary": "",
-          "publishedAt": null,
-          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
         }
       ],
       "createdAt": "2026-03-10T05:37:01.151038+00:00",
@@ -46,31 +38,23 @@
       "goalAlignmentRationale": "This fits the goal because it gives readers a concise market-structure takeaway they can use, while reinforcing the account as a founder who filters noise into practical judgment instead of reposting headlines.",
       "draft": "Crypto is getting less \"open frontier\" and more \"institutional shortlist\".\n\nBinance is tightening risk on the long tail while Goldman and Citadel keep sizing into liquid ETF exposure. If you're building in crypto, the lesson is simple: distribution and defensibility matter more now than another generic asset story. 🦞",
       "sources": [
-        "https://www.odaily.news/zh-CN/newsflash/471433",
-        "https://www.odaily.news/zh-CN/newsflash/471431",
-        "https://www.odaily.news/zh-CN/newsflash/471432"
+        "币安将调整多资产组合保证金及合约杠杆与保证金层级",
+        "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元"
       ],
       "rawSourceDetails": [
         {
-          "sourceId": null,
-          "title": "https://www.odaily.news/zh-CN/newsflash/471433",
-          "summary": "",
+          "sourceId": "odaily-newsflash",
+          "title": "币安将调整多资产组合保证金及合约杠杆与保证金层级",
+          "summary": "Odaily星球日报讯 据官方公告，币安将于 2026 年 3 月 13 日 14：00（北京时间）起，调整投资组合保证金（PortfolioMargin）及 PMPro 模式下 WIF、BAT 等 13 种资产的抵押率。同时，币安合约将于 2026 年 3 月 13 日 14：30（北京时间）起，更新 PEOPLE…",
           "publishedAt": null,
           "link": "https://www.odaily.news/zh-CN/newsflash/471433"
         },
         {
-          "sourceId": null,
-          "title": "https://www.odaily.news/zh-CN/newsflash/471431",
-          "summary": "",
+          "sourceId": "odaily-newsflash",
+          "title": "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元",
+          "summary": "Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。 风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.3…",
           "publishedAt": null,
           "link": "https://www.odaily.news/zh-CN/newsflash/471431"
-        },
-        {
-          "sourceId": null,
-          "title": "https://www.odaily.news/zh-CN/newsflash/471432",
-          "summary": "",
-          "publishedAt": null,
-          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
         }
       ],
       "createdAt": "2026-03-10T05:39:23.392058+00:00",
@@ -88,23 +72,15 @@
       "goalAlignmentRationale": "This is highly aligned because it links crypto and AI in a practical way, gives readers a reusable product lens, and strengthens the account's founder-builder identity with a view that feels directional rather than derivative.",
       "draft": "The next big crypto divide may just be user definition: TradFi keeps packaging blockspace for humans, while frontier builders are starting to design for software.\n\nIf your product still assumes every user is a person tapping a wallet, you may miss where new demand comes from. Crypto gets much more interesting once agents can coordinate, pay, and transact natively. 🦞",
       "sources": [
-        "https://www.odaily.news/zh-CN/newsflash/471431",
-        "https://www.odaily.news/zh-CN/newsflash/471432"
+        "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元"
       ],
       "rawSourceDetails": [
         {
-          "sourceId": null,
-          "title": "https://www.odaily.news/zh-CN/newsflash/471431",
-          "summary": "",
+          "sourceId": "odaily-newsflash",
+          "title": "分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元",
+          "summary": "Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。 风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.3…",
           "publishedAt": null,
           "link": "https://www.odaily.news/zh-CN/newsflash/471431"
-        },
-        {
-          "sourceId": null,
-          "title": "https://www.odaily.news/zh-CN/newsflash/471432",
-          "summary": "",
-          "publishedAt": null,
-          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
         }
       ],
       "createdAt": "2026-03-10T05:39:23.392058+00:00",
@@ -122,13 +98,13 @@
       "goalAlignmentRationale": "Elevates the account's positioning by shifting the timeline conversation from token prices to the structural advantages of crypto, attracting high-value operator followers who appreciate macro-level synthesis.",
       "draft": "The more interesting signal from the Middle East conflict isn't just geopolitical—it's how onchain primitives behave under stress. While traditional media trades on sensationalism and TradFi oil markets are closed for the weekend, Polymarket is instantly filtering fake news via financial skin-in-the-game, and Hyperliquid is seamlessly absorbing billions in WTI crude volume.\n\nWhat this really changes is the baseline expectation for global infrastructure. 24/7, financially verified reality is quietly replacing legacy narrative and legacy trading hours. 🦞",
       "sources": [
-        "https://m.theblockbeats.info/news/61494",
-        "https://m.theblockbeats.info/flash/335341"
+        "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats",
+        "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%"
       ],
       "rawSourceDetails": [
         {
-          "sourceId": null,
-          "title": "https://m.theblockbeats.info/news/61494",
+          "sourceId": "blockbeats",
+          "title": "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats",
           "summary": "",
           "publishedAt": null,
           "link": "https://m.theblockbeats.info/news/61494"
@@ -156,8 +132,8 @@
       "goalAlignmentRationale": "Demonstrates sharp operator insight by connecting two separate exchange developments into a broader thesis on market infrastructure, driving platform authority and profile credibility among builders.",
       "draft": "The mistake is to think crypto venues are just competing for meme coin liquidity. The real wedge is aggressively eating TradFi's lunch. We are watching Gate roll out 500x leverage on traditional equities and forex, while Hyperliquid’s WTI crude volume casually spikes 1800% simply because legacy commodity markets were asleep during a weekend geopolitical crisis.\n\nCrypto infrastructure is no longer an alternative asset class—it's rapidly becoming the de facto global macro execution layer. 🦞",
       "sources": [
-        "https://m.theblockbeats.info/flash/335341",
-        "https://www.odaily.news/zh-CN/newsflash/471437"
+        "承接大宗商品交易热潮，Hyperliquid平台收益周涨幅超60%",
+        "Gate TradFi板块支持双端、多杠杆机制与API接入并纳入VIP体系"
       ],
       "rawSourceDetails": [
         {
@@ -190,20 +166,20 @@
       "goalAlignmentRationale": "Directly serves the macro objective of establishing thought leadership in both crypto and AI by identifying a non-obvious synergy between agentic tooling and decentralized prediction markets.",
       "draft": "The most interesting takeaway from a16z's latest AI report is that AI is migrating from browser chat windows into autonomous background agents. But agents need a reliable data layer to execute real-world tasks, and traditional media is failing that test—just look at how Polymarket instantly filtered out fake news during the recent Middle East strikes while major outlets blindly amplified it.\n\nWhat this really changes is the agentic data stack. Prediction markets and onchain truth layers will inevitably become the baseline API for machine decision-making. 🦞",
       "sources": [
-        "https://m.theblockbeats.info/news/61493",
-        "https://m.theblockbeats.info/news/61494"
+        "a16z发布Top 100 AI应用榜单，模型正在走出浏览器和应用 - BlockBeats",
+        "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats"
       ],
       "rawSourceDetails": [
         {
-          "sourceId": null,
-          "title": "https://m.theblockbeats.info/news/61493",
+          "sourceId": "blockbeats",
+          "title": "a16z发布Top 100 AI应用榜单，模型正在走出浏览器和应用 - BlockBeats",
           "summary": "",
           "publishedAt": null,
           "link": "https://m.theblockbeats.info/news/61493"
         },
         {
-          "sourceId": null,
-          "title": "https://m.theblockbeats.info/news/61494",
+          "sourceId": "blockbeats",
+          "title": "如果只看新闻，你可能已经误判了这场伊朗冲突 - BlockBeats",
           "summary": "",
           "publishedAt": null,
           "link": "https://m.theblockbeats.info/news/61494"
@@ -224,8 +200,8 @@
       "goalAlignmentRationale": "Directly reinforces the founder-builder positioning by ignoring mainstream TradFi drama and refocusing the timeline on actual zero-to-one technical paradigm shifts in the crypto x AI intersection.",
       "draft": "Wall Street banks are busy preparing lawsuits to block crypto banking charters, but they are fighting the last war. The more interesting signal is ERC-8183. Virtuals and the EF just standardized how AI agents hire and pay each other on-chain, formalizing a market that already did $3M in volume with zero legal identity. The real wedge isn't convincing legacy lenders to accept crypto companies—it's building a parallel, programmable B2B economy where TradFi literally cannot participate at machine speed. 🦞",
       "sources": [
-        "https://m.theblockbeats.info/news/61495",
-        "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters"
+        "ERC-8183：给三百万美元的链上Agent生意，写个规则",
+        "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters"
       ],
       "rawSourceDetails": [
         {
@@ -258,8 +234,8 @@
       "goalAlignmentRationale": "Executes the Monad mandate flawlessly by grounding the bullishness in a tangible technical necessity (agent-to-agent micropayments) while projecting high founder-level conviction to attract builder follows.",
       "draft": "The traditional market is paralyzed by physical chokepoints, waiting to see if the Strait of Hormuz stays open to keep oil flowing. Meanwhile, Virtuals just formalized the infrastructure for an entirely different supply chain with ERC-8183: autonomous AI agents hiring each other on-chain. What this really changes is the base layer requirement for execution. You can't run a global machine-to-machine economy settling thousands of micro-contracts on legacy EVM throughput. This is exactly why the market is inherently starved for Monad—high-performance state access isn't just a dev luxury anymore, it's the mandatory foundation required to settle the AI economy. 🦞",
       "sources": [
-        "https://m.theblockbeats.info/news/61495",
-        "https://www.odaily.news/zh-CN/newsflash/471439"
+        "ERC-8183：给三百万美元的链上Agent生意，写个规则",
+        "“1011内幕巨鲸”代理人：布油仍处第一阶段，“霍尔木兹海峡是否开放”是关键变量"
       ],
       "rawSourceDetails": [
         {
@@ -292,8 +268,8 @@
       "goalAlignmentRationale": "Drives high profile affinity among hardcore crypto/AI builders by signaling that the account prioritizes structural technological execution over fleeting market green candles.",
       "draft": "Asian indexes like the Nikkei and KOSPI are printing massive green candles today, absorbing all the macro attention. The mistake is to think these legacy liquidity games represent the frontier of value creation. Off the radar, Virtuals and the EF just shipped ERC-8183, standardizing how AI agents autonomously evaluate and pay each other on-chain. What this really changes is the structure of digital labor. We aren't just trading tokens anymore; we are watching the first programmable, human-free API supply chain being built in real time. 🦞",
       "sources": [
-        "https://m.theblockbeats.info/news/61495",
-        "https://m.theblockbeats.info/flash/335348"
+        "ERC-8183：给三百万美元的链上Agent生意，写个规则",
+        "日韩股指大幅收涨"
       ],
       "rawSourceDetails": [
         {
@@ -4056,7 +4032,7 @@
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
-      "pendingCount": 6,
+      "pendingCount": 9,
       "publishedCount": 0,
       "archivedCount": 1
     },
@@ -4090,7 +4066,7 @@
       "itemCount": 4,
       "previewRows": [],
       "researchCount": 4,
-      "pendingCount": 2,
+      "pendingCount": 9,
       "publishedCount": 0,
       "archivedCount": 1
     },
@@ -4268,8 +4244,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T06:47:46.693336+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T06:49:07.318180+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T06:47:46.693336+00:00",
     "stages": {
@@ -4332,32 +4308,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T06:47:46.693336+00:00",
+        "lastRunAt": "2026-03-10T06:49:07.318180+00:00",
         "lastSuccessAt": "2026-03-10T06:47:46.693336+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T06:47:42.471221+00:00",
-            "replyCandidates": 3,
-            "sourceCandidates": 14
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T06:47:42.499839+00:00",
-            "sourceEntries": 22,
-            "sourceSuggestions": 8,
-            "replyEntries": 22,
-            "replySuggestions": 4
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T06:47:42.558404+00:00",
-              "pending": 9
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T06:48:00+00:00",
+        "nextRunAt": "2026-03-10T06:50:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -4368,7 +4326,7 @@
       {
         "sourceId": "blockbeats",
         "signalCount": 4,
-        "pendingCount": 6,
+        "pendingCount": 9,
         "publishedCount": 0,
         "rejectCount": 0,
         "archivedCount": 0,
@@ -4387,11 +4345,11 @@
       {
         "sourceId": "odaily-newsflash",
         "signalCount": 4,
-        "pendingCount": 2,
+        "pendingCount": 9,
         "publishedCount": 0,
         "rejectCount": 0,
         "archivedCount": 0,
-        "goalAlignmentScore": 9,
+        "goalAlignmentScore": 10,
         "titleSamples": [
           "日韩股市集体收涨",
           "“1011内幕巨鲸”代理人：布油仍处第一阶段，“霍尔木兹海峡是否开放”是关键变量",
