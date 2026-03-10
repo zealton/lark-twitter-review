@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T07:49:48.213945+00:00",
+  "generatedAt": "2026-03-10T07:51:07.183600+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4369,10 +4369,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T07:49:48.129217+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T07:51:07.066046+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T07:49:48.129217+00:00",
+    "lastSuccessAt": "2026-03-10T07:49:50.808065+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T07:00:34.252480+00:00",
@@ -4658,49 +4658,47 @@
             "dryRun": false
           }
         },
-        "nextRunAt": "2026-03-10T07:50:00+00:00",
+        "nextRunAt": "2026-03-10T08:00:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T07:49:44.919351+00:00",
-        "lastSuccessAt": "2026-03-10T07:44:07.128419+00:00",
+        "lastRunAt": "2026-03-10T07:49:50.808065+00:00",
+        "lastSuccessAt": "2026-03-10T07:49:50.808065+00:00",
+        "status": "ok",
+        "lastError": "",
+        "details": {
+          "sync": {
+            "applied": [
+              {
+                "id": "explore-reply-base",
+                "action": "reject_suggestion",
+                "issue": 20,
+                "sourceAdded": false
+              },
+              {
+                "id": "explore-reply-preballin",
+                "action": "reject_suggestion",
+                "issue": 19,
+                "sourceAdded": false
+              }
+            ],
+            "count": 2
+          }
+        },
+        "nextRunAt": "2026-03-10T07:55:00+00:00",
+        "jobId": "lark-twitter-review-sync",
+        "jobName": "Sync GitHub approvals"
+      },
+      "dashboard_publish": {
+        "lastRunAt": "2026-03-10T07:51:07.066046+00:00",
+        "lastSuccessAt": "2026-03-10T07:49:48.129217+00:00",
         "status": "running",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T07:50:00+00:00",
-        "jobId": "lark-twitter-review-sync",
-        "jobName": "Sync GitHub approvals"
-      },
-      "dashboard_publish": {
-        "lastRunAt": "2026-03-10T07:49:48.129217+00:00",
-        "lastSuccessAt": "2026-03-10T07:49:48.129217+00:00",
-        "status": "ok",
-        "lastError": "",
-        "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T07:49:44.987437+00:00",
-            "replyCandidates": 5,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T07:49:45.017926+00:00",
-            "sourceEntries": 21,
-            "sourceSuggestions": 8,
-            "replyEntries": 22,
-            "replySuggestions": 6
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T07:49:45.079017+00:00",
-              "pending": 0
-            }
-          }
-        },
-        "nextRunAt": "2026-03-10T07:50:00+00:00",
+        "nextRunAt": "2026-03-10T07:52:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -5430,14 +5428,13 @@
             "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
           ]
         },
-        "updatedAt": "2026-03-10T07:49:45.792020+00:00",
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-base&body=approve+suggestion+explore-reply-base&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-base&body=reject+suggestion+explore-reply-base&labels=twitter-learning%2Creject"
       },
       {
         "id": "explore-reply-preballin",
         "type": "explore_reply_target",
-        "status": "pending",
+        "status": "rejected",
         "confidence": 8,
         "handle": "@preballin",
         "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
