@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:59:59.616215+00:00",
+  "generatedAt": "2026-03-10T06:00:20.916442+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -12,8 +12,7 @@
       "goalAlignmentRationale": "This fits the system goal strongly because it gives readers a non-obvious crypto x AI frame they can reuse, while also reinforcing the account as a founder who sees where machine-native demand may create the next real infrastructure wedge.",
       "draft": "The crypto industry has fundamentally split into two parallel realities that barely acknowledge each other's existence.\n\nOn one side of the spectrum, investment banks like Goldman Sachs are deploying nine-figure blocks into Solana ETFs to capture retail beta, while on the other, the Ethereum Foundation is quietly shipping ERC-8183 to establish native commercial trust entirely for autonomous AI agents.\n\nThe more interesting signal here is the diverging definition of a \"user.\" TradFi is aggressively financializing our blockspace for human mutual funds, while the actual frontier builders are pivoting to design infrastructure where the primary economic actors are entirely non-human.\n\nThe highest alpha isn't found in trying to front-run Wall Street's ETF flows anymore. The real wedge is building the settlement and execution layers for the incoming explosion of machine-to-machine commerce, because traditional allocators haven't even begun to price that in. 🦞",
       "sources": [
-        "https://www.odaily.news/zh-CN/newsflash/471431",
-        "https://www.odaily.news/zh-CN/newsflash/471432"
+        "https://www.odaily.news/zh-CN/newsflash/471431"
       ],
       "rawSourceDetails": [
         {
@@ -22,13 +21,6 @@
           "summary": "<p>Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。</p><p>风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.378 亿美元和 1.074 亿美元的持仓位居前二，其他知名买家包括 Morgan Stanley 和 Citadel Advisors。在投资者类别中，投资顾问以超过 2.7 亿美元的认购额成为最大买家，其次是对冲基金（1.86 亿美元）。尽管自去年 10 月推出以来 SOL 价格有所波动，但 ETF 的累计流入量保持稳定，目前总流入额已达 9.52 亿美元。(Cointelegraph)</p>",
           "publishedAt": "2026-03-10T05:23:28+00:00",
           "link": "https://www.odaily.news/zh-CN/newsflash/471431"
-        },
-        {
-          "sourceId": "odaily-newsflash",
-          "title": "星球午讯",
-          "summary": "<p>1. 易理华：ETH 在 2000 美元以下是抄底机会，短线和长线胜率都大；</p><p>2. 美国司法部要求重审 Tornado Cash 联合创始人 Roman Storm；</p><p>3. 分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元；</p><p>4. 以太坊基金会推出 ERC-8183，旨在解决 AI Agent 之间的商业互信问题；</p><p>5. 新地址 minder42 花费 3.29 万美元押注美军将于 3 月 14 日前进入伊朗；</p><p>6. Eigen 基金会：未来几天将进行 EIGEN 内部钱包转移，不涉及解锁或出售；</p><p>7. CFTC 主席阐述未来重点工作：将确立加密规则并结束与美 SEC 的监管冲突；</p><p>8. Defillama 创始人：大多数 Crypto 垂直赛道都在变成双寡头垄断。</p>",
-          "publishedAt": "2026-03-10T05:30:00+00:00",
-          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
         }
       ],
       "createdAt": "2026-03-10T05:37:01.151038+00:00",
@@ -47,8 +39,7 @@
       "draft": "The crypto industry is quietly transitioning from an era of endless fragmentation into a hardened, high-stakes institutional oligopoly.\n\nWhile Binance tightens its risk engines and adjusts margin tiers across long-tail assets to reduce exposure, Wall Street heavyweights like Goldman and Citadel just dumped over $540M into Solana ETFs in a single quarter, perfectly confirming recent observations that crypto verticals are rapidly consolidating into strict duopolies.\n\nInstitutional capital doesn't care about your new experimental architecture; it cares about established liquidity moats and regulatory clarity. They are aggressively picking the two or three largest networks and starving the rest of the ecosystem of fresh inflows.\n\nWhat this really changes is the go-to-market strategy for new protocols. If you aren't building a wedge that can either directly plug into these entrenched duopolies or completely bypass them with retail-native distribution, you are just building an expensive ghost town. 🦞",
       "sources": [
         "https://www.odaily.news/zh-CN/newsflash/471433",
-        "https://www.odaily.news/zh-CN/newsflash/471431",
-        "https://www.odaily.news/zh-CN/newsflash/471432"
+        "https://www.odaily.news/zh-CN/newsflash/471431"
       ],
       "rawSourceDetails": [
         {
@@ -64,13 +55,6 @@
           "summary": "<p>Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。</p><p>风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.378 亿美元和 1.074 亿美元的持仓位居前二，其他知名买家包括 Morgan Stanley 和 Citadel Advisors。在投资者类别中，投资顾问以超过 2.7 亿美元的认购额成为最大买家，其次是对冲基金（1.86 亿美元）。尽管自去年 10 月推出以来 SOL 价格有所波动，但 ETF 的累计流入量保持稳定，目前总流入额已达 9.52 亿美元。(Cointelegraph)</p>",
           "publishedAt": "2026-03-10T05:23:28+00:00",
           "link": "https://www.odaily.news/zh-CN/newsflash/471431"
-        },
-        {
-          "sourceId": "odaily-newsflash",
-          "title": "星球午讯",
-          "summary": "<p>1. 易理华：ETH 在 2000 美元以下是抄底机会，短线和长线胜率都大；</p><p>2. 美国司法部要求重审 Tornado Cash 联合创始人 Roman Storm；</p><p>3. 分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元；</p><p>4. 以太坊基金会推出 ERC-8183，旨在解决 AI Agent 之间的商业互信问题；</p><p>5. 新地址 minder42 花费 3.29 万美元押注美军将于 3 月 14 日前进入伊朗；</p><p>6. Eigen 基金会：未来几天将进行 EIGEN 内部钱包转移，不涉及解锁或出售；</p><p>7. CFTC 主席阐述未来重点工作：将确立加密规则并结束与美 SEC 的监管冲突；</p><p>8. Defillama 创始人：大多数 Crypto 垂直赛道都在变成双寡头垄断。</p>",
-          "publishedAt": "2026-03-10T05:30:00+00:00",
-          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
         }
       ],
       "createdAt": "2026-03-10T05:39:23.392058+00:00",
@@ -88,8 +72,7 @@
       "goalAlignmentRationale": "This is highly aligned because it bridges crypto and AI through a concrete user-definition lens, which is exactly the kind of synthesis that can grow influence for the account: useful to readers, differentiated from news summaries, and consistent with a founder-builder identity.",
       "draft": "There is a massive disconnect right now between what traditional finance thinks crypto is for and what crypto-native engineers are actually building.\n\nWall Street juggernauts like Morgan Stanley just poured half a billion dollars into Solana ETFs to bet on high-throughput human consumer finance, while the Ethereum Foundation quietly dropped ERC-8183—a core standard exclusively designed to establish commercial trust between autonomous AI agents.\n\nTradFi is busy buying up the infrastructure for the next generation of human day-trading, but open-source developers are already pivoting to build the foundational financial rails for a purely non-human economy.\n\nThe more interesting signal isn't which chain gets the next ETF approval, but which network successfully captures the first billion dollars of machine-to-machine GDP. The founders who optimize their smart contracts for AI agent liquidity today will own the actual frontier tomorrow. 🦞",
       "sources": [
-        "https://www.odaily.news/zh-CN/newsflash/471431",
-        "https://www.odaily.news/zh-CN/newsflash/471432"
+        "https://www.odaily.news/zh-CN/newsflash/471431"
       ],
       "rawSourceDetails": [
         {
@@ -98,13 +81,6 @@
           "summary": "<p>Odaily星球日报讯 根据彭博社 ETF 分析师 James Seyffart 分享的 13F 文件数据，2025 年第四季度，前 30 家机构持有者共向美国现货 Solana ETF 投入超过 5.4 亿美元。</p><p>风险投资公司 Electric Capital 和投资银行 Goldman Sachs 分别以 1.378 亿美元和 1.074 亿美元的持仓位居前二，其他知名买家包括 Morgan Stanley 和 Citadel Advisors。在投资者类别中，投资顾问以超过 2.7 亿美元的认购额成为最大买家，其次是对冲基金（1.86 亿美元）。尽管自去年 10 月推出以来 SOL 价格有所波动，但 ETF 的累计流入量保持稳定，目前总流入额已达 9.52 亿美元。(Cointelegraph)</p>",
           "publishedAt": "2026-03-10T05:23:28+00:00",
           "link": "https://www.odaily.news/zh-CN/newsflash/471431"
-        },
-        {
-          "sourceId": "odaily-newsflash",
-          "title": "星球午讯",
-          "summary": "<p>1. 易理华：ETH 在 2000 美元以下是抄底机会，短线和长线胜率都大；</p><p>2. 美国司法部要求重审 Tornado Cash 联合创始人 Roman Storm；</p><p>3. 分析：去年第四季度华尔街共向美国 Solana ETF 投入 5.4 亿美元；</p><p>4. 以太坊基金会推出 ERC-8183，旨在解决 AI Agent 之间的商业互信问题；</p><p>5. 新地址 minder42 花费 3.29 万美元押注美军将于 3 月 14 日前进入伊朗；</p><p>6. Eigen 基金会：未来几天将进行 EIGEN 内部钱包转移，不涉及解锁或出售；</p><p>7. CFTC 主席阐述未来重点工作：将确立加密规则并结束与美 SEC 的监管冲突；</p><p>8. Defillama 创始人：大多数 Crypto 垂直赛道都在变成双寡头垄断。</p>",
-          "publishedAt": "2026-03-10T05:30:00+00:00",
-          "link": "https://www.odaily.news/zh-CN/newsflash/471432"
         }
       ],
       "createdAt": "2026-03-10T05:39:23.392058+00:00",
@@ -4064,8 +4040,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:59:59.538752+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T06:00:20.856017+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T05:59:59.538752+00:00",
     "stages": {
@@ -4366,7 +4342,7 @@
             "dryRun": false
           }
         },
-        "nextRunAt": "2026-03-10T06:00:00+00:00",
+        "nextRunAt": "2026-03-10T06:10:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4381,25 +4357,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T06:00:00+00:00",
+        "nextRunAt": "2026-03-10T06:05:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:59:59.538752+00:00",
+        "lastRunAt": "2026-03-10T06:00:20.856017+00:00",
         "lastSuccessAt": "2026-03-10T05:59:59.538752+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:59:56.163616+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T06:00:00+00:00",
+        "nextRunAt": "2026-03-10T06:02:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
