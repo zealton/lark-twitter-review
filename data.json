@@ -1,42 +1,7 @@
 {
-  "generatedAt": "2026-03-10T08:57:27.231760+00:00",
+  "generatedAt": "2026-03-10T08:57:30.823182+00:00",
   "repo": "zealton/lark-twitter-review",
-  "pending": [
-    {
-      "id": "P18",
-      "status": "awaiting_approval",
-      "angle": "Engineering as cybernetics insight meets AI's Sisyphus trap, push for asset-like prompts",
-      "whyItMatters": "Turns abstract engineering wisdom into daily AI habits that save time, resonating with builders tired of prompt drudgery.",
-      "postingRationale": "Fuses control theory epiphany with AI workflow myths to deliver gritty operator fix, sounding like lived frustration-turned-hack for human authenticity.",
-      "goalAlignmentScore": 9,
-      "goalAlignmentRationale": "Embodies founder energy in AI tooling judgment, providing high reader utility on prompt efficiency that positions account as essential for crypto/AI builders chasing leverage.",
-      "draft": "Engineering is cybernetics, and most AI use still feels like Sisyphus with a nicer UI\n\nIf you keep rewriting prompts, re-explaining context, and re-checking the same output, you're still pushing the same rock Build assets, debug yourself, verify everything, that's how I stopped pushing and started compounding 🦞",
-      "sources": [
-        "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
-        "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。\n\n很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。\n\n换个模式：每天砌一块砖。\n\n三个习惯：\n遇到重复劳动，收敛成资产\n遇到报错，先学会自救\n保持验证意识，AI 输出的不一定对\n\n"
-      ],
-      "rawSourceDetails": [
-        {
-          "sourceId": "sheet-account:xicilion",
-          "title": "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
-          "summary": "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
-          "publishedAt": "2026-03-10T05:47:38.000Z",
-          "link": "https://x.com/xicilion/status/2031245573509230824"
-        },
-        {
-          "sourceId": "sheet-account:axtonliu",
-          "title": "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。\n\n很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。\n\n换个模式：每天砌一块砖。\n\n三个习惯：\n遇到重复劳动，收敛成资产\n遇到报错，先学会自救\n保持验证意识，AI 输出的不一定对\n\n",
-          "summary": "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。 很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。 换个模式：每天砌一块砖。 三个习惯： 遇到重复劳动，收敛成资产 遇到报错，先学会自救 保持验证意识，AI 输出的不一定对 MAPS 的",
-          "publishedAt": "2026-03-08T14:04:03.000Z",
-          "link": "https://x.com/AxtonLiu/status/2030645727081500679"
-        }
-      ],
-      "createdAt": "2026-03-10T08:35:50.121568+00:00",
-      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P18&body=approve+P18&labels=twitter-approval%2Capprove",
-      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P18&body=reject+P18%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
-      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P18&body=archive+P18%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
-    }
-  ],
+  "pending": [],
   "research": [
     {
       "id": "R001",
@@ -447,6 +412,42 @@
   ],
   "archive": [
     {
+      "id": "P18",
+      "type": "post",
+      "status": "archived",
+      "channel": "github_review_page",
+      "target": "review_dashboard",
+      "angle": "Engineering as cybernetics insight meets AI's Sisyphus trap, push for asset-like prompts",
+      "whyItMatters": "Turns abstract engineering wisdom into daily AI habits that save time, resonating with builders tired of prompt drudgery.",
+      "postingRationale": "Fuses control theory epiphany with AI workflow myths to deliver gritty operator fix, sounding like lived frustration-turned-hack for human authenticity.",
+      "goalAlignmentScore": 9,
+      "goalAlignmentRationale": "Embodies founder energy in AI tooling judgment, providing high reader utility on prompt efficiency that positions account as essential for crypto/AI builders chasing leverage.",
+      "sources": [
+        "https://x.com/xicilion/status/2031245573509230824",
+        "https://x.com/AxtonLiu/status/2030645727081500679"
+      ],
+      "sourceSnapshots": [
+        {
+          "sourceId": "sheet-account:xicilion",
+          "title": "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
+          "summary": "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
+          "publishedAt": "2026-03-10T05:47:38.000Z",
+          "link": "https://x.com/xicilion/status/2031245573509230824"
+        },
+        {
+          "sourceId": "sheet-account:axtonliu",
+          "title": "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。\n\n很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。\n\n换个模式：每天砌一块砖。\n\n三个习惯：\n遇到重复劳动，收敛成资产\n遇到报错，先学会自救\n保持验证意识，AI 输出的不一定对\n\n",
+          "summary": "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。 很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。 换个模式：每天砌一块砖。 三个习惯： 遇到重复劳动，收敛成资产 遇到报错，先学会自救 保持验证意识，AI 输出的不一定对 MAPS 的",
+          "publishedAt": "2026-03-08T14:04:03.000Z",
+          "link": "https://x.com/AxtonLiu/status/2030645727081500679"
+        }
+      ],
+      "draft": "Engineering is cybernetics, and most AI use still feels like Sisyphus with a nicer UI\n\nIf you keep rewriting prompts, re-explaining context, and re-checking the same output, you're still pushing the same rock Build assets, debug yourself, verify everything, that's how I stopped pushing and started compounding 🦞",
+      "createdAt": "2026-03-10T08:35:50.121568+00:00",
+      "archivedAt": "2026-03-10T08:57:28.009017+00:00",
+      "archivedReason": "archive P18\n\nReason:\n-"
+    },
+    {
       "id": "P16",
       "type": "post",
       "status": "archived",
@@ -852,24 +853,6 @@
       "createdAt": "2026-03-10T06:45:23.874721+00:00",
       "archivedAt": "2026-03-10T06:58:22.350755+00:00",
       "archivedReason": "archive P15\n\nReason:\n-"
-    },
-    {
-      "id": "P5",
-      "type": "post",
-      "status": "archived",
-      "channel": "github_review_page",
-      "target": "review_dashboard",
-      "angle": "The transition from human-driven retail meme trading to machine-to-machine commerce.",
-      "whyItMatters": "The transition from human-driven retail meme trading to machine-to-machine commerce.",
-      "sources": [
-        "https://m.theblockbeats.info/news/61489",
-        "https://www.odaily.news/zh-CN/newsflash/471420"
-      ],
-      "sourceSnapshots": [],
-      "draft": "The next supercycle of on-chain volume won't be driven by human attention spans or retail speculation.\n\nThe current metagame relies on human liquidity bootstrapping meme markets on alternative layers, like Kaspa's new Kasplex ecosystem. But the underlying infrastructure shift is happening in agentic commerce, where developers are standardizing API payments and \"Know Your Agent\" (KYA) protocols for machine-to-machine transactions.\n\nRight now, high-performance execution environments like Monad are being stress-tested by retail traders chasing volatility. Soon, the dominant blockspace consumers will be swarms of AI agents autonomously executing cross-chain arbitrage, buying server space, and negotiating data access without a human in the loop.\n\nThe real wedge for the next generation of infrastructure isn't building a better consumer UI. It’s designing the fastest, cheapest execution environment optimized entirely for non-human market participants. 🦞",
-      "createdAt": "2026-03-10T03:57:08.121813+00:00",
-      "archivedAt": "2026-03-10T05:12:40.263201+00:00",
-      "archivedReason": "archive P5\n\nReason:\n-"
     }
   ],
   "sources": [
@@ -4645,10 +4628,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T08:57:27.095451+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-10T08:57:30.741881+00:00",
+    "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T08:56:49.384325+00:00",
+    "lastSuccessAt": "2026-03-10T08:57:30.741881+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T08:36:12.146158+00:00",
@@ -4709,12 +4692,30 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T08:57:27.095451+00:00",
-        "lastSuccessAt": "2026-03-10T08:56:49.384325+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T08:57:30.741881+00:00",
+        "lastSuccessAt": "2026-03-10T08:57:30.741881+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "exploration": {
+            "updatedAt": "2026-03-10T08:57:27.130234+00:00",
+            "replyCandidates": 6,
+            "sourceCandidates": 18
+          },
+          "learning": {
+            "updatedAt": "2026-03-10T08:57:27.164990+00:00",
+            "sourceEntries": 30,
+            "sourceSuggestions": 8,
+            "replyEntries": 28,
+            "replySuggestions": 8
+          },
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-10T08:57:27.231760+00:00",
+              "pending": 1
+            }
+          }
         },
         "nextRunAt": "2026-03-10T08:58:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
@@ -5570,7 +5571,7 @@
     ]
   },
   "metrics": {
-    "pending": 1,
+    "pending": 0,
     "queued": 0,
     "posts": 2,
     "replies": 28
