@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-03-10T05:44:10.047935+00:00",
+  "generatedAt": "2026-03-10T05:46:42.345872+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
       "id": "P6",
       "status": "awaiting_approval",
       "angle": "The split between TradFi asset adoption and builder AI-agent infrastructure",
+      "whyItMatters": "The split between TradFi asset adoption and builder AI-agent infrastructure",
+      "postingRationale": "This post helps the account by turning sourced signals into a distinct founder-builder view that is worth following, not just forwarding.",
       "draft": "The crypto industry has fundamentally split into two parallel realities that barely acknowledge each other's existence.\n\nOn one side of the spectrum, investment banks like Goldman Sachs are deploying nine-figure blocks into Solana ETFs to capture retail beta, while on the other, the Ethereum Foundation is quietly shipping ERC-8183 to establish native commercial trust entirely for autonomous AI agents.\n\nThe more interesting signal here is the diverging definition of a \"user.\" TradFi is aggressively financializing our blockspace for human mutual funds, while the actual frontier builders are pivoting to design infrastructure where the primary economic actors are entirely non-human.\n\nThe highest alpha isn't found in trying to front-run Wall Street's ETF flows anymore. The real wedge is building the settlement and execution layers for the incoming explosion of machine-to-machine commerce, because traditional allocators haven't even begun to price that in. 🦞",
       "sources": [
         "https://www.odaily.news/zh-CN/newsflash/471431",
@@ -36,6 +38,8 @@
       "id": "P8",
       "status": "awaiting_approval",
       "angle": "Market consolidation into institutional duopolies",
+      "whyItMatters": "Market consolidation into institutional duopolies",
+      "postingRationale": "This post helps the account by turning sourced signals into a distinct founder-builder view that is worth following, not just forwarding.",
       "draft": "The crypto industry is quietly transitioning from an era of endless fragmentation into a hardened, high-stakes institutional oligopoly.\n\nWhile Binance tightens its risk engines and adjusts margin tiers across long-tail assets to reduce exposure, Wall Street heavyweights like Goldman and Citadel just dumped over $540M into Solana ETFs in a single quarter, perfectly confirming recent observations that crypto verticals are rapidly consolidating into strict duopolies.\n\nInstitutional capital doesn't care about your new experimental architecture; it cares about established liquidity moats and regulatory clarity. They are aggressively picking the two or three largest networks and starving the rest of the ecosystem of fresh inflows.\n\nWhat this really changes is the go-to-market strategy for new protocols. If you aren't building a wedge that can either directly plug into these entrenched duopolies or completely bypass them with retail-native distribution, you are just building an expensive ghost town. 🦞",
       "sources": [
         "https://www.odaily.news/zh-CN/newsflash/471433",
@@ -74,6 +78,8 @@
       "id": "P9",
       "status": "awaiting_approval",
       "angle": "TradFi human focus vs Crypto-native AI focus",
+      "whyItMatters": "TradFi human focus vs Crypto-native AI focus",
+      "postingRationale": "This post helps the account by turning sourced signals into a distinct founder-builder view that is worth following, not just forwarding.",
       "draft": "There is a massive disconnect right now between what traditional finance thinks crypto is for and what crypto-native engineers are actually building.\n\nWall Street juggernauts like Morgan Stanley just poured half a billion dollars into Solana ETFs to bet on high-throughput human consumer finance, while the Ethereum Foundation quietly dropped ERC-8183—a core standard exclusively designed to establish commercial trust between autonomous AI agents.\n\nTradFi is busy buying up the infrastructure for the next generation of human day-trading, but open-source developers are already pivoting to build the foundational financial rails for a purely non-human economy.\n\nThe more interesting signal isn't which chain gets the next ETF approval, but which network successfully captures the first billion dollars of machine-to-machine GDP. The founders who optimize their smart contracts for AI agent liquidity today will own the actual frontier tomorrow. 🦞",
       "sources": [
         "https://www.odaily.news/zh-CN/newsflash/471431",
@@ -209,7 +215,8 @@
       "targetContent": "Twinkle Twinkle Lil Star\n\n\n@Lilstarrrs\n \n@monad",
       "originalLink": "https://x.com/ylonaaah/status/2030693835815485875",
       "replyLink": null,
-      "targetAccount": "@ylonaaah"
+      "targetAccount": "@ylonaaah",
+      "replyRationale": "Replying to @ylonaaah because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R25",
@@ -219,7 +226,8 @@
       "targetContent": "Timezone's have changed, so we're live an hour earlier than before. Live daily from 10am EDT  Make sure you check what that is for you so you don't miss the show",
       "originalLink": "https://x.com/fomohour/status/2031097691535736860",
       "replyLink": null,
-      "targetAccount": "@fomohour"
+      "targetAccount": "@fomohour",
+      "replyRationale": "Replying to @fomohour because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R24",
@@ -229,7 +237,8 @@
       "targetContent": "Classical music for the Champions League",
       "originalLink": "https://x.com/FCBarcelona/status/2031203633065304521",
       "replyLink": null,
-      "targetAccount": "@FCBarcelona"
+      "targetAccount": "@FCBarcelona",
+      "replyRationale": "Replying to @FCBarcelona because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R23",
@@ -239,7 +248,8 @@
       "targetContent": "yoooo, Who made this banger song for \n@SeismicSys\n \nI just entered the website and all I can say is Wow\nGmic how you feeling this week, 1 year Anniversary is hereeee!!!",
       "originalLink": "https://x.com/Davethompson100/status/2030402420245729736",
       "replyLink": null,
-      "targetAccount": "@Davethompson100"
+      "targetAccount": "@Davethompson100",
+      "replyRationale": "Replying to @Davethompson100 because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R22",
@@ -249,7 +259,8 @@
       "targetContent": "Has spring arrived at Cornell? Check out these pictures from campus and you be the judge.",
       "originalLink": "https://x.com/Cornell/status/2031062208373768434",
       "replyLink": null,
-      "targetAccount": "@Cornell"
+      "targetAccount": "@Cornell",
+      "replyRationale": "Replying to @Cornell because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R21",
@@ -259,7 +270,8 @@
       "targetContent": "whenever you're feeling down, remember, chog will be here for you",
       "originalLink": "https://x.com/ChogNFT/status/2030296023097086152",
       "replyLink": null,
-      "targetAccount": "@ChogNFT"
+      "targetAccount": "@ChogNFT",
+      "replyRationale": "Replying to @ChogNFT because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R20",
@@ -269,7 +281,8 @@
       "targetContent": "Kind of odd phones and laptops need the same conditions human brains do. Too hot or too cold for us is too hot or too cold for them.\nYou’d think a machine could run at freezing temps, but your phone just dies. Feel strangely organic, almost human in spirit.",
       "originalLink": "https://x.com/billmondays/status/2030364138229113045",
       "replyLink": null,
-      "targetAccount": "@billmondays"
+      "targetAccount": "@billmondays",
+      "replyRationale": "Replying to @billmondays because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R19",
@@ -279,7 +292,8 @@
       "targetContent": "Happy New Year 2026 \n\nThank you for being part of the Lumiterra journey.\nA bigger, bolder year awaits. - Team Lumiterra",
       "originalLink": "https://x.com/LumiterraGame/status/2006545916090577037",
       "replyLink": null,
-      "targetAccount": "@LumiterraGame"
+      "targetAccount": "@LumiterraGame",
+      "replyRationale": "Replying to @LumiterraGame because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R18",
@@ -289,7 +303,8 @@
       "targetContent": "The N1 Explorer is now live.\n\n\nhttp://\nexplorer.n1.xyz",
       "originalLink": "https://x.com/N1Chain/status/2026670178621370540",
       "replyLink": null,
-      "targetAccount": "@N1Chain"
+      "targetAccount": "@N1Chain",
+      "replyRationale": "Replying to @N1Chain because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R17",
@@ -299,7 +314,8 @@
       "targetContent": "The update is big things are coming with \n@LunarBaseX\n  on \n@base\n \nIf you signed up for the Cabal waitlist, check your inbox. Invites are going out NOW.\nThe community is taking shape and momentum is building fast. Don't sleep on this.\nStill not on the waitlist? Secure your spot (in",
       "originalLink": "https://x.com/0xhu7i/status/2026290154084635097",
       "replyLink": null,
-      "targetAccount": "@0xhu7i"
+      "targetAccount": "@0xhu7i",
+      "replyRationale": "Replying to @0xhu7i because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R16",
@@ -309,7 +325,8 @@
       "targetContent": "Need disclose AI post bro\nIf not, he will suspend your account",
       "originalLink": "https://x.com/0xHillaryBae/status/2030182025978859568",
       "replyLink": null,
-      "targetAccount": "@0xHillaryBae"
+      "targetAccount": "@0xHillaryBae",
+      "replyRationale": "Replying to @0xHillaryBae because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     },
     {
       "id": "R15",
@@ -319,7 +336,8 @@
       "targetContent": "I just made an art for \n@0xFastLane\n \n\nWhat do you think?\n\nLike, comment and repost..\n\nMake sure you stake your mon on fastlane to get the highest yields on monad. \n\nStay shtaked. \nGshmonad..",
       "originalLink": "https://x.com/screwysanta0447/status/2026322075665711224",
       "replyLink": null,
-      "targetAccount": "@screwysanta0447"
+      "targetAccount": "@screwysanta0447",
+      "replyRationale": "Replying to @screwysanta0447 because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
   ],
   "pendingReplies": [],
@@ -843,8 +861,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T05:44:09.972941+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T05:46:42.287410+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T05:44:09.972941+00:00",
     "stages": {
@@ -1160,25 +1178,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T05:45:00+00:00",
+        "nextRunAt": "2026-03-10T05:50:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T05:44:09.972941+00:00",
+        "lastRunAt": "2026-03-10T05:46:42.287410+00:00",
         "lastSuccessAt": "2026-03-10T05:44:09.972941+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T05:44:06.695994+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T05:46:00+00:00",
+        "nextRunAt": "2026-03-10T05:48:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }

@@ -360,6 +360,8 @@
               <span class="pill">${escapeHtml(item.status)}</span>
             </header>
             <div class="tweet">${escapeHtml(item.draft || "")}</div>
+            ${item.whyItMatters ? `<div class="meta spacer">Why it matters: ${escapeHtml(item.whyItMatters)}</div>` : ""}
+            ${item.postingRationale ? `<div class="meta">Why this post: ${escapeHtml(item.postingRationale)}</div>` : ""}
             <div class="meta">Sources: ${(item.sources || []).map((s) => escapeHtml(s)).join(" | ")}</div>
             <details class="fold spacer">
               <summary>Show raw source context</summary>
@@ -399,6 +401,8 @@
               <span class="pill">${escapeHtml(item.status || "")}</span>
             </header>
             <div class="tweet">${escapeHtml(item.text || "")}</div>
+            ${item.whyItMatters ? `<div class="meta spacer">Why it matters: ${escapeHtml(item.whyItMatters)}</div>` : ""}
+            ${item.postingRationale ? `<div class="meta">Why this post: ${escapeHtml(item.postingRationale)}</div>` : ""}
           </article>
         `).join("");
       }
@@ -419,6 +423,7 @@
               <span class="pill">${escapeHtml(item.status || "")}</span>
             </header>
             <div class="tweet">${escapeHtml(item.text || "")}</div>
+            ${item.replyRationale ? `<div class="meta spacer">Why this reply: ${escapeHtml(item.replyRationale)}</div>` : ""}
             ${item.targetContent ? `<div class="meta">Target content: ${escapeHtml(item.targetContent)}</div>` : ""}
             ${item.originalLink ? `<div class="meta spacer"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
             ${item.replyLink ? `<div class="meta"><a class="link" href="${item.replyLink}" target="_blank" rel="noreferrer">Reply link</a></div>` : ""}
@@ -442,6 +447,7 @@
               <span class="pill">${escapeHtml(item.status || "")}</span>
             </header>
             <div class="tweet">${escapeHtml(item.text || "")}</div>
+            ${item.replyRationale ? `<div class="meta spacer">Why this reply: ${escapeHtml(item.replyRationale)}</div>` : ""}
             ${item.targetContent ? `<div class="meta">Target content: ${escapeHtml(item.targetContent)}</div>` : ""}
             ${item.originalLink ? `<div class="meta spacer"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
           </article>
