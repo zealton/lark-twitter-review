@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T04:34:20.020472+00:00",
+  "generatedAt": "2026-03-10T05:09:23.467521+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -164,6 +164,26 @@
   "deliveredPosts": [],
   "replyActivity": [
     {
+      "id": "R19",
+      "status": "sent",
+      "text": "Can’t wait to see what’s in store for the new year, let’s keep building. 🦞",
+      "timestamp": "2026-03-10T04:34:44.236269+00:00",
+      "targetContent": "Happy New Year 2026 \n\nThank you for being part of the Lumiterra journey.\nA bigger, bolder year awaits. - Team Lumiterra",
+      "originalLink": "https://x.com/LumiterraGame/status/2006545916090577037",
+      "replyLink": null,
+      "targetAccount": "@0xyeezi"
+    },
+    {
+      "id": "R18",
+      "status": "sent",
+      "text": "Finally, an explorer for N1's 100k TPS beast mode—time to hunt those blocks! 🦞[1][4]",
+      "timestamp": "2026-03-10T04:34:25.232765+00:00",
+      "targetContent": "The N1 Explorer is now live.\n\n\nhttp://\nexplorer.n1.xyz",
+      "originalLink": "https://x.com/N1Chain/status/2026670178621370540",
+      "replyLink": null,
+      "targetAccount": "@0xNarb"
+    },
+    {
       "id": "R17",
       "status": "sent",
       "text": "Just checked my inbox, we are so back 🦞",
@@ -262,48 +282,9 @@
       "originalLink": "https://x.com/kyvan_z/status/2030667616717537316",
       "replyLink": null,
       "targetAccount": "@kyvan_z"
-    },
-    {
-      "id": "R7",
-      "status": "dry_run",
-      "text": "Filter for the weirdest cover letters first and work backwards. 🦞",
-      "timestamp": "2026-03-10T03:47:20.472508+00:00",
-      "targetContent": "how do you review 500 applicants?\n\ndo things that don't scale",
-      "originalLink": "https://x.com/DeltaV_xyz/status/2029226549527097480",
-      "replyLink": null,
-      "targetAccount": "@DeltaV_xyz"
-    },
-    {
-      "id": "R6",
-      "status": "sent",
-      "text": "The density of talent per square foot is the real metric here. Physical proximity accelerates trust in a way that digital never can. 🦞",
-      "timestamp": "2026-03-10T03:36:08.468799+00:00",
-      "targetContent": "100 Nads from 24 countries\n1 week\n10 side events\n24/7 hangouts\n\nInfinite good vibes in Koh Samui, Thailand \n\nMusic: 4DANADS by \n@preballin",
-      "originalLink": "https://x.com/Monad_APAC/status/2021189797910352342",
-      "replyLink": null,
-      "targetAccount": "@Monad_APAC"
     }
   ],
-  "pendingReplies": [
-    {
-      "id": "R18",
-      "status": "processing",
-      "text": "Finally, an explorer for N1's 100k TPS beast mode—time to hunt those blocks! 🦞[1][4]",
-      "timestamp": "2026-03-10T04:33:55.598628+00:00",
-      "targetContent": "The N1 Explorer is now live.\n\n\nhttp://\nexplorer.n1.xyz",
-      "originalLink": "https://x.com/N1Chain/status/2026670178621370540",
-      "targetAccount": "@0xNarb"
-    },
-    {
-      "id": "R19",
-      "status": "queued",
-      "text": "Can’t wait to see what’s in store for the new year, let’s keep building. 🦞",
-      "timestamp": "2026-03-10T04:33:55.598628+00:00",
-      "targetContent": "Happy New Year 2026 \n\nThank you for being part of the Lumiterra journey.\nA bigger, bolder year awaits. - Team Lumiterra",
-      "originalLink": "https://x.com/LumiterraGame/status/2006545916090577037",
-      "targetAccount": "@0xyeezi"
-    }
-  ],
+  "pendingReplies": [],
   "archive": [
     {
       "id": "P1",
@@ -770,10 +751,10 @@
   ],
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T04:34:19.940535+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T05:09:23.412561+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T04:34:19.940535+00:00",
+    "lastSuccessAt": "2026-03-10T04:34:51.224381+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T03:57:08.142533+00:00",
@@ -796,20 +777,159 @@
             "rejected": 1
           }
         },
-        "nextRunAt": "2026-03-10T06:00:34.012000+00:00",
+        "nextRunAt": "2026-03-10T06:05:00+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T04:33:29.033209+00:00",
-        "lastSuccessAt": "2026-03-10T03:57:12.366809+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T04:34:51.224381+00:00",
+        "lastSuccessAt": "2026-03-10T04:34:51.224381+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review",
-          "dryRun": false
+          "sync": {
+            "applied": [],
+            "count": 0
+          },
+          "discoverReplies": {
+            "discovered": 3,
+            "count": 18,
+            "targetsChecked": 3,
+            "diagnostics": [
+              {
+                "scope": "discover",
+                "account": "@0xhu7i",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/0xhu7i/status/2026290154084635097",
+                "score": 4,
+                "targetReasons": [
+                  "compact",
+                  "multi_mentions",
+                  "discussion_surface",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@0xNarb",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/N1Chain/status/2026670178621370540",
+                "score": 0,
+                "targetReasons": [
+                  "compact",
+                  "has_link"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@0xyeezi",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/LumiterraGame/status/2006545916090577037",
+                "score": 3,
+                "targetReasons": [
+                  "compact",
+                  "topic_fit"
+                ]
+              }
+            ]
+          },
+          "enqueueReplies": {
+            "enqueued": [
+              "R17",
+              "R18",
+              "R19"
+            ],
+            "skipped": [
+              {
+                "id": "R1",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R2",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R3",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R5",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R6",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R7",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R8",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R9",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R10",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R11",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R12",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R13",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R14",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R15",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R16",
+                "reason": "status=queued"
+              }
+            ],
+            "count": 3
+          },
+          "publish": {
+            "processed": 0,
+            "dryRun": false
+          },
+          "replies": {
+            "processed": [
+              {
+                "id": "R17",
+                "status": "sent"
+              },
+              {
+                "id": "R18",
+                "status": "sent"
+              },
+              {
+                "id": "R19",
+                "status": "sent"
+              }
+            ],
+            "count": 3,
+            "dryRun": false
+          }
         },
-        "nextRunAt": "2026-03-10T04:40:00+00:00",
+        "nextRunAt": "2026-03-10T05:10:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -824,25 +944,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T04:35:00+00:00",
+        "nextRunAt": "2026-03-10T05:10:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T04:34:19.940535+00:00",
+        "lastRunAt": "2026-03-10T05:09:23.412561+00:00",
         "lastSuccessAt": "2026-03-10T04:34:19.940535+00:00",
-        "status": "ok",
-        "lastError": "",
+        "status": "running",
+        "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1.",
         "details": {
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T04:34:16.732568+00:00",
-              "pending": 2
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T04:35:00+00:00",
+        "nextRunAt": "2026-03-10T05:10:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -852,6 +966,6 @@
     "pending": 2,
     "queued": 0,
     "posts": 0,
-    "replies": 13
+    "replies": 15
   }
 }
