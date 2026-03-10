@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T09:48:30.173033+00:00",
+  "generatedAt": "2026-03-10T09:51:19.784472+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -402,7 +402,19 @@
       "replyRationale": "Replying to @ChogNFT because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
   ],
-  "pendingReplies": [],
+  "pendingReplies": [
+    {
+      "id": "R39",
+      "status": "processing",
+      "statusDisplay": "failed",
+      "text": "这哪里是相亲语录，分明是全职免费保姆的招聘简章 🦞",
+      "timestamp": "2026-03-10T09:51:05.600951+00:00",
+      "targetContent": "【男生避雷版】男生如果相亲时说这些，女生记得避雷\n\n1. 今天的饭钱我们AA吧=\n我不想在你身上花钱，还想占你便宜。\n\n2. 我不喜欢物质的女人=\n我希望你倒贴我，还得对我言听计从。\n\n3. 我以后想要三个孩子=\n别怀疑，你就是那个自带工资的“生育工具人”。\n\n4. 我喜欢勤俭持家、明事理的女生=",
+      "originalLink": "https://x.com/Krystal_Eth/status/2031296707296715156",
+      "targetAccount": "@Krystal_Eth",
+      "replyRationale": "Replying to @Krystal_Eth because it came from the member-list rotation and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    }
+  ],
   "archive": [
     {
       "id": "P18",
@@ -4621,10 +4633,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T09:48:30.085563+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T09:51:19.679268+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-10T09:48:30.085563+00:00",
+    "lastSuccessAt": "2026-03-10T09:51:19.636179+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T08:36:12.146158+00:00",
@@ -4659,49 +4671,54 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-10T09:39:54.363554+00:00",
-        "lastSuccessAt": "2026-03-10T09:39:54.363554+00:00",
+        "lastRunAt": "2026-03-10T09:51:19.636179+00:00",
+        "lastSuccessAt": "2026-03-10T09:51:19.636179+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
-            "discovered": 0,
-            "count": 37,
-            "accountsScanned": 5,
-            "elapsedSeconds": 45.2,
-            "targetsChecked": 0,
+            "discovered": 1,
+            "count": 38,
+            "accountsScanned": 4,
+            "elapsedSeconds": 61.1,
+            "targetsChecked": 1,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@cashapp",
+                "account": "@kenobi_mon",
                 "path": "member_list",
-                "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/cashapp\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-07-16T18:20:55.000Z",
+                "statusLink": "https://x.com/kenobi_mon/status/1945549220447953215"
               },
               {
                 "scope": "discover",
-                "account": "@Gnad_InternTH",
+                "account": "@Krystal_Eth",
                 "path": "member_list",
-                "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/Gnad_InternTH\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
+                "status": "ok",
+                "statusLink": "https://x.com/Krystal_Eth/status/2031296707296715156",
+                "score": 2,
+                "targetReasons": [
+                  "compact"
+                ]
               },
               {
                 "scope": "discover",
-                "account": "@Grypto_GK",
+                "account": "@kyvan_z",
                 "path": "member_list",
-                "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/Grypto_GK\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
+                "status": "skipped",
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/kyvan_z/status/2030667616717537316",
+                "score": 4,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface"
+                ]
               },
               {
                 "scope": "discover",
-                "account": "@jayendra_jog",
-                "path": "member_list",
-                "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/jayendra_jog\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
-              },
-              {
-                "scope": "discover",
-                "account": "@kash_bot",
+                "account": "@Lark_Lumi",
                 "path": "member_list",
                 "status": "failed",
                 "reason": "reply discovery exceeded 45s wall clock budget"
@@ -4715,7 +4732,9 @@
             ]
           },
           "enqueueReplies": {
-            "enqueued": [],
+            "enqueued": [
+              "R39"
+            ],
             "skipped": [
               {
                 "id": "R1",
@@ -4863,10 +4882,10 @@
               },
               {
                 "id": "R38",
-                "reason": "status=queued"
+                "reason": "sync_terminal_status:failed"
               }
             ],
-            "count": 0
+            "count": 1
           },
           "publish": {
             "processed": 0,
@@ -4877,9 +4896,9 @@
             "count": 0,
             "dryRun": false
           },
-          "outcome": "idle"
+          "outcome": "replys_enqueued"
         },
-        "nextRunAt": "2026-03-10T09:49:54.363554+00:00",
+        "nextRunAt": "2026-03-10T10:01:19.636179+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4899,46 +4918,28 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T09:48:30.085563+00:00",
+        "lastRunAt": "2026-03-10T09:51:19.679268+00:00",
         "lastSuccessAt": "2026-03-10T09:48:30.085563+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T09:48:26.699661+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 18
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T09:48:26.725836+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 28,
-            "replySuggestions": 8
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T09:48:26.779045+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T09:50:30.085563+00:00",
+        "nextRunAt": "2026-03-10T09:53:19.679268+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },
   "dispatchSummary": {
-    "lastRunAt": "2026-03-10T09:39:54.363554+00:00",
-    "lastSuccessAt": "2026-03-10T09:39:54.363554+00:00",
+    "lastRunAt": "2026-03-10T09:51:19.636179+00:00",
+    "lastSuccessAt": "2026-03-10T09:51:19.636179+00:00",
     "status": "ok",
-    "outcome": "idle",
+    "outcome": "replys_enqueued",
     "lastError": "",
-    "discoveredReplies": 0,
-    "targetsChecked": 5,
-    "enqueuedReplies": 0,
+    "discoveredReplies": 1,
+    "targetsChecked": 4,
+    "enqueuedReplies": 1,
     "sentReplies": 0,
     "publishedPosts": 0
   },
