@@ -86,6 +86,29 @@
         margin: 0 0 12px;
         font-size: 20px;
       }
+      .tabs {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 18px;
+        flex-wrap: wrap;
+      }
+      .tab {
+        appearance: none;
+        border: 1px solid var(--line);
+        background: rgba(255,255,255,.7);
+        color: var(--ink);
+        border-radius: 999px;
+        padding: 10px 16px;
+        font: inherit;
+        cursor: pointer;
+      }
+      .tab.active {
+        background: var(--ink);
+        color: #fff;
+        border-color: var(--ink);
+      }
+      .tab-panel { display: none; }
+      .tab-panel.active { display: grid; }
       .stack {
         display: grid;
         gap: 18px;
@@ -145,6 +168,22 @@
       }
       a.link:hover { text-decoration: underline; }
       .empty { color: var(--muted); padding: 18px 0; }
+      details.fold {
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        background: rgba(255,255,255,.54);
+        padding: 0 16px;
+      }
+      details.fold summary {
+        cursor: pointer;
+        list-style: none;
+        padding: 16px 0;
+        font-size: 16px;
+        font-weight: 600;
+      }
+      details.fold summary::-webkit-details-marker { display: none; }
+      details.fold[open] summary { border-bottom: 1px solid var(--line); }
+      .spacer { margin-top: 14px; }
       @media (max-width: 1100px) {
         .hero, .grid { grid-template-columns: 1fr; }
       }
@@ -171,24 +210,51 @@
       </section>
 
       <section class="grid">
-        <div class="stack">
-          <div class="panel">
-            <h2>Pending Post Approval</h2>
-            <div id="pending-list"></div>
+        <div class="panel" style="grid-column: 1 / -1;">
+          <div class="tabs">
+            <button class="tab active" data-tab="posts">Posts</button>
+            <button class="tab" data-tab="replies">Replies</button>
           </div>
-          <div class="panel">
-            <h2>Recent Output</h2>
-            <div id="delivery-list"></div>
+          <div class="grid tab-panel active" id="tab-posts">
+            <div class="stack">
+              <div class="panel">
+                <h2>Pending Post Approval</h2>
+                <div id="pending-list"></div>
+              </div>
+              <div class="panel">
+                <h2>Approved / Sent Posts</h2>
+                <details class="fold" id="posts-fold">
+                  <summary>Show approved and sent posts</summary>
+                  <div id="post-history"></div>
+                </details>
+              </div>
+            </div>
+            <div class="stack">
+              <div class="panel">
+                <h2>Research Feed</h2>
+                <div id="research-list"></div>
+              </div>
+              <div class="panel">
+                <h2>Recent Archive</h2>
+                <div id="archive-list"></div>
+              </div>
+            </div>
           </div>
-        </div>
-        <div class="stack">
-          <div class="panel">
-            <h2>Research Feed</h2>
-            <div id="research-list"></div>
-          </div>
-          <div class="panel">
-            <h2>Recent Archive</h2>
-            <div id="archive-list"></div>
+          <div class="grid tab-panel" id="tab-replies">
+            <div class="stack">
+              <div class="panel">
+                <h2>Reply Activity</h2>
+                <div id="reply-list"></div>
+              </div>
+            </div>
+            <div class="stack">
+              <div class="panel">
+                <h2>Reply Notes</h2>
+                <div class="empty">
+                  This tab shows sent reply records, target content, and links. Next step is to add full reply pipeline state here.
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -202,6 +268,20 @@
           .replaceAll(">", "&gt;");
       }
 
+      function formatTimestamp(value) {
+        if (!value) return "";
+        const date = new Date(value);
+        if (Number.isNaN(date.getTime())) return String(value);
+        return new Intl.DateTimeFormat(undefined, {
+          month: "short",
+          day: "numeric",
+          hour: "2-digit",
+          minute: "2-digit",
+          hour12: false,
+          timeZoneName: "short",
+        }).format(date);
+      }
+
       function renderPending(items) {
         const root = document.getElementById("pending-list");
         if (!items.length) {
@@ -213,7 +293,7 @@
             <header>
               <div>
                 <h3>${escapeHtml(item.id)} · ${escapeHtml(item.angle || "No angle")}</h3>
-                <div class="meta">${escapeHtml(item.createdAt || "")}</div>
+                <div class="meta">${escapeHtml(formatTimestamp(item.createdAt || ""))}</div>
               </div>
               <span class="pill">${escapeHtml(item.status)}</span>
             </header>
@@ -228,24 +308,44 @@
         `).join("");
       }
 
-      function renderDelivery(items) {
-        const root = document.getElementById("delivery-list");
+      function renderPostHistory(items) {
+        const root = document.getElementById("post-history");
         if (!items.length) {
-          root.innerHTML = '<div class="empty">No delivery records yet.</div>';
+          root.innerHTML = '<div class="empty">No post history yet.</div>';
           return;
         }
         root.innerHTML = items.map((item) => `
           <article class="card">
             <header>
               <div>
-                <h3>${escapeHtml(String(item.kind || "").toUpperCase())} · ${escapeHtml(item.id || "")}</h3>
-                <div class="meta">${escapeHtml(item.timestamp || "")}</div>
+                <h3>${escapeHtml(item.id || "")} · ${escapeHtml(item.angle || "No angle")}</h3>
+                <div class="meta">${escapeHtml(formatTimestamp(item.timestamp || ""))}</div>
+              </div>
+              <span class="pill">${escapeHtml(item.status || "")}</span>
+            </header>
+            <div class="tweet">${escapeHtml(item.text || "")}</div>
+          </article>
+        `).join("");
+      }
+
+      function renderReplies(items) {
+        const root = document.getElementById("reply-list");
+        if (!items.length) {
+          root.innerHTML = '<div class="empty">No reply activity yet.</div>';
+          return;
+        }
+        root.innerHTML = items.map((item) => `
+          <article class="card">
+            <header>
+              <div>
+                <h3>${escapeHtml(item.id || "")} · ${escapeHtml(item.targetAccount || "reply")}</h3>
+                <div class="meta">${escapeHtml(formatTimestamp(item.timestamp || ""))}</div>
               </div>
               <span class="pill">${escapeHtml(item.status || "")}</span>
             </header>
             <div class="tweet">${escapeHtml(item.text || "")}</div>
             ${item.targetContent ? `<div class="meta">Target content: ${escapeHtml(item.targetContent)}</div>` : ""}
-            ${item.originalLink ? `<div class="meta"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
+            ${item.originalLink ? `<div class="meta spacer"><a class="link" href="${item.originalLink}" target="_blank" rel="noreferrer">Original link</a></div>` : ""}
             ${item.replyLink ? `<div class="meta"><a class="link" href="${item.replyLink}" target="_blank" rel="noreferrer">Reply link</a></div>` : ""}
           </article>
         `).join("");
@@ -259,7 +359,7 @@
         }
         root.innerHTML = items.map((item) => `
           <div class="feed-item">
-            <div class="meta">${escapeHtml(item.sourceId || "")} · ${escapeHtml(item.publishedAt || "")}</div>
+            <div class="meta">${escapeHtml(item.sourceId || "")} · ${escapeHtml(formatTimestamp(item.publishedAt || ""))}</div>
             <div><a class="link" href="${item.link}" target="_blank" rel="noreferrer">${escapeHtml(item.title || "")}</a></div>
             <div class="muted">${escapeHtml(item.summaryShort || "")}</div>
           </div>
@@ -274,29 +374,43 @@
         }
         root.innerHTML = items.map((item) => `
           <div class="feed-item">
-            <div class="meta">${escapeHtml(item.id || "")} · ${escapeHtml(item.archivedAt || "")}</div>
+            <div class="meta">${escapeHtml(item.id || "")} · ${escapeHtml(formatTimestamp(item.archivedAt || ""))}</div>
             <div>${escapeHtml(item.angle || item.archivedReason || "")}</div>
             <div class="muted">${escapeHtml(item.archivedReason || "")}</div>
           </div>
         `).join("");
       }
 
+      function activateTab(name) {
+        document.querySelectorAll(".tab").forEach((button) => {
+          button.classList.toggle("active", button.dataset.tab === name);
+        });
+        document.querySelectorAll(".tab-panel").forEach((panel) => {
+          panel.classList.toggle("active", panel.id === `tab-${name}`);
+        });
+      }
+
       fetch("./data.json")
         .then((res) => res.json())
         .then((data) => {
-          document.getElementById("generated-at").textContent = `Updated ${data.generatedAt} · repo ${data.repo}`;
+          document.getElementById("generated-at").textContent = `Updated ${formatTimestamp(data.generatedAt)} · repo ${data.repo}`;
           document.getElementById("metric-pending").textContent = data.metrics.pending;
           document.getElementById("metric-queued").textContent = data.metrics.queued;
           document.getElementById("metric-posts").textContent = data.metrics.posts;
           document.getElementById("metric-replies").textContent = data.metrics.replies;
           renderPending(data.pending || []);
-          renderDelivery(data.delivery || []);
+          renderReplies(data.replyActivity || []);
+          renderPostHistory(data.deliveredPosts || []);
           renderResearch(data.research || []);
           renderArchive(data.archive || []);
         })
         .catch((error) => {
           document.getElementById("pending-list").innerHTML = `<div class="empty">${escapeHtml(error.message)}</div>`;
         });
+
+      document.querySelectorAll(".tab").forEach((button) => {
+        button.addEventListener("click", () => activateTab(button.dataset.tab));
+      });
     </script>
   </body>
 </html>

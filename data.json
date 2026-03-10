@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T02:22:19.242988+00:00",
+  "generatedAt": "2026-03-10T02:31:09.812462+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -115,72 +115,74 @@
       "summaryShort": "Americans are increasingly using AI tools even as a majority say the technology’s risks outweigh its benefits."
     }
   ],
-  "delivery": [
+  "deliveredPosts": [
     {
-      "kind": "reply",
+      "id": "P5",
+      "status": "posted",
+      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
+      "timestamp": "2026-03-09T12:52:59.626675+00:00",
+      "angle": "If agents transact, crypto becomes part of the product stack."
+    },
+    {
+      "id": "P3",
+      "status": "posted",
+      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
+      "timestamp": "2026-03-09T12:52:45.347701+00:00",
+      "angle": "The real AI x crypto convergence is infrastructure, not narrative."
+    },
+    {
+      "id": "P5",
+      "status": "failed",
+      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
+      "timestamp": "2026-03-09T12:51:02.210021+00:00",
+      "angle": null
+    },
+    {
+      "id": "P3",
+      "status": "failed",
+      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
+      "timestamp": "2026-03-09T12:50:52.489975+00:00",
+      "angle": null
+    },
+    {
+      "id": "P5",
+      "status": "failed",
+      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
+      "timestamp": "2026-03-09T12:49:26.286539+00:00",
+      "angle": null
+    },
+    {
+      "id": "P3",
+      "status": "failed",
+      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
+      "timestamp": "2026-03-09T12:49:19.085875+00:00",
+      "angle": null
+    },
+    {
+      "id": "P5",
+      "status": "dry_run",
+      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
+      "timestamp": "2026-03-09T12:47:51.272763+00:00",
+      "angle": "If agents transact, crypto becomes part of the product stack."
+    },
+    {
+      "id": "P3",
+      "status": "dry_run",
+      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
+      "timestamp": "2026-03-09T12:47:09.291425+00:00",
+      "angle": "The real AI x crypto convergence is infrastructure, not narrative."
+    }
+  ],
+  "replyActivity": [
+    {
       "id": "reply:test-1",
       "status": "dry_run",
       "text": "Good framing. The product angle matters more than the narrative angle here. 🦞",
       "timestamp": "2026-03-09T12:56:13.898698+00:00",
       "targetContent": "AI x crypto is mostly narrative today.",
       "originalLink": "https://x.com/example/status/123",
-      "replyLink": "https://x.com/Lark_Lumi/status/456"
-    },
-    {
-      "kind": "post",
-      "id": "P5",
-      "status": "posted",
-      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
-      "timestamp": "2026-03-09T12:52:59.626675+00:00"
-    },
-    {
-      "kind": "post",
-      "id": "P3",
-      "status": "posted",
-      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
-      "timestamp": "2026-03-09T12:52:45.347701+00:00"
-    },
-    {
-      "kind": "post",
-      "id": "P5",
-      "status": "failed",
-      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
-      "timestamp": "2026-03-09T12:51:02.210021+00:00"
-    },
-    {
-      "kind": "post",
-      "id": "P3",
-      "status": "failed",
-      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
-      "timestamp": "2026-03-09T12:50:52.489975+00:00"
-    },
-    {
-      "kind": "post",
-      "id": "P5",
-      "status": "failed",
-      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
-      "timestamp": "2026-03-09T12:49:26.286539+00:00"
-    },
-    {
-      "kind": "post",
-      "id": "P3",
-      "status": "failed",
-      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
-      "timestamp": "2026-03-09T12:49:19.085875+00:00"
-    },
-    {
-      "kind": "post",
-      "id": "P5",
-      "status": "dry_run",
-      "text": "The interesting part of AI x crypto isn’t speculation. It’s what happens when agents start transacting.\n\nThe moment software needs to pay for APIs, compute, data, and outcomes on its own, payments and settlement stop being finance features and start becoming product primitives.\n\nThat’s where crypto gets structurally interesting again. 🦞",
-      "timestamp": "2026-03-09T12:47:51.272763+00:00"
-    },
-    {
-      "kind": "post",
-      "id": "P3",
-      "status": "dry_run",
-      "text": "Most people still talk about AI x crypto like it's a sector story. I think it's becoming a stack story.\n\nIf agents start buying data, compute, APIs, and outcomes by themselves, then identity, payments, settlement, and coordination all become part of the product surface.\n\nThat's when crypto stops being adjacent to AI and starts becoming infrastructure for it. 🦞",
-      "timestamp": "2026-03-09T12:47:09.291425+00:00"
+      "replyLink": "https://x.com/Lark_Lumi/status/456",
+      "targetAccount": "@example"
     }
   ],
   "archive": [
