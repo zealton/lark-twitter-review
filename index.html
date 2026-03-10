@@ -603,7 +603,9 @@
         }
         root.innerHTML = items.map((item) => `
           <div class="feed-item">
-            <div class="meta">${escapeHtml(item.sourceId || "")} · ${escapeHtml(formatTimestamp(item.publishedAt || ""))}</div>
+            <div class="meta">${escapeHtml(item.sourceId || "")}</div>
+            <div class="meta">Published: ${escapeHtml(formatTimestamp(item.publishedAt || ""))}</div>
+            <div class="meta">Captured: ${escapeHtml(formatTimestamp(item.capturedAt || ""))}</div>
             <div><a class="link" href="${item.link}" target="_blank" rel="noreferrer">${escapeHtml(item.title || "")}</a></div>
             <div class="muted">${escapeHtml(item.summaryShort || "")}</div>
           </div>
