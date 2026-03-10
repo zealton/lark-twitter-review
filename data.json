@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T08:44:23.551190+00:00",
+  "generatedAt": "2026-03-10T08:50:16.100380+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -44,7 +44,7 @@
       "title": "Compound集成USDe为抵押品",
       "link": "https://m.theblockbeats.info/flash/335374",
       "publishedAt": "2026-03-10T08:21:47+00:00",
-      "capturedAt": "2026-03-10T08:26:53.975609+00:00",
+      "capturedAt": "2026-03-10T08:29:23.687808+00:00",
       "summaryShort": "BlockBeats 消息，3 月 10 日，Compound 基金会表示，USDe 已被添加为 Compound v3 主网中 USDC 和 USDT Comets 的抵押品。"
     },
     {
@@ -53,7 +53,7 @@
       "title": "币安将于2026年3月13日移除DODO/BTC和GMT/EUR现货交易对",
       "link": "https://www.odaily.news/zh-CN/newsflash/471450",
       "publishedAt": "2026-03-10T08:00:56+00:00",
-      "capturedAt": "2026-03-10T08:26:56.922859+00:00",
+      "capturedAt": "2026-03-10T08:29:22.326314+00:00",
       "summaryShort": "Odaily星球日报讯 据官方公告，为保护用户并维持高质量交易市场，币安将于 2026 年 3 月 13 日 03：00（UTC）移除并停止 DODO/BTC 和 GMT/EUR 现货交易对的交易。同时，针对这些交易对的现货交易机器人服务也将在同一时间终止。用户仍可在币安其他可用交易对上交易相关资产。 （本条快讯由AI辅助生成）"
     },
     {
@@ -62,11 +62,20 @@
       "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
       "link": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
       "publishedAt": "2026-03-10T06:18:23+00:00",
-      "capturedAt": "2026-03-10T08:26:51.199590+00:00",
+      "capturedAt": "2026-03-10T08:29:22.712293+00:00",
       "summaryShort": "The potential lawsuit adds to existing tension between traditional lenders and crypto firms over access to the U.S. financial system."
     },
     {
       "id": "R004",
+      "sourceId": "hn-frontpage",
+      "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
+      "link": "https://loger-project.github.io",
+      "publishedAt": "2026-03-10T06:16:06+00:00",
+      "capturedAt": "2026-03-10T08:29:22.041898+00:00",
+      "summaryShort": "Article URL: https://loger-project.github.io Comments URL: https://news.ycombinator.com/item?id=47319620 Points: 7 # Comments: 4"
+    },
+    {
+      "id": "R005",
       "sourceId": "sheet-account:xicilion",
       "title": "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
       "link": "https://x.com/xicilion/status/2031245573509230824",
@@ -75,16 +84,16 @@
       "summaryShort": "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？"
     },
     {
-      "id": "R005",
+      "id": "R006",
       "sourceId": "the-block",
       "title": "Nasdaq partners with Boerse Stuttgart’s Seturion to advance tokenized settlement in Europe",
       "link": "https://www.theblock.co/post/392931/nasdaq-boerse-stuttgarts-tokenized-settlement-europe?utm_source=rss&utm_medium=rss",
       "publishedAt": "2026-03-10T04:51:49+00:00",
-      "capturedAt": "2026-03-10T08:26:52.017959+00:00",
+      "capturedAt": "2026-03-10T08:29:22.613722+00:00",
       "summaryShort": "The partnership is set to connect Nasdaq's European trading venues to Seturion's blockchain-based platform."
     },
     {
-      "id": "R006",
+      "id": "R007",
       "sourceId": "sheet-account:waytoagi",
       "title": "开源项目链接：\nhttps://\ngithub.com/kostja94/marke\nting-skills\n…\n Agent Skill实战指南：营销增长与SEO优化全攻略\n\nhttps://\nwaytoagi.feishu.cn/wiki/YK6iwEXSP\niDUFBkRl",
       "link": "https://x.com/WaytoAGI/status/2031019362115842546",
@@ -93,25 +102,7 @@
       "summaryShort": "开源项目链接： https:// github.com/kostja94/marke ting-skills … Agent Skill实战指南：营销增长与SEO优化全攻略 https:// waytoagi.feishu.cn/wiki/YK6iwEXSP iDUFBkRl3ScbJ4ZnTg …"
     },
     {
-      "id": "R007",
-      "sourceId": "sheet-account:vista8",
-      "title": "常年熬夜，不吃早餐的后果来了。\n\n胆绞痛，明天切胆囊，悲剧！",
-      "link": "https://x.com/vista8/status/2030980073978016034",
-      "publishedAt": "2026-03-09T12:12:38.000Z",
-      "capturedAt": "2026-03-10T08:25:07.892171+00:00",
-      "summaryShort": "常年熬夜，不吃早餐的后果来了。 胆绞痛，明天切胆囊，悲剧！"
-    },
-    {
       "id": "R008",
-      "sourceId": "sheet-account:lijigang",
-      "title": "学校考试是合成数据，现实问题是真实数据。",
-      "link": "https://x.com/lijigang/status/2030672795630436438",
-      "publishedAt": "2026-03-08T15:51:37.000Z",
-      "capturedAt": "2026-03-10T08:25:07.892171+00:00",
-      "summaryShort": "学校考试是合成数据，现实问题是真实数据。"
-    },
-    {
-      "id": "R009",
       "sourceId": "sheet-account:axtonliu",
       "title": "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。\n\n很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。\n\n换个模式：每天砌一块砖。\n\n三个习惯：\n遇到重复劳动，收敛成资产\n遇到报错，先学会自救\n保持验证意识，AI 输出的不一定对\n\n",
       "link": "https://x.com/AxtonLiu/status/2030645727081500679",
@@ -120,7 +111,7 @@
       "summaryShort": "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。 很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。 换个模式：每天砌一块砖。 三个习惯： 遇到重复劳动，收敛成资产 遇到报错，先学会自救 保持验证意识，AI 输出的不一定对 MAPS 的"
     },
     {
-      "id": "R010",
+      "id": "R009",
       "sourceId": "sheet-account:kaifulee",
       "title": "Kai-Fu Lee (founder of Sinovation Ventures) explains how the future is all about multi-agent systems. \n\n1 agent today is like a pre-internet",
       "link": "https://x.com/rohanpaul_ai/status/2014504926215602346",
@@ -129,16 +120,16 @@
       "summaryShort": "Kai-Fu Lee (founder of Sinovation Ventures) explains how the future is all about multi-agent systems. 1 agent today is like a pre-internet PC, useful but isolated. Connect agents, and they share context, split tasks, and coordinate instantl"
     },
     {
-      "id": "R011",
+      "id": "R010",
       "sourceId": "sheet-account:nishuang",
-      "title": "新闻说 3 月底苹果包了 5 架飞机，装满了 iPhone 紧急空运到美国，以此来避免关税大战而新增的成本\n\n新闻还说苹果在美国的 iPhone 库存够卖几个月",
-      "link": "https://x.com/nishuang/status/1909775827337634137",
-      "publishedAt": "2025-04-09T01:10:13.000Z",
+      "title": "谁不想多赚钱？\n\n隆重介绍我的“专家设计评审”服务，只解决一个问题：利用 UX 设计和品牌营销设计帮助创业者赚钱\n\n服务介绍：\n\nhttps://\nnishuang.net/audit\n\n今天的设计圈子很有意思，因为有了 AI、人人都可以做设计；因为到处都是“被毕业”、市场也多了",
+      "link": "https://x.com/nishuang/status/1902092248306643441",
+      "publishedAt": "2025-03-18T20:18:25.000Z",
       "capturedAt": "2026-03-10T08:25:07.892171+00:00",
-      "summaryShort": "新闻说 3 月底苹果包了 5 架飞机，装满了 iPhone 紧急空运到美国，以此来避免关税大战而新增的成本 新闻还说苹果在美国的 iPhone 库存够卖几个月"
+      "summaryShort": "谁不想多赚钱？ 隆重介绍我的“专家设计评审”服务，只解决一个问题：利用 UX 设计和品牌营销设计帮助创业者赚钱 服务介绍： https:// nishuang.net/audit 今天的设计圈子很有意思，因为有了 AI、人人都可以做设计；因为到处都是“被毕业”、市场也多了不少空闲设计师…"
     },
     {
-      "id": "R012",
+      "id": "R011",
       "sourceId": "sheet-account:haibun",
       "title": "and re eighties bands / each time I hear a wind chime / I think of the cure # haiku #nostalgia",
       "link": "https://x.com/haibun/status/256688298402131968",
@@ -147,49 +138,58 @@
       "summaryShort": "and re eighties bands / each time I hear a wind chime / I think of the cure # haiku #nostalgia"
     },
     {
-      "id": "R013",
+      "id": "R012",
       "sourceId": "simon-willison",
       "title": "Production query plans without production data",
       "link": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything",
       "publishedAt": null,
-      "capturedAt": "2026-03-10T08:26:45.763317+00:00",
+      "capturedAt": "2026-03-10T08:29:22.174755+00:00",
       "summaryShort": "Production query plans without production data Radim Marek describes the new pg_restore_relation_stats() and pg_restore_attribute_stats() functions that were introduced in PostgreSQL 18 in September 2025. The PostgreSQL query planner makes "
     },
     {
-      "id": "R014",
+      "id": "R013",
       "sourceId": "caixin-article",
       "title": "最高检：2025年起诉轻微犯罪占比超八成，严重暴力犯罪持续下降",
       "link": "https://china.caixin.com/2026-03-10/102421536.html",
       "publishedAt": "2026-03-10T08:10:19+00:00",
-      "capturedAt": "2026-03-10T08:27:05.446150+00:00",
+      "capturedAt": "2026-03-10T08:29:24.336009+00:00",
       "summaryShort": "因应犯罪形势变化，最高检察院正牵头研究制定专门意见，强调要把握好宽与严的辩证关系，宽和严都要依法、审时度势，确保该宽则宽、当严则严、宽严相济 3月10日，最高检察院举行“四大检察”工作白皮书（2025）新闻发布会。图：最高检察院 【财新网】 近年来中国的刑事犯罪形势有所变化。3月10日，最高检察院举行“四大检察”工作白皮书（2025）新闻发布会。《刑事检察工作白皮书（2025）》显示，2025年，全国检察机关受理审查逮捕95万余人、审查起诉175万余人，同比分别下降14.6%"
     },
     {
-      "id": "R015",
+      "id": "R014",
       "sourceId": "wired",
       "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "publishedAt": "2026-03-10T05:00:00+00:00",
-      "capturedAt": "2026-03-10T08:26:43.838553+00:00",
+      "capturedAt": "2026-03-10T08:29:21.862123+00:00",
       "summaryShort": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it."
     },
     {
-      "id": "R016",
+      "id": "R015",
       "sourceId": "devto-top-week",
       "title": "Congrats to the GitHub Copilot CLI Challenge Winners!",
       "link": "https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240",
       "publishedAt": "2026-03-09T18:28:59+00:00",
-      "capturedAt": "2026-03-10T08:27:22.210899+00:00",
+      "capturedAt": "2026-03-10T08:29:28.049990+00:00",
       "summaryShort": "The results are in! Thank you all so much for your patience as we reviewed over 400 submissions for this challenge. We're going to jump right in because our full list of winners and runner-ups is quite long. Regardless of whether or not you"
     },
     {
-      "id": "R017",
+      "id": "R016",
       "sourceId": "pragmatic-engineer",
       "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
       "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
       "publishedAt": "2026-03-05T18:03:16+00:00",
-      "capturedAt": "2026-03-10T08:26:47.104035+00:00",
+      "capturedAt": "2026-03-10T08:29:22.239379+00:00",
       "summaryShort": "An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis"
+    },
+    {
+      "id": "R017",
+      "sourceId": "hellogithub",
+      "title": "nexent: 只需一句话即可创造你的专属智能体",
+      "link": "https://hellogithub.com/repository/99932c00b692483a8439b04f8858b39f",
+      "publishedAt": "2026-03-03T01:32:14+00:00",
+      "capturedAt": "2026-03-10T08:29:26.310242+00:00",
+      "summaryShort": "这是一款开源的零代码智能体自动生成平台，无需编程基础或复杂的流程图编排，通过自然语言描述需求即可快速创建 AI 智能体。它内置了数据处理引擎，能够自动处理 20"
     },
     {
       "id": "R018",
@@ -197,7 +197,7 @@
       "title": "宝玉",
       "link": "https://x.com/dotey",
       "publishedAt": null,
-      "capturedAt": "2026-03-10T08:26:38.801783+00:00",
+      "capturedAt": "2026-03-10T08:29:20.991428+00:00",
       "summaryShort": "中文 AI 圈高频信息源，长期分享 Prompt 工程、AI 实战、前沿工具与模型解读。"
     },
     {
@@ -206,7 +206,7 @@
       "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
       "link": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
       "publishedAt": null,
-      "capturedAt": "2026-03-10T08:26:42.960874+00:00",
+      "capturedAt": "2026-03-10T08:29:21.788181+00:00",
       "summaryShort": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much on X"
     },
     {
@@ -215,7 +215,7 @@
       "title": "The calm and charm of cosy games in a chaotic world",
       "link": "https://uxdesign.cc/the-calm-and-charm-of-cosy-games-in-a-chaotic-world-7f29dbd8f4d9?source=rss----138adf9c44c---4",
       "publishedAt": "2026-03-09T22:09:54+00:00",
-      "capturedAt": "2026-03-10T08:26:50.350108+00:00",
+      "capturedAt": "2026-03-10T08:29:22.302266+00:00",
       "summaryShort": ""
     },
     {
@@ -224,7 +224,7 @@
       "title": "宇树科技与香港大学上海智能计算研究院成立具身智能联合实验室",
       "link": "https://readhub.cn/topic/8rMMRFmTtrf",
       "publishedAt": "2026-03-09T17:13:35+00:00",
-      "capturedAt": "2026-03-10T08:27:33.967513+00:00",
+      "capturedAt": "2026-03-10T08:29:25.924471+00:00",
       "summaryShort": "日前，宇树科技与香港大学上海智能计算研究院在上海签署战略合作协议，具身智能联合实验室正式揭牌。双方以“真实平台支撑前沿算法，学术创新赋能产业落地”为机制构建转化通道，宇树提供机器人本体与运动控制技术平台，研究院聚焦具身智能算法与系统架构创新，联合攻关加速突破关键技术，推动具身智能走向真实场景。 媒体报道 宇树科技与香港大学上海智能计算研究院成立具身智能联合实验室 钛媒体 宇树科技联手香港大学研究院，成立具身智能联合实验室 凤凰科技/IT 之家 事件追踪 2026-02-17 "
     },
     {
@@ -233,7 +233,7 @@
       "title": "The Value of z-index",
       "link": "https://css-tricks.com/the-value-of-z-index/",
       "publishedAt": "2026-03-09T14:20:01+00:00",
-      "capturedAt": "2026-03-10T08:26:49.010875+00:00",
+      "capturedAt": "2026-03-10T08:29:22.676526+00:00",
       "summaryShort": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices. The Value of z-index originally published on CSS-Tricks , which is part of the DigitalOcean family. Yo"
     },
     {
@@ -242,17 +242,17 @@
       "title": "装了 OpenClaw 后，信用卡被盗刷了...",
       "link": "https://juejin.cn/post/7614513113812451378",
       "publishedAt": "2026-03-09T07:47:15+00:00",
-      "capturedAt": "2026-03-10T08:27:02.721260+00:00",
+      "capturedAt": "2026-03-10T08:29:25.314150+00:00",
       "summaryShort": "前两天有个哥们发现自己信用卡被盗刷了。 他慌了，让自己部署的 OpenClaw 帮忙排查一下到底怎么回事。 龙虾查了一圈，回复他： 你没看错。这是 AI 回复的。 这哥们给自己的 OpenClaw 取名叫\"顾衍\"，一只有名有姓的 AI 龙虾，查完安全日志之后，第一反应是骂了一句街。 用户让它继续查到底是哪里出了问题。龙虾先排查了 SSH，全部公钥登录，没有异常 IP，没被入侵。 然后它翻到了 VNC 的配置，炸了： 一只 AI 帮你排查安全问题，查着查着把自己气到爆粗口。 笑"
     },
     {
       "id": "R024",
-      "sourceId": "zhihu-hot",
-      "title": "如何评价《崩坏：星穹铁道》新角色「银狼LV.999」？",
-      "link": "https://www.zhihu.com/question/2014677241481692081",
-      "publishedAt": "2026-03-10T04:21:25+00:00",
-      "capturedAt": "2026-03-10T08:27:07.225355+00:00",
-      "summaryShort": "「LV.999的形态，完全的我，第一次见吧？高难副本走起，我带你，一键通关。」 新一轮欢愉赛季，无敌玩家「银狼LV.999」限时回归中！ 成为宇宙大赢家，银河通关全成就，接下来还要怎么玩？ 「走上『欢愉』巅峰？无聊到爆好嘛…既然卡带到手，就我说了算咯~」 === 阿哈！特别庆祝银狼LV.999获得： ✧「银河战力党传奇玩家」第1名 ✧ ✧「剧本破坏神」第1名 ✧ === 中文CV：Hanser 日文CV：阿澄佳奈 韩文CV：장미"
+      "sourceId": "xiaoheihe-news",
+      "title": "总监退网！Twistzz赛后表示会暂时离开社交媒体！",
+      "link": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=176893588",
+      "publishedAt": "2026-03-10T08:11:56+00:00",
+      "capturedAt": "2026-03-10T08:29:26.509166+00:00",
+      "summaryShort": "FaZe被Astralis绝杀出局后，晋级IEM科隆major概率已跌至50%以下。Twistzz赛后表示将暂时退网，总监本届赛事仅贡献0.93 rating。"
     }
   ],
   "deliveredPosts": [
@@ -4160,7 +4160,7 @@
       "fetchedAt": "2026-03-10T08:29:22.041898+00:00",
       "itemCount": 4,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4449,7 +4449,7 @@
       "fetchedAt": "2026-03-10T08:29:24.282619+00:00",
       "itemCount": 4,
       "previewRows": [],
-      "researchCount": 1,
+      "researchCount": 0,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4517,7 +4517,7 @@
       "fetchedAt": "2026-03-10T08:29:26.509166+00:00",
       "itemCount": 4,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4551,7 +4551,7 @@
       "fetchedAt": "2026-03-10T08:29:26.310242+00:00",
       "itemCount": 4,
       "previewRows": [],
-      "researchCount": 0,
+      "researchCount": 1,
       "pendingCount": 0,
       "publishedCount": 0,
       "archivedCount": 0
@@ -4645,8 +4645,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T08:44:23.474037+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T08:50:15.989981+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T08:44:23.474037+00:00",
     "stages": {
@@ -4903,7 +4903,7 @@
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-10T08:50:00+00:00",
+        "nextRunAt": "2026-03-10T09:00:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4918,37 +4918,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T08:45:00+00:00",
+        "nextRunAt": "2026-03-10T08:55:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T08:44:23.474037+00:00",
+        "lastRunAt": "2026-03-10T08:50:15.989981+00:00",
         "lastSuccessAt": "2026-03-10T08:44:23.474037+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T08:44:20.072805+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 18
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T08:44:20.101924+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 28,
-            "replySuggestions": 8
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T08:44:20.160844+00:00",
-              "pending": 1
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T08:46:00+00:00",
+        "nextRunAt": "2026-03-10T08:52:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
