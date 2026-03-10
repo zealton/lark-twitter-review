@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T06:59:00.891809+00:00",
+  "generatedAt": "2026-03-10T06:59:05.096179+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4278,10 +4278,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T06:59:00.801584+00:00",
-    "overallStatus": "running",
-    "lastStage": "dispatch",
-    "lastSuccessAt": "2026-03-10T06:52:20.191931+00:00",
+    "updatedAt": "2026-03-10T06:59:05.007851+00:00",
+    "overallStatus": "ok",
+    "lastStage": "dashboard_publish",
+    "lastSuccessAt": "2026-03-10T06:59:05.007851+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T06:59:00.800227+00:00",
@@ -4309,30 +4309,33 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-10T06:59:00.767702+00:00",
-        "lastSuccessAt": "2026-03-10T06:52:10.306222+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-10T06:59:01.526367+00:00",
+        "lastSuccessAt": "2026-03-10T06:59:01.526367+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "sync": {
+            "applied": [],
+            "count": 0
+          }
         },
         "nextRunAt": "2026-03-10T07:00:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T06:52:20.191931+00:00",
-        "lastSuccessAt": "2026-03-10T06:52:20.191931+00:00",
+        "lastRunAt": "2026-03-10T06:59:05.007851+00:00",
+        "lastSuccessAt": "2026-03-10T06:59:05.007851+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "exploration": {
-            "updatedAt": "2026-03-10T06:52:16.954222+00:00",
+            "updatedAt": "2026-03-10T06:59:00.800726+00:00",
             "replyCandidates": 3,
             "sourceCandidates": 14
           },
           "learning": {
-            "updatedAt": "2026-03-10T06:52:16.982011+00:00",
+            "updatedAt": "2026-03-10T06:59:00.831801+00:00",
             "sourceEntries": 22,
             "sourceSuggestions": 8,
             "replyEntries": 22,
@@ -4341,8 +4344,8 @@
           "push": {
             "changed": true,
             "export": {
-              "exportedAt": "2026-03-10T06:52:17.037682+00:00",
-              "pending": 9
+              "exportedAt": "2026-03-10T06:59:00.891809+00:00",
+              "pending": 3
             }
           }
         },
