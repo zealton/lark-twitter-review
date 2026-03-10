@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T08:36:15.736476+00:00",
+  "generatedAt": "2026-03-10T08:41:30.440584+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -10,7 +10,7 @@
       "postingRationale": "Fuses control theory epiphany with AI workflow myths to deliver gritty operator fix, sounding like lived frustration-turned-hack for human authenticity.",
       "goalAlignmentScore": 9,
       "goalAlignmentRationale": "Embodies founder energy in AI tooling judgment, providing high reader utility on prompt efficiency that positions account as essential for crypto/AI builders chasing leverage.",
-      "draft": "工程本质是控制论才懂 AI用着用着就成西西弗斯了 每天重prompt重纠错 醒醒 重复活儿收成资产 自救报错 验证输出 这三板斧让我从推石头变砌城墙 你们还在原地吗🦞",
+      "draft": "工程本质是控制论，AI用着用着就成西西弗斯了\n\n每天重 prompt、重纠错，醒醒，重复活儿要收成资产，自救报错，验证输出，这三板斧，才让我从推石头变成砌城墙，你们还在原地吗？🦞",
       "sources": [
         "大学课程啊，工程的本质就是控制论，怎么才恍然大悟啊？",
         "西西弗斯每天把石头推上山，第二天石头滚下来，重新推。\n\n很多人用 AI 也是这样——每次重新写 Prompt，重新解释上下文，重新纠正输出。日复一日。\n\n换个模式：每天砌一块砖。\n\n三个习惯：\n遇到重复劳动，收敛成资产\n遇到报错，先学会自救\n保持验证意识，AI 输出的不一定对\n\n"
@@ -4645,8 +4645,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-10T08:36:15.659845+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-10T08:41:30.327360+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-10T08:36:15.659845+00:00",
     "stages": {
@@ -4903,7 +4903,7 @@
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-10T08:40:00+00:00",
+        "nextRunAt": "2026-03-10T08:50:00+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4918,37 +4918,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-10T08:40:00+00:00",
+        "nextRunAt": "2026-03-10T08:45:00+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-10T08:36:15.659845+00:00",
+        "lastRunAt": "2026-03-10T08:41:30.327360+00:00",
         "lastSuccessAt": "2026-03-10T08:36:15.659845+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-10T08:36:12.212353+00:00",
-            "replyCandidates": 6,
-            "sourceCandidates": 18
-          },
-          "learning": {
-            "updatedAt": "2026-03-10T08:36:12.239332+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 28,
-            "replySuggestions": 8
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-10T08:36:12.294704+00:00",
-              "pending": 1
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-10T08:38:00+00:00",
+        "nextRunAt": "2026-03-10T08:42:00+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
