@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T07:13:29.345427+00:00",
+  "generatedAt": "2026-03-11T07:14:33.272989+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4525,8 +4525,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T07:13:29.258011+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T07:14:33.163585+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-11T07:13:29.258011+00:00",
     "stages": {
@@ -4807,37 +4807,19 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T07:13:29.258011+00:00",
+        "lastRunAt": "2026-03-11T07:14:33.163585+00:00",
         "lastSuccessAt": "2026-03-11T07:13:29.258011+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T07:13:25.847743+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T07:13:25.872631+00:00",
-            "sourceEntries": 31,
-            "sourceSuggestions": 8,
-            "replyEntries": 50,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T07:13:25.935291+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T07:15:29.258011+00:00",
+        "nextRunAt": "2026-03-11T07:16:33.163585+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T07:13:25.717951+00:00",
+        "lastRunAt": "2026-03-11T07:14:33.058160+00:00",
         "lastSuccessAt": "2026-03-11T07:02:17.416936+00:00",
         "status": "running",
         "lastError": "watchdog detected runtime inconsistencies",
@@ -4845,13 +4827,36 @@
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-11T07:14:25.717951+00:00",
+        "nextRunAt": "2026-03-11T07:15:33.058160+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T07:13:32.680209+00:00",
+      "status": "degraded",
+      "failures": [
+        "latest replies missing from page: ['R54', 'R57', 'R58', 'R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66']"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dashboard_publish",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        }
+      ],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 2,
+        "deliveryReplies": 52,
+        "replyQueue": 66
+      }
+    },
     {
       "at": "2026-03-11T07:12:24.221370+00:00",
       "status": "degraded",
@@ -4992,29 +4997,6 @@
     },
     {
       "at": "2026-03-11T07:05:39.530892+00:00",
-      "status": "degraded",
-      "failures": [
-        "latest replies missing from page: ['R54', 'R57', 'R58', 'R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66']"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dashboard_publish",
-          "action": "force_run",
-          "status": "ok",
-          "exitCode": 0
-        }
-      ],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 2,
-        "deliveryReplies": 52,
-        "replyQueue": 66
-      }
-    },
-    {
-      "at": "2026-03-11T07:04:32.105464+00:00",
       "status": "degraded",
       "failures": [
         "latest replies missing from page: ['R54', 'R57', 'R58', 'R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66']"
