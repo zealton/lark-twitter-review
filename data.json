@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T01:58:00.784016+00:00",
+  "generatedAt": "2026-03-11T01:59:19.344075+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -246,6 +246,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R47",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T01:58:54.285281+00:00",
+      "targetContent": "我是觉得你已经上了推特，那么只需要做到下面几点：\n\n1.买一个Mac M4\n2.学习使用AI（产出深度文章）\n3.坚持每天写3条推文\n\n如果你相信，我感觉第一个100万应该不难。",
+      "originalLink": "https://x.com/EvaCmore/status/2031374540454936589",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AEvaCmore+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
+      "targetAccount": "@EvaCmore",
+      "replyRationale": "Replying to @EvaCmore because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
       "id": "R45",
       "status": "sent",
       "statusDisplay": "sent",
@@ -387,43 +400,41 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ANFL+%22The+Chiefs+always+find+a+way+to+turn+pure+speed+into+leverage%2C+k%22&src=typed_query&f=live",
       "targetAccount": "@NFL",
       "replyRationale": "Replying to @NFL because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R30",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "Hard to bet against the momentum, but the real wealth shift happens when we finally solve the throughput bottleneck 🦞",
-      "timestamp": "2026-03-10T08:00:27.160354+00:00",
-      "targetContent": "Will \n@elonmusk\n become a trillionaire before Q4?",
-      "originalLink": "https://x.com/MyriadMarkets/status/2031134685061927025",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AMyriadMarkets+%22Hard+to+bet+against+the+momentum%2C+but+the+real+wealth+shift+happ%22&src=typed_query&f=live",
-      "targetAccount": "@MyriadMarkets",
-      "replyRationale": "Replying to @MyriadMarkets because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     }
   ],
   "pendingReplies": [
     {
-      "id": "R46",
+      "id": "R48",
       "status": "processing",
       "statusDisplay": "failed",
       "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T00:51:11.805247+00:00",
-      "targetContent": "诶，G 家终于有动作了。\n\nGoogle AI Studio发布了Gemini Embedding 2，首个原生多模态嵌入模型，支持文本、图像、视频、音频和文档。\n\n公测中，可通过Gemini API和Vertex AI使用，貌似在多模态任务中表现不错。\n\n一个 embedding space",
-      "originalLink": "https://x.com/elliotchen100/status/2031513451189989881",
-      "targetAccount": "@elliotchen100",
-      "replyRationale": "Replying to @elliotchen100 because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+      "timestamp": "2026-03-11T01:58:27.652104+00:00",
+      "targetContent": "世间太纷扰，还是看看 Google Cloud 官方的技术小姐姐，讲解《AI Agent 设计模式》吧。相信各位兄弟们都会喜欢，主要是喜欢学习技术。",
+      "originalLink": "https://x.com/fkysly/status/2031288826388517257",
+      "targetAccount": "@fkysly",
+      "replyRationale": "Replying to @fkysly because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     },
     {
-      "id": "R47",
+      "id": "R49",
       "status": "queued",
       "statusDisplay": "queued",
       "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T00:51:11.805247+00:00",
-      "targetContent": "我是觉得你已经上了推特，那么只需要做到下面几点：\n\n1.买一个Mac M4\n2.学习使用AI（产出深度文章）\n3.坚持每天写3条推文\n\n如果你相信，我感觉第一个100万应该不难。",
-      "originalLink": "https://x.com/EvaCmore/status/2031374540454936589",
-      "targetAccount": "@EvaCmore",
-      "replyRationale": "Replying to @EvaCmore because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+      "timestamp": "2026-03-11T01:58:27.652104+00:00",
+      "targetContent": "AI圈贩卖焦虑已经过于刻意了。\n\n如果说春节长假刚结束那会儿，上门安装龙虾还是一个段子、还是一个停留在用Nano Banana作图博君一笑的阶段，上周末腾讯大厦门口排成长队等待免费安装龙虾，就只能说「至此已成艺术」了。\n\n我很想引述一个笑话，它的原始版本是这样的：",
+      "originalLink": "https://x.com/foxshuo/status/2031009843058733517",
+      "targetAccount": "@foxshuo",
+      "replyRationale": "Replying to @foxshuo because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
+      "id": "R50",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T01:58:27.652104+00:00",
+      "targetContent": "三天不到，开发好了agent skills hub （祝女神们节日快乐）\n\nhttps://\nagentskillshub.top\n\n为什么开发这个产品？\n 如何在众多的skills中找到合适的skills，为了解决大家找优质skills的难题，做了各种分类、最近更新、周榜等功能\n 找到对的人：优质skills大神",
+      "originalLink": "https://x.com/GoSailGlobal/status/2030490279221051487",
+      "targetAccount": "@GoSailGlobal",
+      "replyRationale": "Replying to @GoSailGlobal because it came from the sheet people pool and the post had usable discussion surface (compact, has_link, personal_view). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
   "archive": [
@@ -4644,10 +4655,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T01:58:00.694763+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T01:59:19.231121+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T01:58:00.694763+00:00",
+    "lastSuccessAt": "2026-03-11T01:58:18.986846+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T00:55:40.435338+00:00",
@@ -4662,15 +4673,15 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T01:55:48.596874+00:00",
+        "lastRunAt": "2026-03-11T01:59:12.694633+00:00",
         "lastSuccessAt": "2026-03-11T00:33:56.687175+00:00",
         "status": "failed",
-        "lastError": "command timed out after retries: cmd=['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_discover_replies.py'] timeout=45s",
+        "lastError": "command timed out after retries: cmd=['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_execute_replies.py'] timeout=45s",
         "details": {
-          "error": "command timed out after retries: cmd=['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_discover_replies.py'] timeout=45s",
+          "error": "command timed out after retries: cmd=['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_execute_replies.py'] timeout=45s",
           "dryRun": false
         },
-        "nextRunAt": "2026-03-11T02:05:48.596874+00:00",
+        "nextRunAt": "2026-03-11T02:09:12.694633+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4690,63 +4701,47 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T01:58:00.694763+00:00",
+        "lastRunAt": "2026-03-11T01:59:19.231121+00:00",
         "lastSuccessAt": "2026-03-11T01:58:00.694763+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T01:57:57.525727+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T01:57:57.552723+00:00",
-            "sourceEntries": 32,
-            "sourceSuggestions": 8,
-            "replyEntries": 32,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T01:57:57.625120+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T02:00:00.694763+00:00",
+        "nextRunAt": "2026-03-11T02:01:19.231121+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T01:57:12.204505+00:00",
-        "lastSuccessAt": "2026-03-11T01:57:12.204505+00:00",
-        "status": "ok",
+        "lastRunAt": "2026-03-11T01:59:19.127274+00:00",
+        "lastSuccessAt": "2026-03-11T01:58:18.986846+00:00",
+        "status": "running",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review",
-          "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 0,
-          "failures": [],
-          "warnings": [],
-          "autoActions": [],
-          "summary": {
-            "pending": 0,
-            "pagePending": 0,
-            "replyActivity": 12,
-            "deliveryReplies": 34,
-            "replyQueue": 43
-          },
-          "stderr": ""
+          "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-11T01:58:12.204505+00:00",
+        "nextRunAt": "2026-03-11T02:00:19.127274+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T01:58:18.986566+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 34,
+        "replyQueue": 43
+      }
+    },
     {
       "at": "2026-03-11T01:57:12.204271+00:00",
       "status": "ok",
@@ -4844,28 +4839,14 @@
         "deliveryReplies": 34,
         "replyQueue": 43
       }
-    },
-    {
-      "at": "2026-03-11T01:49:31.759582+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 34,
-        "replyQueue": 43
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T01:55:48.596874+00:00",
+    "lastRunAt": "2026-03-11T01:59:12.694633+00:00",
     "lastSuccessAt": "2026-03-11T00:33:56.687175+00:00",
     "status": "failed",
     "outcome": "failed",
-    "lastError": "command timed out after retries: cmd=['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_discover_replies.py'] timeout=45s",
+    "lastError": "command timed out after retries: cmd=['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_execute_replies.py'] timeout=45s",
     "discoveredReplies": 0,
     "targetsChecked": 0,
     "enqueuedReplies": 0,
@@ -5562,6 +5543,23 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-alchainhust&body=reject+suggestion+suggest-reply-target-alchainhust&labels=twitter-learning%2Creject"
       },
       {
+        "id": "suggest-reply-target-evacmore",
+        "type": "suggest_reply_target",
+        "status": "pending",
+        "confidence": 7,
+        "handle": "@evacmore",
+        "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
+        "goalFit": "Helps the system build a better set of recurring personal accounts instead of repeatedly relying on the same obvious names.",
+        "actionMeaning": "Approve to add this handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "replyCount": 1,
+          "replyCountLast7Days": 1,
+          "inSheetPool": true
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+suggest-reply-target-evacmore&body=approve+suggestion+suggest-reply-target-evacmore&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-evacmore&body=reject+suggestion+suggest-reply-target-evacmore&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "suggest-reply-target-gergelyorosz",
         "type": "suggest_reply_target",
         "status": "pending",
@@ -5755,30 +5753,6 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-nick_pennie&body=approve+suggestion+explore-reply-nick_pennie&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-nick_pennie&body=reject+suggestion+explore-reply-nick_pennie&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-reply-preballin",
-        "type": "explore_reply_target",
-        "status": "rejected",
-        "confidence": 8,
-        "handle": "@preballin",
-        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
-        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
-        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
-        "evidence": {
-          "linkedFrom": [
-            "@Monad_APAC"
-          ],
-          "linkedThreads": [
-            "https://x.com/Monad_APAC/status/2021189797910352342"
-          ],
-          "reasons": [
-            "Mentioned inside a thread that already produced a usable reply opportunity.",
-            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-preballin&body=approve+suggestion+explore-reply-preballin&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-preballin&body=reject+suggestion+explore-reply-preballin&labels=twitter-learning%2Creject"
       }
     ]
   },
@@ -5786,6 +5760,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 34
+    "replies": 35
   }
 }
