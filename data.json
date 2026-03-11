@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T00:19:21.130163+00:00",
+  "generatedAt": "2026-03-11T00:22:27.508455+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -246,6 +246,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R42",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "The cross-community energy is great, but the real test is building on tech that actually scales with that growth 🦞",
+      "timestamp": "2026-03-11T00:22:10.408074+00:00",
+      "targetContent": "Gritual \n\nWe might come from different countries or backgrounds, but none of that matters because I've found such an amazing group of friends in the \n@ritualfnd\n community!\n\nTrue friendship knows no boundaries. When you genuinely connect with someone and enjoy their company,",
+      "originalLink": "https://x.com/Rahul_xyz01/status/2031249511369363713",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ARahul_xyz01+%22The+cross-community+energy+is+great%2C+but+the+real+test+is+buildi%22&src=typed_query&f=live",
+      "targetAccount": "@Rahul_xyz01",
+      "replyRationale": "Replying to @Rahul_xyz01 because it came from the member-list rotation and the tweet showed good discussion surface (compact, personal_view). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R41",
       "status": "sent",
       "statusDisplay": "sent",
@@ -387,19 +400,6 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AFCBarcelona+%22The+only+anthem+that+actually+gives+me+goosebumps+every+single+t%22&src=typed_query&f=live",
       "targetAccount": "@FCBarcelona",
       "replyRationale": "Replying to @FCBarcelona because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R23",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "That soundtrack really sets the vibe, hard to believe it’s already been a year since launch 🦞",
-      "timestamp": "2026-03-10T05:37:07.718350+00:00",
-      "targetContent": "yoooo, Who made this banger song for \n@SeismicSys\n \nI just entered the website and all I can say is Wow\nGmic how you feeling this week, 1 year Anniversary is hereeee!!!",
-      "originalLink": "https://x.com/Davethompson100/status/2030402420245729736",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ADavethompson100+%22That+soundtrack+really+sets+the+vibe%2C+hard+to+believe+it%E2%80%99s+alrea%22&src=typed_query&f=live",
-      "targetAccount": "@Davethompson100",
-      "replyRationale": "Replying to @Davethompson100 because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
   ],
   "pendingReplies": [],
@@ -4621,10 +4621,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T00:19:21.035899+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T00:22:27.383369+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T00:19:21.035899+00:00",
+    "lastSuccessAt": "2026-03-11T00:22:26.625447+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-10T22:52:50.470171+00:00",
@@ -4663,90 +4663,68 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T00:10:44.867097+00:00",
-        "lastSuccessAt": "2026-03-11T00:10:44.867097+00:00",
+        "lastRunAt": "2026-03-11T00:22:26.625447+00:00",
+        "lastSuccessAt": "2026-03-11T00:22:26.625447+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
-            "discovered": 0,
-            "count": 40,
-            "accountsScanned": 10,
-            "elapsedSeconds": 45.2,
-            "targetsChecked": 0,
+            "discovered": 1,
+            "count": 41,
+            "accountsScanned": 6,
+            "elapsedSeconds": 48.8,
+            "targetsChecked": 1,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@nico_st_29",
+                "account": "@DeltaV_xyz",
                 "path": "member_list",
                 "status": "skipped",
                 "reason": "backoff_active",
-                "nextEligibleAt": "2026-03-11T09:59:33.835815+00:00"
+                "nextEligibleAt": "2026-03-11T10:32:25.233279+00:00"
               },
               {
                 "scope": "discover",
-                "account": "@originalworkshq",
-                "path": "member_list",
-                "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/originalworkshq\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
-              },
-              {
-                "scope": "discover",
-                "account": "@Pican0_o",
+                "account": "@monks_xyz",
                 "path": "member_list",
                 "status": "skipped",
                 "reason": "backoff_active",
-                "nextEligibleAt": "2026-03-11T10:09:53.815942+00:00"
+                "nextEligibleAt": "2026-03-11T10:32:40.863405+00:00"
               },
               {
                 "scope": "discover",
-                "account": "@PudgyWorld_",
-                "path": "member_list",
-                "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/PudgyWorld_\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
-              },
-              {
-                "scope": "discover",
-                "account": "@rosinxyz",
+                "account": "@proof_xyz",
                 "path": "member_list",
                 "status": "skipped",
-                "reason": "backoff_active",
-                "nextEligibleAt": "2026-03-11T10:10:24.957219+00:00"
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-11-11T17:16:08.000Z",
+                "statusLink": "https://x.com/proof_xyz/status/1988294685602050179"
               },
               {
                 "scope": "discover",
-                "account": "@seven_nad",
+                "account": "@Rahul_xyz01",
                 "path": "member_list",
-                "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/seven_nad\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
+                "status": "ok",
+                "statusLink": "https://x.com/Rahul_xyz01/status/2031249511369363713",
+                "score": 6,
+                "targetReasons": [
+                  "compact",
+                  "personal_view"
+                ]
               },
               {
                 "scope": "discover",
-                "account": "@thedaks_png",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "backoff_active",
-                "nextEligibleAt": "2026-03-11T10:20:49.730443+00:00"
-              },
-              {
-                "scope": "discover",
-                "account": "@tyler_did_it",
+                "account": "@Thehub_xyz",
                 "path": "member_list",
                 "status": "skipped",
-                "reason": "backoff_active",
-                "nextEligibleAt": "2026-03-11T10:21:20.714305+00:00"
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2025-09-19T03:23:33.000Z",
+                "statusLink": "https://x.com/Thehub_xyz/status/1968878600540569742"
               },
               {
                 "scope": "discover",
-                "account": "@venti_nft",
-                "path": "member_list",
-                "status": "failed",
-                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'activate', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set URL of active tab of front window to \"https://x.com/venti_nft\"', '-e', 'delay 8', '-e', 'end tell']' timed out after 10 seconds"
-              },
-              {
-                "scope": "discover",
-                "account": "@category_xyz",
-                "path": "member_list",
+                "account": "@9yearfish",
+                "path": "sheet_people",
                 "status": "failed",
                 "reason": "reply discovery exceeded 45s wall clock budget"
               },
@@ -4754,12 +4732,14 @@
                 "scope": "discover",
                 "status": "stopped",
                 "reason": "discovery_time_budget_reached",
-                "elapsedSeconds": 45.2
+                "elapsedSeconds": 45.1
               }
             ]
           },
           "enqueueReplies": {
-            "enqueued": [],
+            "enqueued": [
+              "R42"
+            ],
             "skipped": [
               {
                 "id": "R1",
@@ -4922,20 +4902,25 @@
                 "reason": "status=sent"
               }
             ],
-            "count": 0
+            "count": 1
           },
           "publish": {
             "processed": 0,
             "dryRun": false
           },
           "replies": {
-            "processed": [],
-            "count": 0,
+            "processed": [
+              {
+                "id": "R42",
+                "status": "sent"
+              }
+            ],
+            "count": 1,
             "dryRun": false
           },
-          "outcome": "idle"
+          "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-11T00:20:44.867097+00:00",
+        "nextRunAt": "2026-03-11T00:32:26.625447+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4955,47 +4940,29 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T00:19:21.035899+00:00",
+        "lastRunAt": "2026-03-11T00:22:27.383369+00:00",
         "lastSuccessAt": "2026-03-11T00:19:21.035899+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T00:19:17.415226+00:00",
-            "replyCandidates": 7,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T00:19:17.444700+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 30,
-            "replySuggestions": 9
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T00:19:17.503139+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T00:21:21.035899+00:00",
+        "nextRunAt": "2026-03-11T00:24:27.383369+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
     }
   },
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T00:10:44.867097+00:00",
-    "lastSuccessAt": "2026-03-11T00:10:44.867097+00:00",
+    "lastRunAt": "2026-03-11T00:22:26.625447+00:00",
+    "lastSuccessAt": "2026-03-11T00:22:26.625447+00:00",
     "status": "ok",
-    "outcome": "idle",
+    "outcome": "replies_sent",
     "lastError": "",
-    "discoveredReplies": 0,
-    "targetsChecked": 10,
-    "enqueuedReplies": 0,
-    "sentReplies": 0,
+    "discoveredReplies": 1,
+    "targetsChecked": 6,
+    "enqueuedReplies": 1,
+    "sentReplies": 1,
     "publishedPosts": 0
   },
   "learning": {
@@ -5854,6 +5821,30 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-preballin&body=approve+suggestion+explore-reply-preballin&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-preballin&body=reject+suggestion+explore-reply-preballin&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "explore-reply-ritualfnd",
+        "type": "explore_reply_target",
+        "status": "pending",
+        "confidence": 8,
+        "handle": "@ritualfnd",
+        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
+        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
+        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "linkedFrom": [
+            "@Rahul_xyz01"
+          ],
+          "linkedThreads": [
+            "https://x.com/Rahul_xyz01/status/2031249511369363713"
+          ],
+          "reasons": [
+            "Mentioned inside a thread that already produced a usable reply opportunity.",
+            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-ritualfnd&body=approve+suggestion+explore-reply-ritualfnd&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-ritualfnd&body=reject+suggestion+explore-reply-ritualfnd&labels=twitter-learning%2Creject"
       }
     ]
   },
@@ -5861,6 +5852,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 30
+    "replies": 31
   }
 }
