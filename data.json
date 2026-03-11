@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T05:00:01.394124+00:00",
+  "generatedAt": "2026-03-11T05:02:15.998472+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -350,6 +350,28 @@
   ],
   "pendingReplies": [
     {
+      "id": "R64",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T05:01:36.797422+00:00",
+      "targetContent": "一句话生成海报，且可以编辑修改文字和元素。\n\n“设计一个海报，关于中国第一界GEO大会，时间在4月11日，地点在中关村。”\n\n这工具有点强啊！",
+      "originalLink": "https://x.com/vista8/status/2031568307925692615",
+      "targetAccount": "@vista8",
+      "replyRationale": "Replying to @vista8 because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
+      "id": "R65",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T05:01:36.797422+00:00",
+      "targetContent": "我在看了很多 Agent 框架的实现后，最后决定还是自己手搓一个 。现在的框架要么过于极简，要么又过于抽象和复杂。我也无法完全认同 Harness Engineering 的理念，只做  Harness 还是太过束手束脚。",
+      "originalLink": "https://x.com/waylybaye/status/2031580369750036788",
+      "targetAccount": "@waylybaye",
+      "replyRationale": "Replying to @waylybaye because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
       "id": "R62",
       "status": "queued",
       "statusDisplay": "queued",
@@ -370,17 +392,6 @@
       "originalLink": "https://x.com/turingou/status/2031572328707141749",
       "targetAccount": "@turingou",
       "replyRationale": "Replying to @turingou because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R61",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T04:14:27.033347+00:00",
-      "targetContent": "早上做力量训练或者爆发力训练，可以精神振奋 ； \n\n避免和外界直接竞争，专注构建各类结构性优势，积累垄断性资产，可以减小日常压力 ； \n\n多练站桩和太极，可以激活副交感神经，抑制身体炎症，促进机体恢复和深度睡眠; \n\n深度睡眠后大脑分泌更多生长激素，早起后更加振奋。",
-      "originalLink": "https://x.com/Svwang1/status/2031207231161774281",
-      "targetAccount": "@Svwang1",
-      "replyRationale": "Replying to @Svwang1 because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
   "archive": [
@@ -4601,10 +4612,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T05:00:01.296652+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T05:02:15.878963+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T05:00:01.296652+00:00",
+    "lastSuccessAt": "2026-03-11T05:01:45.646848+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T04:21:16.876119+00:00",
@@ -4644,36 +4655,44 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T04:38:30.200519+00:00",
-        "lastSuccessAt": "2026-03-11T04:38:30.200519+00:00",
+        "lastRunAt": "2026-03-11T05:01:45.646848+00:00",
+        "lastSuccessAt": "2026-03-11T05:01:45.646848+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
             "discovered": 2,
-            "count": 62,
-            "accountsScanned": 2,
-            "elapsedSeconds": 27.1,
+            "count": 64,
+            "accountsScanned": 3,
+            "elapsedSeconds": 29.7,
             "targetsChecked": 2,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@Tumeng05",
+                "account": "@virushuo",
+                "path": "sheet_people",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-02-24T11:54:01.000Z",
+                "statusLink": "https://x.com/NekoStranding/status/2026264346519896155"
+              },
+              {
+                "scope": "discover",
+                "account": "@vista8",
                 "path": "sheet_people",
                 "status": "ok",
-                "statusLink": "https://x.com/Tumeng05/status/2031000825200542146",
-                "score": 3,
+                "statusLink": "https://x.com/vista8/status/2031568307925692615",
+                "score": 2,
                 "targetReasons": [
-                  "compact",
-                  "topic_fit"
+                  "compact"
                 ]
               },
               {
                 "scope": "discover",
-                "account": "@turingou",
+                "account": "@waylybaye",
                 "path": "sheet_people",
                 "status": "ok",
-                "statusLink": "https://x.com/turingou/status/2031572328707141749",
+                "statusLink": "https://x.com/waylybaye/status/2031580369750036788",
                 "score": 3,
                 "targetReasons": [
                   "compact",
@@ -4682,13 +4701,13 @@
               },
               {
                 "scope": "generate",
-                "account": "@Tumeng05",
+                "account": "@vista8",
                 "status": "fallback",
                 "reason": "timed out"
               },
               {
                 "scope": "generate",
-                "account": "@turingou",
+                "account": "@waylybaye",
                 "status": "fallback",
                 "reason": "timed out"
               }
@@ -4696,8 +4715,8 @@
           },
           "enqueueReplies": {
             "enqueued": [
-              "R62",
-              "R63"
+              "R64",
+              "R65"
             ],
             "skipped": [
               {
@@ -4930,14 +4949,22 @@
               },
               {
                 "id": "R59",
-                "reason": "sync_terminal_status:sent"
+                "reason": "status=sent"
               },
               {
                 "id": "R60",
-                "reason": "status=queued"
+                "reason": "sync_terminal_status:sent"
               },
               {
                 "id": "R61",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R62",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R63",
                 "reason": "status=queued"
               }
             ],
@@ -4950,20 +4977,21 @@
           "replies": {
             "processed": [
               {
-                "id": "R60",
-                "status": "sent"
+                "id": "R61",
+                "status": "failed",
+                "error": "Reply composer not ready: NO_COMPOSER"
               }
             ],
             "count": 1,
             "dryRun": false,
             "dailyReplyLimit": 100,
-            "sentToday": 15,
+            "sentToday": 16,
             "remainingQuota": 84,
             "quotaStatus": "ok"
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-11T04:48:30.200519+00:00",
+        "nextRunAt": "2026-03-11T05:11:45.646848+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4983,63 +5011,78 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T05:00:01.296652+00:00",
+        "lastRunAt": "2026-03-11T05:02:15.878963+00:00",
         "lastSuccessAt": "2026-03-11T05:00:01.296652+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T04:59:55.382065+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T04:59:55.407893+00:00",
-            "sourceEntries": 28,
-            "sourceSuggestions": 8,
-            "replyEntries": 44,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T04:59:55.473773+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T05:02:01.296652+00:00",
+        "nextRunAt": "2026-03-11T05:04:15.878963+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T04:59:55.328374+00:00",
+        "lastRunAt": "2026-03-11T05:01:45.695523+00:00",
         "lastSuccessAt": "2026-03-11T04:59:55.328374+00:00",
-        "status": "ok",
-        "lastError": "",
+        "status": "degraded",
+        "lastError": "watchdog detected runtime inconsistencies",
         "details": {
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 0,
-          "failures": [],
+          "smokeExitCode": 1,
+          "failures": [
+            "overdue nextRunAt: dispatch overdue_by=13.3m"
+          ],
           "warnings": [],
-          "autoActions": [],
+          "autoActions": [
+            {
+              "stage": "dispatch",
+              "action": "force_run",
+              "status": "ok",
+              "exitCode": 0
+            }
+          ],
           "summary": {
             "pending": 0,
             "pagePending": 0,
             "replyActivity": 12,
             "deliveryReplies": 46,
-            "replyQueue": 59
+            "replyQueue": 61
           },
-          "stderr": ""
+          "stderr": "",
+          "error": "watchdog detected runtime inconsistencies"
         },
-        "nextRunAt": "2026-03-11T05:00:55.328374+00:00",
+        "nextRunAt": "2026-03-11T05:02:45.695523+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T05:01:45.695070+00:00",
+      "status": "degraded",
+      "failures": [
+        "overdue nextRunAt: dispatch overdue_by=13.3m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dispatch",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        }
+      ],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 46,
+        "replyQueue": 61
+      }
+    },
     {
       "at": "2026-03-11T04:59:55.328129+00:00",
       "status": "ok",
@@ -5137,30 +5180,16 @@
         "deliveryReplies": 46,
         "replyQueue": 59
       }
-    },
-    {
-      "at": "2026-03-11T04:52:30.255060+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 46,
-        "replyQueue": 59
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T04:38:30.200519+00:00",
-    "lastSuccessAt": "2026-03-11T04:38:30.200519+00:00",
+    "lastRunAt": "2026-03-11T05:01:45.646848+00:00",
+    "lastSuccessAt": "2026-03-11T05:01:45.646848+00:00",
     "status": "ok",
     "outcome": "replies_sent",
     "lastError": "",
     "discoveredReplies": 2,
-    "targetsChecked": 2,
+    "targetsChecked": 3,
     "enqueuedReplies": 2,
     "sentReplies": 1,
     "publishedPosts": 0
