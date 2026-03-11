@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T11:09:11.517531+00:00",
+  "generatedAt": "2026-03-11T11:53:17.666879+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4609,396 +4609,86 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T11:09:11.408289+00:00",
-    "overallStatus": "running",
-    "lastStage": "dashboard_publish",
+    "updatedAt": "2026-03-11T11:53:17.249369+00:00",
+    "overallStatus": "degraded",
+    "lastStage": "watchdog",
     "lastSuccessAt": "2026-03-11T11:09:11.378836+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-11T10:26:10.261414+00:00",
+        "lastRunAt": "2026-03-11T11:53:17.058459+00:00",
         "lastSuccessAt": "2026-03-11T10:26:10.261414+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "sheetAccounts": {
-            "updatedAt": "2026-03-11T10:24:41.053209+00:00",
-            "sampledAccounts": 8,
-            "sourcesOk": 8,
-            "tweetItems": 16,
-            "nextCursor": 13
-          },
-          "refresh": {
-            "updatedAt": "2026-03-11T10:25:17.152284+00:00",
-            "sources": 37,
-            "items": 160
-          },
-          "queue": {
-            "updatedAt": "2026-03-11T10:25:23.333216+00:00",
-            "researchCandidates": 24
-          },
-          "generate": {
-            "updatedAt": "2026-03-11T10:26:10.204079+00:00",
-            "count": 0,
-            "rejected": 4,
-            "model": "openrouter/anthropic/claude-opus-4.6"
-          },
-          "promote": {
-            "promoted": [],
-            "count": 0
-          }
+          "repo": "zealton/lark-twitter-review",
+          "lightweightModel": "openrouter/anthropic/claude-opus-4.6",
+          "qualityModel": "openrouter/anthropic/claude-opus-4.6",
+          "sampleSize": 8,
+          "queueLimit": 24,
+          "draftCount": 4,
+          "sourceCount": 12
         },
-        "nextRunAt": "2026-03-11T12:26:10.261414+00:00",
+        "nextRunAt": "2026-03-11T13:53:17.058459+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T09:26:28.506925+00:00",
+        "lastRunAt": "2026-03-11T11:53:17.054669+00:00",
         "lastSuccessAt": "2026-03-11T09:26:28.506925+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "discoverReplies": {
-            "discovered": 1,
-            "count": 57,
-            "accountsScanned": 4,
-            "elapsedSeconds": 17.9,
-            "targetsChecked": 1,
-            "diagnostics": [
-              {
-                "scope": "discover",
-                "account": "@JinsFavorites",
-                "path": "sheet_people",
-                "status": "ok",
-                "statusLink": "https://x.com/JinsFavorites/status/2031634804844933485",
-                "score": 2,
-                "targetReasons": [
-                  "compact"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@jiqizhixin",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2025-08-06T00:08:00.000Z",
-                "statusLink": "https://x.com/jiqizhixin/status/1952884324120043869"
-              },
-              {
-                "scope": "discover",
-                "account": "@lidangzzz",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "",
-                "statusLink": "https://x.com/opopopco/status/2025690338208448988/analytics"
-              },
-              {
-                "scope": "discover",
-                "account": "@lijigang",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-03-08T04:41:10.000Z",
-                "statusLink": "https://x.com/lijigang/status/2030504070826598625"
-              }
-            ]
-          },
-          "enqueueReplies": {
-            "enqueued": [
-              "R87"
-            ],
-            "skipped": [
-              {
-                "id": "R1",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R2",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R3",
-                "reason": "status=needs_target"
-              },
-              {
-                "id": "R5",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R6",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R7",
-                "reason": "status=dry_run"
-              },
-              {
-                "id": "R8",
-                "reason": "status=dry_run"
-              },
-              {
-                "id": "R9",
-                "reason": "status=dry_run"
-              },
-              {
-                "id": "R10",
-                "reason": "status=dry_run"
-              },
-              {
-                "id": "R11",
-                "reason": "status=dry_run"
-              },
-              {
-                "id": "R12",
-                "reason": "status=dry_run"
-              },
-              {
-                "id": "R13",
-                "reason": "status=dry_run"
-              },
-              {
-                "id": "R14",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R15",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R16",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R17",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R18",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R19",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R20",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R21",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R22",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R23",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R24",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R25",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R26",
-                "reason": "status=failed"
-              },
-              {
-                "id": "R27",
-                "reason": "status=failed"
-              },
-              {
-                "id": "R28",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R29",
-                "reason": "status=failed"
-              },
-              {
-                "id": "R30",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R31",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R32",
-                "reason": "status=failed"
-              },
-              {
-                "id": "R33",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R34",
-                "reason": "status=failed"
-              },
-              {
-                "id": "R35",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R37",
-                "reason": "status=failed"
-              },
-              {
-                "id": "R38",
-                "reason": "status=failed"
-              },
-              {
-                "id": "R39",
-                "reason": "status=failed"
-              },
-              {
-                "id": "R40",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R41",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R42",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R43",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R44",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R73",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R74",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R75",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R76",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R77",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R78",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R79",
-                "reason": "status=sent"
-              },
-              {
-                "id": "R80",
-                "reason": "status=failed"
-              },
-              {
-                "id": "R81",
-                "reason": "sync_terminal_status:sent"
-              },
-              {
-                "id": "R82",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R83",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R84",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R85",
-                "reason": "status=queued"
-              },
-              {
-                "id": "R86",
-                "reason": "status=queued"
-              }
-            ],
-            "count": 1
-          },
-          "publish": {
-            "processed": 0,
-            "dryRun": false
-          },
-          "replies": {
-            "processed": [
-              {
-                "id": "R87",
-                "status": "sent"
-              }
-            ],
-            "count": 1,
-            "dryRun": false,
-            "dailyReplyLimit": 100,
-            "sentToday": 12,
-            "remainingQuota": 87,
-            "quotaStatus": "ok"
-          },
-          "outcome": "replies_sent"
+          "repo": "zealton/lark-twitter-review",
+          "dryRun": false,
+          "outcome": "in_progress"
         },
-        "nextRunAt": "2026-03-11T09:36:28.506925+00:00",
+        "nextRunAt": "2026-03-11T12:03:17.054669+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-11T11:04:55.886233+00:00",
+        "lastRunAt": "2026-03-11T11:53:17.071792+00:00",
         "lastSuccessAt": "2026-03-11T11:04:55.886233+00:00",
-        "status": "ok",
-        "lastError": "",
-        "details": {
-          "sync": {
-            "applied": [],
-            "count": 0
-          }
-        },
-        "nextRunAt": "2026-03-11T11:09:55.886233+00:00",
-        "jobId": "lark-twitter-review-sync",
-        "jobName": "Sync GitHub approvals"
-      },
-      "dashboard_publish": {
-        "lastRunAt": "2026-03-11T11:09:11.408289+00:00",
-        "lastSuccessAt": "2026-03-11T11:07:06.815809+00:00",
         "status": "running",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T11:11:11.408289+00:00",
+        "nextRunAt": "2026-03-11T11:58:17.071792+00:00",
+        "jobId": "lark-twitter-review-sync",
+        "jobName": "Sync GitHub approvals"
+      },
+      "dashboard_publish": {
+        "lastRunAt": "2026-03-11T11:53:17.062529+00:00",
+        "lastSuccessAt": "2026-03-11T11:07:06.815809+00:00",
+        "status": "running",
+        "lastError": "stage exceeded max running window and was auto-reset",
+        "details": {
+          "repo": "zealton/lark-twitter-review"
+        },
+        "nextRunAt": "2026-03-11T11:55:17.062529+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T11:09:11.378836+00:00",
+        "lastRunAt": "2026-03-11T11:53:17.249369+00:00",
         "lastSuccessAt": "2026-03-11T11:09:11.378836+00:00",
-        "status": "ok",
-        "lastError": "",
+        "status": "degraded",
+        "lastError": "watchdog detected runtime inconsistencies",
         "details": {
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 0,
-          "failures": [],
+          "smokeExitCode": 1,
+          "failures": [
+            "stale dashboard snapshot: age=44.1m"
+          ],
           "warnings": [],
-          "autoActions": [],
+          "autoActions": [
+            {
+              "stage": "dashboard_publish",
+              "action": "skip_running"
+            }
+          ],
           "summary": {
             "pending": 1,
             "pagePending": 1,
@@ -5006,15 +4696,37 @@
             "deliveryReplies": 60,
             "replyQueue": 77
           },
-          "stderr": ""
+          "stderr": "",
+          "error": "watchdog detected runtime inconsistencies"
         },
-        "nextRunAt": "2026-03-11T11:10:11.378836+00:00",
+        "nextRunAt": "2026-03-11T11:54:17.249369+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T11:53:17.242478+00:00",
+      "status": "degraded",
+      "failures": [
+        "stale dashboard snapshot: age=44.1m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dashboard_publish",
+          "action": "skip_running"
+        }
+      ],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 9,
+        "deliveryReplies": 60,
+        "replyQueue": 77
+      }
+    },
     {
       "at": "2026-03-11T11:09:11.378580+00:00",
       "status": "ok",
@@ -5112,32 +4824,18 @@
         "deliveryReplies": 60,
         "replyQueue": 77
       }
-    },
-    {
-      "at": "2026-03-11T11:01:46.779109+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 9,
-        "deliveryReplies": 60,
-        "replyQueue": 77
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T09:26:28.506925+00:00",
+    "lastRunAt": "2026-03-11T11:53:17.054669+00:00",
     "lastSuccessAt": "2026-03-11T09:26:28.506925+00:00",
-    "status": "ok",
-    "outcome": "replies_sent",
+    "status": "running",
+    "outcome": "in_progress",
     "lastError": "",
-    "discoveredReplies": 1,
-    "targetsChecked": 4,
-    "enqueuedReplies": 1,
-    "sentReplies": 1,
+    "discoveredReplies": 0,
+    "targetsChecked": 0,
+    "enqueuedReplies": 0,
+    "sentReplies": 0,
     "publishedPosts": 0
   },
   "learning": {
