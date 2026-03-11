@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T07:00:55.460174+00:00",
+  "generatedAt": "2026-03-11T07:02:26.872886+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -259,123 +259,6 @@
       "replyRationale": "Replying to @Gorden_Sun because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     },
     {
-      "id": "R66",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T06:36:40.585089+00:00",
-      "targetContent": "服务100+AI产品后，他把SEO营销经验做成了144个AI技能包\n\n3月7日我们有幸邀请了AI出海增长专家Kostja（k神），85分钟把三年、100+产品的SEO实战经验讲了个透。\n\n他做了一件很值得关注的事：把这些经验打包成144个开源Marketing Skills，放在GitHub上免费用。\n\n1. Skills是什么",
-      "originalLink": "https://x.com/WaytoAGI/status/2031018664670134641",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AWaytoAGI+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@WaytoAGI",
-      "replyRationale": "Replying to @WaytoAGI because it came from the sheet people pool and the post had usable discussion surface (compact, personal_view, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R65",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T06:13:33.130765+00:00",
-      "targetContent": "我在看了很多 Agent 框架的实现后，最后决定还是自己手搓一个 。现在的框架要么过于极简，要么又过于抽象和复杂。我也无法完全认同 Harness Engineering 的理念，只做  Harness 还是太过束手束脚。",
-      "originalLink": "https://x.com/waylybaye/status/2031580369750036788",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Awaylybaye+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@waylybaye",
-      "replyRationale": "Replying to @waylybaye because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R64",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T05:50:22.856175+00:00",
-      "targetContent": "一句话生成海报，且可以编辑修改文字和元素。\n\n“设计一个海报，关于中国第一界GEO大会，时间在4月11日，地点在中关村。”\n\n这工具有点强啊！",
-      "originalLink": "https://x.com/vista8/status/2031568307925692615",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Avista8+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@vista8",
-      "replyRationale": "Replying to @vista8 because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R63",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T05:48:22.961546+00:00",
-      "targetContent": "本周六（3.14号）我和 The New Yorker 的车畅老师在东京銀座的单向街书店做一场关于 AI 的对谈节目，主要分享我对软件和知识工作未来的思考，欢迎感兴趣的朋友前来捧场！",
-      "originalLink": "https://x.com/turingou/status/2031572328707141749",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Aturingou+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@turingou",
-      "replyRationale": "Replying to @turingou because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R62",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T05:25:00.973605+00:00",
-      "targetContent": "真的是所有可以看见的地方都是，特别是微信朋友圈和小红书尤其旺盛，X现在倒是慢慢开始出现了不一样的声音（是不是理智的声音无法判断）。其实特别希望看看那些人说的出现之后，AI发展速度从100倍晋升到了1万倍是怎么样的感觉。",
-      "originalLink": "https://x.com/Tumeng05/status/2031000825200542146",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ATumeng05+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@Tumeng05",
-      "replyRationale": "Replying to @Tumeng05 because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R60",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T04:38:20.721918+00:00",
-      "targetContent": "亚晨的粉丝认为AI是万能的，甚至指责不续费Surge的用户为“穷屌丝”，不知道现在支持VLess协议了没有？\n\n不交订阅费就连最基础的网络诊断工具都不行，要是能用不就没有冲最新版的必要了吗？\n若不续订仍想保留最基础的代理功能，那我估计不会再为这个软件多花一分钱，除非有重大更新。",
-      "originalLink": "https://x.com/realNyarime/status/2031325878240817559",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ArealNyarime+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@realNyarime",
-      "replyRationale": "Replying to @realNyarime because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R59",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T04:14:42.781693+00:00",
-      "targetContent": "周末 vibe coding 了两天搞了个可以放心在公司内部用的 OpenClaw，让每个 agent loop 都跑在单独的 sandbox 里。搞出来后才发现把 OpenClaw 困在沙盒里就相当于把它废掉了...",
-      "originalLink": "https://x.com/luinlee/status/2030927580971639147",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Aluinlee+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@luinlee",
-      "replyRationale": "Replying to @luinlee because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R58",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T03:50:55.038315+00:00",
-      "targetContent": "关于读书，可以拉出两个极端：\n\n一端是「古法阅读」，打开一本纸书，从头到尾阅读，时不时前后翻看，关联对比，思考联想。读的过程，本身就是在冲刷自己大脑神经网络。\n\n一端是「AI 阅读」，PDF",
-      "originalLink": "https://x.com/lijigang/status/2030504070826598625",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Alijigang+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@lijigang",
-      "replyRationale": "Replying to @lijigang because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R57",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T03:27:17.526646+00:00",
-      "targetContent": "我很少评价codex，\n\n但是我必须要讲一点的是，codex是rust写的，内存占用非常小，只有30MB，而opencode和claude code都在500MB左右，\n\n如果你需要写一个multi agent，并且希望同时并行运行100~1000个agent在本机，并且懒得自己糊一个完整带memory带skills带planning带一切现代特性的agent，\n\n用codex",
-      "originalLink": "https://x.com/lidangzzz/status/2031543669417791871",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Alidangzzz+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@lidangzzz",
-      "replyRationale": "Replying to @lidangzzz because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
       "id": "R55",
       "status": "sent",
       "statusDisplay": "sent",
@@ -387,19 +270,6 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Ajiqizhixin+%22This+is+the+right+lens%2C+Headlines+move+fast%2C+but+durable+upside+%22&src=typed_query&f=live",
       "targetAccount": "@jiqizhixin",
       "replyRationale": "Replying to @jiqizhixin because it came from the sheet people pool and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R54",
-      "status": "deleted",
-      "statusDisplay": "deleted",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T02:55:16.710209+00:00",
-      "targetContent": "GT7 街景拍照功能很有意思，这些参数非常专业，明天复刻一个来生成专业的提示词，让 gemini 给你的爱车拍照",
-      "originalLink": "https://x.com/JinsFavorites/status/2031375332457247191",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AJinsFavorites+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@JinsFavorites",
-      "replyRationale": "Replying to @JinsFavorites because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
   "pendingReplies": [
@@ -4655,10 +4525,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T07:00:55.378560+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T07:02:26.761526+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T07:00:55.378560+00:00",
+    "lastSuccessAt": "2026-03-11T07:02:17.416936+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T06:22:53.031186+00:00",
@@ -4937,73 +4807,73 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T07:00:55.378560+00:00",
+        "lastRunAt": "2026-03-11T07:02:26.761526+00:00",
         "lastSuccessAt": "2026-03-11T07:00:55.378560+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T07:00:51.960345+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T07:00:51.987298+00:00",
-            "sourceEntries": 31,
-            "sourceSuggestions": 8,
-            "replyEntries": 50,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T07:00:52.044188+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T07:02:55.378560+00:00",
+        "nextRunAt": "2026-03-11T07:04:26.761526+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T07:00:16.746385+00:00",
-        "lastSuccessAt": "2026-03-11T06:58:31.710813+00:00",
-        "status": "degraded",
-        "lastError": "watchdog detected runtime inconsistencies",
+        "lastRunAt": "2026-03-11T07:02:17.416936+00:00",
+        "lastSuccessAt": "2026-03-11T07:02:17.416936+00:00",
+        "status": "ok",
+        "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 1,
-          "failures": [
-            "overdue nextRunAt: dispatch overdue_by=12.6m"
-          ],
+          "smokeExitCode": 0,
+          "failures": [],
           "warnings": [],
-          "autoActions": [
-            {
-              "stage": "dispatch",
-              "action": "force_run",
-              "status": "ok",
-              "exitCode": 0
-            }
-          ],
+          "autoActions": [],
           "summary": {
             "pending": 0,
             "pagePending": 0,
             "replyActivity": 12,
-            "deliveryReplies": 51,
-            "replyQueue": 64
+            "deliveryReplies": 52,
+            "replyQueue": 66
           },
-          "stderr": "",
-          "error": "watchdog detected runtime inconsistencies"
+          "stderr": ""
         },
-        "nextRunAt": "2026-03-11T07:01:16.746385+00:00",
+        "nextRunAt": "2026-03-11T07:03:17.416936+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T07:02:17.416707+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 52,
+        "replyQueue": 66
+      }
+    },
+    {
+      "at": "2026-03-11T07:01:17.114367+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 52,
+        "replyQueue": 66
+      }
+    },
     {
       "at": "2026-03-11T07:00:16.746117+00:00",
       "status": "degraded",
@@ -5085,34 +4955,6 @@
     },
     {
       "at": "2026-03-11T06:54:10.061693+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 51,
-        "replyQueue": 64
-      }
-    },
-    {
-      "at": "2026-03-11T06:53:09.712831+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 51,
-        "replyQueue": 64
-      }
-    },
-    {
-      "at": "2026-03-11T06:52:01.901197+00:00",
       "status": "ok",
       "failures": [],
       "warnings": [],
