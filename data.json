@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T07:17:58.200933+00:00",
+  "generatedAt": "2026-03-11T07:19:03.021121+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4525,10 +4525,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T07:17:58.116281+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T07:19:02.903282+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T07:17:58.116281+00:00",
+    "lastSuccessAt": "2026-03-11T07:18:17.559670+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T06:22:53.031186+00:00",
@@ -4792,8 +4792,8 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-11T07:13:10.551176+00:00",
-        "lastSuccessAt": "2026-03-11T07:13:10.551176+00:00",
+        "lastRunAt": "2026-03-11T07:18:17.559670+00:00",
+        "lastSuccessAt": "2026-03-11T07:18:17.559670+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -4802,42 +4802,24 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-11T07:18:10.551176+00:00",
+        "nextRunAt": "2026-03-11T07:23:17.559670+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T07:17:58.116281+00:00",
+        "lastRunAt": "2026-03-11T07:19:02.903282+00:00",
         "lastSuccessAt": "2026-03-11T07:17:58.116281+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T07:17:54.849088+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T07:17:54.874541+00:00",
-            "sourceEntries": 31,
-            "sourceSuggestions": 8,
-            "replyEntries": 50,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T07:17:54.939437+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T07:19:58.116281+00:00",
+        "nextRunAt": "2026-03-11T07:21:02.903282+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T07:17:54.720044+00:00",
+        "lastRunAt": "2026-03-11T07:19:02.739965+00:00",
         "lastSuccessAt": "2026-03-11T07:02:17.416936+00:00",
         "status": "running",
         "lastError": "watchdog detected runtime inconsistencies",
@@ -4845,13 +4827,36 @@
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-11T07:18:54.720044+00:00",
+        "nextRunAt": "2026-03-11T07:20:02.739965+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T07:18:01.604160+00:00",
+      "status": "degraded",
+      "failures": [
+        "latest replies missing from page: ['R54', 'R57', 'R58', 'R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66']"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dashboard_publish",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        }
+      ],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 2,
+        "deliveryReplies": 52,
+        "replyQueue": 66
+      }
+    },
     {
       "at": "2026-03-11T07:16:54.527787+00:00",
       "status": "degraded",
@@ -4992,29 +4997,6 @@
     },
     {
       "at": "2026-03-11T07:10:09.334117+00:00",
-      "status": "degraded",
-      "failures": [
-        "latest replies missing from page: ['R54', 'R57', 'R58', 'R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66']"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dashboard_publish",
-          "action": "force_run",
-          "status": "ok",
-          "exitCode": 0
-        }
-      ],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 2,
-        "deliveryReplies": 52,
-        "replyQueue": 66
-      }
-    },
-    {
-      "at": "2026-03-11T07:09:02.045037+00:00",
       "status": "degraded",
       "failures": [
         "latest replies missing from page: ['R54', 'R57', 'R58', 'R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66']"
