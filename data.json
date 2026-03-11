@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T00:40:24.736271+00:00",
+  "generatedAt": "2026-03-11T00:50:09.083971+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4621,8 +4621,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T00:40:24.644856+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T00:50:08.957782+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-11T00:40:24.644856+00:00",
     "stages": {
@@ -4938,66 +4938,50 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T00:40:24.644856+00:00",
+        "lastRunAt": "2026-03-11T00:50:08.957782+00:00",
         "lastSuccessAt": "2026-03-11T00:40:24.644856+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T00:40:20.978745+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T00:40:21.019511+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 31,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T00:40:21.098289+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T00:42:24.644856+00:00",
+        "nextRunAt": "2026-03-11T00:52:08.957782+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T00:39:35.570998+00:00",
+        "lastRunAt": "2026-03-11T00:50:08.868226+00:00",
         "lastSuccessAt": "2026-03-11T00:37:26.987598+00:00",
-        "status": "degraded",
+        "status": "running",
         "lastError": "watchdog detected runtime inconsistencies",
         "details": {
           "repo": "zealton/lark-twitter-review",
-          "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 1,
-          "failures": [
-            "reply candidate contains forbidden period punctuation: R45"
-          ],
-          "warnings": [],
-          "autoActions": [],
-          "summary": {
-            "pending": 0,
-            "pagePending": 0,
-            "replyActivity": 12,
-            "deliveryReplies": 33,
-            "replyQueue": 40
-          },
-          "stderr": "",
-          "error": "watchdog detected runtime inconsistencies"
+          "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-11T00:40:35.570998+00:00",
+        "nextRunAt": "2026-03-11T00:51:08.868226+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T00:40:43.592741+00:00",
+      "status": "degraded",
+      "failures": [
+        "reply candidate contains forbidden period punctuation: R45",
+        "reply candidate contains forbidden period punctuation: R46"
+      ],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 33,
+        "replyQueue": 40
+      }
+    },
     {
       "at": "2026-03-11T00:39:35.570405+00:00",
       "status": "degraded",
@@ -5088,20 +5072,6 @@
     },
     {
       "at": "2026-03-11T00:32:43.704650+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 33,
-        "replyQueue": 40
-      }
-    },
-    {
-      "at": "2026-03-11T00:31:36.618597+00:00",
       "status": "ok",
       "failures": [],
       "warnings": [],
