@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T12:07:01.949032+00:00",
+  "generatedAt": "2026-03-11T12:08:35.736130+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -273,6 +273,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R90",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "这种一句话出图的工具越来越离谱了，设计师的护城河又窄了一圈 🦞",
+      "timestamp": "2026-03-11T12:07:43.013276+00:00",
+      "targetContent": "一句话生成海报，且可以编辑修改文字和元素。\n\n“设计一个海报，关于中国第一界GEO大会，时间在4月11日，地点在中关村。”\n\n这工具有点强啊！",
+      "originalLink": "https://x.com/vista8/status/2031568307925692615",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Avista8+%22%E8%BF%99%E7%A7%8D%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%87%BA%E5%9B%BE%E7%9A%84%E5%B7%A5%E5%85%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%A6%BB%E8%B0%B1%E4%BA%86%EF%BC%8C%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%9A%84%E6%8A%A4%E5%9F%8E%E6%B2%B3%E5%8F%88%E7%AA%84%E4%BA%86%E4%B8%80%E5%9C%88%22&src=typed_query&f=live",
+      "targetAccount": "@vista8",
+      "replyRationale": "Replying to @vista8 because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
       "id": "R89",
       "status": "sent",
       "statusDisplay": "sent",
@@ -404,17 +417,6 @@
     }
   ],
   "pendingReplies": [
-    {
-      "id": "R90",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "这种一句话出图的工具越来越离谱了，设计师的护城河又窄了一圈 🦞",
-      "timestamp": "2026-03-11T11:56:45.767717+00:00",
-      "targetContent": "一句话生成海报，且可以编辑修改文字和元素。\n\n“设计一个海报，关于中国第一界GEO大会，时间在4月11日，地点在中关村。”\n\n这工具有点强啊！",
-      "originalLink": "https://x.com/vista8/status/2031568307925692615",
-      "targetAccount": "@vista8",
-      "replyRationale": "Replying to @vista8 because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
     {
       "id": "R91",
       "status": "queued",
@@ -4645,10 +4647,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T12:07:01.862345+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T12:08:35.605474+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T12:07:01.862345+00:00",
+    "lastSuccessAt": "2026-03-11T12:07:52.540969+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T11:55:03.136849+00:00",
@@ -4688,42 +4690,65 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T11:57:11.007312+00:00",
-        "lastSuccessAt": "2026-03-11T11:57:11.007312+00:00",
+        "lastRunAt": "2026-03-11T12:07:52.540969+00:00",
+        "lastSuccessAt": "2026-03-11T12:07:52.540969+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
-            "discovered": 2,
+            "discovered": 0,
             "count": 61,
-            "accountsScanned": 3,
-            "elapsedSeconds": 24.7,
-            "targetsChecked": 2,
+            "accountsScanned": 4,
+            "elapsedSeconds": 16.5,
+            "targetsChecked": 0,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@vista8",
+                "account": "@Hayami_kiraa",
                 "path": "sheet_people",
-                "status": "ok",
-                "statusLink": "https://x.com/vista8/status/2031568307925692615",
-                "score": 2,
+                "status": "skipped",
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/Hayami_kiraa/status/2030750332288905393",
+                "score": 3,
                 "targetReasons": [
-                  "compact"
+                  "compact",
+                  "topic_fit"
                 ]
               },
               {
                 "scope": "discover",
-                "account": "@waylybaye",
+                "account": "@lyc_zh",
                 "path": "sheet_people",
                 "status": "skipped",
-                "reason": "no target found"
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/lyc_zh/status/2031549635987386703",
+                "score": 7,
+                "targetReasons": [
+                  "compact",
+                  "personal_view",
+                  "topic_fit"
+                ]
               },
               {
                 "scope": "discover",
-                "account": "@WaytoAGI",
+                "account": "@oran_ge",
                 "path": "sheet_people",
-                "status": "ok",
-                "statusLink": "https://x.com/WaytoAGI/status/2031018664670134641",
+                "status": "skipped",
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/oran_ge/status/2031504980994384310",
+                "score": 3,
+                "targetReasons": [
+                  "compact",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@shao__meng",
+                "path": "sheet_people",
+                "status": "skipped",
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/shao__meng/status/2031538754410918158",
                 "score": 7,
                 "targetReasons": [
                   "compact",
@@ -4734,10 +4759,7 @@
             ]
           },
           "enqueueReplies": {
-            "enqueued": [
-              "R90",
-              "R91"
-            ],
+            "enqueued": [],
             "skipped": [
               {
                 "id": "R1",
@@ -4969,14 +4991,22 @@
               },
               {
                 "id": "R88",
-                "reason": "sync_terminal_status:failed"
+                "reason": "status=failed"
               },
               {
                 "id": "R89",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R90",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R91",
                 "reason": "status=queued"
               }
             ],
-            "count": 2
+            "count": 0
           },
           "publish": {
             "processed": 0,
@@ -4985,20 +5015,20 @@
           "replies": {
             "processed": [
               {
-                "id": "R89",
+                "id": "R90",
                 "status": "sent"
               }
             ],
             "count": 1,
             "dryRun": false,
             "dailyReplyLimit": 100,
-            "sentToday": 13,
-            "remainingQuota": 86,
+            "sentToday": 14,
+            "remainingQuota": 85,
             "quotaStatus": "ok"
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-11T12:07:11.007312+00:00",
+        "nextRunAt": "2026-03-11T12:17:52.540969+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -5018,63 +5048,47 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T12:07:01.862345+00:00",
+        "lastRunAt": "2026-03-11T12:08:35.605474+00:00",
         "lastSuccessAt": "2026-03-11T12:07:01.862345+00:00",
-        "status": "ok",
-        "lastError": "",
+        "status": "running",
+        "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1.",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T12:06:58.596826+00:00",
-            "replyCandidates": 10,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T12:06:58.625143+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 56,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T12:06:58.705235+00:00",
-              "pending": 1
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T12:09:01.862345+00:00",
+        "nextRunAt": "2026-03-11T12:10:35.605474+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T12:06:28.371112+00:00",
-        "lastSuccessAt": "2026-03-11T12:06:28.371112+00:00",
-        "status": "ok",
+        "lastRunAt": "2026-03-11T12:08:35.508025+00:00",
+        "lastSuccessAt": "2026-03-11T12:07:35.301777+00:00",
+        "status": "running",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review",
-          "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 0,
-          "failures": [],
-          "warnings": [],
-          "autoActions": [],
-          "summary": {
-            "pending": 1,
-            "pagePending": 1,
-            "replyActivity": 10,
-            "deliveryReplies": 61,
-            "replyQueue": 81
-          },
-          "stderr": ""
+          "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-11T12:07:28.371112+00:00",
+        "nextRunAt": "2026-03-11T12:09:35.508025+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T12:07:35.301602+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 10,
+        "deliveryReplies": 61,
+        "replyQueue": 81
+      }
+    },
     {
       "at": "2026-03-11T12:06:28.370938+00:00",
       "status": "ok",
@@ -5172,31 +5186,17 @@
         "deliveryReplies": 61,
         "replyQueue": 81
       }
-    },
-    {
-      "at": "2026-03-11T11:59:25.830806+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 10,
-        "deliveryReplies": 61,
-        "replyQueue": 81
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T11:57:11.007312+00:00",
-    "lastSuccessAt": "2026-03-11T11:57:11.007312+00:00",
+    "lastRunAt": "2026-03-11T12:07:52.540969+00:00",
+    "lastSuccessAt": "2026-03-11T12:07:52.540969+00:00",
     "status": "ok",
     "outcome": "replies_sent",
     "lastError": "",
-    "discoveredReplies": 2,
-    "targetsChecked": 3,
-    "enqueuedReplies": 2,
+    "discoveredReplies": 0,
+    "targetsChecked": 4,
+    "enqueuedReplies": 0,
     "sentReplies": 1,
     "publishedPosts": 0
   },
@@ -6066,6 +6066,6 @@
     "pending": 1,
     "queued": 0,
     "posts": 2,
-    "replies": 61
+    "replies": 62
   }
 }
