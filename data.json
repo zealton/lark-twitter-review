@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T03:49:04.820564+00:00",
+  "generatedAt": "2026-03-11T03:51:30.264635+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -192,6 +192,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R58",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T03:50:55.038315+00:00",
+      "targetContent": "关于读书，可以拉出两个极端：\n\n一端是「古法阅读」，打开一本纸书，从头到尾阅读，时不时前后翻看，关联对比，思考联想。读的过程，本身就是在冲刷自己大脑神经网络。\n\n一端是「AI 阅读」，PDF",
+      "originalLink": "https://x.com/lijigang/status/2030504070826598625",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Alijigang+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
+      "targetAccount": "@lijigang",
+      "replyRationale": "Replying to @lijigang because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
       "id": "R57",
       "status": "sent",
       "statusDisplay": "sent",
@@ -333,19 +346,6 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AAlchainHust+%22%E6%97%A2%E7%84%B6%E5%B7%B2%E7%BB%8F%E5%8E%BB%E9%AD%85%E5%87%BA%E4%B9%A6%E4%BA%86%EF%BC%8C%E4%B8%8D%E5%A6%82%E6%8A%8A%E8%BF%99%E8%82%A1%E5%8A%B2%E5%A4%B4%E7%95%99%E7%BB%99+Monad%EF%BC%8C%E6%AF%95%E7%AB%9F%E8%BF%99%E7%A7%8D%E5%B9%B6%E8%A1%8C%E6%89%A7%E8%A1%8C%E6%95%88%E7%8E%87%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A7%A3%E6%94%BE%22&src=typed_query&f=live",
       "targetAccount": "@AlchainHust",
       "replyRationale": "Replying to @AlchainHust because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R43",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "本质还是在筛选高质量内容，就像 Monad 追求极致性能也是为了承载真实的高频交互，纯流水线注水确实没意义 🦞",
-      "timestamp": "2026-03-11T00:24:19.839767+00:00",
-      "targetContent": "小红书开始明确治理 AI 托管运营账号了\n\n重点不是不让你用 AI，而是 不允许用 AI 冒充真人，自动发笔记、自动评论、自动私信、自动群聊互动。\n\n官方规则很直接\n轻则警告、限制分发，重则直接封号\n\n意思是：AI 可以辅助创作，但不能整号 机器人代运营",
-      "originalLink": "https://x.com/abskoop/status/2031397738336915891",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Aabskoop+%22%E6%9C%AC%E8%B4%A8%E8%BF%98%E6%98%AF%E5%9C%A8%E7%AD%9B%E9%80%89%E9%AB%98%E8%B4%A8%E9%87%8F%E5%86%85%E5%AE%B9%EF%BC%8C%E5%B0%B1%E5%83%8F+Monad+%E8%BF%BD%E6%B1%82%E6%9E%81%E8%87%B4%E6%80%A7%E8%83%BD%E4%B9%9F%E6%98%AF%E4%B8%BA%E4%BA%86%E6%89%BF%E8%BD%BD%E7%9C%9F%E5%AE%9E%E7%9A%84%E9%AB%98%E9%A2%91%E4%BA%A4%E4%BA%92%EF%BC%8C%E7%BA%AF%E6%B5%81%E6%B0%B4%E7%BA%BF%E6%B3%A8%E6%B0%B4%E7%A1%AE%E5%AE%9E%E6%B2%A1%E6%84%8F%E4%B9%89%22&src=typed_query&f=live",
-      "targetAccount": "@abskoop",
-      "replyRationale": "Replying to @abskoop because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
   "pendingReplies": [
@@ -370,17 +370,6 @@
       "originalLink": "https://x.com/luinlee/status/2030927580971639147",
       "targetAccount": "@luinlee",
       "replyRationale": "Replying to @luinlee because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R58",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T02:44:03.889127+00:00",
-      "targetContent": "关于读书，可以拉出两个极端：\n\n一端是「古法阅读」，打开一本纸书，从头到尾阅读，时不时前后翻看，关联对比，思考联想。读的过程，本身就是在冲刷自己大脑神经网络。\n\n一端是「AI 阅读」，PDF",
-      "originalLink": "https://x.com/lijigang/status/2030504070826598625",
-      "targetAccount": "@lijigang",
-      "replyRationale": "Replying to @lijigang because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
   "archive": [
@@ -4601,10 +4590,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T03:49:04.735437+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T03:51:30.131158+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T03:49:04.735437+00:00",
+    "lastSuccessAt": "2026-03-11T03:51:30.001554+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T02:18:57.334095+00:00",
@@ -4644,67 +4633,62 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T03:27:26.573114+00:00",
-        "lastSuccessAt": "2026-03-11T03:27:26.573114+00:00",
+        "lastRunAt": "2026-03-11T03:51:30.001554+00:00",
+        "lastSuccessAt": "2026-03-11T03:51:30.001554+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
-            "discovered": 1,
+            "discovered": 0,
             "count": 59,
             "accountsScanned": 4,
-            "elapsedSeconds": 27.8,
+            "elapsedSeconds": 31.0,
             "targetsChecked": 1,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@quarktalksss",
+                "account": "@ruanyf",
                 "path": "sheet_people",
-                "status": "skipped",
-                "reason": "no target found"
+                "status": "failed",
+                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set targetWindow to front window', '-e', 'repeat while (count of tabs of targetWindow) < 2', '-e', 'tell targetWindow to make new tab with properties {URL:\"about:blank\"}', '-e', 'end repeat', '-e', 'set active tab index of targetWindow to 2', '-e', 'set URL of tab 2 of targetWindow to \"https://x.com/ruanyf\"', '-e', 'delay 1', '-e', 'end tell']' timed out after 10 seconds"
               },
               {
                 "scope": "discover",
-                "account": "@randyloop",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-03-02T14:08:44.000Z",
-                "statusLink": "https://x.com/randyloop/status/2028472576822161921"
-              },
-              {
-                "scope": "discover",
-                "account": "@readyfor2025",
+                "account": "@SamuelQZQ",
                 "path": "sheet_people",
                 "status": "skipped",
                 "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2025-08-23T16:20:23.000Z",
-                "statusLink": "https://x.com/readyfor2025/status/1959289627904540870"
+                "publishedAt": "2026-01-22T07:59:31.000Z",
+                "statusLink": "https://x.com/SamuelQZQ/status/2014246535773720740"
               },
               {
                 "scope": "discover",
-                "account": "@realNyarime",
+                "account": "@santiagoyoungus",
+                "path": "sheet_people",
+                "status": "failed",
+                "reason": "Command '['osascript', '-e', 'tell application \"Google Chrome\"', '-e', 'if (count of windows) = 0 then make new window', '-e', 'set targetWindow to front window', '-e', 'repeat while (count of tabs of targetWindow) < 2', '-e', 'tell targetWindow to make new tab with properties {URL:\"about:blank\"}', '-e', 'end repeat', '-e', 'set active tab index of targetWindow to 2', '-e', 'set URL of tab 2 of targetWindow to \"https://x.com/santiagoyoungus\"', '-e', 'delay 1', '-e', 'end tell']' returned non-zero exit status 1."
+              },
+              {
+                "scope": "discover",
+                "account": "@seclink",
                 "path": "sheet_people",
                 "status": "ok",
-                "statusLink": "https://x.com/realNyarime/status/2031325878240817559",
-                "score": 3,
+                "statusLink": "https://x.com/seclink/status/2031528082889388330",
+                "score": 2,
                 "targetReasons": [
-                  "compact",
-                  "topic_fit"
+                  "compact"
                 ]
               },
               {
                 "scope": "generate",
-                "account": "@realNyarime",
-                "status": "fallback",
-                "reason": "timed out"
+                "account": "@seclink",
+                "status": "skipped",
+                "reason": "insufficient_generation_budget"
               }
             ]
           },
           "enqueueReplies": {
-            "enqueued": [
-              "R60"
-            ],
+            "enqueued": [],
             "skipped": [
               {
                 "id": "R1",
@@ -4924,11 +4908,11 @@
               },
               {
                 "id": "R56",
-                "reason": "status=queued"
+                "reason": "sync_terminal_status:failed"
               },
               {
                 "id": "R57",
-                "reason": "status=queued"
+                "reason": "sync_terminal_status:sent"
               },
               {
                 "id": "R58",
@@ -4937,9 +4921,13 @@
               {
                 "id": "R59",
                 "reason": "status=queued"
+              },
+              {
+                "id": "R60",
+                "reason": "status=queued"
               }
             ],
-            "count": 1
+            "count": 0
           },
           "publish": {
             "processed": 0,
@@ -4948,16 +4936,21 @@
           "replies": {
             "processed": [
               {
-                "id": "R57",
-                "status": "sent"
+                "id": "R58",
+                "status": "failed",
+                "error": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_record_reply.py', '--original-link', 'https://x.com/lijigang/status/2030504070826598625', '--reply-text', '同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞', '--target-account', '@lijigang', '--target-content', '关于读书，可以拉出两个极端：\\n\\n一端是「古法阅读」，打开一本纸书，从头到尾阅读，时不时前后翻看，关联对比，思考联想。读的过程，本身就是在冲刷自己大脑神经网络。\\n\\n一端是「AI 阅读」，PDF', '--reply-id', 'R58', '--reply-rationale', 'Replying to @lijigang because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity.']' timed out after 35 seconds"
               }
             ],
             "count": 1,
-            "dryRun": false
+            "dryRun": false,
+            "dailyReplyLimit": 100,
+            "sentToday": 13,
+            "remainingQuota": 87,
+            "quotaStatus": "ok"
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-11T03:37:26.573114+00:00",
+        "nextRunAt": "2026-03-11T04:01:30.001554+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4977,47 +4970,38 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T03:49:04.735437+00:00",
+        "lastRunAt": "2026-03-11T03:51:30.131158+00:00",
         "lastSuccessAt": "2026-03-11T03:49:04.735437+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T03:49:01.463434+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T03:49:01.487964+00:00",
-            "sourceEntries": 28,
-            "sourceSuggestions": 8,
-            "replyEntries": 41,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T03:49:01.551612+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T03:51:04.735437+00:00",
+        "nextRunAt": "2026-03-11T03:53:30.131158+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T03:49:01.410925+00:00",
+        "lastRunAt": "2026-03-11T03:51:30.093955+00:00",
         "lastSuccessAt": "2026-03-11T03:49:01.410925+00:00",
-        "status": "ok",
-        "lastError": "",
+        "status": "degraded",
+        "lastError": "watchdog detected runtime inconsistencies",
         "details": {
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 0,
-          "failures": [],
+          "smokeExitCode": 1,
+          "failures": [
+            "overdue nextRunAt: dispatch overdue_by=12.7m"
+          ],
           "warnings": [],
-          "autoActions": [],
+          "autoActions": [
+            {
+              "stage": "dispatch",
+              "action": "force_run",
+              "status": "ok",
+              "exitCode": 0
+            }
+          ],
           "summary": {
             "pending": 0,
             "pagePending": 0,
@@ -5025,15 +5009,39 @@
             "deliveryReplies": 43,
             "replyQueue": 56
           },
-          "stderr": ""
+          "stderr": "",
+          "error": "watchdog detected runtime inconsistencies"
         },
-        "nextRunAt": "2026-03-11T03:50:01.410925+00:00",
+        "nextRunAt": "2026-03-11T03:52:30.093955+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T03:51:30.093265+00:00",
+      "status": "degraded",
+      "failures": [
+        "overdue nextRunAt: dispatch overdue_by=12.7m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dispatch",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        }
+      ],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 43,
+        "replyQueue": 56
+      }
+    },
     {
       "at": "2026-03-11T03:49:01.410678+00:00",
       "status": "ok",
@@ -5131,31 +5139,17 @@
         "deliveryReplies": 43,
         "replyQueue": 56
       }
-    },
-    {
-      "at": "2026-03-11T03:41:31.825146+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 43,
-        "replyQueue": 56
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T03:27:26.573114+00:00",
-    "lastSuccessAt": "2026-03-11T03:27:26.573114+00:00",
+    "lastRunAt": "2026-03-11T03:51:30.001554+00:00",
+    "lastSuccessAt": "2026-03-11T03:51:30.001554+00:00",
     "status": "ok",
     "outcome": "replies_sent",
     "lastError": "",
-    "discoveredReplies": 1,
+    "discoveredReplies": 0,
     "targetsChecked": 4,
-    "enqueuedReplies": 1,
+    "enqueuedReplies": 0,
     "sentReplies": 1,
     "publishedPosts": 0
   },
@@ -6024,6 +6018,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 43
+    "replies": 44
   }
 }
