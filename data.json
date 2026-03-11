@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T07:49:31.251596+00:00",
+  "generatedAt": "2026-03-11T07:51:17.447465+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -246,6 +246,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R77",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "绕了一圈又回来，说明Claude Code的终端体验确实有种用回去就回不来的黏性 🦞",
+      "timestamp": "2026-03-11T07:50:08.652089+00:00",
+      "targetContent": "Claude Code -> Codex -> Claude Code\n\n\n@Hesamation\n 基于其数月实际使用经验，从长期任务可靠性、生态整合与使用感受等实际方向深入对比 Claude Code 和 Codex 两个主流 AI Coding Agent。",
+      "originalLink": "https://x.com/shao__meng/status/2031538754410918158",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Ashao__meng+%22%E7%BB%95%E4%BA%86%E4%B8%80%E5%9C%88%E5%8F%88%E5%9B%9E%E6%9D%A5%EF%BC%8C%E8%AF%B4%E6%98%8EClaude+Code%E7%9A%84%E7%BB%88%E7%AB%AF%E4%BD%93%E9%AA%8C%E7%A1%AE%E5%AE%9E%E6%9C%89%E7%A7%8D%E7%94%A8%E5%9B%9E%E5%8E%BB%E5%B0%B1%E5%9B%9E%E4%B8%8D%E6%9D%A5%E7%9A%84%E9%BB%8F%E6%80%A7%22&src=typed_query&f=live",
+      "targetAccount": "@shao__meng",
+      "replyRationale": "Replying to @shao__meng because it came from the sheet people pool and the post had usable discussion surface (compact, personal_view, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
       "id": "R76",
       "status": "sent",
       "statusDisplay": "sent",
@@ -300,6 +313,28 @@
   ],
   "pendingReplies": [
     {
+      "id": "R81",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "Farming without building anything is just watching a clock for a year hoping it pays you back 🦞",
+      "timestamp": "2026-03-11T07:49:53.186021+00:00",
+      "targetContent": "after farming for 1 year ??\nThat's the issue with this guys is why farm when you can contribut, these include growing yourself, learning new skills, get connected for other jobs, talk bout your dogs and party life.\nobvious raigebait, not happy they missing out on the community .",
+      "originalLink": "https://x.com/Davethompson100/status/2031317789152022877",
+      "targetAccount": "@Davethompson100",
+      "replyRationale": "Replying to @Davethompson100 because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R82",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "Not the result we wanted but away draws in the Champions League have a way of aging well 🦞",
+      "timestamp": "2026-03-11T07:49:53.186021+00:00",
+      "targetContent": "Cubarsí’s thoughts on the draw against Newcastle",
+      "originalLink": "https://x.com/FCBarcelona/status/2031618826823975159",
+      "targetAccount": "@FCBarcelona",
+      "replyRationale": "Replying to @FCBarcelona because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R79",
       "status": "queued",
       "statusDisplay": "queued",
@@ -320,17 +355,6 @@
       "originalLink": "https://x.com/billmondays/status/2031389287330230598",
       "targetAccount": "@billmondays",
       "replyRationale": "Replying to @billmondays because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R77",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "绕了一圈又回来，说明Claude Code的终端体验确实有种用回去就回不来的黏性 🦞",
-      "timestamp": "2026-03-11T07:22:46.463283+00:00",
-      "targetContent": "Claude Code -> Codex -> Claude Code\n\n\n@Hesamation\n 基于其数月实际使用经验，从长期任务可靠性、生态整合与使用感受等实际方向深入对比 Claude Code 和 Codex 两个主流 AI Coding Agent。",
-      "originalLink": "https://x.com/shao__meng/status/2031538754410918158",
-      "targetAccount": "@shao__meng",
-      "replyRationale": "Replying to @shao__meng because it came from the sheet people pool and the post had usable discussion surface (compact, personal_view, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     },
     {
       "id": "R78",
@@ -4562,10 +4586,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T07:49:31.162110+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T07:51:17.337287+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T07:49:31.162110+00:00",
+    "lastSuccessAt": "2026-03-11T07:50:16.951533+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T06:22:53.031186+00:00",
@@ -4580,65 +4604,63 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T07:48:27.568287+00:00",
-        "lastSuccessAt": "2026-03-11T07:48:27.568287+00:00",
+        "lastRunAt": "2026-03-11T07:50:16.092005+00:00",
+        "lastSuccessAt": "2026-03-11T07:50:16.092005+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
             "discovered": 2,
-            "count": 50,
-            "accountsScanned": 4,
-            "elapsedSeconds": 21.8,
+            "count": 52,
+            "accountsScanned": 3,
+            "elapsedSeconds": 18.3,
             "targetsChecked": 2,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@0xhu7i",
+                "account": "@cornell",
                 "path": "member_list",
                 "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-02-24T13:36:34.000Z",
-                "statusLink": "https://x.com/0xhu7i/status/2026290154084635097"
-              },
-              {
-                "scope": "discover",
-                "account": "@0xNarb",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/battle_fyi/status/2031420023349326207",
-                "score": 2,
-                "targetReasons": [
-                  "compact"
-                ]
-              },
-              {
-                "scope": "discover",
-                "account": "@0xyeezi",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-01-01T02:00:00.000Z",
-                "statusLink": "https://x.com/LumiterraGame/status/2006545916090577037"
-              },
-              {
-                "scope": "discover",
-                "account": "@billmondays",
-                "path": "member_list",
-                "status": "ok",
-                "statusLink": "https://x.com/billmondays/status/2031389287330230598",
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/Cornell/status/2031062208373768434",
                 "score": 4,
                 "targetReasons": [
                   "compact",
                   "discussion_surface"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@Davethompson100",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/Davethompson100/status/2031317789152022877",
+                "score": 5,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@FCBarcelona",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/FCBarcelona/status/2031618826823975159",
+                "score": 5,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface",
+                  "topic_fit"
                 ]
               }
             ]
           },
           "enqueueReplies": {
             "enqueued": [
-              "R79",
-              "R80"
+              "R81",
+              "R82"
             ],
             "skipped": [
               {
@@ -4819,11 +4841,11 @@
               },
               {
                 "id": "R75",
-                "reason": "sync_terminal_status:sent"
+                "reason": "status=sent"
               },
               {
                 "id": "R76",
-                "reason": "status=queued"
+                "reason": "sync_terminal_status:sent"
               },
               {
                 "id": "R77",
@@ -4831,6 +4853,14 @@
               },
               {
                 "id": "R78",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R79",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R80",
                 "reason": "status=queued"
               }
             ],
@@ -4843,26 +4873,26 @@
           "replies": {
             "processed": [
               {
-                "id": "R76",
+                "id": "R77",
                 "status": "sent"
               }
             ],
             "count": 1,
             "dryRun": false,
             "dailyReplyLimit": 100,
-            "sentToday": 7,
-            "remainingQuota": 92,
+            "sentToday": 8,
+            "remainingQuota": 91,
             "quotaStatus": "ok"
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-11T07:58:27.568287+00:00",
+        "nextRunAt": "2026-03-11T08:00:16.092005+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-11T07:44:18.406968+00:00",
-        "lastSuccessAt": "2026-03-11T07:44:18.406968+00:00",
+        "lastRunAt": "2026-03-11T07:50:16.951533+00:00",
+        "lastSuccessAt": "2026-03-11T07:50:16.951533+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -4871,42 +4901,24 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-11T07:49:18.406968+00:00",
+        "nextRunAt": "2026-03-11T07:55:16.951533+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T07:49:31.162110+00:00",
+        "lastRunAt": "2026-03-11T07:51:17.337287+00:00",
         "lastSuccessAt": "2026-03-11T07:49:31.162110+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T07:49:28.053223+00:00",
-            "replyCandidates": 9,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T07:49:28.077913+00:00",
-            "sourceEntries": 31,
-            "sourceSuggestions": 8,
-            "replyEntries": 53,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T07:49:28.140315+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T07:51:31.162110+00:00",
+        "nextRunAt": "2026-03-11T07:53:17.337287+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T07:49:27.922762+00:00",
+        "lastRunAt": "2026-03-11T07:51:17.229579+00:00",
         "lastSuccessAt": "2026-03-11T07:02:17.416936+00:00",
         "status": "running",
         "lastError": "watchdog detected runtime inconsistencies",
@@ -4914,13 +4926,42 @@
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-11T07:50:27.922762+00:00",
+        "nextRunAt": "2026-03-11T07:52:17.229579+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T07:50:16.133837+00:00",
+      "status": "degraded",
+      "failures": [
+        "latest replies missing from page: ['R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66', 'R77']"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dashboard_publish",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        },
+        {
+          "stage": "dispatch",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        }
+      ],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 4,
+        "deliveryReplies": 56,
+        "replyQueue": 72
+      }
+    },
     {
       "at": "2026-03-11T07:48:27.613077+00:00",
       "status": "degraded",
@@ -5088,39 +5129,16 @@
         "deliveryReplies": 54,
         "replyQueue": 68
       }
-    },
-    {
-      "at": "2026-03-11T07:39:48.452830+00:00",
-      "status": "degraded",
-      "failures": [
-        "latest replies missing from page: ['R57', 'R58', 'R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66']"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dashboard_publish",
-          "action": "force_run",
-          "status": "ok",
-          "exitCode": 0
-        }
-      ],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 3,
-        "deliveryReplies": 54,
-        "replyQueue": 68
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T07:48:27.568287+00:00",
-    "lastSuccessAt": "2026-03-11T07:48:27.568287+00:00",
+    "lastRunAt": "2026-03-11T07:50:16.092005+00:00",
+    "lastSuccessAt": "2026-03-11T07:50:16.092005+00:00",
     "status": "ok",
     "outcome": "replies_sent",
     "lastError": "",
     "discoveredReplies": 2,
-    "targetsChecked": 4,
+    "targetsChecked": 3,
     "enqueuedReplies": 2,
     "sentReplies": 1,
     "publishedPosts": 0
@@ -5596,6 +5614,29 @@
     ],
     "sourceSuggestions": [
       {
+        "id": "explore-source-account-hesamation",
+        "type": "suggest_source_account",
+        "status": "pending",
+        "confidence": 8,
+        "sourceId": "",
+        "handle": "@Hesamation",
+        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
+        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
+        "evidence": {
+          "title": "",
+          "link": "https://x.com/Hesamation",
+          "linkedFrom": [
+            "@shao__meng"
+          ],
+          "reasons": [
+            "Mentioned inside a reply thread that already produced a usable interaction.",
+            "Appeared around a candidate reply and may be part of the same high-signal local graph."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-hesamation&body=approve+suggestion+explore-source-account-hesamation&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-hesamation&body=reject+suggestion+explore-source-account-hesamation&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "explore-source-account-lunarbasex",
         "type": "suggest_source_account",
         "status": "pending",
@@ -5755,29 +5796,6 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-nick_pennie&body=approve+suggestion+explore-source-account-nick_pennie&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-nick_pennie&body=reject+suggestion+explore-source-account-nick_pennie&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-source-account-preballin",
-        "type": "suggest_source_account",
-        "status": "pending",
-        "confidence": 8,
-        "sourceId": "",
-        "handle": "@preballin",
-        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
-        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
-        "evidence": {
-          "title": "",
-          "link": "https://x.com/preballin",
-          "linkedFrom": [
-            "@Monad_APAC"
-          ],
-          "reasons": [
-            "Mentioned inside a reply thread that already produced a usable interaction.",
-            "Appeared around a candidate reply and may be part of the same high-signal local graph."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-preballin&body=approve+suggestion+explore-source-account-preballin&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-preballin&body=reject+suggestion+explore-source-account-preballin&labels=twitter-learning%2Creject"
       }
     ],
     "replySuggestions": [
@@ -5991,6 +6009,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 55
+    "replies": 56
   }
 }
