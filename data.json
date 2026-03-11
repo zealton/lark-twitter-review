@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T03:12:48.095630+00:00",
+  "generatedAt": "2026-03-11T03:14:52.467520+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4612,10 +4612,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T03:12:48.009766+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T03:14:52.353238+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T03:12:48.009766+00:00",
+    "lastSuccessAt": "2026-03-11T03:14:07.116704+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T02:18:57.334095+00:00",
@@ -4979,38 +4979,20 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T03:12:48.009766+00:00",
+        "lastRunAt": "2026-03-11T03:14:52.353238+00:00",
         "lastSuccessAt": "2026-03-11T03:12:48.009766+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T03:12:44.560801+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T03:12:44.587094+00:00",
-            "sourceEntries": 28,
-            "sourceSuggestions": 8,
-            "replyEntries": 40,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T03:12:44.653578+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T03:14:48.009766+00:00",
+        "nextRunAt": "2026-03-11T03:16:52.353238+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T03:11:59.242691+00:00",
-        "lastSuccessAt": "2026-03-11T03:11:59.242691+00:00",
+        "lastRunAt": "2026-03-11T03:14:07.116704+00:00",
+        "lastSuccessAt": "2026-03-11T03:14:07.116704+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -5029,13 +5011,41 @@
           },
           "stderr": ""
         },
-        "nextRunAt": "2026-03-11T03:12:59.242691+00:00",
+        "nextRunAt": "2026-03-11T03:15:07.116704+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T03:14:07.116464+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 42,
+        "replyQueue": 55
+      }
+    },
+    {
+      "at": "2026-03-11T03:13:06.783659+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 42,
+        "replyQueue": 55
+      }
+    },
     {
       "at": "2026-03-11T03:11:59.242413+00:00",
       "status": "ok",
@@ -5117,34 +5127,6 @@
         "pagePending": 0,
         "replyActivity": 12,
         "deliveryReplies": 42,
-        "replyQueue": 55
-      }
-    },
-    {
-      "at": "2026-03-11T03:05:26.862464+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 41,
-        "replyQueue": 55
-      }
-    },
-    {
-      "at": "2026-03-11T03:04:26.496988+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 41,
         "replyQueue": 55
       }
     }
