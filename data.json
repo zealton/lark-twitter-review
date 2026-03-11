@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T01:00:00.763255+00:00",
+  "generatedAt": "2026-03-11T01:02:05.892770+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -4644,10 +4644,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T01:00:00.674557+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T01:02:05.780124+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T01:00:00.674557+00:00",
+    "lastSuccessAt": "2026-03-11T01:01:20.258001+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T00:55:40.435338+00:00",
@@ -4662,22 +4662,21 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T00:50:17.039867+00:00",
+        "lastRunAt": "2026-03-11T01:01:04.259859+00:00",
         "lastSuccessAt": "2026-03-11T00:33:56.687175+00:00",
-        "status": "running",
-        "lastError": "",
+        "status": "failed",
+        "lastError": "command timed out after retries: cmd=['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_discover_replies.py'] timeout=45s",
         "details": {
-          "repo": "zealton/lark-twitter-review",
-          "dryRun": false,
-          "outcome": "in_progress"
+          "error": "command timed out after retries: cmd=['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_discover_replies.py'] timeout=45s",
+          "dryRun": false
         },
-        "nextRunAt": "2026-03-11T01:00:17.039867+00:00",
+        "nextRunAt": "2026-03-11T01:11:04.259859+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-11T00:56:03.437114+00:00",
-        "lastSuccessAt": "2026-03-11T00:56:03.437114+00:00",
+        "lastRunAt": "2026-03-11T01:01:20.258001+00:00",
+        "lastSuccessAt": "2026-03-11T01:01:20.258001+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -4686,43 +4685,25 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-11T01:01:03.437114+00:00",
+        "nextRunAt": "2026-03-11T01:06:20.258001+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T01:00:00.674557+00:00",
+        "lastRunAt": "2026-03-11T01:02:05.780124+00:00",
         "lastSuccessAt": "2026-03-11T01:00:00.674557+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T00:59:57.290464+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T00:59:57.314466+00:00",
-            "sourceEntries": 32,
-            "sourceSuggestions": 8,
-            "replyEntries": 32,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T00:59:57.376711+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T01:02:00.674557+00:00",
+        "nextRunAt": "2026-03-11T01:04:05.780124+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T00:59:11.976050+00:00",
-        "lastSuccessAt": "2026-03-11T00:59:11.976050+00:00",
+        "lastRunAt": "2026-03-11T01:01:19.442062+00:00",
+        "lastSuccessAt": "2026-03-11T01:01:19.442062+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -4741,13 +4722,41 @@
           },
           "stderr": ""
         },
-        "nextRunAt": "2026-03-11T01:00:11.976050+00:00",
+        "nextRunAt": "2026-03-11T01:02:19.442062+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T01:01:19.441044+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 34,
+        "replyQueue": 43
+      }
+    },
+    {
+      "at": "2026-03-11T01:00:19.221040+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 34,
+        "replyQueue": 43
+      }
+    },
     {
       "at": "2026-03-11T00:59:11.975824+00:00",
       "status": "ok",
@@ -4841,47 +4850,14 @@
         "deliveryReplies": 33,
         "replyQueue": 40
       }
-    },
-    {
-      "at": "2026-03-11T00:40:43.592741+00:00",
-      "status": "degraded",
-      "failures": [
-        "reply candidate contains forbidden period punctuation: R45",
-        "reply candidate contains forbidden period punctuation: R46"
-      ],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 33,
-        "replyQueue": 40
-      }
-    },
-    {
-      "at": "2026-03-11T00:39:35.570405+00:00",
-      "status": "degraded",
-      "failures": [
-        "reply candidate contains forbidden period punctuation: R45"
-      ],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 33,
-        "replyQueue": 40
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T00:50:17.039867+00:00",
+    "lastRunAt": "2026-03-11T01:01:04.259859+00:00",
     "lastSuccessAt": "2026-03-11T00:33:56.687175+00:00",
-    "status": "running",
-    "outcome": "in_progress",
-    "lastError": "",
+    "status": "failed",
+    "outcome": "failed",
+    "lastError": "command timed out after retries: cmd=['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_discover_replies.py'] timeout=45s",
     "discoveredReplies": 0,
     "targetsChecked": 0,
     "enqueuedReplies": 0,
