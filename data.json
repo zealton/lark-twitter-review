@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T07:47:37.351712+00:00",
+  "generatedAt": "2026-03-11T07:49:28.140315+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -246,6 +246,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R76",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "这配置单看着像是苹果在玩\"你能忍到哪一条\"的挑战赛 🦞",
+      "timestamp": "2026-03-11T07:48:18.490948+00:00",
+      "targetContent": "Macbook Neo 的槽点：\n1. 电池相比 Air 砍了三分之一左右\n2. 触控板竟然是物理按键的，不是振动马达\n3. 屏幕和 Air 一样，但色域被莫名砍到了 sRGB\n4. 两个 USB，其中一个是 USB 2.0\n5. 不支持快充，充满一次需要 2.5 小时\n6. A18 Pro 芯片相比 iPhone 少了一个 GPU 核心\n7. 256 版本还砍掉了指纹解锁",
+      "originalLink": "https://x.com/oran_ge/status/2031504980994384310",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Aoran_ge+%22%E8%BF%99%E9%85%8D%E7%BD%AE%E5%8D%95%E7%9C%8B%E7%9D%80%E5%83%8F%E6%98%AF%E8%8B%B9%E6%9E%9C%E5%9C%A8%E7%8E%A9%22%E4%BD%A0%E8%83%BD%E5%BF%8D%E5%88%B0%E5%93%AA%E4%B8%80%E6%9D%A1%22%E7%9A%84%E6%8C%91%E6%88%98%E8%B5%9B%22&src=typed_query&f=live",
+      "targetAccount": "@oran_ge",
+      "replyRationale": "Replying to @oran_ge because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
       "id": "R75",
       "status": "sent",
       "statusDisplay": "sent",
@@ -287,6 +300,28 @@
   ],
   "pendingReplies": [
     {
+      "id": "R79",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "The revenge arc nobody asked for but everyone's gonna watch 🦞",
+      "timestamp": "2026-03-11T07:48:03.015091+00:00",
+      "targetContent": "Prediction: \n\n\n@0xNarb\n's Battle Trade revenge arc\n\n[BUY]",
+      "originalLink": "https://x.com/battle_fyi/status/2031420023349326207",
+      "targetAccount": "@battle_fyi",
+      "replyRationale": "Replying to @battle_fyi because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R80",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "Honestly the real question is how many of them will you still recognize in a year 🦞",
+      "timestamp": "2026-03-11T07:48:03.015091+00:00",
+      "targetContent": "how many of these top stablecoins do you recognize",
+      "originalLink": "https://x.com/billmondays/status/2031389287330230598",
+      "targetAccount": "@billmondays",
+      "replyRationale": "Replying to @billmondays because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R77",
       "status": "queued",
       "statusDisplay": "queued",
@@ -307,17 +342,6 @@
       "originalLink": "https://x.com/sspai_com/status/2031323405010743730",
       "targetAccount": "@sspai_com",
       "replyRationale": "Replying to @sspai_com because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R76",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "这配置单看着像是苹果在玩\"你能忍到哪一条\"的挑战赛 🦞",
-      "timestamp": "2026-03-11T06:59:53.534311+00:00",
-      "targetContent": "Macbook Neo 的槽点：\n1. 电池相比 Air 砍了三分之一左右\n2. 触控板竟然是物理按键的，不是振动马达\n3. 屏幕和 Air 一样，但色域被莫名砍到了 sRGB\n4. 两个 USB，其中一个是 USB 2.0\n5. 不支持快充，充满一次需要 2.5 小时\n6. A18 Pro 芯片相比 iPhone 少了一个 GPU 核心\n7. 256 版本还砍掉了指纹解锁",
-      "originalLink": "https://x.com/oran_ge/status/2031504980994384310",
-      "targetAccount": "@oran_ge",
-      "replyRationale": "Replying to @oran_ge because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
   "archive": [
@@ -4538,10 +4562,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T07:47:37.266191+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T07:49:28.031115+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T07:47:37.266191+00:00",
+    "lastSuccessAt": "2026-03-11T07:48:27.568287+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T06:22:53.031186+00:00",
@@ -4556,54 +4580,66 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T07:25:11.333224+00:00",
-        "lastSuccessAt": "2026-03-11T07:25:11.333224+00:00",
+        "lastRunAt": "2026-03-11T07:48:27.568287+00:00",
+        "lastSuccessAt": "2026-03-11T07:48:27.568287+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
-            "discovered": 0,
-            "count": 48,
+            "discovered": 2,
+            "count": 50,
             "accountsScanned": 4,
-            "elapsedSeconds": 26.6,
-            "targetsChecked": 0,
+            "elapsedSeconds": 21.8,
+            "targetsChecked": 2,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@Valley101_Qian",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-03-06T09:05:01.000Z",
-                "statusLink": "https://x.com/thevalley101/status/2029845697881854447"
-              },
-              {
-                "scope": "discover",
-                "account": "@yihui_indie",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "no target found"
-              },
-              {
-                "scope": "discover",
-                "account": "@0xBclub",
-                "path": "member_list",
-                "status": "skipped",
-                "reason": "no target found"
-              },
-              {
-                "scope": "discover",
-                "account": "@0xfastlane",
+                "account": "@0xhu7i",
                 "path": "member_list",
                 "status": "skipped",
                 "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-02-24T15:43:24.000Z",
-                "statusLink": "https://x.com/screwysanta0447/status/2026322075665711224"
+                "publishedAt": "2026-02-24T13:36:34.000Z",
+                "statusLink": "https://x.com/0xhu7i/status/2026290154084635097"
+              },
+              {
+                "scope": "discover",
+                "account": "@0xNarb",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/battle_fyi/status/2031420023349326207",
+                "score": 2,
+                "targetReasons": [
+                  "compact"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@0xyeezi",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "stale_target_older_than_3_days",
+                "publishedAt": "2026-01-01T02:00:00.000Z",
+                "statusLink": "https://x.com/LumiterraGame/status/2006545916090577037"
+              },
+              {
+                "scope": "discover",
+                "account": "@billmondays",
+                "path": "member_list",
+                "status": "ok",
+                "statusLink": "https://x.com/billmondays/status/2031389287330230598",
+                "score": 4,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface"
+                ]
               }
             ]
           },
           "enqueueReplies": {
-            "enqueued": [],
+            "enqueued": [
+              "R79",
+              "R80"
+            ],
             "skipped": [
               {
                 "id": "R1",
@@ -4779,11 +4815,11 @@
               },
               {
                 "id": "R74",
-                "reason": "sync_terminal_status:sent"
+                "reason": "status=sent"
               },
               {
                 "id": "R75",
-                "reason": "status=queued"
+                "reason": "sync_terminal_status:sent"
               },
               {
                 "id": "R76",
@@ -4798,7 +4834,7 @@
                 "reason": "status=queued"
               }
             ],
-            "count": 0
+            "count": 2
           },
           "publish": {
             "processed": 0,
@@ -4807,20 +4843,20 @@
           "replies": {
             "processed": [
               {
-                "id": "R75",
+                "id": "R76",
                 "status": "sent"
               }
             ],
             "count": 1,
             "dryRun": false,
             "dailyReplyLimit": 100,
-            "sentToday": 6,
-            "remainingQuota": 93,
+            "sentToday": 7,
+            "remainingQuota": 92,
             "quotaStatus": "ok"
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-11T07:35:11.333224+00:00",
+        "nextRunAt": "2026-03-11T07:58:27.568287+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4840,37 +4876,19 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T07:47:37.266191+00:00",
+        "lastRunAt": "2026-03-11T07:49:28.031115+00:00",
         "lastSuccessAt": "2026-03-11T07:47:37.266191+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T07:47:33.918875+00:00",
-            "replyCandidates": 9,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T07:47:33.943408+00:00",
-            "sourceEntries": 31,
-            "sourceSuggestions": 8,
-            "replyEntries": 52,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T07:47:34.006885+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T07:49:37.266191+00:00",
+        "nextRunAt": "2026-03-11T07:51:28.031115+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T07:47:33.788742+00:00",
+        "lastRunAt": "2026-03-11T07:49:27.922762+00:00",
         "lastSuccessAt": "2026-03-11T07:02:17.416936+00:00",
         "status": "running",
         "lastError": "watchdog detected runtime inconsistencies",
@@ -4878,13 +4896,43 @@
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-11T07:48:33.788742+00:00",
+        "nextRunAt": "2026-03-11T07:50:27.922762+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T07:48:27.613077+00:00",
+      "status": "degraded",
+      "failures": [
+        "latest replies missing from page: ['R58', 'R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66', 'R76']",
+        "overdue nextRunAt: dispatch overdue_by=13.3m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dashboard_publish",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        },
+        {
+          "stage": "dispatch",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        }
+      ],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 3,
+        "deliveryReplies": 55,
+        "replyQueue": 70
+      }
+    },
     {
       "at": "2026-03-11T07:46:33.539244+00:00",
       "status": "degraded",
@@ -5045,40 +5093,17 @@
         "deliveryReplies": 54,
         "replyQueue": 68
       }
-    },
-    {
-      "at": "2026-03-11T07:38:40.136134+00:00",
-      "status": "degraded",
-      "failures": [
-        "latest replies missing from page: ['R57', 'R58', 'R59', 'R60', 'R62', 'R63', 'R64', 'R65', 'R66']"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dashboard_publish",
-          "action": "force_run",
-          "status": "ok",
-          "exitCode": 0
-        }
-      ],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 3,
-        "deliveryReplies": 54,
-        "replyQueue": 68
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T07:25:11.333224+00:00",
-    "lastSuccessAt": "2026-03-11T07:25:11.333224+00:00",
+    "lastRunAt": "2026-03-11T07:48:27.568287+00:00",
+    "lastSuccessAt": "2026-03-11T07:48:27.568287+00:00",
     "status": "ok",
     "outcome": "replies_sent",
     "lastError": "",
-    "discoveredReplies": 0,
+    "discoveredReplies": 2,
     "targetsChecked": 4,
-    "enqueuedReplies": 0,
+    "enqueuedReplies": 2,
     "sentReplies": 1,
     "publishedPosts": 0
   },
@@ -5948,6 +5973,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 54
+    "replies": 55
   }
 }
