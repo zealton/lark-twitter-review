@@ -517,6 +517,7 @@
           </div>
           <div class="spacer" id="dispatch-summary"></div>
           <div id="heartbeat-stage-list"></div>
+          <div class="spacer" id="incident-list"></div>
         </div>
       </section>
 
@@ -1114,6 +1115,32 @@
         `;
       }
 
+      function renderIncidents(incidents) {
+        const root = document.getElementById("incident-list");
+        if (!Array.isArray(incidents) || incidents.length === 0) {
+          root.innerHTML = "";
+          return;
+        }
+        const cards = incidents.slice(0, 6).map((item) => {
+          const actions = Array.isArray(item.autoActions) ? item.autoActions : [];
+          const failures = Array.isArray(item.failures) ? item.failures : [];
+          return `
+            <div class="rationale-box">
+              <div class="rationale-label">Watchdog ${escapeHtml(item.status || "unknown")}</div>
+              <div class="meta">${escapeHtml(formatTimestamp(item.at || "")) || "n/a"}</div>
+              ${failures.length ? `<div class="rationale-text">${failures.map((v) => escapeHtml(v)).join("<br>")}</div>` : `<div class="rationale-text">No failures detected in this check</div>`}
+              ${actions.length ? `<div class="meta">Auto actions: ${actions.map((a) => `${escapeHtml(a.stage || "")}:${escapeHtml(a.action || "")}${a.status ? ` (${escapeHtml(a.status)})` : ""}`).join(" · ")}</div>` : ""}
+            </div>
+          `;
+        }).join("");
+        root.innerHTML = `
+          <details class="fold">
+            <summary>Recent watchdog incidents</summary>
+            <div>${cards}</div>
+          </details>
+        `;
+      }
+
       function activateTab(name) {
         document.querySelectorAll(".tab").forEach((button) => {
           button.classList.toggle("active", button.dataset.tab === name);
@@ -1133,6 +1160,7 @@
           document.getElementById("metric-replies").textContent = data.metrics.replies;
           renderHeartbeat(data.heartbeat || {});
           renderDispatchSummary(data.dispatchSummary || {});
+          renderIncidents(data.incidents || []);
           renderPending(data.pending || []);
           renderPendingReplies(data.pendingReplies || []);
           renderReplies(data.replyActivity || []);
