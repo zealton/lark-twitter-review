@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T08:37:15.375929+00:00",
+  "generatedAt": "2026-03-11T08:39:23.125706+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -273,6 +273,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R79",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "The revenge arc nobody asked for but everyone's gonna watch 🦞",
+      "timestamp": "2026-03-11T08:38:11.155809+00:00",
+      "targetContent": "Prediction: \n\n\n@0xNarb\n's Battle Trade revenge arc\n\n[BUY]",
+      "originalLink": "https://x.com/battle_fyi/status/2031420023349326207",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Abattle_fyi+%22The+revenge+arc+nobody+asked+for+but+everyone%27s+gonna+watch%22&src=typed_query&f=live",
+      "targetAccount": "@battle_fyi",
+      "replyRationale": "Replying to @battle_fyi because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R78",
       "status": "sent",
       "statusDisplay": "sent",
@@ -395,17 +408,6 @@
       "originalLink": "https://x.com/FCBarcelona/status/2031618826823975159",
       "targetAccount": "@FCBarcelona",
       "replyRationale": "Replying to @FCBarcelona because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R79",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "The revenge arc nobody asked for but everyone's gonna watch 🦞",
-      "timestamp": "2026-03-11T07:48:03.015091+00:00",
-      "targetContent": "Prediction: \n\n\n@0xNarb\n's Battle Trade revenge arc\n\n[BUY]",
-      "originalLink": "https://x.com/battle_fyi/status/2031420023349326207",
-      "targetAccount": "@battle_fyi",
-      "replyRationale": "Replying to @battle_fyi because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     },
     {
       "id": "R80",
@@ -4637,10 +4639,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T08:37:15.289439+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T08:39:23.014923+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T08:37:15.289439+00:00",
+    "lastSuccessAt": "2026-03-11T08:38:22.606834+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T08:24:22.975382+00:00",
@@ -4680,18 +4682,304 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T08:14:41.012573+00:00",
-        "lastSuccessAt": "2026-03-11T08:13:33.732861+00:00",
-        "status": "failed",
-        "lastError": "stage exceeded max running window and was auto-reset",
+        "lastRunAt": "2026-03-11T08:38:22.606834+00:00",
+        "lastSuccessAt": "2026-03-11T08:38:22.606834+00:00",
+        "status": "ok",
+        "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review",
-          "dryRun": false,
-          "outcome": "in_progress",
-          "autoResetAt": "2026-03-11T08:29:45.617867+00:00",
-          "autoResetReason": "stale_running_state"
+          "discoverReplies": {
+            "discovered": 0,
+            "count": 54,
+            "accountsScanned": 4,
+            "elapsedSeconds": 22.0,
+            "targetsChecked": 0,
+            "diagnostics": [
+              {
+                "scope": "discover",
+                "account": "@sophiekornchip",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/sophiekornchip/status/2031085145747345806",
+                "score": 5,
+                "targetReasons": [
+                  "compact",
+                  "discussion_surface",
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@thisisfin_",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "no target found"
+              },
+              {
+                "scope": "discover",
+                "account": "@pipeline_xyz",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "no target found"
+              },
+              {
+                "scope": "discover",
+                "account": "@Rahul_xyz01",
+                "path": "member_list",
+                "status": "skipped",
+                "reason": "duplicate target",
+                "statusLink": "https://x.com/Rahul_xyz01/status/2031249511369363713",
+                "score": 6,
+                "targetReasons": [
+                  "compact",
+                  "personal_view"
+                ]
+              }
+            ]
+          },
+          "enqueueReplies": {
+            "enqueued": [],
+            "skipped": [
+              {
+                "id": "R1",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R2",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R3",
+                "reason": "status=needs_target"
+              },
+              {
+                "id": "R5",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R6",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R7",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R8",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R9",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R10",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R11",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R12",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R13",
+                "reason": "status=dry_run"
+              },
+              {
+                "id": "R14",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R15",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R16",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R17",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R18",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R19",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R20",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R21",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R22",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R23",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R24",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R25",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R26",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R27",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R28",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R29",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R30",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R31",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R32",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R33",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R34",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R35",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R37",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R38",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R39",
+                "reason": "status=failed"
+              },
+              {
+                "id": "R40",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R41",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R42",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R43",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R44",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R73",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R74",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R75",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R76",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R77",
+                "reason": "status=sent"
+              },
+              {
+                "id": "R78",
+                "reason": "sync_terminal_status:sent"
+              },
+              {
+                "id": "R79",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R80",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R81",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R82",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R83",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R84",
+                "reason": "status=queued"
+              }
+            ],
+            "count": 0
+          },
+          "publish": {
+            "processed": 0,
+            "dryRun": false
+          },
+          "replies": {
+            "processed": [
+              {
+                "id": "R79",
+                "status": "sent"
+              }
+            ],
+            "count": 1,
+            "dryRun": false,
+            "dailyReplyLimit": 100,
+            "sentToday": 10,
+            "remainingQuota": 89,
+            "quotaStatus": "ok"
+          },
+          "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-11T08:24:41.012573+00:00",
+        "nextRunAt": "2026-03-11T08:48:22.606834+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4711,63 +4999,56 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T08:37:15.289439+00:00",
+        "lastRunAt": "2026-03-11T08:39:23.014923+00:00",
         "lastSuccessAt": "2026-03-11T08:37:15.289439+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T08:37:11.136233+00:00",
-            "replyCandidates": 10,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T08:37:11.160366+00:00",
-            "sourceEntries": 31,
-            "sourceSuggestions": 8,
-            "replyEntries": 55,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T08:37:11.223816+00:00",
-              "pending": 1
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T08:39:15.289439+00:00",
+        "nextRunAt": "2026-03-11T08:41:23.014923+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T08:36:24.876720+00:00",
+        "lastRunAt": "2026-03-11T08:39:22.908201+00:00",
         "lastSuccessAt": "2026-03-11T08:36:24.876720+00:00",
-        "status": "ok",
-        "lastError": "",
+        "status": "running",
+        "lastError": "watchdog detected runtime inconsistencies",
         "details": {
           "repo": "zealton/lark-twitter-review",
-          "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 0,
-          "failures": [],
-          "warnings": [],
-          "autoActions": [],
-          "summary": {
-            "pending": 1,
-            "pagePending": 1,
-            "replyActivity": 6,
-            "deliveryReplies": 57,
-            "replyQueue": 74
-          },
-          "stderr": ""
+          "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-11T08:37:24.876720+00:00",
+        "nextRunAt": "2026-03-11T08:40:22.908201+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T08:38:22.660831+00:00",
+      "status": "degraded",
+      "failures": [
+        "overdue nextRunAt: dispatch overdue_by=12.9m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dispatch",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        }
+      ],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 6,
+        "deliveryReplies": 57,
+        "replyQueue": 74
+      }
+    },
     {
       "at": "2026-03-11T08:36:24.876497+00:00",
       "status": "ok",
@@ -4865,32 +5146,18 @@
         "deliveryReplies": 57,
         "replyQueue": 74
       }
-    },
-    {
-      "at": "2026-03-11T08:29:00.434915+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 6,
-        "deliveryReplies": 57,
-        "replyQueue": 74
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T08:14:41.012573+00:00",
-    "lastSuccessAt": "2026-03-11T08:13:33.732861+00:00",
-    "status": "failed",
-    "outcome": "in_progress",
-    "lastError": "stage exceeded max running window and was auto-reset",
+    "lastRunAt": "2026-03-11T08:38:22.606834+00:00",
+    "lastSuccessAt": "2026-03-11T08:38:22.606834+00:00",
+    "status": "ok",
+    "outcome": "replies_sent",
+    "lastError": "",
     "discoveredReplies": 0,
-    "targetsChecked": 0,
+    "targetsChecked": 4,
     "enqueuedReplies": 0,
-    "sentReplies": 0,
+    "sentReplies": 1,
     "publishedPosts": 0
   },
   "learning": {
@@ -5332,6 +5599,16 @@
         "coveragePriority": 7
       },
       {
+        "handle": "@battle_fyi",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-11T08:38:11.155809+00:00",
+        "inMemberList": false,
+        "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
         "handle": "@billmondays",
         "replyCount": 1,
         "replyCountLast7Days": 1,
@@ -5346,16 +5623,6 @@
         "replyCount": 1,
         "replyCountLast7Days": 1,
         "lastSentAt": "2026-03-10T05:32:00.003877+00:00",
-        "inMemberList": true,
-        "inSheetPool": false,
-        "relationshipScore": 4,
-        "coveragePriority": 7
-      },
-      {
-        "handle": "@cornell",
-        "replyCount": 1,
-        "replyCountLast7Days": 1,
-        "lastSentAt": "2026-03-10T05:32:18.588924+00:00",
         "inMemberList": true,
         "inSheetPool": false,
         "relationshipScore": 4,
@@ -5586,6 +5853,23 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-alchainhust&body=reject+suggestion+suggest-reply-target-alchainhust&labels=twitter-learning%2Creject"
       },
       {
+        "id": "suggest-reply-target-battle_fyi",
+        "type": "suggest_reply_target",
+        "status": "pending",
+        "confidence": 7,
+        "handle": "@battle_fyi",
+        "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
+        "goalFit": "Helps the system build a better set of recurring personal accounts instead of repeatedly relying on the same obvious names.",
+        "actionMeaning": "Approve to add this handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "replyCount": 1,
+          "replyCountLast7Days": 1,
+          "inSheetPool": false
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+suggest-reply-target-battle_fyi&body=approve+suggestion+suggest-reply-target-battle_fyi&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-battle_fyi&body=reject+suggestion+suggest-reply-target-battle_fyi&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "suggest-reply-target-evacmore",
         "type": "suggest_reply_target",
         "status": "pending",
@@ -5737,23 +6021,6 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+suggest-reply-target-itangtalk&body=approve+suggestion+suggest-reply-target-itangtalk&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-itangtalk&body=reject+suggestion+suggest-reply-target-itangtalk&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "suggest-reply-target-jinsfavorites",
-        "type": "suggest_reply_target",
-        "status": "pending",
-        "confidence": 7,
-        "handle": "@jinsfavorites",
-        "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
-        "goalFit": "Helps the system build a better set of recurring personal accounts instead of repeatedly relying on the same obvious names.",
-        "actionMeaning": "Approve to add this handle into the preferred local reply pool for future discovery.",
-        "evidence": {
-          "replyCount": 1,
-          "replyCountLast7Days": 1,
-          "inSheetPool": true
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+suggest-reply-target-jinsfavorites&body=approve+suggestion+suggest-reply-target-jinsfavorites&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-jinsfavorites&body=reject+suggestion+suggest-reply-target-jinsfavorites&labels=twitter-learning%2Creject"
       }
     ]
   },
@@ -5761,6 +6028,6 @@
     "pending": 1,
     "queued": 0,
     "posts": 2,
-    "replies": 57
+    "replies": 58
   }
 }
