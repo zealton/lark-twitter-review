@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T02:42:04.080488+00:00",
+  "generatedAt": "2026-03-11T02:44:27.601484+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -192,6 +192,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R53",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T02:44:19.351368+00:00",
+      "targetContent": "2026最新苹果Apple ID换区教程：手把手教你如何将中国 Apple ID 修改为美区、日区或土耳其区。无需当地手机号验证，无需外币信用卡，即可解锁 None 付款选项。涵盖 iCloud 2TB 空间低价订阅攻略，解决外区账号注册失败难题，助你 5 分钟实现全球 App 下载自由。",
+      "originalLink": "https://x.com/itangtalk/status/2031526039520948318",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Aitangtalk+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
+      "targetAccount": "@itangtalk",
+      "replyRationale": "Replying to @itangtalk because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
       "id": "R52",
       "status": "sent",
       "statusDisplay": "sent",
@@ -333,22 +346,31 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Athisisfin_+%22The+Turing+test+is+basically+dead%2C+but+at+least+on-chain+through%22&src=typed_query&f=live",
       "targetAccount": "@thisisfin_",
       "replyRationale": "Replying to @thisisfin_ because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R36",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "This is the right lens Headlines move fast, but durable upside usually comes from turning the idea into repeatable product and distribution 🦞",
-      "timestamp": "2026-03-10T08:04:19.450558+00:00",
-      "targetContent": "Saying not knowing how to code gives you an advantage in building software (thanks to AI) is like saying not knowing anything about filmmaking gives you an advantage in making films (thanks to having a smartphone + apps to edit stuff)\n\nIgnore this stuff and keep learning+building",
-      "originalLink": "https://x.com/GergelyOrosz/status/2030731259953983509",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AGergelyOrosz+%22This+is+the+right+lens+Headlines+move+fast%2C+but+durable+upside+u%22&src=typed_query&f=live",
-      "targetAccount": "@GergelyOrosz",
-      "replyRationale": "Replying to @GergelyOrosz because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     }
   ],
   "pendingReplies": [
+    {
+      "id": "R57",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T02:44:03.889127+00:00",
+      "targetContent": "我很少评价codex，\n\n但是我必须要讲一点的是，codex是rust写的，内存占用非常小，只有30MB，而opencode和claude code都在500MB左右，\n\n如果你需要写一个multi agent，并且希望同时并行运行100~1000个agent在本机，并且懒得自己糊一个完整带memory带skills带planning带一切现代特性的agent，\n\n用codex",
+      "originalLink": "https://x.com/lidangzzz/status/2031543669417791871",
+      "targetAccount": "@lidangzzz",
+      "replyRationale": "Replying to @lidangzzz because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
+      "id": "R58",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T02:44:03.889127+00:00",
+      "targetContent": "关于读书，可以拉出两个极端：\n\n一端是「古法阅读」，打开一本纸书，从头到尾阅读，时不时前后翻看，关联对比，思考联想。读的过程，本身就是在冲刷自己大脑神经网络。\n\n一端是「AI 阅读」，PDF",
+      "originalLink": "https://x.com/lijigang/status/2030504070826598625",
+      "targetAccount": "@lijigang",
+      "replyRationale": "Replying to @lijigang because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
     {
       "id": "R56",
       "status": "queued",
@@ -381,17 +403,6 @@
       "originalLink": "https://x.com/jiqizhixin/status/2031438185696227695",
       "targetAccount": "@jiqizhixin",
       "replyRationale": "Replying to @jiqizhixin because it came from the sheet people pool and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R53",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T02:11:02.447044+00:00",
-      "targetContent": "2026最新苹果Apple ID换区教程：手把手教你如何将中国 Apple ID 修改为美区、日区或土耳其区。无需当地手机号验证，无需外币信用卡，即可解锁 None 付款选项。涵盖 iCloud 2TB 空间低价订阅攻略，解决外区账号注册失败难题，助你 5 分钟实现全球 App 下载自由。",
-      "originalLink": "https://x.com/itangtalk/status/2031526039520948318",
-      "targetAccount": "@itangtalk",
-      "replyRationale": "Replying to @itangtalk because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
   "archive": [
@@ -4612,10 +4623,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T02:42:03.988733+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T02:44:27.489894+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T02:42:03.988733+00:00",
+    "lastSuccessAt": "2026-03-11T02:44:27.454415+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T02:18:57.334095+00:00",
@@ -4655,60 +4666,51 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T02:33:26.188547+00:00",
-        "lastSuccessAt": "2026-03-11T02:33:26.188547+00:00",
+        "lastRunAt": "2026-03-11T02:44:27.454415+00:00",
+        "lastSuccessAt": "2026-03-11T02:44:27.454415+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
-            "discovered": 1,
-            "count": 55,
-            "accountsScanned": 4,
-            "elapsedSeconds": 23.0,
-            "targetsChecked": 1,
+            "discovered": 2,
+            "count": 57,
+            "accountsScanned": 2,
+            "elapsedSeconds": 26.0,
+            "targetsChecked": 2,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@Junyu",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2025-09-28T08:46:59.000Z",
-                "statusLink": "https://x.com/coolish/status/1972221488616157327"
-              },
-              {
-                "scope": "discover",
-                "account": "@kaifulee",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-01-23T01:06:16.000Z",
-                "statusLink": "https://x.com/rohanpaul_ai/status/2014504926215602346"
-              },
-              {
-                "scope": "discover",
-                "account": "@kasong2048",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-03-01T12:03:12.000Z",
-                "statusLink": "https://x.com/kasong2048/status/2028078598830326105"
-              },
-              {
-                "scope": "discover",
-                "account": "@Khazix0918",
+                "account": "@lidangzzz",
                 "path": "sheet_people",
                 "status": "ok",
-                "statusLink": "https://x.com/Khazix0918/status/2030620568354246790",
-                "score": 6,
+                "statusLink": "https://x.com/lidangzzz/status/2031543669417791871",
+                "score": 3,
                 "targetReasons": [
                   "compact",
-                  "personal_view"
+                  "topic_fit"
+                ]
+              },
+              {
+                "scope": "discover",
+                "account": "@lijigang",
+                "path": "sheet_people",
+                "status": "ok",
+                "statusLink": "https://x.com/lijigang/status/2030504070826598625",
+                "score": 3,
+                "targetReasons": [
+                  "compact",
+                  "topic_fit"
                 ]
               },
               {
                 "scope": "generate",
-                "account": "@Khazix0918",
+                "account": "@lidangzzz",
+                "status": "fallback",
+                "reason": "timed out"
+              },
+              {
+                "scope": "generate",
+                "account": "@lijigang",
                 "status": "fallback",
                 "reason": "timed out"
               }
@@ -4716,7 +4718,8 @@
           },
           "enqueueReplies": {
             "enqueued": [
-              "R56"
+              "R57",
+              "R58"
             ],
             "skipped": [
               {
@@ -4917,11 +4920,11 @@
               },
               {
                 "id": "R51",
-                "reason": "sync_terminal_status:sent"
+                "reason": "status=sent"
               },
               {
                 "id": "R52",
-                "reason": "status=queued"
+                "reason": "sync_terminal_status:sent"
               },
               {
                 "id": "R53",
@@ -4934,9 +4937,13 @@
               {
                 "id": "R55",
                 "reason": "status=queued"
+              },
+              {
+                "id": "R56",
+                "reason": "status=queued"
               }
             ],
-            "count": 1
+            "count": 2
           },
           "publish": {
             "processed": 0,
@@ -4945,7 +4952,7 @@
           "replies": {
             "processed": [
               {
-                "id": "R52",
+                "id": "R53",
                 "status": "sent"
               }
             ],
@@ -4954,7 +4961,7 @@
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-11T02:43:26.188547+00:00",
+        "nextRunAt": "2026-03-11T02:54:27.454415+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
@@ -4974,38 +4981,20 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T02:42:03.988733+00:00",
+        "lastRunAt": "2026-03-11T02:44:27.489894+00:00",
         "lastSuccessAt": "2026-03-11T02:42:03.988733+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T02:42:00.718023+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T02:42:00.742095+00:00",
-            "sourceEntries": 28,
-            "sourceSuggestions": 8,
-            "replyEntries": 37,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T02:42:00.804817+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T02:44:03.988733+00:00",
+        "nextRunAt": "2026-03-11T02:46:27.489894+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T02:41:15.474442+00:00",
-        "lastSuccessAt": "2026-03-11T02:41:15.474442+00:00",
+        "lastRunAt": "2026-03-11T02:43:22.633865+00:00",
+        "lastSuccessAt": "2026-03-11T02:43:22.633865+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -5024,13 +5013,41 @@
           },
           "stderr": ""
         },
-        "nextRunAt": "2026-03-11T02:42:15.474442+00:00",
+        "nextRunAt": "2026-03-11T02:44:22.633865+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T02:43:22.633633+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 39,
+        "replyQueue": 52
+      }
+    },
+    {
+      "at": "2026-03-11T02:42:22.300605+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 39,
+        "replyQueue": 52
+      }
+    },
     {
       "at": "2026-03-11T02:41:15.474198+00:00",
       "status": "ok",
@@ -5114,45 +5131,17 @@
         "deliveryReplies": 39,
         "replyQueue": 52
       }
-    },
-    {
-      "at": "2026-03-11T02:34:49.489089+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 39,
-        "replyQueue": 52
-      }
-    },
-    {
-      "at": "2026-03-11T02:33:48.218462+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 39,
-        "replyQueue": 52
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T02:33:26.188547+00:00",
-    "lastSuccessAt": "2026-03-11T02:33:26.188547+00:00",
+    "lastRunAt": "2026-03-11T02:44:27.454415+00:00",
+    "lastSuccessAt": "2026-03-11T02:44:27.454415+00:00",
     "status": "ok",
     "outcome": "replies_sent",
     "lastError": "",
-    "discoveredReplies": 1,
-    "targetsChecked": 4,
-    "enqueuedReplies": 1,
+    "discoveredReplies": 2,
+    "targetsChecked": 2,
+    "enqueuedReplies": 2,
     "sentReplies": 1,
     "publishedPosts": 0
   },
@@ -5948,6 +5937,23 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-hwwaanng&body=reject+suggestion+suggest-reply-target-hwwaanng&labels=twitter-learning%2Creject"
       },
       {
+        "id": "suggest-reply-target-itangtalk",
+        "type": "suggest_reply_target",
+        "status": "pending",
+        "confidence": 7,
+        "handle": "@itangtalk",
+        "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
+        "goalFit": "Helps the system build a better set of recurring personal accounts instead of repeatedly relying on the same obvious names.",
+        "actionMeaning": "Approve to add this handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "replyCount": 1,
+          "replyCountLast7Days": 1,
+          "inSheetPool": true
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+suggest-reply-target-itangtalk&body=approve+suggestion+suggest-reply-target-itangtalk&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-itangtalk&body=reject+suggestion+suggest-reply-target-itangtalk&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "suggest-reply-target-plantegg",
         "type": "suggest_reply_target",
         "status": "pending",
@@ -6004,30 +6010,6 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-lunarbasex&body=approve+suggestion+explore-reply-lunarbasex&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-lunarbasex&body=reject+suggestion+explore-reply-lunarbasex&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-reply-metamask",
-        "type": "explore_reply_target",
-        "status": "pending",
-        "confidence": 8,
-        "handle": "@MetaMask",
-        "whySuggested": "Found through a nearby high-quality interaction trail rather than random scraping.",
-        "goalFit": "Uses the relationship graph around already-valuable threads to expand the reply pool in a more directed way.",
-        "actionMeaning": "Approve to add this discovered handle into the preferred local reply pool for future discovery.",
-        "evidence": {
-          "linkedFrom": [
-            "@pipeline_xyz"
-          ],
-          "linkedThreads": [
-            "https://x.com/pipeline_xyz/status/2031101063919534288"
-          ],
-          "reasons": [
-            "Mentioned inside a thread that already produced a usable reply opportunity.",
-            "Appeared in an existing reply candidate context, suggesting nearby high-signal accounts."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-reply-metamask&body=approve+suggestion+explore-reply-metamask&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-reply-metamask&body=reject+suggestion+explore-reply-metamask&labels=twitter-learning%2Creject"
       }
     ]
   },
@@ -6035,6 +6017,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 39
+    "replies": 40
   }
 }
