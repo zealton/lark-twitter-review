@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T05:49:36.226666+00:00",
+  "generatedAt": "2026-03-11T05:51:32.591554+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -192,6 +192,19 @@
   ],
   "replyActivity": [
     {
+      "id": "R64",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T05:50:22.856175+00:00",
+      "targetContent": "一句话生成海报，且可以编辑修改文字和元素。\n\n“设计一个海报，关于中国第一界GEO大会，时间在4月11日，地点在中关村。”\n\n这工具有点强啊！",
+      "originalLink": "https://x.com/vista8/status/2031568307925692615",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Avista8+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
+      "targetAccount": "@vista8",
+      "replyRationale": "Replying to @vista8 because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
       "id": "R63",
       "status": "sent",
       "statusDisplay": "sent",
@@ -333,22 +346,31 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Ahongming731+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
       "targetAccount": "@hongming731",
       "replyRationale": "Replying to @hongming731 because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R50",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T02:11:17.899198+00:00",
-      "targetContent": "三天不到，开发好了agent skills hub （祝女神们节日快乐）\n\nhttps://\nagentskillshub.top\n\n为什么开发这个产品？\n 如何在众多的skills中找到合适的skills，为了解决大家找优质skills的难题，做了各种分类、最近更新、周榜等功能\n 找到对的人：优质skills大神",
-      "originalLink": "https://x.com/GoSailGlobal/status/2030490279221051487",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AGoSailGlobal+%22%E5%90%8C%E6%84%8F%E8%BF%99%E4%B8%AA%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%83%AD%E5%BA%A6%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E8%B0%81%E8%83%BD%E6%8A%8A%E8%AE%A8%E8%AE%BA%E6%B2%89%E6%B7%80%E6%88%90%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B%E5%92%8C%E5%88%86%E5%8F%91%E6%95%88%E7%8E%87%22&src=typed_query&f=live",
-      "targetAccount": "@GoSailGlobal",
-      "replyRationale": "Replying to @GoSailGlobal because it came from the sheet people pool and the post had usable discussion surface (compact, has_link, personal_view). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
   "pendingReplies": [
+    {
+      "id": "R70",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T05:50:06.940658+00:00",
+      "targetContent": "兄弟们，我建了个社群：「大龄程序员抱团取暖社群」\n\n建群目的：我想持续分享学习智能体开发的一些心得和经验，与大家一起完成从传统软件开发工程师到 AI 智能体开发工程师的转变。也欢迎大家在这里分享交流自己的职业困惑和技术成长的故事。\n\n批注：这里 不卖课，无门槛，敞开大门欢迎大家，尤其是",
+      "originalLink": "https://x.com/xiongchun007/status/2031395791571734619",
+      "targetAccount": "@xiongchun007",
+      "replyRationale": "Replying to @xiongchun007 because it came from the sheet people pool and the post had usable discussion surface (compact, personal_view, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
+      "id": "R71",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
+      "timestamp": "2026-03-11T05:50:06.940658+00:00",
+      "targetContent": "epiral 2.0 来啦，不过重点不是 epiral（），这次是 pinix，大概是东半球第一个专门为 agent 设计的 os hhh\n春节在迭代epiral 的时候，撞上一个问题：Agent 只靠 IM 交互，很多场景都有点难受。\n\n比如 todo。让 Agent",
+      "originalLink": "https://x.com/yan5xu/status/2031381139227816257",
+      "targetAccount": "@yan5xu",
+      "replyRationale": "Replying to @yan5xu because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
     {
       "id": "R68",
       "status": "queued",
@@ -392,17 +414,6 @@
       "originalLink": "https://x.com/weijunext/status/2030582871296196912",
       "targetAccount": "@weijunext",
       "replyRationale": "Replying to @weijunext because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R64",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "同意这个观察，热度会过去，但真正拉开差距的，还是谁能把讨论沉淀成产品能力和分发效率🦞",
-      "timestamp": "2026-03-11T05:01:36.797422+00:00",
-      "targetContent": "一句话生成海报，且可以编辑修改文字和元素。\n\n“设计一个海报，关于中国第一界GEO大会，时间在4月11日，地点在中关村。”\n\n这工具有点强啊！",
-      "originalLink": "https://x.com/vista8/status/2031568307925692615",
-      "targetAccount": "@vista8",
-      "replyRationale": "Replying to @vista8 because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     },
     {
       "id": "R65",
@@ -4634,10 +4645,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T05:49:36.139916+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T05:51:32.471277+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T05:49:36.139916+00:00",
+    "lastSuccessAt": "2026-03-11T05:50:46.978161+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T04:21:16.876119+00:00",
@@ -4677,45 +4688,37 @@
         "jobName": "Research and draft for lark_twitter"
       },
       "dispatch": {
-        "lastRunAt": "2026-03-11T05:48:31.968368+00:00",
-        "lastSuccessAt": "2026-03-11T05:48:31.968368+00:00",
+        "lastRunAt": "2026-03-11T05:50:30.813570+00:00",
+        "lastSuccessAt": "2026-03-11T05:50:30.813570+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "discoverReplies": {
             "discovered": 2,
-            "count": 68,
-            "accountsScanned": 3,
-            "elapsedSeconds": 28.2,
+            "count": 70,
+            "accountsScanned": 2,
+            "elapsedSeconds": 27.3,
             "targetsChecked": 2,
             "diagnostics": [
               {
                 "scope": "discover",
-                "account": "@XDash",
-                "path": "sheet_people",
-                "status": "skipped",
-                "reason": "stale_target_older_than_3_days",
-                "publishedAt": "2026-01-21T13:30:16.000Z",
-                "statusLink": "https://x.com/XDash/status/2013967382663074185"
-              },
-              {
-                "scope": "discover",
-                "account": "@xiaohu",
+                "account": "@xiongchun007",
                 "path": "sheet_people",
                 "status": "ok",
-                "statusLink": "https://x.com/xiaohu/status/2031579504682975279",
-                "score": 3,
+                "statusLink": "https://x.com/xiongchun007/status/2031395791571734619",
+                "score": 7,
                 "targetReasons": [
                   "compact",
+                  "personal_view",
                   "topic_fit"
                 ]
               },
               {
                 "scope": "discover",
-                "account": "@XiaohuiAI666",
+                "account": "@yan5xu",
                 "path": "sheet_people",
                 "status": "ok",
-                "statusLink": "https://x.com/XiaohuiAI666/status/2031547820130578643",
+                "statusLink": "https://x.com/yan5xu/status/2031381139227816257",
                 "score": 3,
                 "targetReasons": [
                   "compact",
@@ -4724,13 +4727,13 @@
               },
               {
                 "scope": "generate",
-                "account": "@xiaohu",
+                "account": "@xiongchun007",
                 "status": "fallback",
                 "reason": "timed out"
               },
               {
                 "scope": "generate",
-                "account": "@XiaohuiAI666",
+                "account": "@yan5xu",
                 "status": "fallback",
                 "reason": "timed out"
               }
@@ -4738,8 +4741,8 @@
           },
           "enqueueReplies": {
             "enqueued": [
-              "R68",
-              "R69"
+              "R70",
+              "R71"
             ],
             "skipped": [
               {
@@ -4984,11 +4987,11 @@
               },
               {
                 "id": "R62",
-                "reason": "sync_terminal_status:sent"
+                "reason": "status=sent"
               },
               {
                 "id": "R63",
-                "reason": "status=queued"
+                "reason": "sync_terminal_status:sent"
               },
               {
                 "id": "R64",
@@ -5005,6 +5008,14 @@
               {
                 "id": "R67",
                 "reason": "status=queued"
+              },
+              {
+                "id": "R68",
+                "reason": "status=queued"
+              },
+              {
+                "id": "R69",
+                "reason": "status=queued"
               }
             ],
             "count": 2
@@ -5016,26 +5027,26 @@
           "replies": {
             "processed": [
               {
-                "id": "R63",
+                "id": "R64",
                 "status": "sent"
               }
             ],
             "count": 1,
             "dryRun": false,
             "dailyReplyLimit": 100,
-            "sentToday": 17,
-            "remainingQuota": 82,
+            "sentToday": 18,
+            "remainingQuota": 81,
             "quotaStatus": "ok"
           },
           "outcome": "replies_sent"
         },
-        "nextRunAt": "2026-03-11T05:58:31.968368+00:00",
+        "nextRunAt": "2026-03-11T06:00:30.813570+00:00",
         "jobId": "lark-twitter-dispatch",
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-11T05:45:45.844114+00:00",
-        "lastSuccessAt": "2026-03-11T05:45:45.844114+00:00",
+        "lastRunAt": "2026-03-11T05:50:46.978161+00:00",
+        "lastSuccessAt": "2026-03-11T05:50:46.978161+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -5044,42 +5055,24 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-11T05:50:45.844114+00:00",
+        "nextRunAt": "2026-03-11T05:55:46.978161+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T05:49:36.139916+00:00",
+        "lastRunAt": "2026-03-11T05:51:32.471277+00:00",
         "lastSuccessAt": "2026-03-11T05:49:36.139916+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T05:49:32.731318+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T05:49:32.756899+00:00",
-            "sourceEntries": 28,
-            "sourceSuggestions": 8,
-            "replyEntries": 46,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T05:49:32.822515+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T05:51:36.139916+00:00",
+        "nextRunAt": "2026-03-11T05:53:32.471277+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T05:49:32.578264+00:00",
+        "lastRunAt": "2026-03-11T05:51:32.339477+00:00",
         "lastSuccessAt": "2026-03-11T05:46:31.148479+00:00",
         "status": "running",
         "lastError": "watchdog detected runtime inconsistencies",
@@ -5087,13 +5080,42 @@
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-11T05:50:32.578264+00:00",
+        "nextRunAt": "2026-03-11T05:52:32.339477+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T05:50:30.862582+00:00",
+      "status": "degraded",
+      "failures": [
+        "latest replies missing from page: ['R64']"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dashboard_publish",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        },
+        {
+          "stage": "dispatch",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        }
+      ],
+      "summary": {
+        "pending": 0,
+        "pagePending": 0,
+        "replyActivity": 12,
+        "deliveryReplies": 49,
+        "replyQueue": 67
+      }
+    },
     {
       "at": "2026-03-11T05:48:32.017494+00:00",
       "status": "degraded",
@@ -5200,30 +5222,16 @@
         "deliveryReplies": 47,
         "replyQueue": 63
       }
-    },
-    {
-      "at": "2026-03-11T05:40:06.682257+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 0,
-        "pagePending": 0,
-        "replyActivity": 12,
-        "deliveryReplies": 47,
-        "replyQueue": 63
-      }
     }
   ],
   "dispatchSummary": {
-    "lastRunAt": "2026-03-11T05:48:31.968368+00:00",
-    "lastSuccessAt": "2026-03-11T05:48:31.968368+00:00",
+    "lastRunAt": "2026-03-11T05:50:30.813570+00:00",
+    "lastSuccessAt": "2026-03-11T05:50:30.813570+00:00",
     "status": "ok",
     "outcome": "replies_sent",
     "lastError": "",
     "discoveredReplies": 2,
-    "targetsChecked": 3,
+    "targetsChecked": 2,
     "enqueuedReplies": 2,
     "sentReplies": 1,
     "publishedPosts": 0
@@ -6093,6 +6101,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 48
+    "replies": 49
   }
 }
