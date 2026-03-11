@@ -1,7 +1,34 @@
 {
-  "generatedAt": "2026-03-11T08:21:41.139959+00:00",
+  "generatedAt": "2026-03-11T08:22:06.958850+00:00",
   "repo": "zealton/lark-twitter-review",
-  "pending": [],
+  "pending": [
+    {
+      "id": "P19",
+      "status": "awaiting_approval",
+      "angle": "Prediction markets hitting a regulatory wall on \"death contracts\" reveals the real tension: the market that proved its value in elections now faces moral-boundary policing",
+      "whyItMatters": "Helps readers see past the headline morality debate to the structural question: who controls the boundary of permissible on-chain information markets",
+      "postingRationale": "Prediction markets are a live crypto-native use case with mainstream crossover; framing the bill as a signal of legitimacy rather than pure threat gives a contrarian operator angle that fits crypto-builder positioning",
+      "goalAlignmentScore": 7,
+      "goalAlignmentRationale": "Directly engages a crypto-regulation development with a second-order take that positions the account as someone thinking about protocol-level implications, not just news; slightly off core AI+infra focus but strong for crypto-builder credibility",
+      "draft": "预测市场刚刚证明了自己在选举中的价值，现在立法者就急着划道德红线——DEATH BETS Act 要禁止所有涉及战争、暗杀、死亡的合约\n\n有意思的是，这恰恰说明预测市场已经被当真了，没人会费力去监管一个没影响力的玩具，真正的问题不是\"该不该赌死亡\"，而是谁来定义哪些信息信号对社会有害——这条线一旦交给国会画，crypto 原生的信息市场就永远活在别人的许可框架里 🦞",
+      "sources": [
+        "Democrats Introduce Bill to Ban Prediction Market Contracts on War and Death"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "decrypt",
+          "title": "Democrats Introduce Bill to Ban Prediction Market Contracts on War and Death",
+          "summary": "The DEATH BETS Act would prohibit CFTC-registered exchanges from listing contracts tied to terrorism, assassination, war, or death.",
+          "publishedAt": "2026-03-11T05:02:38+00:00",
+          "link": "https://decrypt.co/360647/democrats-bill-ban-prediction-market-contracts-war-death"
+        }
+      ],
+      "createdAt": "2026-03-11T08:22:01.470826+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P19&body=approve+P19&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P19&body=reject+P19%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P19&body=archive+P19%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    }
+  ],
   "research": [
     {
       "id": "R001",
@@ -4262,7 +4289,7 @@
       "itemCount": 6,
       "previewRows": [],
       "researchCount": 1,
-      "pendingCount": 0,
+      "pendingCount": 1,
       "publishedCount": 0,
       "archivedCount": 1
     },
@@ -4610,8 +4637,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T08:21:41.062270+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T08:22:06.836812+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-11T08:21:41.062270+00:00",
     "stages": {
@@ -4657,32 +4684,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T08:21:41.062270+00:00",
+        "lastRunAt": "2026-03-11T08:22:06.836812+00:00",
         "lastSuccessAt": "2026-03-11T08:21:41.062270+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T08:21:37.396381+00:00",
-            "replyCandidates": 10,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T08:21:37.423515+00:00",
-            "sourceEntries": 31,
-            "sourceSuggestions": 8,
-            "replyEntries": 55,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T08:21:37.480301+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T08:23:41.062270+00:00",
+        "nextRunAt": "2026-03-11T08:24:06.836812+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
@@ -4867,6 +4876,25 @@
   "learning": {
     "sourceLearning": [
       {
+        "sourceId": "decrypt",
+        "signalCount": 6,
+        "pendingCount": 1,
+        "publishedCount": 0,
+        "rejectCount": 0,
+        "archivedCount": 0,
+        "goalAlignmentScore": 9,
+        "titleSamples": [
+          "Democrats Introduce Bill to Ban Prediction Market Contracts on War and Death",
+          "Ripple Seeks Australian Financial License to 'Scale' Payments Across the Region",
+          "China Plays the Long Game in AI While US Chases Superintelligence: Brookings"
+        ],
+        "linkSamples": [
+          "https://decrypt.co/360647/democrats-bill-ban-prediction-market-contracts-war-death",
+          "https://decrypt.co/360638/ripple-seeks-australian-license-scale-payments",
+          "https://decrypt.co/360642/china-long-game-ai-us-chases-superintelligence-brookings"
+        ]
+      },
+      {
         "sourceId": "blockbeats",
         "signalCount": 6,
         "pendingCount": 0,
@@ -4921,25 +4949,6 @@
           "https://css-tricks.com/the-value-of-z-index/",
           "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
           "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/"
-        ]
-      },
-      {
-        "sourceId": "decrypt",
-        "signalCount": 6,
-        "pendingCount": 0,
-        "publishedCount": 0,
-        "rejectCount": 0,
-        "archivedCount": 0,
-        "goalAlignmentScore": 8,
-        "titleSamples": [
-          "Democrats Introduce Bill to Ban Prediction Market Contracts on War and Death",
-          "Ripple Seeks Australian Financial License to 'Scale' Payments Across the Region",
-          "China Plays the Long Game in AI While US Chases Superintelligence: Brookings"
-        ],
-        "linkSamples": [
-          "https://decrypt.co/360647/democrats-bill-ban-prediction-market-contracts-war-death",
-          "https://decrypt.co/360638/ripple-seeks-australian-license-scale-payments",
-          "https://decrypt.co/360642/china-long-game-ai-us-chases-superintelligence-brookings"
         ]
       },
       {
@@ -5727,7 +5736,7 @@
     ]
   },
   "metrics": {
-    "pending": 0,
+    "pending": 1,
     "queued": 0,
     "posts": 2,
     "replies": 57
