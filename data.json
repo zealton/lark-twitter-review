@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T17:09:33.836739+00:00",
+  "generatedAt": "2026-03-11T17:11:37.266201+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4648,10 +4648,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T17:09:33.724831+00:00",
+    "updatedAt": "2026-03-11T17:11:37.154804+00:00",
     "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T17:09:33.652470+00:00",
+    "lastSuccessAt": "2026-03-11T17:10:37.504539+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T16:56:49.977771+00:00",
@@ -5029,20 +5029,20 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T17:09:33.724831+00:00",
+        "lastRunAt": "2026-03-11T17:11:37.154804+00:00",
         "lastSuccessAt": "2026-03-11T17:09:33.652470+00:00",
         "status": "running",
-        "lastError": "",
+        "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1.",
         "details": {
           "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T17:11:33.724831+00:00",
+        "nextRunAt": "2026-03-11T17:13:37.154804+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T17:09:30.423271+00:00",
-        "lastSuccessAt": "2026-03-11T17:09:30.423271+00:00",
+        "lastRunAt": "2026-03-11T17:10:37.504539+00:00",
+        "lastSuccessAt": "2026-03-11T17:10:37.504539+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -5061,13 +5061,27 @@
           },
           "stderr": ""
         },
-        "nextRunAt": "2026-03-11T17:10:30.423271+00:00",
+        "nextRunAt": "2026-03-11T17:11:37.504539+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T17:10:37.504337+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 12,
+        "deliveryReplies": 65,
+        "replyQueue": 85
+      }
+    },
     {
       "at": "2026-03-11T17:09:30.423043+00:00",
       "status": "ok",
@@ -5154,20 +5168,6 @@
     },
     {
       "at": "2026-03-11T17:03:12.562176+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-11T17:02:11.875080+00:00",
       "status": "ok",
       "failures": [],
       "warnings": [],
