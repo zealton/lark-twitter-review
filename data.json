@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T16:18:45.171598+00:00",
+  "generatedAt": "2026-03-11T16:20:46.566655+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -429,19 +429,7 @@
       "replyRationale": "Replying to @lyc_zh because it came from the sheet people pool and the post had usable discussion surface (compact, personal_view, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
-  "pendingReplies": [
-    {
-      "id": "R95",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "Sounds like the kind of dungeon where \"just scouting\" turns into a full loot addiction real fast 🦞",
-      "timestamp": "2026-03-11T13:10:52.851329+00:00",
-      "targetContent": "Entered the new Lumiterra PvEP dungeon today\nThought we’d just scout the area\nwait… how big is this place actually\n\nNow I’m wondering how much you could walk out with in just 30 minutes here\nWon’t be surprised if everyone ends up here",
-      "originalLink": "https://x.com/LumiterraGame/status/2031712996049744046",
-      "targetAccount": "@LumiterraGame",
-      "replyRationale": "Replying to @LumiterraGame because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    }
-  ],
+  "pendingReplies": [],
   "archive": [
     {
       "id": "P18",
@@ -4660,10 +4648,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T16:18:45.086331+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T16:20:46.427362+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T16:18:45.086331+00:00",
+    "lastSuccessAt": "2026-03-11T16:20:16.218385+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T11:55:03.136849+00:00",
@@ -5066,38 +5054,20 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T16:18:45.086331+00:00",
+        "lastRunAt": "2026-03-11T16:20:46.427362+00:00",
         "lastSuccessAt": "2026-03-11T16:18:45.086331+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T16:18:41.640505+00:00",
-            "replyCandidates": 10,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T16:18:41.665789+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 58,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T16:18:41.730316+00:00",
-              "pending": 1
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T16:20:45.086331+00:00",
+        "nextRunAt": "2026-03-11T16:22:46.427362+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T16:18:05.589929+00:00",
-        "lastSuccessAt": "2026-03-11T16:18:05.589929+00:00",
+        "lastRunAt": "2026-03-11T16:20:16.218385+00:00",
+        "lastSuccessAt": "2026-03-11T16:20:16.218385+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -5116,13 +5086,41 @@
           },
           "stderr": ""
         },
-        "nextRunAt": "2026-03-11T16:19:05.589929+00:00",
+        "nextRunAt": "2026-03-11T16:21:16.218385+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T16:20:16.218137+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 12,
+        "deliveryReplies": 65,
+        "replyQueue": 85
+      }
+    },
+    {
+      "at": "2026-03-11T16:19:15.839545+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 12,
+        "deliveryReplies": 65,
+        "replyQueue": 85
+      }
+    },
     {
       "at": "2026-03-11T16:18:05.589664+00:00",
       "status": "ok",
@@ -5195,34 +5193,6 @@
     },
     {
       "at": "2026-03-11T16:12:49.956585+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-11T16:11:42.213577+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-11T16:10:41.903899+00:00",
       "status": "ok",
       "failures": [],
       "warnings": [],
