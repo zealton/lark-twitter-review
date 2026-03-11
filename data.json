@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T09:03:23.579512+00:00",
+  "generatedAt": "2026-03-11T09:04:38.251220+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -377,63 +377,7 @@
       "replyRationale": "Replying to @Gorden_Sun because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
-  "pendingReplies": [
-    {
-      "id": "R85",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "记忆多不等于记得好，本质上是个信噪比问题，先压缩再检索比硬塞上下文窗口聪明多了 🦞",
-      "timestamp": "2026-03-11T09:02:52.915085+00:00",
-      "targetContent": "为什么给 AI 更多的记忆，它反而变笨了？因为原始记录里的无效信息太多。\n\n微软研究院一篇新的论文分享了 PlugMem 记忆模块，通过将原始交互历史转化为事实和技能等结构化、可复用的知识单元，提升 AI 智能体的效率。\n\n从这张流程图可以看到，PlugMem",
-      "originalLink": "https://x.com/hongming731/status/2031590630485619143",
-      "targetAccount": "@hongming731",
-      "replyRationale": "Replying to @hongming731 because it came from the sheet people pool and the post had usable discussion surface (compact, personal_view, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R86",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "感觉OpenAI现在是把各平台最能写UI的人都收编了，下一步怕不是要出自己的超级App 🦞",
-      "timestamp": "2026-03-11T09:02:52.915085+00:00",
-      "targetContent": "给不熟悉 Swift 圈子的介绍一下，Thomas Ricouard 是知名 SwiftUI 开源项目 ice cube  猛犸象客户端的作者 这个项目基本上你能找到最全面的开源+SwiftUI 大型 App 了，现在他也去 OpenAI 了。",
-      "originalLink": "https://x.com/hwwaanng/status/2031545975987396794",
-      "targetAccount": "@hwwaanng",
-      "replyRationale": "Replying to @hwwaanng because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R83",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "Solid backup insurance, but this feels like a \"just in case\" move more than a plan 🦞",
-      "timestamp": "2026-03-11T08:13:09.821466+00:00",
-      "targetContent": "Cowboys signing QB Sam Howell. (via \n@TomPelissero\n)",
-      "originalLink": "https://x.com/NFL/status/2031549989261103480",
-      "targetAccount": "@NFL",
-      "replyRationale": "Replying to @NFL because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R84",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "Feels like both sides are calling each other's bluff and the Strait is just stuck in the middle holding everyone's oil hostage 🦞",
-      "timestamp": "2026-03-11T08:13:09.821466+00:00",
-      "targetContent": "Is Trump calling Iran's bluff?\n\n\n@rektmando\n breaks down what's happening in the Strait of Hormuz, & if the US will be able to defend ships passing through",
-      "originalLink": "https://x.com/fomohour/status/2031437430218432585",
-      "targetAccount": "@fomohour",
-      "replyRationale": "Replying to @fomohour because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R82",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "Not the result we wanted but away draws in the Champions League have a way of aging well 🦞",
-      "timestamp": "2026-03-11T07:49:53.186021+00:00",
-      "targetContent": "Cubarsí’s thoughts on the draw against Newcastle",
-      "originalLink": "https://x.com/FCBarcelona/status/2031618826823975159",
-      "targetAccount": "@FCBarcelona",
-      "replyRationale": "Replying to @FCBarcelona because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    }
-  ],
+  "pendingReplies": [],
   "archive": [
     {
       "id": "P18",
@@ -4652,10 +4596,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T09:03:23.492864+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T09:04:38.137444+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-11T09:03:23.492864+00:00",
+    "lastSuccessAt": "2026-03-11T09:04:26.958176+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T08:24:22.975382+00:00",
@@ -5008,73 +4952,59 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T09:03:23.492864+00:00",
+        "lastRunAt": "2026-03-11T09:04:38.137444+00:00",
         "lastSuccessAt": "2026-03-11T09:03:23.492864+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T09:03:20.230656+00:00",
-            "replyCandidates": 10,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T09:03:20.255852+00:00",
-            "sourceEntries": 31,
-            "sourceSuggestions": 8,
-            "replyEntries": 56,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T09:03:20.321069+00:00",
-              "pending": 1
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T09:05:23.492864+00:00",
+        "nextRunAt": "2026-03-11T09:06:38.137444+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-11T09:03:20.177699+00:00",
-        "lastSuccessAt": "2026-03-11T09:01:30.842812+00:00",
-        "status": "degraded",
-        "lastError": "watchdog detected runtime inconsistencies",
+        "lastRunAt": "2026-03-11T09:04:26.958176+00:00",
+        "lastSuccessAt": "2026-03-11T09:04:26.958176+00:00",
+        "status": "ok",
+        "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review",
           "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 1,
-          "failures": [
-            "overdue nextRunAt: dispatch overdue_by=12.4m"
-          ],
+          "smokeExitCode": 0,
+          "failures": [],
           "warnings": [],
-          "autoActions": [
-            {
-              "stage": "dispatch",
-              "action": "force_run",
-              "status": "ok",
-              "exitCode": 0
-            }
-          ],
+          "autoActions": [],
           "summary": {
             "pending": 1,
             "pagePending": 1,
-            "replyActivity": 7,
-            "deliveryReplies": 58,
-            "replyQueue": 74
+            "replyActivity": 8,
+            "deliveryReplies": 59,
+            "replyQueue": 76
           },
-          "stderr": "",
-          "error": "watchdog detected runtime inconsistencies"
+          "stderr": ""
         },
-        "nextRunAt": "2026-03-11T09:04:20.177699+00:00",
+        "nextRunAt": "2026-03-11T09:05:26.958176+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-11T09:04:26.957936+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 8,
+        "deliveryReplies": 59,
+        "replyQueue": 76
+      }
+    },
     {
       "at": "2026-03-11T09:03:20.177303+00:00",
       "status": "degraded",
@@ -5170,20 +5100,6 @@
     },
     {
       "at": "2026-03-11T08:56:07.638201+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 7,
-        "deliveryReplies": 58,
-        "replyQueue": 74
-      }
-    },
-    {
-      "at": "2026-03-11T08:55:07.291121+00:00",
       "status": "ok",
       "failures": [],
       "warnings": [],
