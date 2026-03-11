@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T00:23:02.397664+00:00",
+  "generatedAt": "2026-03-11T00:25:06.002528+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [],
   "research": [
@@ -246,6 +246,32 @@
   ],
   "replyActivity": [
     {
+      "id": "R44",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "既然已经去魅出书了，不如把这股劲头留给 Monad，毕竟这种并行执行效率才是真正的生产力解放 🦞",
+      "timestamp": "2026-03-11T00:24:54.790628+00:00",
+      "targetContent": "这两天已经不下5个出版社编辑老师找我合作出版OpenClaw的书了。\n\n但自从去年完成过出版这件事之后，我确实对「出书」这事没啥光环了。所以呢，干脆整了份98页的OpenClaw橙皮书开源（链接见评论区）\n\n简单说一下里面有什么\nPart 1-2",
+      "originalLink": "https://x.com/AlchainHust/status/2031212582510674055",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AAlchainHust+%22%E6%97%A2%E7%84%B6%E5%B7%B2%E7%BB%8F%E5%8E%BB%E9%AD%85%E5%87%BA%E4%B9%A6%E4%BA%86%EF%BC%8C%E4%B8%8D%E5%A6%82%E6%8A%8A%E8%BF%99%E8%82%A1%E5%8A%B2%E5%A4%B4%E7%95%99%E7%BB%99+Monad%EF%BC%8C%E6%AF%95%E7%AB%9F%E8%BF%99%E7%A7%8D%E5%B9%B6%E8%A1%8C%E6%89%A7%E8%A1%8C%E6%95%88%E7%8E%87%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A7%A3%E6%94%BE%22&src=typed_query&f=live",
+      "targetAccount": "@AlchainHust",
+      "replyRationale": "Replying to @AlchainHust because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
+      "id": "R43",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "本质还是在筛选高质量内容，就像 Monad 追求极致性能也是为了承载真实的高频交互，纯流水线注水确实没意义 🦞",
+      "timestamp": "2026-03-11T00:24:19.839767+00:00",
+      "targetContent": "小红书开始明确治理 AI 托管运营账号了\n\n重点不是不让你用 AI，而是 不允许用 AI 冒充真人，自动发笔记、自动评论、自动私信、自动群聊互动。\n\n官方规则很直接\n轻则警告、限制分发，重则直接封号\n\n意思是：AI 可以辅助创作，但不能整号 机器人代运营",
+      "originalLink": "https://x.com/abskoop/status/2031397738336915891",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Aabskoop+%22%E6%9C%AC%E8%B4%A8%E8%BF%98%E6%98%AF%E5%9C%A8%E7%AD%9B%E9%80%89%E9%AB%98%E8%B4%A8%E9%87%8F%E5%86%85%E5%AE%B9%EF%BC%8C%E5%B0%B1%E5%83%8F+Monad+%E8%BF%BD%E6%B1%82%E6%9E%81%E8%87%B4%E6%80%A7%E8%83%BD%E4%B9%9F%E6%98%AF%E4%B8%BA%E4%BA%86%E6%89%BF%E8%BD%BD%E7%9C%9F%E5%AE%9E%E7%9A%84%E9%AB%98%E9%A2%91%E4%BA%A4%E4%BA%92%EF%BC%8C%E7%BA%AF%E6%B5%81%E6%B0%B4%E7%BA%BF%E6%B3%A8%E6%B0%B4%E7%A1%AE%E5%AE%9E%E6%B2%A1%E6%84%8F%E4%B9%89%22&src=typed_query&f=live",
+      "targetAccount": "@abskoop",
+      "replyRationale": "Replying to @abskoop because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
+    },
+    {
       "id": "R42",
       "status": "sent",
       "statusDisplay": "sent",
@@ -374,32 +400,6 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Aylonaaah+%22Finally+found+the+brightest+one+in+the+feed%22&src=typed_query&f=live",
       "targetAccount": "@ylonaaah",
       "replyRationale": "Replying to @ylonaaah because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R25",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "The daylight savings math is already defeating me, glad I caught this 🦞",
-      "timestamp": "2026-03-10T05:37:47.808627+00:00",
-      "targetContent": "Timezone's have changed, so we're live an hour earlier than before. Live daily from 10am EDT  Make sure you check what that is for you so you don't miss the show",
-      "originalLink": "https://x.com/fomohour/status/2031097691535736860",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Afomohour+%22The+daylight+savings+math+is+already+defeating+me%2C+glad+I+caught%22&src=typed_query&f=live",
-      "targetAccount": "@fomohour",
-      "replyRationale": "Replying to @fomohour because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
-    },
-    {
-      "id": "R24",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "The only anthem that actually gives me goosebumps every single time 🦞",
-      "timestamp": "2026-03-10T05:37:25.021220+00:00",
-      "targetContent": "Classical music for the Champions League",
-      "originalLink": "https://x.com/FCBarcelona/status/2031203633065304521",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AFCBarcelona+%22The+only+anthem+that+actually+gives+me+goosebumps+every+single+t%22&src=typed_query&f=live",
-      "targetAccount": "@FCBarcelona",
-      "replyRationale": "Replying to @FCBarcelona because the target had enough discussion surface to join naturally, and the reply stays short so it feels human and increases the chance of profile curiosity."
     }
   ],
   "pendingReplies": [],
@@ -4621,8 +4621,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-11T00:23:02.338882+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-11T00:25:05.868465+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-11T00:23:02.338882+00:00",
     "stages": {
@@ -4692,32 +4692,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-11T00:23:02.338882+00:00",
+        "lastRunAt": "2026-03-11T00:25:05.868465+00:00",
         "lastSuccessAt": "2026-03-11T00:23:02.338882+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-11T00:22:58.966464+00:00",
-            "replyCandidates": 8,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-11T00:22:58.995890+00:00",
-            "sourceEntries": 30,
-            "sourceSuggestions": 8,
-            "replyEntries": 31,
-            "replySuggestions": 10
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-11T00:22:59.054772+00:00",
-              "pending": 0
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-11T00:25:02.338882+00:00",
+        "nextRunAt": "2026-03-11T00:27:05.868465+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       }
@@ -5054,26 +5036,6 @@
         "coveragePriority": 10
       },
       {
-        "handle": "@abskoop",
-        "replyCount": 0,
-        "replyCountLast7Days": 0,
-        "lastSentAt": "",
-        "inMemberList": false,
-        "inSheetPool": true,
-        "relationshipScore": 3,
-        "coveragePriority": 10
-      },
-      {
-        "handle": "@alchainhust",
-        "replyCount": 0,
-        "replyCountLast7Days": 0,
-        "lastSentAt": "",
-        "inMemberList": false,
-        "inSheetPool": true,
-        "relationshipScore": 3,
-        "coveragePriority": 10
-      },
-      {
         "handle": "@austinit",
         "replyCount": 0,
         "replyCountLast7Days": 0,
@@ -5170,6 +5132,26 @@
         "lastSentAt": "2026-03-10T04:34:44.236269+00:00",
         "inMemberList": true,
         "inSheetPool": false,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@abskoop",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-11T00:24:19.839767+00:00",
+        "inMemberList": false,
+        "inSheetPool": true,
+        "relationshipScore": 4,
+        "coveragePriority": 7
+      },
+      {
+        "handle": "@alchainhust",
+        "replyCount": 1,
+        "replyCountLast7Days": 1,
+        "lastSentAt": "2026-03-11T00:24:54.790628+00:00",
+        "inMemberList": false,
+        "inSheetPool": true,
         "relationshipScore": 4,
         "coveragePriority": 7
       },
@@ -5390,6 +5372,40 @@
       }
     ],
     "replySuggestions": [
+      {
+        "id": "suggest-reply-target-abskoop",
+        "type": "suggest_reply_target",
+        "status": "pending",
+        "confidence": 7,
+        "handle": "@abskoop",
+        "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
+        "goalFit": "Helps the system build a better set of recurring personal accounts instead of repeatedly relying on the same obvious names.",
+        "actionMeaning": "Approve to add this handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "replyCount": 1,
+          "replyCountLast7Days": 1,
+          "inSheetPool": true
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+suggest-reply-target-abskoop&body=approve+suggestion+suggest-reply-target-abskoop&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-abskoop&body=reject+suggestion+suggest-reply-target-abskoop&labels=twitter-learning%2Creject"
+      },
+      {
+        "id": "suggest-reply-target-alchainhust",
+        "type": "suggest_reply_target",
+        "status": "pending",
+        "confidence": 7,
+        "handle": "@alchainhust",
+        "whySuggested": "This account has already produced at least one usable reply opportunity and may deserve promotion into the preferred local reply pool.",
+        "goalFit": "Helps the system build a better set of recurring personal accounts instead of repeatedly relying on the same obvious names.",
+        "actionMeaning": "Approve to add this handle into the preferred local reply pool for future discovery.",
+        "evidence": {
+          "replyCount": 1,
+          "replyCountLast7Days": 1,
+          "inSheetPool": true
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+suggest-reply-target-alchainhust&body=approve+suggestion+suggest-reply-target-alchainhust&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+suggest-reply-target-alchainhust&body=reject+suggestion+suggest-reply-target-alchainhust&labels=twitter-learning%2Creject"
+      },
       {
         "id": "suggest-reply-target-gergelyorosz",
         "type": "suggest_reply_target",
@@ -5622,6 +5638,6 @@
     "pending": 0,
     "queued": 0,
     "posts": 2,
-    "replies": 31
+    "replies": 33
   }
 }
