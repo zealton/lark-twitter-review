@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T02:00:29.634860+00:00",
+  "generatedAt": "2026-03-12T02:00:35.331781+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4648,10 +4648,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-12T02:00:29.505934+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-12T02:00:35.237229+00:00",
+    "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-12T01:59:47.006738+00:00",
+    "lastSuccessAt": "2026-03-12T02:00:35.237229+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T21:58:12.961048+00:00",
@@ -5029,19 +5029,37 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-12T02:00:29.505934+00:00",
-        "lastSuccessAt": "2026-03-12T01:58:23.636894+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-12T02:00:35.237229+00:00",
+        "lastSuccessAt": "2026-03-12T02:00:35.237229+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "exploration": {
+            "updatedAt": "2026-03-12T02:00:29.534935+00:00",
+            "replyCandidates": 10,
+            "sourceCandidates": 20
+          },
+          "learning": {
+            "updatedAt": "2026-03-12T02:00:29.562860+00:00",
+            "sourceEntries": 22,
+            "sourceSuggestions": 8,
+            "replyEntries": 58,
+            "replySuggestions": 12
+          },
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-12T02:00:29.634860+00:00",
+              "pending": 1
+            }
+          }
         },
-        "nextRunAt": "2026-03-12T02:02:29.505934+00:00",
+        "nextRunAt": "2026-03-12T02:02:35.237229+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-12T01:59:32.880181+00:00",
+        "lastRunAt": "2026-03-12T02:00:33.249430+00:00",
         "lastSuccessAt": "2026-03-11T18:22:30.650620+00:00",
         "status": "degraded",
         "lastError": "watchdog detected runtime inconsistencies",
@@ -5050,7 +5068,7 @@
           "watchdogIntervalSeconds": 60,
           "smokeExitCode": 1,
           "failures": [
-            "overdue nextRunAt: dispatch overdue_by=468.2m"
+            "overdue nextRunAt: dispatch overdue_by=469.2m"
           ],
           "warnings": [],
           "autoActions": [
@@ -5069,13 +5087,34 @@
           "stderr": "",
           "error": "watchdog detected runtime inconsistencies"
         },
-        "nextRunAt": "2026-03-12T02:00:32.880181+00:00",
+        "nextRunAt": "2026-03-12T02:01:33.249430+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-12T02:00:33.249173+00:00",
+      "status": "degraded",
+      "failures": [
+        "overdue nextRunAt: dispatch overdue_by=469.2m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dispatch",
+          "action": "disabled"
+        }
+      ],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 12,
+        "deliveryReplies": 65,
+        "replyQueue": 85
+      }
+    },
     {
       "at": "2026-03-12T01:59:32.879838+00:00",
       "status": "degraded",
@@ -5207,27 +5246,6 @@
       "status": "degraded",
       "failures": [
         "overdue nextRunAt: dispatch overdue_by=461.7m"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dispatch",
-          "action": "disabled"
-        }
-      ],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-12T01:52:03.529226+00:00",
-      "status": "degraded",
-      "failures": [
-        "overdue nextRunAt: dispatch overdue_by=460.7m"
       ],
       "warnings": [],
       "autoActions": [
