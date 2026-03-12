@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T22:05:53.844422+00:00",
+  "generatedAt": "2026-03-12T22:07:54.043438+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4708,10 +4708,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-12T22:05:53.822498+00:00",
-    "overallStatus": "degraded",
+    "updatedAt": "2026-03-12T22:07:53.929801+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-12T22:05:53.758405+00:00",
+    "lastSuccessAt": "2026-03-12T22:07:07.514633+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-12T18:05:16.141454+00:00",
@@ -5099,8 +5099,8 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-12T22:02:06.519944+00:00",
-        "lastSuccessAt": "2026-03-12T22:02:06.519944+00:00",
+        "lastRunAt": "2026-03-12T22:07:07.514633+00:00",
+        "lastSuccessAt": "2026-03-12T22:07:07.514633+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -5109,24 +5109,24 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-12T22:07:06.519944+00:00",
+        "nextRunAt": "2026-03-12T22:12:07.514633+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-12T22:05:53.822498+00:00",
+        "lastRunAt": "2026-03-12T22:07:53.929801+00:00",
         "lastSuccessAt": "2026-03-12T22:05:53.758405+00:00",
-        "status": "failed",
+        "status": "running",
         "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1.",
         "details": {
-          "error": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1."
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-12T22:07:53.822498+00:00",
+        "nextRunAt": "2026-03-12T22:09:53.929801+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-12T22:05:28.407024+00:00",
+        "lastRunAt": "2026-03-12T22:07:43.257328+00:00",
         "lastSuccessAt": "2026-03-11T18:22:30.650620+00:00",
         "status": "degraded",
         "lastError": "watchdog detected runtime inconsistencies",
@@ -5135,7 +5135,7 @@
           "watchdogIntervalSeconds": 60,
           "smokeExitCode": 1,
           "failures": [
-            "overdue nextRunAt: dispatch overdue_by=1674.2m"
+            "overdue nextRunAt: dispatch overdue_by=1676.4m"
           ],
           "warnings": [],
           "autoActions": [
@@ -5154,13 +5154,55 @@
           "stderr": "",
           "error": "watchdog detected runtime inconsistencies"
         },
-        "nextRunAt": "2026-03-12T22:06:28.407024+00:00",
+        "nextRunAt": "2026-03-12T22:08:43.257328+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-12T22:07:43.257056+00:00",
+      "status": "degraded",
+      "failures": [
+        "overdue nextRunAt: dispatch overdue_by=1676.4m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dispatch",
+          "action": "disabled"
+        }
+      ],
+      "summary": {
+        "pending": 3,
+        "pagePending": 3,
+        "replyActivity": 12,
+        "deliveryReplies": 65,
+        "replyQueue": 85
+      }
+    },
+    {
+      "at": "2026-03-12T22:06:42.549204+00:00",
+      "status": "degraded",
+      "failures": [
+        "overdue nextRunAt: dispatch overdue_by=1675.4m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dispatch",
+          "action": "disabled"
+        }
+      ],
+      "summary": {
+        "pending": 3,
+        "pagePending": 3,
+        "replyActivity": 12,
+        "deliveryReplies": 65,
+        "replyQueue": 85
+      }
+    },
     {
       "at": "2026-03-12T22:05:28.406762+00:00",
       "status": "degraded",
@@ -5271,48 +5313,6 @@
       "status": "degraded",
       "failures": [
         "overdue nextRunAt: dispatch overdue_by=1669.1m"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dispatch",
-          "action": "disabled"
-        }
-      ],
-      "summary": {
-        "pending": 3,
-        "pagePending": 3,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-12T21:59:17.531499+00:00",
-      "status": "degraded",
-      "failures": [
-        "overdue nextRunAt: dispatch overdue_by=1668.0m"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dispatch",
-          "action": "disabled"
-        }
-      ],
-      "summary": {
-        "pending": 3,
-        "pagePending": 3,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-12T21:58:16.829094+00:00",
-      "status": "degraded",
-      "failures": [
-        "overdue nextRunAt: dispatch overdue_by=1667.0m"
       ],
       "warnings": [],
       "autoActions": [
