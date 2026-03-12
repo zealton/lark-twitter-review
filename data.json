@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T01:21:28.867155+00:00",
+  "generatedAt": "2026-03-12T01:21:30.709376+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4648,7 +4648,7 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-12T01:21:28.753827+00:00",
+    "updatedAt": "2026-03-12T01:21:30.595760+00:00",
     "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-12T01:19:36.082890+00:00",
@@ -5029,14 +5029,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-12T01:21:28.753827+00:00",
+        "lastRunAt": "2026-03-12T01:21:30.595760+00:00",
         "lastSuccessAt": "2026-03-12T01:19:27.015097+00:00",
         "status": "running",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-12T01:23:28.753827+00:00",
+        "nextRunAt": "2026-03-12T01:23:30.595760+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
