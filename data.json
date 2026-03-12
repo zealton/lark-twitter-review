@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T17:50:50.542050+00:00",
+  "generatedAt": "2026-03-12T17:50:56.767831+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4708,8 +4708,8 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-12T17:50:50.455819+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-12T17:50:56.655740+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
     "lastSuccessAt": "2026-03-12T17:50:50.455819+00:00",
     "stages": {
@@ -5089,32 +5089,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-12T17:50:50.455819+00:00",
+        "lastRunAt": "2026-03-12T17:50:56.655740+00:00",
         "lastSuccessAt": "2026-03-12T17:50:50.455819+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-12T17:50:46.955903+00:00",
-            "replyCandidates": 10,
-            "sourceCandidates": 13
-          },
-          "learning": {
-            "updatedAt": "2026-03-12T17:50:46.978832+00:00",
-            "sourceEntries": 27,
-            "sourceSuggestions": 8,
-            "replyEntries": 58,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-12T17:50:47.039965+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-12T17:52:50.455819+00:00",
+        "nextRunAt": "2026-03-12T17:52:56.655740+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
