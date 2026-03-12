@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T07:11:56.969362+00:00",
+  "generatedAt": "2026-03-12T07:11:58.106146+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4708,10 +4708,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-12T07:11:56.861625+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-12T07:11:58.022152+00:00",
+    "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-12T07:09:53.439667+00:00",
+    "lastSuccessAt": "2026-03-12T07:11:58.022152+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-12T03:00:27.883322+00:00",
@@ -5117,14 +5117,32 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-12T07:11:56.861625+00:00",
-        "lastSuccessAt": "2026-03-12T07:09:53.439667+00:00",
-        "status": "running",
-        "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1.",
+        "lastRunAt": "2026-03-12T07:11:58.022152+00:00",
+        "lastSuccessAt": "2026-03-12T07:11:58.022152+00:00",
+        "status": "ok",
+        "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "exploration": {
+            "updatedAt": "2026-03-12T07:11:54.341688+00:00",
+            "replyCandidates": 10,
+            "sourceCandidates": 14
+          },
+          "learning": {
+            "updatedAt": "2026-03-12T07:11:54.363755+00:00",
+            "sourceEntries": 13,
+            "sourceSuggestions": 8,
+            "replyEntries": 58,
+            "replySuggestions": 12
+          },
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-12T07:11:54.425319+00:00",
+              "pending": 3
+            }
+          }
         },
-        "nextRunAt": "2026-03-12T07:13:56.861625+00:00",
+        "nextRunAt": "2026-03-12T07:13:58.022152+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
