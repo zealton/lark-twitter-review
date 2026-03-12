@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T04:39:54.890065+00:00",
+  "generatedAt": "2026-03-12T04:39:56.198258+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4708,10 +4708,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-12T04:39:54.806539+00:00",
+    "updatedAt": "2026-03-12T04:39:56.112600+00:00",
     "overallStatus": "ok",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-12T04:39:54.806539+00:00",
+    "lastSuccessAt": "2026-03-12T04:39:56.112600+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-12T03:00:27.883322+00:00",
@@ -5117,18 +5117,18 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-12T04:39:54.806539+00:00",
-        "lastSuccessAt": "2026-03-12T04:39:54.806539+00:00",
+        "lastRunAt": "2026-03-12T04:39:56.112600+00:00",
+        "lastSuccessAt": "2026-03-12T04:39:56.112600+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
           "exploration": {
-            "updatedAt": "2026-03-12T04:39:51.467783+00:00",
+            "updatedAt": "2026-03-12T04:39:52.770183+00:00",
             "replyCandidates": 10,
             "sourceCandidates": 14
           },
           "learning": {
-            "updatedAt": "2026-03-12T04:39:51.489886+00:00",
+            "updatedAt": "2026-03-12T04:39:52.791891+00:00",
             "sourceEntries": 13,
             "sourceSuggestions": 8,
             "replyEntries": 58,
@@ -5137,12 +5137,12 @@
           "push": {
             "changed": true,
             "export": {
-              "exportedAt": "2026-03-12T04:39:51.552525+00:00",
+              "exportedAt": "2026-03-12T04:39:52.853199+00:00",
               "pending": 3
             }
           }
         },
-        "nextRunAt": "2026-03-12T04:41:54.806539+00:00",
+        "nextRunAt": "2026-03-12T04:41:56.112600+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
