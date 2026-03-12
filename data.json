@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T00:57:08.267992+00:00",
+  "generatedAt": "2026-03-12T00:59:14.539310+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4648,10 +4648,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-12T00:57:08.180201+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-12T00:59:14.425801+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-12T00:57:08.180201+00:00",
+    "lastSuccessAt": "2026-03-12T00:58:59.187923+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-11T21:58:12.961048+00:00",
@@ -5014,8 +5014,8 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-12T00:53:53.185693+00:00",
-        "lastSuccessAt": "2026-03-12T00:53:53.185693+00:00",
+        "lastRunAt": "2026-03-12T00:58:59.187923+00:00",
+        "lastSuccessAt": "2026-03-12T00:58:59.187923+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -5024,42 +5024,24 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-12T00:58:53.185693+00:00",
+        "nextRunAt": "2026-03-12T01:03:59.187923+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-12T00:57:08.180201+00:00",
+        "lastRunAt": "2026-03-12T00:59:14.425801+00:00",
         "lastSuccessAt": "2026-03-12T00:57:08.180201+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-12T00:57:04.119666+00:00",
-            "replyCandidates": 10,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-12T00:57:04.143822+00:00",
-            "sourceEntries": 22,
-            "sourceSuggestions": 8,
-            "replyEntries": 58,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-12T00:57:04.205831+00:00",
-              "pending": 1
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-12T00:59:08.180201+00:00",
+        "nextRunAt": "2026-03-12T01:01:14.425801+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-12T00:56:33.736420+00:00",
+        "lastRunAt": "2026-03-12T00:58:43.288661+00:00",
         "lastSuccessAt": "2026-03-11T18:22:30.650620+00:00",
         "status": "degraded",
         "lastError": "watchdog detected runtime inconsistencies",
@@ -5068,7 +5050,7 @@
           "watchdogIntervalSeconds": 60,
           "smokeExitCode": 1,
           "failures": [
-            "overdue nextRunAt: dispatch overdue_by=405.2m"
+            "overdue nextRunAt: dispatch overdue_by=407.4m"
           ],
           "warnings": [],
           "autoActions": [
@@ -5087,13 +5069,55 @@
           "stderr": "",
           "error": "watchdog detected runtime inconsistencies"
         },
-        "nextRunAt": "2026-03-12T00:57:33.736420+00:00",
+        "nextRunAt": "2026-03-12T00:59:43.288661+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-12T00:58:43.288414+00:00",
+      "status": "degraded",
+      "failures": [
+        "overdue nextRunAt: dispatch overdue_by=407.4m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dispatch",
+          "action": "disabled"
+        }
+      ],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 12,
+        "deliveryReplies": 65,
+        "replyQueue": 85
+      }
+    },
+    {
+      "at": "2026-03-12T00:57:42.639488+00:00",
+      "status": "degraded",
+      "failures": [
+        "overdue nextRunAt: dispatch overdue_by=406.4m"
+      ],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dispatch",
+          "action": "disabled"
+        }
+      ],
+      "summary": {
+        "pending": 1,
+        "pagePending": 1,
+        "replyActivity": 12,
+        "deliveryReplies": 65,
+        "replyQueue": 85
+      }
+    },
     {
       "at": "2026-03-12T00:56:33.736170+00:00",
       "status": "degraded",
@@ -5204,48 +5228,6 @@
       "status": "degraded",
       "failures": [
         "overdue nextRunAt: dispatch overdue_by=399.9m"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dispatch",
-          "action": "disabled"
-        }
-      ],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-12T00:50:02.708587+00:00",
-      "status": "degraded",
-      "failures": [
-        "overdue nextRunAt: dispatch overdue_by=398.7m"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dispatch",
-          "action": "disabled"
-        }
-      ],
-      "summary": {
-        "pending": 1,
-        "pagePending": 1,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-12T00:49:02.051442+00:00",
-      "status": "degraded",
-      "failures": [
-        "overdue nextRunAt: dispatch overdue_by=397.7m"
       ],
       "warnings": [],
       "autoActions": [
