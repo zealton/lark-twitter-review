@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T03:08:35.281102+00:00",
+  "generatedAt": "2026-03-13T03:10:18.346392+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -333,6 +333,32 @@
   ],
   "replyActivity": [
     {
+      "id": "R97",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "The real flex isn't knowing what skills matter today, it's learning fast enough to stay relevant when they shift again tomorrow 🦞",
+      "timestamp": "2026-03-13T03:09:59.337214+00:00",
+      "targetContent": "Work is changing fast, and so are the skills that matter.\n\nNew \n@McKinsey_MGI\n  insights explore how shifting skill needs are reshaping industries and careers worldwide. \n\nBuilding opportunity will take bold strategies and lifelong learning. \nhttps://\nmck.co/aiskills",
+      "originalLink": "https://x.com/McKinsey/status/2032290603816337541",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AMcKinsey+%22The+real+flex+isn%27t+knowing+what+skills+matter+today%2C+it%27s+learn%22&src=typed_query&f=live",
+      "targetAccount": "@McKinsey",
+      "replyRationale": "Replying to @McKinsey because it came from the member-list rotation and the tweet showed good discussion surface (compact, has_link, personal_view). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R96",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "Quack quack indeed, top 3% hits different when you actually grinded for it 🦞",
+      "timestamp": "2026-03-13T03:09:32.016655+00:00",
+      "targetContent": "Feels really good to be in Top 2.59%\n\nLove \n@wallchain\n \n\nQuack Quack Quack",
+      "originalLink": "https://x.com/MangatoETH/status/2032177189639135252",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AMangatoETH+%22Quack+quack+indeed%2C+top+3%25+hits+different+when+you+actually+grin%22&src=typed_query&f=live",
+      "targetAccount": "@MangatoETH",
+      "replyRationale": "Replying to @MangatoETH because it came from the member-list rotation and the tweet showed good discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R94",
       "status": "sent",
       "statusDisplay": "sent",
@@ -461,32 +487,6 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Ashao__meng+%22%E7%BB%95%E4%BA%86%E4%B8%80%E5%9C%88%E5%8F%88%E5%9B%9E%E6%9D%A5%EF%BC%8C%E8%AF%B4%E6%98%8EClaude+Code%E7%9A%84%E7%BB%88%E7%AB%AF%E4%BD%93%E9%AA%8C%E7%A1%AE%E5%AE%9E%E6%9C%89%E7%A7%8D%E7%94%A8%E5%9B%9E%E5%8E%BB%E5%B0%B1%E5%9B%9E%E4%B8%8D%E6%9D%A5%E7%9A%84%E9%BB%8F%E6%80%A7%22&src=typed_query&f=live",
       "targetAccount": "@shao__meng",
       "replyRationale": "Replying to @shao__meng because it came from the sheet people pool and the post had usable discussion surface (compact, personal_view, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R76",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "这配置单看着像是苹果在玩\"你能忍到哪一条\"的挑战赛 🦞",
-      "timestamp": "2026-03-11T07:48:18.490948+00:00",
-      "targetContent": "Macbook Neo 的槽点：\n1. 电池相比 Air 砍了三分之一左右\n2. 触控板竟然是物理按键的，不是振动马达\n3. 屏幕和 Air 一样，但色域被莫名砍到了 sRGB\n4. 两个 USB，其中一个是 USB 2.0\n5. 不支持快充，充满一次需要 2.5 小时\n6. A18 Pro 芯片相比 iPhone 少了一个 GPU 核心\n7. 256 版本还砍掉了指纹解锁",
-      "originalLink": "https://x.com/oran_ge/status/2031504980994384310",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Aoran_ge+%22%E8%BF%99%E9%85%8D%E7%BD%AE%E5%8D%95%E7%9C%8B%E7%9D%80%E5%83%8F%E6%98%AF%E8%8B%B9%E6%9E%9C%E5%9C%A8%E7%8E%A9%22%E4%BD%A0%E8%83%BD%E5%BF%8D%E5%88%B0%E5%93%AA%E4%B8%80%E6%9D%A1%22%E7%9A%84%E6%8C%91%E6%88%98%E8%B5%9B%22&src=typed_query&f=live",
-      "targetAccount": "@oran_ge",
-      "replyRationale": "Replying to @oran_ge because it came from the sheet people pool and the post had usable discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R75",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "当瓶颈从写代码变成审代码，最稀缺的能力就不是手速而是品味了 🦞",
-      "timestamp": "2026-03-11T07:25:01.121010+00:00",
-      "targetContent": "LangChain 创始人 Harrison Chase 写了篇文章，我觉得说到了一个真正的变化。\n\n他的核心观察：代码越来越好写，所以 EPD（工程/产品/设计）的瓶颈从「实现」转向了「评审」。以前一个功能需要很多人写代码，现在很多人都在写代码，但评审来不及了。\n\n几个值得记的点：\n\nPRD 没死，死的是「PRD →",
-      "originalLink": "https://x.com/lyc_zh/status/2031549635987386703",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Alyc_zh+%22%E5%BD%93%E7%93%B6%E9%A2%88%E4%BB%8E%E5%86%99%E4%BB%A3%E7%A0%81%E5%8F%98%E6%88%90%E5%AE%A1%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%9C%80%E7%A8%80%E7%BC%BA%E7%9A%84%E8%83%BD%E5%8A%9B%E5%B0%B1%E4%B8%8D%E6%98%AF%E6%89%8B%E9%80%9F%E8%80%8C%E6%98%AF%E5%93%81%E5%91%B3%E4%BA%86%22&src=typed_query&f=live",
-      "targetAccount": "@lyc_zh",
-      "replyRationale": "Replying to @lyc_zh because it came from the sheet people pool and the post had usable discussion surface (compact, personal_view, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
     }
   ],
   "pendingReplies": [],
@@ -4708,10 +4708,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-13T03:08:35.204953+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-13T03:10:18.237299+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-13T03:08:35.204953+00:00",
+    "lastSuccessAt": "2026-03-13T03:09:17.587451+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-13T03:06:55.532542+00:00",
@@ -5114,63 +5114,47 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-13T03:08:35.204953+00:00",
+        "lastRunAt": "2026-03-13T03:10:18.237299+00:00",
         "lastSuccessAt": "2026-03-13T03:08:35.204953+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-13T03:08:31.795755+00:00",
-            "replyCandidates": 10,
-            "sourceCandidates": 17
-          },
-          "learning": {
-            "updatedAt": "2026-03-13T03:08:31.820290+00:00",
-            "sourceEntries": 24,
-            "sourceSuggestions": 8,
-            "replyEntries": 58,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-13T03:08:31.883330+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-13T03:10:35.204953+00:00",
+        "nextRunAt": "2026-03-13T03:12:18.237299+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-13T03:08:17.152210+00:00",
-        "lastSuccessAt": "2026-03-13T03:08:17.152210+00:00",
-        "status": "ok",
+        "lastRunAt": "2026-03-13T03:10:18.123082+00:00",
+        "lastSuccessAt": "2026-03-13T03:09:17.587451+00:00",
+        "status": "running",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review",
-          "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 0,
-          "failures": [],
-          "warnings": [],
-          "autoActions": [],
-          "summary": {
-            "pending": 3,
-            "pagePending": 3,
-            "replyActivity": 12,
-            "deliveryReplies": 65,
-            "replyQueue": 85
-          },
-          "stderr": ""
+          "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-13T03:09:17.152210+00:00",
+        "nextRunAt": "2026-03-13T03:11:18.123082+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-13T03:09:17.587194+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 3,
+        "pagePending": 3,
+        "replyActivity": 12,
+        "deliveryReplies": 65,
+        "replyQueue": 87
+      }
+    },
     {
       "at": "2026-03-13T03:08:17.151820+00:00",
       "status": "ok",
@@ -5267,27 +5251,6 @@
       "status": "degraded",
       "failures": [
         "overdue nextRunAt: dispatch overdue_by=1970.6m"
-      ],
-      "warnings": [],
-      "autoActions": [
-        {
-          "stage": "dispatch",
-          "action": "disabled"
-        }
-      ],
-      "summary": {
-        "pending": 3,
-        "pagePending": 3,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-13T03:00:57.052283+00:00",
-      "status": "degraded",
-      "failures": [
-        "overdue nextRunAt: dispatch overdue_by=1969.6m"
       ],
       "warnings": [],
       "autoActions": [
@@ -5834,6 +5797,29 @@
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-lunarbasex&body=reject+suggestion+explore-source-account-lunarbasex&labels=twitter-learning%2Creject"
       },
       {
+        "id": "explore-source-account-mckinsey_mgi",
+        "type": "suggest_source_account",
+        "status": "pending",
+        "confidence": 8,
+        "sourceId": "",
+        "handle": "@McKinsey_MGI",
+        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
+        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
+        "evidence": {
+          "title": "",
+          "link": "https://x.com/McKinsey_MGI",
+          "linkedFrom": [
+            "@McKinsey"
+          ],
+          "reasons": [
+            "Mentioned inside a reply thread that already produced a usable interaction.",
+            "Appeared around a candidate reply and may be part of the same high-signal local graph."
+          ]
+        },
+        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-mckinsey_mgi&body=approve+suggestion+explore-source-account-mckinsey_mgi&labels=twitter-learning%2Capprove",
+        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-mckinsey_mgi&body=reject+suggestion+explore-source-account-mckinsey_mgi&labels=twitter-learning%2Creject"
+      },
+      {
         "id": "explore-source-account-metamask",
         "type": "suggest_source_account",
         "status": "pending",
@@ -5947,29 +5933,6 @@
         },
         "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-elonmusk&body=approve+suggestion+explore-source-account-elonmusk&labels=twitter-learning%2Capprove",
         "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-elonmusk&body=reject+suggestion+explore-source-account-elonmusk&labels=twitter-learning%2Creject"
-      },
-      {
-        "id": "explore-source-account-nick_pennie",
-        "type": "suggest_source_account",
-        "status": "pending",
-        "confidence": 8,
-        "sourceId": "",
-        "handle": "@nick_pennie",
-        "whySuggested": "This candidate was discovered through nearby high-quality nodes rather than random browsing.",
-        "goalFit": "Potentially expands the active source graph using adjacent people who already appear around useful crypto/AI discussions.",
-        "evidence": {
-          "title": "",
-          "link": "https://x.com/nick_pennie",
-          "linkedFrom": [
-            "@solana"
-          ],
-          "reasons": [
-            "Mentioned inside a reply thread that already produced a usable interaction.",
-            "Appeared around a candidate reply and may be part of the same high-signal local graph."
-          ]
-        },
-        "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+suggestion+explore-source-account-nick_pennie&body=approve+suggestion+explore-source-account-nick_pennie&labels=twitter-learning%2Capprove",
-        "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+suggestion+explore-source-account-nick_pennie&body=reject+suggestion+explore-source-account-nick_pennie&labels=twitter-learning%2Creject"
       }
     ],
     "replySuggestions": [
@@ -6183,6 +6146,6 @@
     "pending": 3,
     "queued": 0,
     "posts": 2,
-    "replies": 65
+    "replies": 67
   }
 }
