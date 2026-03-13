@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T08:29:29.836647+00:00",
+  "generatedAt": "2026-03-13T08:29:33.335495+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4746,10 +4746,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-13T08:29:29.821131+00:00",
-    "overallStatus": "running",
-    "lastStage": "watchdog",
-    "lastSuccessAt": "2026-03-13T08:29:17.931692+00:00",
+    "updatedAt": "2026-03-13T08:29:33.248885+00:00",
+    "overallStatus": "ok",
+    "lastStage": "dashboard_publish",
+    "lastSuccessAt": "2026-03-13T08:29:33.248885+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-13T08:08:29.852874+00:00",
@@ -5171,33 +5171,77 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-13T08:29:29.700973+00:00",
-        "lastSuccessAt": "2026-03-13T08:27:26.314964+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-13T08:29:33.248885+00:00",
+        "lastSuccessAt": "2026-03-13T08:29:33.248885+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "exploration": {
+            "updatedAt": "2026-03-13T08:29:29.732635+00:00",
+            "replyCandidates": 17,
+            "sourceCandidates": 20
+          },
+          "learning": {
+            "updatedAt": "2026-03-13T08:29:29.761715+00:00",
+            "sourceEntries": 27,
+            "sourceSuggestions": 8,
+            "replyEntries": 65,
+            "replySuggestions": 12
+          },
+          "push": {
+            "changed": true,
+            "export": {
+              "exportedAt": "2026-03-13T08:29:29.836647+00:00",
+              "pending": 4
+            }
+          }
         },
-        "nextRunAt": "2026-03-13T08:31:29.700973+00:00",
+        "nextRunAt": "2026-03-13T08:31:33.248885+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-13T08:29:29.821131+00:00",
-        "lastSuccessAt": "2026-03-13T08:28:29.393991+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-13T08:29:29.882460+00:00",
+        "lastSuccessAt": "2026-03-13T08:29:29.882460+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review",
-          "watchdogIntervalSeconds": 60
+          "watchdogIntervalSeconds": 60,
+          "smokeExitCode": 0,
+          "failures": [],
+          "warnings": [],
+          "autoActions": [],
+          "summary": {
+            "pending": 4,
+            "pagePending": 4,
+            "replyActivity": 12,
+            "deliveryReplies": 72,
+            "replyQueue": 93
+          },
+          "stderr": ""
         },
-        "nextRunAt": "2026-03-13T08:30:29.821131+00:00",
+        "nextRunAt": "2026-03-13T08:30:29.882460+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-13T08:29:29.882019+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 4,
+        "pagePending": 4,
+        "replyActivity": 12,
+        "deliveryReplies": 72,
+        "replyQueue": 93
+      }
+    },
     {
       "at": "2026-03-13T08:28:29.393390+00:00",
       "status": "ok",
@@ -5284,20 +5328,6 @@
     },
     {
       "at": "2026-03-13T08:22:12.606188+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 4,
-        "pagePending": 4,
-        "replyActivity": 12,
-        "deliveryReplies": 72,
-        "replyQueue": 93
-      }
-    },
-    {
-      "at": "2026-03-13T08:21:05.139228+00:00",
       "status": "ok",
       "failures": [],
       "warnings": [],
