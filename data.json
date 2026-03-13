@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T01:01:43.257363+00:00",
+  "generatedAt": "2026-03-13T01:01:47.615114+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4708,10 +4708,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-13T01:01:43.147168+00:00",
-    "overallStatus": "running",
+    "updatedAt": "2026-03-13T01:01:47.596461+00:00",
+    "overallStatus": "degraded",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-13T00:59:39.574166+00:00",
+    "lastSuccessAt": "2026-03-13T01:01:47.529357+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-12T23:07:12.118440+00:00",
@@ -5114,14 +5114,14 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-13T01:01:43.147168+00:00",
-        "lastSuccessAt": "2026-03-13T00:59:39.574166+00:00",
-        "status": "running",
-        "lastError": "",
+        "lastRunAt": "2026-03-13T01:01:47.596461+00:00",
+        "lastSuccessAt": "2026-03-13T01:01:47.529357+00:00",
+        "status": "failed",
+        "lastError": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1.",
         "details": {
-          "repo": "zealton/lark-twitter-review"
+          "error": "Command '['python3', '/Users/leelark/.openclaw/workspace/scripts/twitter_push_review_site.py', '--repo', 'zealton/lark-twitter-review', '--message', 'Publish review dashboard snapshot']' returned non-zero exit status 1."
         },
-        "nextRunAt": "2026-03-13T01:03:43.147168+00:00",
+        "nextRunAt": "2026-03-13T01:03:47.596461+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
