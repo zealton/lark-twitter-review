@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T03:12:30.220195+00:00",
+  "generatedAt": "2026-03-13T03:12:45.820136+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -489,7 +489,30 @@
       "replyRationale": "Replying to @battle_fyi because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     }
   ],
-  "pendingReplies": [],
+  "pendingReplies": [
+    {
+      "id": "R100",
+      "status": "processing",
+      "statusDisplay": "failed",
+      "text": "The \"record\" framing is doing a lot of heavy lifting for what's basically a seasonal blip 🦞",
+      "timestamp": "2026-03-13T03:12:34.687496+00:00",
+      "targetContent": "> \"Record fire-sale rates\"\nshows graph falling to December 2025 levels, which is literally 3 months back.",
+      "originalLink": "https://x.com/retiredchaddev/status/2031617583062069599",
+      "targetAccount": "@retiredchaddev",
+      "replyRationale": "Replying to @retiredchaddev because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R101",
+      "status": "queued",
+      "statusDisplay": "queued",
+      "text": "The treasury-as-a-service angle is clever, privacy at the infrastructure layer is where it actually needs to live 🦞",
+      "timestamp": "2026-03-13T03:12:34.687496+00:00",
+      "targetContent": "Blend (\n@blend_money\n) is building on Seismic.\n\nA treasury-as-a-service platform for fintechs, now using Seismic to power private:\n\n> multi-currency accounts\n> money market instruments\n> local pay-in rails",
+      "originalLink": "https://x.com/SeismicSys/status/2032110096134664431",
+      "targetAccount": "@SeismicSys",
+      "replyRationale": "Replying to @SeismicSys because it came from the member-list rotation and the tweet showed good discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    }
+  ],
   "archive": [
     {
       "id": "P18",
@@ -4708,10 +4731,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-13T03:12:30.131127+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-13T03:12:45.708970+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-13T03:12:30.131127+00:00",
+    "lastSuccessAt": "2026-03-13T03:12:33.462327+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-13T03:06:55.532542+00:00",
@@ -5114,51 +5137,73 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-13T03:12:30.131127+00:00",
+        "lastRunAt": "2026-03-13T03:12:45.708970+00:00",
         "lastSuccessAt": "2026-03-13T03:12:30.131127+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-13T03:12:26.710631+00:00",
-            "replyCandidates": 16,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-13T03:12:26.734557+00:00",
-            "sourceEntries": 24,
-            "sourceSuggestions": 8,
-            "replyEntries": 62,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-13T03:12:26.797581+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-13T03:14:30.131127+00:00",
+        "nextRunAt": "2026-03-13T03:14:45.708970+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-13T03:12:26.579283+00:00",
-        "lastSuccessAt": "2026-03-13T03:11:25.974039+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-13T03:12:33.462327+00:00",
+        "lastSuccessAt": "2026-03-13T03:12:33.462327+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review",
-          "watchdogIntervalSeconds": 60
+          "watchdogIntervalSeconds": 60,
+          "smokeExitCode": 0,
+          "failures": [],
+          "warnings": [],
+          "autoActions": [
+            {
+              "stage": "dashboard_publish",
+              "action": "force_run",
+              "status": "ok",
+              "exitCode": 0
+            }
+          ],
+          "summary": {
+            "pending": 3,
+            "pagePending": 3,
+            "replyActivity": 12,
+            "deliveryReplies": 69,
+            "replyQueue": 89
+          },
+          "stderr": ""
         },
-        "nextRunAt": "2026-03-13T03:13:26.579283+00:00",
+        "nextRunAt": "2026-03-13T03:13:33.462327+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-13T03:12:33.462080+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [
+        {
+          "stage": "dashboard_publish",
+          "action": "force_run",
+          "status": "ok",
+          "exitCode": 0
+        }
+      ],
+      "summary": {
+        "pending": 3,
+        "pagePending": 3,
+        "replyActivity": 12,
+        "deliveryReplies": 69,
+        "replyQueue": 89
+      }
+    },
     {
       "at": "2026-03-13T03:11:25.973792+00:00",
       "status": "ok",
@@ -5252,20 +5297,6 @@
     },
     {
       "at": "2026-03-13T03:05:08.018948+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 3,
-        "pagePending": 3,
-        "replyActivity": 12,
-        "deliveryReplies": 65,
-        "replyQueue": 85
-      }
-    },
-    {
-      "at": "2026-03-13T03:03:58.841498+00:00",
       "status": "ok",
       "failures": [],
       "warnings": [],
