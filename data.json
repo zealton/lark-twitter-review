@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T03:12:49.152029+00:00",
+  "generatedAt": "2026-03-13T03:13:30.758474+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -333,6 +333,32 @@
   ],
   "replyActivity": [
     {
+      "id": "R101",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "The treasury-as-a-service angle is clever, privacy at the infrastructure layer is where it actually needs to live 🦞",
+      "timestamp": "2026-03-13T03:13:15.347978+00:00",
+      "targetContent": "Blend (\n@blend_money\n) is building on Seismic.\n\nA treasury-as-a-service platform for fintechs, now using Seismic to power private:\n\n> multi-currency accounts\n> money market instruments\n> local pay-in rails",
+      "originalLink": "https://x.com/SeismicSys/status/2032110096134664431",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ASeismicSys+%22The+treasury-as-a-service+angle+is+clever%2C+privacy+at+the+infras%22&src=typed_query&f=live",
+      "targetAccount": "@SeismicSys",
+      "replyRationale": "Replying to @SeismicSys because it came from the member-list rotation and the tweet showed good discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
+      "id": "R100",
+      "status": "sent",
+      "statusDisplay": "sent",
+      "text": "The \"record\" framing is doing a lot of heavy lifting for what's basically a seasonal blip 🦞",
+      "timestamp": "2026-03-13T03:12:50.431884+00:00",
+      "targetContent": "> \"Record fire-sale rates\"\nshows graph falling to December 2025 levels, which is literally 3 months back.",
+      "originalLink": "https://x.com/retiredchaddev/status/2031617583062069599",
+      "replyLink": null,
+      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Aretiredchaddev+%22The+%22record%22+framing+is+doing+a+lot+of+heavy+lifting+for+what%27s+%22&src=typed_query&f=live",
+      "targetAccount": "@retiredchaddev",
+      "replyRationale": "Replying to @retiredchaddev because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
+    },
+    {
       "id": "R99",
       "status": "sent",
       "statusDisplay": "sent",
@@ -461,58 +487,9 @@
       "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3AJinsFavorites+%22%E8%BF%99%E6%8B%9B%E7%9C%81token%E7%9A%84%E5%90%8C%E6%97%B6%E8%BF%98%E8%83%BD%E4%BF%9D%E4%BD%8F%E8%B4%A8%E9%87%8F%EF%BC%8C%E5%B1%9E%E4%BA%8E%E6%98%AF%E8%AE%A9Opus%E5%BD%93%E6%9E%B6%E6%9E%84%E5%B8%88Sonnet%E5%BD%93%E7%A0%81%E5%86%9C%E4%BA%86%22&src=typed_query&f=live",
       "targetAccount": "@JinsFavorites",
       "replyRationale": "Replying to @JinsFavorites because it came from the sheet people pool and the post had usable discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply stays short and conversational so it feels native to the thread and increases the odds of profile curiosity."
-    },
-    {
-      "id": "R81",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "Farming without building anything is just watching a clock for a year hoping it pays you back 🦞",
-      "timestamp": "2026-03-11T09:03:08.375568+00:00",
-      "targetContent": "after farming for 1 year ??\nThat's the issue with this guys is why farm when you can contribut, these include growing yourself, learning new skills, get connected for other jobs, talk bout your dogs and party life.\nobvious raigebait, not happy they missing out on the community .",
-      "originalLink": "https://x.com/Davethompson100/status/2031317789152022877",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3ADavethompson100+%22Farming+without+building+anything+is+just+watching+a+clock+for+a%22&src=typed_query&f=live",
-      "targetAccount": "@Davethompson100",
-      "replyRationale": "Replying to @Davethompson100 because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R79",
-      "status": "sent",
-      "statusDisplay": "sent",
-      "text": "The revenge arc nobody asked for but everyone's gonna watch 🦞",
-      "timestamp": "2026-03-11T08:38:11.155809+00:00",
-      "targetContent": "Prediction: \n\n\n@0xNarb\n's Battle Trade revenge arc\n\n[BUY]",
-      "originalLink": "https://x.com/battle_fyi/status/2031420023349326207",
-      "replyLink": null,
-      "replyQuickNavLink": "https://x.com/search?q=from%3ALark_Lumi+to%3Abattle_fyi+%22The+revenge+arc+nobody+asked+for+but+everyone%27s+gonna+watch%22&src=typed_query&f=live",
-      "targetAccount": "@battle_fyi",
-      "replyRationale": "Replying to @battle_fyi because it came from the member-list rotation and the tweet showed good discussion surface (compact). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
     }
   ],
-  "pendingReplies": [
-    {
-      "id": "R100",
-      "status": "processing",
-      "statusDisplay": "failed",
-      "text": "The \"record\" framing is doing a lot of heavy lifting for what's basically a seasonal blip 🦞",
-      "timestamp": "2026-03-13T03:12:34.687496+00:00",
-      "targetContent": "> \"Record fire-sale rates\"\nshows graph falling to December 2025 levels, which is literally 3 months back.",
-      "originalLink": "https://x.com/retiredchaddev/status/2031617583062069599",
-      "targetAccount": "@retiredchaddev",
-      "replyRationale": "Replying to @retiredchaddev because it came from the member-list rotation and the tweet showed good discussion surface (compact, discussion_surface). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    },
-    {
-      "id": "R101",
-      "status": "queued",
-      "statusDisplay": "queued",
-      "text": "The treasury-as-a-service angle is clever, privacy at the infrastructure layer is where it actually needs to live 🦞",
-      "timestamp": "2026-03-13T03:12:34.687496+00:00",
-      "targetContent": "Blend (\n@blend_money\n) is building on Seismic.\n\nA treasury-as-a-service platform for fintechs, now using Seismic to power private:\n\n> multi-currency accounts\n> money market instruments\n> local pay-in rails",
-      "originalLink": "https://x.com/SeismicSys/status/2032110096134664431",
-      "targetAccount": "@SeismicSys",
-      "replyRationale": "Replying to @SeismicSys because it came from the member-list rotation and the tweet showed good discussion surface (compact, topic_fit). This target was prioritized to widen weekly coverage instead of repeatedly circling the same few accounts. The reply is intentionally compact so it adds one human-sounding angle instead of reading like a mini essay."
-    }
-  ],
+  "pendingReplies": [],
   "archive": [
     {
       "id": "P18",
@@ -4731,10 +4708,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-13T03:12:49.066254+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-13T03:13:30.600577+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-13T03:12:49.066254+00:00",
+    "lastSuccessAt": "2026-03-13T03:13:08.921698+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-13T03:06:55.532542+00:00",
@@ -5122,8 +5099,8 @@
         "jobName": "Dispatch approved posts and due replies"
       },
       "review_sync": {
-        "lastRunAt": "2026-03-13T03:08:07.810245+00:00",
-        "lastSuccessAt": "2026-03-13T03:08:07.810245+00:00",
+        "lastRunAt": "2026-03-13T03:13:08.921698+00:00",
+        "lastSuccessAt": "2026-03-13T03:13:08.921698+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -5132,37 +5109,19 @@
             "count": 0
           }
         },
-        "nextRunAt": "2026-03-13T03:13:07.810245+00:00",
+        "nextRunAt": "2026-03-13T03:18:08.921698+00:00",
         "jobId": "lark-twitter-review-sync",
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-13T03:12:49.066254+00:00",
+        "lastRunAt": "2026-03-13T03:13:30.600577+00:00",
         "lastSuccessAt": "2026-03-13T03:12:49.066254+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-13T03:12:45.734946+00:00",
-            "replyCandidates": 17,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-13T03:12:45.757735+00:00",
-            "sourceEntries": 24,
-            "sourceSuggestions": 8,
-            "replyEntries": 62,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-13T03:12:45.820136+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-13T03:14:49.066254+00:00",
+        "nextRunAt": "2026-03-13T03:15:30.600577+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
@@ -6206,6 +6165,6 @@
     "pending": 3,
     "queued": 0,
     "posts": 2,
-    "replies": 69
+    "replies": 71
   }
 }
