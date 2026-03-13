@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T06:35:39.826761+00:00",
+  "generatedAt": "2026-03-13T06:37:41.385392+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
     {
@@ -4708,10 +4708,10 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-13T06:35:39.741609+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-13T06:37:41.273931+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-13T06:35:39.741609+00:00",
+    "lastSuccessAt": "2026-03-13T06:37:26.197164+00:00",
     "stages": {
       "research": {
         "lastRunAt": "2026-03-13T03:06:55.532542+00:00",
@@ -5114,38 +5114,20 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-13T06:35:39.741609+00:00",
+        "lastRunAt": "2026-03-13T06:37:41.273931+00:00",
         "lastSuccessAt": "2026-03-13T06:35:39.741609+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-13T06:35:36.276798+00:00",
-            "replyCandidates": 17,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-13T06:35:36.299925+00:00",
-            "sourceEntries": 24,
-            "sourceSuggestions": 8,
-            "replyEntries": 64,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-13T06:35:36.362858+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-13T06:37:39.741609+00:00",
+        "nextRunAt": "2026-03-13T06:39:41.273931+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-13T06:35:25.291678+00:00",
-        "lastSuccessAt": "2026-03-13T06:35:25.291678+00:00",
+        "lastRunAt": "2026-03-13T06:37:26.197164+00:00",
+        "lastSuccessAt": "2026-03-13T06:37:26.197164+00:00",
         "status": "ok",
         "lastError": "",
         "details": {
@@ -5164,13 +5146,41 @@
           },
           "stderr": ""
         },
-        "nextRunAt": "2026-03-13T06:36:25.291678+00:00",
+        "nextRunAt": "2026-03-13T06:38:26.197164+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
     }
   },
   "incidents": [
+    {
+      "at": "2026-03-13T06:37:26.196915+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 3,
+        "pagePending": 3,
+        "replyActivity": 12,
+        "deliveryReplies": 71,
+        "replyQueue": 91
+      }
+    },
+    {
+      "at": "2026-03-13T06:36:25.739575+00:00",
+      "status": "ok",
+      "failures": [],
+      "warnings": [],
+      "autoActions": [],
+      "summary": {
+        "pending": 3,
+        "pagePending": 3,
+        "replyActivity": 12,
+        "deliveryReplies": 71,
+        "replyQueue": 91
+      }
+    },
     {
       "at": "2026-03-13T06:35:25.291438+00:00",
       "status": "ok",
@@ -5243,34 +5253,6 @@
     },
     {
       "at": "2026-03-13T06:30:08.429747+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 3,
-        "pagePending": 3,
-        "replyActivity": 12,
-        "deliveryReplies": 71,
-        "replyQueue": 91
-      }
-    },
-    {
-      "at": "2026-03-13T06:29:01.196738+00:00",
-      "status": "ok",
-      "failures": [],
-      "warnings": [],
-      "autoActions": [],
-      "summary": {
-        "pending": 3,
-        "pagePending": 3,
-        "replyActivity": 12,
-        "deliveryReplies": 71,
-        "replyQueue": 91
-      }
-    },
-    {
-      "at": "2026-03-13T06:28:00.577421+00:00",
       "status": "ok",
       "failures": [],
       "warnings": [],
