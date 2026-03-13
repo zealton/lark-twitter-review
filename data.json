@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-03-13T08:08:27.926114+00:00",
+  "generatedAt": "2026-03-13T08:08:45.155771+00:00",
   "repo": "zealton/lark-twitter-review",
   "pending": [
+    {
+      "id": "P22",
+      "status": "awaiting_approval",
+      "angle": "CFTC moving on prediction markets right as they hit mainstream — the pattern of regulators waiting for product-market fit before acting",
+      "whyItMatters": "Turns a regulatory headline into a pattern-recognition framework that helps builders gauge their own product traction",
+      "postingRationale": "Flips a potentially dry regulatory story into a builder-mindset observation about PMF signals, giving @Lark_Lumi a contrarian-but-useful angle that stands apart from \"regulation = bad\" takes",
+      "goalAlignmentScore": 7,
+      "goalAlignmentRationale": "Relevant to crypto audience and shows pattern-level thinking, though prediction markets are slightly tangential to the core crypto+AI positioning; the builder reframe adds enough value to justify posting",
+      "draft": "CFTC 开始对预测市场动手了——发布指导意见、启动规则审查，各州和国会也在跟进\n\n有意思的不是监管本身，而是时机：每次都是产品跑出 PMF 之后监管才来，DeFi 如此，stablecoin 如此，现在 prediction market 也如此，对 builder 来说这其实是个信号——如果你做的东西还没引来监管注意，可能说明你还没到那个量级 🦞",
+      "sources": [
+        "CFTC Moves to Rein In Prediction Markets With Guidance, Rulemaking Review"
+      ],
+      "rawSourceDetails": [
+        {
+          "sourceId": "decrypt",
+          "title": "CFTC Moves to Rein In Prediction Markets With Guidance, Rulemaking Review",
+          "summary": "Chairman Selig has issued a staff advisory amid a formal rulemaking process, as states and Congress close in.",
+          "publishedAt": "2026-03-13T06:15:07+00:00",
+          "link": "https://decrypt.co/360974/cftc-rein-in-prediction-markets-guidance-rulemaking-review"
+        }
+      ],
+      "createdAt": "2026-03-13T08:08:29.798770+00:00",
+      "approveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Approve+P22&body=approve+P22&labels=twitter-approval%2Capprove",
+      "rejectUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Reject+P22&body=reject+P22%0A%0AReason%3A%0A-+&labels=twitter-approval%2Creject",
+      "archiveUrl": "https://github.com/zealton/lark-twitter-review/issues/new?title=Archive+P22&body=archive+P22%0A%0AReason%3A%0A-+&labels=twitter-approval%2Carchive"
+    },
     {
       "id": "P20",
       "status": "awaiting_approval",
@@ -4372,7 +4398,7 @@
       "itemCount": 6,
       "previewRows": [],
       "researchCount": 1,
-      "pendingCount": 2,
+      "pendingCount": 3,
       "publishedCount": 0,
       "archivedCount": 1
     },
@@ -4720,26 +4746,47 @@
   },
   "heartbeat": {
     "version": 1,
-    "updatedAt": "2026-03-13T08:08:27.850595+00:00",
-    "overallStatus": "ok",
+    "updatedAt": "2026-03-13T08:08:45.014982+00:00",
+    "overallStatus": "running",
     "lastStage": "dashboard_publish",
-    "lastSuccessAt": "2026-03-13T08:08:27.850595+00:00",
+    "lastSuccessAt": "2026-03-13T08:08:29.852874+00:00",
     "stages": {
       "research": {
-        "lastRunAt": "2026-03-13T08:06:56.080111+00:00",
-        "lastSuccessAt": "2026-03-13T03:06:55.532542+00:00",
-        "status": "running",
+        "lastRunAt": "2026-03-13T08:08:29.852874+00:00",
+        "lastSuccessAt": "2026-03-13T08:08:29.852874+00:00",
+        "status": "ok",
         "lastError": "",
         "details": {
-          "repo": "zealton/lark-twitter-review",
-          "lightweightModel": "openrouter/anthropic/claude-opus-4.6",
-          "qualityModel": "openrouter/anthropic/claude-opus-4.6",
-          "sampleSize": 8,
-          "queueLimit": 24,
-          "draftCount": 4,
-          "sourceCount": 12
+          "sheetAccounts": {
+            "updatedAt": "2026-03-13T08:06:56.123873+00:00",
+            "sampledAccounts": 8,
+            "sourcesOk": 8,
+            "tweetItems": 16,
+            "nextCursor": 93
+          },
+          "refresh": {
+            "updatedAt": "2026-03-13T08:07:33.864233+00:00",
+            "sources": 37,
+            "items": 130
+          },
+          "queue": {
+            "updatedAt": "2026-03-13T08:07:42.774189+00:00",
+            "researchCandidates": 24
+          },
+          "generate": {
+            "updatedAt": "2026-03-13T08:08:29.798770+00:00",
+            "count": 2,
+            "rejected": 2,
+            "model": "openrouter/anthropic/claude-opus-4.6"
+          },
+          "promote": {
+            "promoted": [
+              "P22"
+            ],
+            "count": 1
+          }
         },
-        "nextRunAt": "2026-03-13T10:06:56.080111+00:00",
+        "nextRunAt": "2026-03-13T10:08:29.852874+00:00",
         "jobId": "lark-twitter-research",
         "jobName": "Research and draft for lark_twitter"
       },
@@ -5124,57 +5171,27 @@
         "jobName": "Sync GitHub approvals"
       },
       "dashboard_publish": {
-        "lastRunAt": "2026-03-13T08:08:27.850595+00:00",
+        "lastRunAt": "2026-03-13T08:08:45.014982+00:00",
         "lastSuccessAt": "2026-03-13T08:08:27.850595+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
-          "exploration": {
-            "updatedAt": "2026-03-13T08:08:24.492735+00:00",
-            "replyCandidates": 17,
-            "sourceCandidates": 20
-          },
-          "learning": {
-            "updatedAt": "2026-03-13T08:08:24.525609+00:00",
-            "sourceEntries": 27,
-            "sourceSuggestions": 8,
-            "replyEntries": 65,
-            "replySuggestions": 12
-          },
-          "push": {
-            "changed": true,
-            "export": {
-              "exportedAt": "2026-03-13T08:08:24.602087+00:00",
-              "pending": 3
-            }
-          }
+          "repo": "zealton/lark-twitter-review"
         },
-        "nextRunAt": "2026-03-13T08:10:27.850595+00:00",
+        "nextRunAt": "2026-03-13T08:10:45.014982+00:00",
         "jobId": "lark-twitter-dashboard-publish",
         "jobName": "Publish lark_twitter dashboard snapshot"
       },
       "watchdog": {
-        "lastRunAt": "2026-03-13T08:06:25.821489+00:00",
+        "lastRunAt": "2026-03-13T08:08:44.893402+00:00",
         "lastSuccessAt": "2026-03-13T08:06:25.821489+00:00",
-        "status": "ok",
+        "status": "running",
         "lastError": "",
         "details": {
           "repo": "zealton/lark-twitter-review",
-          "watchdogIntervalSeconds": 60,
-          "smokeExitCode": 0,
-          "failures": [],
-          "warnings": [],
-          "autoActions": [],
-          "summary": {
-            "pending": 3,
-            "pagePending": 3,
-            "replyActivity": 12,
-            "deliveryReplies": 72,
-            "replyQueue": 93
-          },
-          "stderr": ""
+          "watchdogIntervalSeconds": 60
         },
-        "nextRunAt": "2026-03-13T08:07:25.821489+00:00",
+        "nextRunAt": "2026-03-13T08:09:44.893402+00:00",
         "jobId": "lark-twitter-watchdog",
         "jobName": "Watch system heartbeat and auto-recover stale services"
       }
@@ -5318,7 +5335,7 @@
       {
         "sourceId": "decrypt",
         "signalCount": 6,
-        "pendingCount": 2,
+        "pendingCount": 3,
         "publishedCount": 0,
         "rejectCount": 0,
         "archivedCount": 0,
@@ -6176,7 +6193,7 @@
     ]
   },
   "metrics": {
-    "pending": 3,
+    "pending": 4,
     "queued": 0,
     "posts": 2,
     "replies": 72
